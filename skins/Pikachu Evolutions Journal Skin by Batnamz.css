@@ -1,0 +1,176 @@
+.floatright {
+float: right;
+margin: 4px 0 10px 10px;
+padding: 0 0 0 0;
+clear:right
+position: relative;
+text-align: right;
+}
+
+
+.floatleft {
+float: left;
+margin: 4px 0 10px 10px;
+padding: 0 0 0 0;
+clear:right
+position: relative;
+text-align: left;
+}
+
+.journalbox {
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+	background-color: #a78fc5;
+background: url(https://fc08.deviantart.net/fs71/o/2013/031/1/1/351600331_662787_bg3.jpg) top right repeat;
+	color: #313c3b;
+	border: 0px solid #352944;
+max-width: 700px
+	}
+.journaltop{
+	background: url(https://fc04.deviantart.net/fs71/o/2013/031/f/e/351600331_662788_pikaheader6.jpg) top right no-repeat #FFFFFF;
+	color:#979595;
+	text-align: center;
+font-size: 8px;
+	height: 175px;
+	padding: 10px 0px 50px 25px;
+	}
+
+	.journaltop h2 {
+	color: #313c3b;
+	padding: 0px;
+	margin:2px;
+	text-align: center;
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	}
+
+.journaltop h2 a{color: #313c3b;
+}
+
+	.journaltop img {
+	display: none;
+	}
+
+.journalbox .list li {
+text-align: center;
+font-family: century gothic;
+font-size: 11px;
+padding: 2px;
+
+
+    background-color: #ccd9cd !important;
+    color: #313c3b !important;
+}
+
+.journalbox .list li.a {
+    background-color: #a7b3a7 !important;
+    color: #313c3b !important;
+}
+
+
+.a {
+background: transparent !important;
+}
+
+.list li {
+padding: 1px;
+}
+.journalbottom {
+	padding:10px;
+	text-align:left;
+	color: #313c3b;
+	text-transform: lowercase;
+	}
+	.journalbottom a{
+	color: #146e8f;
+	text-decoration: none;
+	border-bottom:1px dashed #146e8f;
+	}
+	.journalbottom a:hover{
+	text-decoration: none;
+	border-bottom:none;
+	}
+.journaltext {
+	padding:5px;
+	}
+	.journaltext a {
+	color: #146e8f;
+	text-decoration: none!important;
+	}
+	.journaltext a:hover {
+	text-decoration: underline!important;
+	}
+
+.heading {
+font-size: 24px;
+color: #313c3b;
+border-bottom: 2px dashed #313c3b;
+margin: 0;
+padding: 5px 5px 2px 5px;
+}
+
+.journaltext ul {
+padding: 0 10px 0 20px;
+}
+journaltext li {
+list-style-position: outside;
+list-style-type: square;
+margin: 0;
+padding: 2px;
+}
+
+.bg {
+background-color: #ccd9cd;
+margin: 10px 0;
+padding: 5px;
+text-align: center;
+}
+
+.title {
+background: url(https://fc08.deviantart.net/fs71/o/2013/031/c/3/351600331_662789_titlebg2.jpg) top left repeat #ccd9cd;
+font-size: 24px;
+color: #313c3b;
+border-bottom: 2px dashed #313c3b ;
+margin: 0 10px;
+padding: 5px;
+}
+.features {
+background-color: #ccd9cd;
+margin: 0 10px;
+padding: 15px 5px;
+text-align: center;
+}
+
+
+
+
+
+
+.shadow {
+padding:4px;
+background-color:#ffffff;
+border:1px solid #a6b2a6;
+background-image:none;
+}
+.shadow:hover {
+background-color:#ffffff;
+background-image:none;
+}
+.shadow-holder {
+margin:3px;
+vertical-align:middle;
+background-image:none;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+to add a list:
+< ul ><li>list item one</li><li>list item two</li><li>list item three</li>< /ul>
+(remove the spaces in the < ul > and < /ul> )
+
+--End Header Code--
+--Footer Code--
+<div class="floatright">
+:thumb87785189:
+:thumb80138017:
+:thumb73754513:
+</div>
+*/

@@ -1,0 +1,111 @@
+.gr-box{
+background: url(https://fc05.deviantart.net/fs70/o/2010/044/d/8/153937114_108668_bg.jpg) bottom right;
+color: #4b2c0e;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+background: transparent;
+padding: 80px 0 40px 0;}
+
+.gr-top img{display: none;}
+.gr-top span{
+margin: 0 0 0 20px;
+color: #4b2c0e;}
+
+h2{
+color: #4b2c0e;
+text-shadow: 0 1px  #dfc4ad;
+font-size: 26px;
+letter-spacing: 2px;
+font-family: Times New Roman, serif;
+margin: 0 0 -5px 0;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc08.deviantart.net/fs70/o/2010/044/d/6/153937114_108669_bg2.jpg) bottom right no-repeat;
+border: none;
+padding: 0 0 40px 0;}
+
+.text{
+background: url(https://fc02.deviantart.net/fs71/o/2010/044/a/f/153937114_108670_text.png) top left;
+margin: 0 160px 0 0;
+padding: 20px 30px;
+border: 1px solid #d0b094;
+box-shadow: 0 6px 8px #8b6e56;}
+
+hr{
+margin: -20px 0 0 0;
+border-top: 1px dashed #8d2128;
+border-bottom: 1px solid #9f7b61;}
+
+.text a{
+color: #8d2128;
+text-decoration: none;
+padding: 0 0 0 15px;
+background: url(https://fc01.deviantart.net/fs70/o/2010/044/0/b/153937114_108671_heart.png) center left no-repeat;}
+
+.text a:hover{
+text-shadow: 0 1px 2px #dfc4ad;
+background: url(https://fc02.deviantart.net/fs71/o/2010/044/3/5/153937114_108672_heart_hover.png) center left no-repeat;}
+
+.feature_heart{
+margin: 40px 0;
+text-align: center;}
+
+.feature_heart a{padding: 0; background: none;}
+.feature_heart .shadow{background: none!important;}
+
+.feature_heart a{
+display: inline-block;
+width: 70px!important;
+height: 70px!important;
+overflow: hidden;
+margin: 20px 10px 0 10px;
+border: 1px solid #8d2229;}
+
+.feature_heart i{
+padding: 40px 0 0 40px;
+margin: -20px 0 0 -18px;
+position: absolute;
+background: url(https://fc04.deviantart.net/fs71/o/2010/044/6/d/153937114_108673_hearts.png) top left no-repeat!important;}
+
+.feature{text-align: center;}
+.feature a{padding: 0; background: none;}
+.feature .shadow{_background: none!important;}
+
+.list{color: #4b2c0e;}
+.f{background: transparent;}
+
+strong{
+font-size: 14px;
+font-family: Times New Roman, serif;
+text-shadow: 0 1px  #dfc4ad;}
+
+.bottom{
+margin: 20px 160px 50px 0;
+_margin: 40px 160px 50px 0;}
+
+.bottom a{
+font-family: Times New Roman, serif;
+font-size: 16px;
+text-decoration: none;
+letter-spacing: 2px;
+color: #4b2c0e;
+text-shadow: 0 1px  #dfc4ad;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Mini thumbs with hearts
+<div class="feature_heart">... </div>
+- Centered Feature
+<div class="feature">... </div>
+- Divider
+<hr>
+*/

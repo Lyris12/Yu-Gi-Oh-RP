@@ -1,0 +1,259 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+/***************************************************************
+Copyright &#169; inconcabille.deviantart.com 
+Free to use for dA journals. 
+Do not redistribute - partly or fully - without my permission.
+****************************************************************/
+.sidebar{
+background: none;
+    clear: left;
+    float: left;
+    margin-left:-120px;
+    margin-right:auto;
+    overflow: hidden;
+    padding: 10px 10px 10px 10px;
+    padding-top:65px!important;
+    position: absolute!important;
+    font-family: 'Montez', cursive;
+    color: #000000;
+    font-size:20px;
+    text-align:left;
+    top: 70px;}
+.sidebar a:hover {
+    color: #000000;
+    font-family: 'Montez', cursive;
+    text-decoration: none;}
+.bg-circle {
+        position: relative;
+        clear: left;
+        float: left;
+	margin-left: 0px;
+        width: 100px; height:100px;
+        background: url(https://fc03.deviantart.net/fs70/o/2015/054/0/9/516058346_2166777_d2_by_inconcabille-d8j486z.png);
+        overflow:hidden;}
+.tr-circle {
+        position: center;
+        left: 0; top:0;
+        height: 100%; width:100%;
+        background: none;
+   
+        color: #000000;
+        line-height: 105px;
+        text-align: center;
+        -webkit-transition: all 5s ease-in-out 0s;}
+ .bg-circle:hover .tr-circle {
+        -webkit-transform:translate(0,-101px);
+        background: url(https://fc01.deviantart.net/fs70/o/2015/054/3/5/516058346_2166778_d1_by_inconcabille-d8j47tb.png);
+        color: black;}
+a.external:after {display:none!important;}
+a {font-weight:normal!important;}
+a:hover{text-decoration: none;}
+a{color: #000000; text-decoration: none;}
+.journaltop{
+color: #b66174;
+height: 50px;
+text-align:center; 
+font-family: 'Muli', sans-serif;
+font-size: 10px;
+background: none;
+padding: 10px 10px 25px 10px;
+margin: 0px 0px 0px 0px;
+background-position: center;
+background-repeat: repeat;}
+.journaltop img{ display: none; } 
+.journalbox{
+text-align:center;
+max-width: 630px;
+height: 849px;
+background-color: none;
+background: url(https://fc02.deviantart.net/fs71/o/2015/054/a/b/516058346_2166779_bg_by_inconcabille-d8j3di6.png);
+padding-top:0px;
+border-radius:50px;
+border-width: 2px;
+border-color: #b66176;
+float:center;
+margin-left:auto;
+margin-right:auto;
+}
+h2{ 
+font-family: 'Montez', cursive;
+color: #000000;
+font-size: 26px;
+position: relative;
+padding: 40px 10px 10px 10px;
+top: 10px;}
+ .journaltext{
+        text-align:justify; 
+        font-family: 'Muli', sans-serif;
+        font-size:11px;
+        color:#000000;
+        margin: 50px 10px 10px 10px;
+        margin-left: 120px;
+        margin-right:auto;
+ background: none;
+        background-position: center;
+        background-repeat: repeat;
+        background: none;
+        background-attachment: scroll;
+        overflow: auto;
+        max-width: 480px;
+        height: 600px;}
+.journalbottom {
+	background-position:center;
+	text-align:center;
+	color: #000000;
+	background-repeat:repeat;
+	padding: 15px 20px 10px 10px;
+        margin: 10px 0px 0px 0px;
+        font-family: 'Montez', cursive;
+        background: none;
+        background-position: center;
+        background-repeat: repeat;}
+.commentslink {
+        color: #000000;
+        font-family: 'Montez', cursive;
+        font-size: 24px;
+        font-weight: bold;}
+.list {display: none;}
+b {color:#b66176;}
+i {color:#9d4b57;}
+h1 {
+     background: none;      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #e7a2b4;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 32px;
+     display:inline-block;}
+h3 {
+     background: none;      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #e8668a;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 32px;
+     display:inline-block;}
+h4 {
+     background:none;
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #9d4a54;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 32px;
+     display:inline-block}
+.Footer{
+     font-size: 10px;
+     color: #b66174;
+     font-family: 'Muli', sans-serif;
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #000000;
+     font-family: 'Muli', sans-serif;
+     text-decoration: none;}
+.text blockquote {
+    background: none;     
+     color: #000000;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size:20px;
+     background-position: center;
+     padding: 10px 10px 10px 10px;
+     background-repeat: repeat;}
+span.shadow {padding:0px;}
+.thumb-holder b {
+     display:block;
+     color:#e9678b;
+     font-size:10pt;
+     text-align:center;
+     margin-top:-10px;}
+.thumb-holder .thumb:hover {
+     border-bottom:none;}
+.thumb-holder .shadow {
+     box-shadow:none;
+     margin:0px;}
+.thumb-holder img {
+     border: #e9678b 2px solid;
+     border-radius:3px;}
+.thumb-holder .shadow-holder {
+     transition:all 100ms ease-in-out;}
+.thumb-holder .shadow-holder:nth-child(4n+1) {
+     transform:rotate(24deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+2) {
+     transform:rotate(-24deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+3) {
+     transform:rotate(18deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+4) {
+     transform:rotate(-18deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+1):hover, .thumb-holder .shadow-holder:nth-child(4n+2):hover, .thumb-holder .shadow-holder:nth-child(4n+3):hover, .thumb-holder .shadow-holder:nth-child(4n+4):hover {
+     transform:rotate(0) scale(1,1);
+     transition:all 80ms ease-in-out;
+     z-index:100;}
+.lit {
+     background: none; 
+     max-height: 120px; max-width: 120px;
+     border: #e9678b 2px solid;
+     border-radius:3px;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align:center; 
+font-family: 'Muli', sans-serif;
+     font-size:10px;
+     color: #000000;}
+.lit img 
+     {display: none;}
+/*
+! Artist requests permission before copying
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div align= " center" >< div class=" thumb-holder" >  T H U M B < / div >< / div > (without space)
+- < h1 > < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > (without space)
+- b (bold) = 'Pink' color
+- i (cursive) = 'Pink' color
+
+--Header Code--
+<div class="sidebar">
+<div>
+<div class="bg-circle" onclick="location.href='#'"> <div class="tr-circle">
+<a href="https://USERNAME.deviantart.com">Profile  
+Click here :3</a>
+</div>
+</div>
+<div class="bg-circle" onclick="href='#'">
+<div class="tr-circle">
+<a href="https://USERNAME.deviantart.com/gallery/">Gallery
+Click here :3</a>
+</div>
+</div>
+<div class="bg-circle" onclick="location.href='#'">
+<div class="tr-circle">
+<a href="https://my.deviantart.com/deviants/add/USERNAME">Watch me
+NOW! <3</a>
+</div>
+</div>
+<div class="bg-circle"  onclick="location.href='#'">
+<div class="tr-circle">
+<a href="https://my.deviantart.com/notes/?to%3DUSERNAME">Note
+NOW! <3</a>
+</div>
+</div>
+</div>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="Footer">[ Journal CSS ] &#169; <a href="https://www.deviantart.com/inconcabille">inconcabille</a>
+[ Background ] &#169; <a href="https://www.deviantart.com/vvvvvalonia">vvvvvalonia</a>
+</div>
+*/

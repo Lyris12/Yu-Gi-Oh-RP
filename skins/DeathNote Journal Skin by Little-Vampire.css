@@ -1,0 +1,145 @@
+.journalbox {
+border:none !important;
+color:#FFFFFF !important;
+position:relative;
+background:#000000 url(https://other00.deviantart.net/ac07/o/2017/291/2/5/710443009_3412229_header.jpg) no-repeat top left;
+}
+
+.journalbox br {
+display:none;
+}
+
+.leftcolumn br {
+display:inline !important;
+}
+
+.journaltop {
+height:170px !important;
+background:url(https://other00.deviantart.net/e54b/o/2017/291/b/2/710443009_3412230_header-side.jpg) no-repeat top right !important;
+padding-bottom:0 !important;
+padding-top:0 !important;
+margin:0 !important;
+text-align:center !important;
+position:relative !important;
+}
+
+.journaltop img {
+display:none;
+}
+
+.journaltop h2 {
+background:url(https://other00.deviantart.net/b3ef/o/2017/291/0/f/710443009_3412231_skull.jpg) no-repeat top center !important;
+padding-top:115px;
+color:#FFFFFF !important;
+text-align:center !important;
+}
+
+.journaltext {
+background: #000000 top right !important;
+margin:0;
+padding:0;
+position:relative !important;
+z-index:1 !important;
+}
+
+.journalbox a {
+color: #C0C0C0 !important;
+text-decoration: none  !important;
+font-weight: bold  !important;
+
+}
+
+.journalbox a:hover {
+color: #333333 !important;
+text-decoration: none  !important;
+font-weight: bold  !important;
+
+}
+
+.leftcolumn {
+background:url(https://other00.deviantart.net/5790/o/2017/291/4/0/710443009_3412232_left-side.jpg) repeat-y top left !important;
+padding-left: 20px;
+}
+
+.rightcolumn {
+background:url(https://other00.deviantart.net/f45c/o/2017/291/1/9/710443009_3412233_right-side.jpg) repeat-y top right !important;
+padding:5px 20px 5px 0px;
+}
+  
+.title {
+font-size:140%;
+font-weight:bolder;
+}
+
+
+.text { text-align: justify; }
+
+
+.journalbox .journalbottom {
+background-color: #000000 !important;
+}
+
+.journalbox .commentslink {
+color: #C0C0C0 !important;
+text-decoration: none  !important;
+font-weight: bold  !important;
+
+}
+
+.journalbox .commentslink:hover {
+color: #333333 !important;
+font-weight: bold  !important;
+text-decoration: underline  !important;
+}
+
+.journalbox .prevlink {
+color: #C0C0C0 !important;
+text-decoration: none  !important;
+font-weight: bold  !important;
+}
+
+.journalbox .prevlink:hover {
+color: #333333  !important;
+font-weight: bold  !important;
+text-decoration: underline  !important;
+}
+
+.footer {
+background:url(https://other00.deviantart.net/2786/o/2017/291/5/6/710443009_3412234_bottom.jpg) repeat-x top right !important;
+text-align:center;
+height:60px;
+overflow:hidden;
+}
+
+.footerleft {
+background:url(https://other00.deviantart.net/1e40/o/2017/291/7/7/710443009_3412235_bottom-left.jpg) no-repeat top left !important;
+}
+
+.footerright {
+background:url(https://other00.deviantart.net/4c51/o/2017/291/0/2/710443009_3412236_bottom-right.jpg) no-repeat top right !important;
+height:60px !important;
+}
+
+.journalbox .list .a {
+background-color:#000000  !important;
+color:#FFFFFF !important;
+}
+
+.journalbox .list  {
+background-color:#FFFFFF !important;
+color:#000000  !important;
+font-weight: bold !important;
+}
+
+.journalbox .list {display: none;}
+/*
+<div class="title">Your Title</div>.
+
+--Header Code--
+<div class="leftcolumn"><div class="rightcolumn">
+--End Header Code--
+--Footer Code--
+</div></div>
+<div class="footer"><div class="footerleft"><div class="footerright"></div>
+</div></div>
+*/

@@ -1,0 +1,105 @@
+.gr-box{
+color: #edf4f7;}
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+.gr-top{
+border: none; 
+height: 180px;
+padding: 180px 0 0 0;
+background: transparent url(https://fc07.deviantart.net/fs71/o/2011/348/1/f/273932820_344009_header.png) center top no-repeat;}
+.gr-top span{
+display: block;
+text-align: center;
+color: #1d455b;} 
+h2 {
+width: 300px;
+padding: 0 0 0 100px;
+margin: auto;
+color: #fff;
+font-size: 20px;
+letter-spacing: 1px;}
+.gr-top img{display: none;}
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc09.deviantart.net/fs71/o/2011/348/3/9/273932820_344010_footer.png) center bottom no-repeat;
+border: none;
+padding: 0 0 316px 0;}
+.text{
+width: 460px;
+padding: 0 20px;
+margin: 0 auto 0 auto;
+background: url(https://fc02.deviantart.net/fs70/o/2011/348/3/0/273932820_344011_bg.png) repeat-y center top;}
+em{
+display: block;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+padding: 15px 0;
+width: 528px;
+margin: 10px -10px -5px -35px;
+background: url(https://fc01.deviantart.net/fs70/o/2011/348/8/c/273932820_344012_headline.png) no-repeat center top;
+color: #6f96bd;
+text-shadow: 1px 1px #ffffff;}
+b{color: #2d566b;}
+a {text-decoration: none;}
+.feature{
+margin-top: 15px;
+text-align: center;}
+.feature .shadow{ 
+padding: 15px 10px 11px 20px; 
+background: url(https://fc09.deviantart.net/fs71/o/2011/348/3/5/273932820_344013_thumb.png)!important}
+.shadow img{max-width:none!important}
+.feature a{
+display: inline-block;
+width: 80px!important;
+height: 70px!important;
+overflow: hidden;}
+.list{
+height: 150px;
+width: 100%;
+position: absolute;
+bottom: 100px;}
+.list li{
+text-align: center;
+background: transparent;
+width: 450px;
+margin: auto;}
+.f{margin: 0 0 0 -15px;}
+.f img{display: none;}
+.hsep, .prevlink{display: none;}
+.bottom{
+width: 100%;
+position: absolute;
+bottom: 60px ;
+color: #fff;}
+.bottom a{color: #fff;}
+/*
+-Headline
+<em>...</em>
+-Feature
+<div class="feature">...</div>
+
+--Footer Code--
+<br>
+<br>
+<small>
+<small>
+<a href="https://www.deviantart.com/ginkgowerkstatt/art/Blue-Winter-273932820">Blue Winter</a> journal skin by <a href="https://www.deviantart.com/ginkgowerkstatt">GinkgoWerkstatt</a>
+<br>
+<a href="https://www.deviantart.com/aramisdream/art/Xmas-Three-189582927">Christmas tree</a> by <a href="https://www.deviantart.com/aramisdream">Aramisdream</a>
+<br>
+Vector snowflakes by ?<br>
+<a href="https://www.deviantart.com/deep-brown/art/StarkTech-Complete-50992935">Stark tech font</a> by <a href="https://www.deviantart.com/deep-brown">Deep-Brown</a>
+<br>
+<a href="https://www.deviantart.com/ro-stock/art/57632323">Texture</a> by <a href="https://www.deviantart.com/ro-stock">ro-stock</a>
+<br>
+<a href="https://www.deviantart.com/atenaispd/art/Snowflake-Brushes-144639495">Snowflake brushes</a> by <a href="https://www.deviantart.com/atenaispd">Atenaispd</a>
+<br>
+<a href="https://www.deviantart.com/keepwaiting/art/SNOW-PS7-Brushes-and-IMG-Pack-67489790">Snowflake brushes</a> by <a href="https://www.deviantart.com/keepwaiting">KeepWaiting</a>
+</small>
+</small>
+*/

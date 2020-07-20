@@ -1,0 +1,160 @@
+div.journalbox {
+	background-color:#f7ffff;
+	border:0px;
+	color:#FFFFF0;
+	text-align: center;
+}
+div.skin_attribution {
+	margin:10px 0;
+}
+div.journaltop {
+	padding:0px 15px 0px 15px !important;
+	font-family:Verdana !important;
+	font-size:8pt !important;
+	color:#333333;
+	height:400px !important;
+	background-color:#f7ffff;
+	background-image:url(https://img230.imageshack.us/img230/3453/header13.jpg);
+	background-repeat:repeat-x !important;
+	background-position:center top !important;
+	text-align:left !important;
+	letter-spacing:0.0em;
+}
+div.journaltop h2 {
+	padding:10px 0px 5px 0px !important;
+	font-family:Georgia;
+	font-size:18pt;
+	font-weight:heavy;
+	color:#f7ffff;
+	letter-spacing:-0.01em;
+	text-align:left;
+}
+div.journaltop img {
+	display:none;
+}
+div.links {
+	position:absolute;
+	top:0px;
+	right:15px;
+	background:#f7ffff;
+	padding-top:20px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	line-height:13px;
+}
+div.text {
+	text-align:justify;
+	font-family:Georgia;
+	font-size:9pt;
+	font-weight:heavy;
+	color:#17385c;
+	line-height:18px;
+	text-align:justify;
+	padding:40px 0px 0px 0px;
+	width:400px !important;
+        margin: 0px auto;
+}
+div.text a {
+	color:#68a0de;
+	text-decoration:none !important;
+}
+div.text a:hover {
+	color:#000000;
+	text-decoration:none !important;
+}
+div.feature {
+	font-size:12pt;
+	background-image:url(https://img299.imageshack.us/img299/600/featureslf9.png);
+	background-repeat:no-repeat;
+	background-position:center top;
+	color:#17385c;
+	position:relative;
+	padding:41px 0px 10px 0px;
+	_padding:56px 0px 10px 0px;
+	text-align:center;
+	line-height:15px;
+	width:400px;
+	margin:0px;
+}
+div.feature p {
+	background-color:#FFFFFF;
+	width:400px;
+	padding:10px 0px 30px 0px;
+	_padding:10px 10px 30px 10px;
+	font-style:italic;
+	font-weight:bold;
+}
+div.credits {
+	color:#e1e1e1 !important;
+	font-size:10px !important;
+	font-family:Georgia;
+	font-style:italic;
+	font-weight:bold;
+	text-align:justify;
+	padding:0px;
+	width:400px;
+	margin:auto;
+}
+div.journalbottom {
+	padding:10px 20px 35px 15px;
+	_padding:10px 20px 35px 0px;
+	clear:both;
+	background-color:transparent;
+	font-family:Georgia;
+	font-size:11px;
+	color:#17385c;
+	width:400px;
+	margin:auto;
+	text-align:justify;
+}
+div.journalbottom a {
+	color:#17385c;
+	font-size:11px;
+	text-decoration:none;
+}
+div.journalbottom a:hover {
+	text-decoration:none;
+	font-size:11px;
+	font-weight:none;
+	color:#000000;
+}
+.journalbox ul.list {
+	display:none;
+	width:425px;
+	_width:468px;
+	padding:45px 0px 0px 2px;
+	margin:0 auto;
+	color:#17385c;
+	font-family:Georgia;
+	line-height:20px;
+	font-size:11px;
+	text-align:left;
+}
+.journalbox ul.list img {
+	display:none;
+}
+.journalbox ul.list li.a {
+	background-color:transparent;
+}
+.journalbox ul.list strong {
+	float:left;
+	color:#17385c;
+	width:80px;
+	margin:0;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Footer Code--
+<div class="feature"><p>
+:devsedART: & :devpetercui:
+
+:thumb72119773: :thumb51505556:</p></div>
+<div class="credits">A Collaboration between :devsedART: & :devpetercui:</div>
+<div class="links">
+<a href="http://cuibide.blogspot.com/" title="Peter's Blog"><b>BLOG</b></a>
+<a href="http://www.last.fm/user/Bidecui" title="Peter Listens Last.Fm"><b>LASTFM</b></a>
+<a href="http://twitter.com/bidecui" title="Peter's Twits"><b>TWITTER</b></a>
+</div>
+*/

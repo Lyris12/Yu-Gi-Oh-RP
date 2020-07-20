@@ -1,0 +1,90 @@
+.journalbox {
+    background-color: #FFFFFF !important;
+    border: 0px #203040 solid !important;
+	max-width: 878px;
+}
+
+.journalbox .list li {
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: #808080 !important;
+}
+
+.journalbox h2 {
+    color: #FFFFFF !important;
+}
+
+.journalbox .journaltop {
+    background-color: #234567 !important;
+    text-align: right !important;
+    color: #e5e5e5 !important;
+    background-image: url(https://fc09.deviantart.net/fs71/o/2009/361/c/2/148206845_102518_fondavraimentsympa.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 258px;
+}
+
+.journalbox a {
+    color: #ff005a !important;
+}
+
+.journalbox a:hover {
+    color: #990036 !important;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #ff005a !important;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #ff005a !important;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #990036 !important;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #990036 !important;
+}
+
+.journalbox .journalbottom {
+    background-color: #262626 !important;
+    padding-top: 6px;
+}
+
+.journalbox .journaltext {
+    
+    color: #808080 !important;
+    font-size: 8pt;
+    background-image: url(https://fc05.deviantart.net/fs71/o/2009/361/b/0/148206845_102519_fondcss4.jpg);
+    background-repeat: repeat-x;
+    background-position: top left;
+}
+
+.journalbox .journaltext .content {
+
+    margin:20px;
+}
+
+.journalbox .boxtop {
+    padding: 0 !important;
+}
+
+.scrollbox {
+    height:250px; overflow:auto;
+}
+/*
+If you want to have a little margin (like the preview) on your text add this on your text not the css, the TEXT!
+< div class="content" > (In the beginning of the text)
+< /div > (In the end of the text)
+(Remove the spaces when you use it)
+If you want to have a scrollbar add this on your the TEXT !
+< div class="scrollbox > (In the beginning of the part you want to add a scrollbar on it)
+< /div > (In the end of the part you want to add a scrollbar on it)
+(Remove the spaces)
+*/

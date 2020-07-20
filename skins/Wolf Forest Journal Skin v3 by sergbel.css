@@ -1,0 +1,232 @@
+.creds {
+color:#3A6979;
+float:right;
+font-size:75%;
+margin:75px 0 0;
+}
+.paw {
+background:url(https://fc04.deviantart.net/fs70/o/2012/106/e/9/296168163_390122_208683505_255481_paw.png) top left no-repeat transparent;
+border:none;
+padding:0;
+margin:0;
+display:block;
+width:44px;
+height:87px;
+}
+.journaltext .kovoMenu {
+display:block;
+color:#ccc;
+}
+.journaltext .kovoMenu ul {
+position:absolute;
+top:310px;
+left:14px;
+width:auto;
+height:88px;
+padding:0 18px 0;
+margin:0;
+overflow:hidden;
+}
+.journaltext .kovoMenu ul li {
+display:inline-block;
+height:75px;
+margin-right:28px;
+}
+.journaltext .kovoMenu ul li.liPaw {
+display:inline-block;
+height:75px;
+margin-right:10px;
+}
+.journaltext .kovoMenu ul li a{
+color:#3a6979;
+}
+.journaltext .kovoMenu ul li a:hover{
+color:#bee8f6;
+}
+.journalbox {
+background:url(https://fc05.deviantart.net/fs71/o/2012/106/b/9/296168163_390123_208683505_255482_bg_body_1.png) top left repeat-x #0f222a;
+padding:416px 34px 15px;
+margin:0 0 10px;
+border:none;
+}
+.journaltop {
+height:63px;
+width:auto;
+background:url(https://fc06.deviantart.net/fs71/o/2012/106/2/d/296168163_390124_208683505_255483_celt_x.png) top left repeat-x;
+display:block;
+color:#577d91;
+text-align:center;
+padding:0;
+margin:0;
+border:1px solid #165a7f;
+border-top:none;
+font-size:80%;
+}
+.journaltop img {
+display:none;
+}
+.journaltop h2 {
+padding:2px 0 0;
+color:#fff;
+background:url(https://fc05.deviantart.net/fs71/o/2012/106/f/4/296168163_390125_208683505_255484_title_bg.png) top center no-repeat;
+display:block;
+margin: 0 0 -35px;
+padding: 8px 0 35px;
+text-shadow:0 0 10px #fff;
+}
+.journaltop h2 a{
+text-decoration:none;
+color:#fff;
+}
+.journaltop h2 a:hover{
+text-decoration:none;
+color:#fff;
+}
+.journaltext {
+color:#fff;
+border:1px solid #27444e;
+padding:10px 32px 100px;
+margin:0;
+background: url(https://fc01.deviantart.net/fs70/o/2012/106/a/0/296168163_390126_208683505_255485_journaltext_bg.png) left top transparent;
+box-shadow:0 0 15px #111;
+}
+
+.journaltext .heading {
+background: url(https://fc03.deviantart.net/fs71/o/2012/106/a/4/296168163_390127_208683505_255486_h_351_60.png) no-repeat scroll left top transparent;
+display: block;
+font-size: 190%;
+font-style: normal;
+font-weight: bold;
+height: 60px;
+padding: 16px 0 0 18px;
+margin: 25px 0 -15px;
+color:#fff;
+}
+.journaltext h1 {
+background: url(https://fc03.deviantart.net/fs71/o/2012/106/a/4/296168163_390127_208683505_255486_h_351_60.png) no-repeat scroll left top transparent;
+display: block;
+font-size: 190%;
+font-style: normal;
+font-weight: bold;
+height: 60px;
+padding: 16px 0 0 18px;
+margin: 25px 0 -15px;
+color:#fff;
+}
+.journaltext h2 {
+background: url(https://fc03.deviantart.net/fs71/o/2012/106/a/4/296168163_390127_208683505_255486_h_351_60.png) no-repeat scroll left top transparent;
+display: block;
+font-size: 130%;
+font-style: normal;
+font-weight: bold;
+height: 60px;
+padding: 16px 0 0 18px;
+margin: 25px 0 -15px;
+color:#fff;
+}
+.journaltext ul {
+padding-top:0;padding-bottom:0;
+margin-top:0;margin-bottom:0;
+}
+.journaltext ul li{
+margin:0;
+padding:0;
+color:#8bb7df;
+}
+.journaltext a {
+color:#87d5f0;
+text-decoration:none;
+font-weight:bold;
+}
+.journaltext a:hover {
+color:#bee8f6;
+}
+.shadow .thumb img {
+border:1px solid #888;
+box-shadow:0 3px 7px #3A6979;
+margin:12px;
+}
+.shadow .thumb:hover img {
+border:1px solid #888;
+box-shadow:0 9px 10px #3A6979;
+margin:12px;
+}
+.journalbottom {
+color:#d1aeae;
+background:transparent;
+margin:0 31px;
+padding:10px 0 40px;
+text-align:right;
+}
+.journalbottom a {
+color:#fff;
+}
+.journalbottom a:hover {
+color:#fff;
+}
+.journalbottom .commentslink {
+color:#fff;
+}
+.journalbottom .hsep {
+display:none;
+}
+.journalbottom .prevlink {
+display:none;
+}
+.list {
+color:#fff;
+margin:30px;
+}
+.list .a {
+background:transparent;
+}
+blockquote {
+color:#597384;
+background:url(https://fc01.deviantart.net/fs70/o/2012/106/5/6/296168163_390128_208683505_255487_blockquoteopen.png) top left no-repeat #0f1c25;
+padding:22px 68px;
+margin:26px 0 0;
+padding: 22px 68px;
+text-align: center;
+text-shadow:0 0 20px #ddd;
+}
+i.bqclose {
+background:url(https://fc03.deviantart.net/fs70/o/2012/106/c/5/296168163_390129_208683505_255488_blockquoteclose.png) top left no-repeat #0f1c25;
+padding:0;
+width:28px;
+height:24px;
+display:block;
+float: right;
+clear: both;
+margin: 12px -68px 0 0;
+color:transparent;
+}
+.replIMG {
+display: block;
+float: left;
+margin: 0;
+}
+.replIMG .dontTouchCSS {
+position:absolute;
+
+}
+b {
+color:#8bb7df;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+to make a heading like in preview use an <h1> tag like this:
+<h1>HEADING GOES HERE</h1>
+to make a blockquote use this:
+<blockquote>Just a blockquote example without trailing quote image</blockquote>
+<blockquote>another blockquote example but now with a trailing quote image. To make it just use <i> tag with the class 'bqclose' like this <i class="bqclose"></i></blockquote>
+
+--Header Code--
+<div class="kovoMenu inline"><ul><li class="liPaw"><i class="paw"></i></li><li><a href="http://www.facebook.com/sergbel">Facebook</a></li><li class="liPaw"><i class="paw"></i></li><li><a href="https://sergbel.deviantart.com/">Commission me</a></li><li class="liPaw"><i class="paw"></i></li><li><a href="https://3dserg.be/">My website</a></li></ul></div>
+--End Header Code--
+--Footer Code--
+<div class="replIMG"><img class="dontTouchCSS" src="https://3dserg.be/test/skin/wolvenForest/wolf_footer.png" alt="photo"  /><p style="clear:both;margin:0;padding:0;"> </p></div>
+<div class="creds" style="clear:both;margin:0;padding:0;">Designed by :devkovowolf:  & coded by :devsergbel: </div>
+--End Header Code--
+--Footer Code--
+*/

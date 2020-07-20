@@ -1,0 +1,172 @@
+* {background: transparent; border: none; margin: 0; padding: 0;}
+.gr-top img{display:none;}
+.gr {padding: 0 !important;}
+li.a.f{background:transparent;} 
+.gr-box{
+background: url(https://fc03.deviantart.net/fs71/o/2014/021/c/b/428617034_1397053_teal_swirl_bg_by_neko_bear-d732g3v.png) repeat;
+-moz-border-radius: 20px;
+border-radius: 20px;
+max-width: 700px;
+}
+.gr-top{ 
+background: transparent;
+font-family: "Henny Penny", Serif;
+text-align: center;
+padding: 10px 20px;
+}
+.gr-top h2 a{ 
+color:#DFE4F7;
+font-size: 40px;
+letter-spacing: 1px;
+text-shadow: 2px 2px #264159;
+}
+.gr-top h2:hover{ 
+color: # A8E3E0;
+}
+.gr-top .timestamp{ 
+color: #345f85;
+}
+.menu{ 
+background: transparent;
+color: #724e94;
+position: relative;
+top: -10px;
+right: 100px;
+left: 0px;
+text-align: center;
+z-index: 23;
+padding: 10px 0;
+}
+.menu a{
+font-weight: bold;
+}
+.text{
+background: url(https://fc08.deviantart.net/fs70/o/2014/021/0/5/428617034_1397054_text_bg_by_neko_bear-d732lh3.png) repeat;
+-moz-border-radius: 20px;
+border-radius: 20px;
+margin: 0 20px 20px 20px; 
+padding: 0 20px;
+color: #345f85;
+font-family: "Henny Penny", Serif;
+font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6{ 
+font-family: "Henny Penny", Serif;
+letter-spacing: 1px;
+color: #264159;
+text-shadow: 2px 2px #DFE4F7;
+}
+a.external:after {
+display:none!important;
+}
+ol, ul{
+list-style-position:inside;
+}
+ul{
+list-style-image: url(https://fc00.deviantart.net/fs71/f/2014/021/4/3/bullet_point_by_neko_bear-d736v9v.png)
+}
+blockquote{ 
+background: #E1C5E1;
+-moz-border-radius: 20px;
+border-radius: 20px;
+color: #264159;
+text-align: justify;
+padding: 15px;
+margin: 10px;
+}
+a{ 
+color: #724e94;
+text-decoration: none;
+}
+a:hover{ 
+color: #9844c7;
+text-decoration: none;
+}
+.shadow-holder img, .embedded-deviation, img.avatar, a.lit, .daembed{ 
+background: transparent;
+border: 1px solid #E1C5E1;
+-moz-border-radius: 20px;
+border-radius: 20px;
+box-shadow:  0px 0px 10px #444;
+vertical-align:middle;
+padding:10px;
+margin:5px;
+}
+.shadow-holder img:hover, .embedded-deviation:hover, img.avatar:hover, .daembed:hover{ 
+background: #E1C5E1;
+box-shadow: 0px 0px 10px #000;
+}
+img.lit{ 
+box-shadow:none!important;
+padding:1px!important;
+}
+a.lit{ 
+height:150px;
+width:180px;
+}
+a.lit:hover{ 
+background:#E1C5E1;}
+q{ 
+padding:10px;
+font-size:10px;
+}
+.footer{ 
+text-align: left;
+color: #A8E3E0
+padding: 15px 15px 30px 15px;
+margin: 10px -20px 10px -20px;
+}
+.bottom{ 
+font-family: "Henny Penny", Serif;
+letter-spacing: 1px;
+color: #264159;
+text-shadow: 2px 2px #DFE4F7;
+padding: 10px;
+margin-top: -50px !important;
+}
+.commentslink, .prevlink{ 
+color: #345f85;
+text-align: center;
+}
+.list{ 
+padding: 15px;
+margin-top: 5px;
+color: #345f85;
+text-align: right;
+}
+ul.list li{
+font-family: "Henny Penny", Serif;
+}
+strong{
+font-family: "Henny Penny", Serif;
+letter-spacing: 1px;
+color: #264159;
+text-shadow: 2px 2px #DFE4F7;
+}
+.credits{
+font-family: "Henny Penny", Serif;
+font-size: 12px;
+color: #6378a6;
+position: relative;
+bottom: -20px;
+left: -20px;
+}
+.credits a{
+color: #6d85b8;
+}
+.credits a:hover{
+color: #ad72c2;
+text-decoration: none;
+}
+/*
+--Header Code--
+<div class="menu" align="center">
+<a href="URL">Gallery</a> <img src="https://fc00.deviantart.net/fs71/f/2014/021/4/3/bullet_point_by_neko_bear-d736v9v.png"> <a href="URL">Commissions</a> <img src="https://fc00.deviantart.net/fs71/f/2014/021/4/3/bullet_point_by_neko_bear-d736v9v.png"> <a href="https://my.deviantart.com/global/notes/form.php?to_user=USERNAME">Note Me</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="credits">
+<a href="https://www.deviantart.com/neko-bear/art/Teal-Swirl-Journal-Skin-428617034">Teal Swirl Journal Skin</a> by <a href="https://www.deviantart.com/Neko-Bear">Neko-Bear</a>
+</div>&nbsp;
+*/

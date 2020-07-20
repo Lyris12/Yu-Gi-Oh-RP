@@ -1,0 +1,88 @@
+.journalbox {
+	background-color:#000000 !important;
+	border:0px !important;
+	background-image:url(https://fc02.deviantart.com/fs45/o/2009/143/e/0/123429588_69255_gf_wide_top.jpg);
+	background-position:top left;
+	background-repeat:no-repeat;
+}
+.journalbox .list li {
+	background-color:transparent!important;
+	color:#242E52 !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#E3348C !important;
+}
+.journalbox h2 {
+	color:#F2D0D2 !important;
+	font-size:20px;
+	font-weight:500;
+}
+.journalbox .journaltop {
+	background-color:transparent;
+	text-align:left !important;
+	color:#E9BABF !important;
+	padding-top:78px;
+	padding-bottom:30px;
+	padding-left:150px;
+	font-size:11px;
+}
+.journalbox a {
+	color:#FF9917 !important;
+}
+.journalbox a:hover {
+	color:#D5D7DE !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#5D77D4 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#5D77D4 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#F2D0D2!important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#F2D0D2 !important;
+}
+.journalbox .journalbottom {
+	background-color:transparent !important;
+}
+.journalbox .journaltext {
+	color:#C86381 !important;
+	padding-left:80px;
+}
+.scrollbox {
+	position:relative;
+	overflow:auto;
+	width:100%;
+	height:320px;
+	background:transparent;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.journalbox ul.list {
+	background-image:url(https://fc06.deviantart.com/fs45/o/2009/143/b/1/123429588_69256_gf_wide_footer.jpg);
+	background-repeat:repeat-x;
+	background-position:left top;
+	font-size:10px;
+	text-align:left;
+	color:#ca7076;
+	background-color:#BAC5BA;
+	text-decoration:none;
+	width:100%;
+	padding:60px 0px 0px 0px;
+	_margin-top:200px;
+}
+.credit {
+	font-size:8px;
+	text-align:center;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The footer may still need fixing.
+
+--Footer Code--
+<div class="credit">
+<a href="https://sourcow.deviantart.com/art/Flower-STOCK-55502670">Flower :STOCK:</a> by :devsourcow: | <a href="https://luizalenora.deviantart.com/art/Arabesque-Brushes-36473607">Arabesque Brushes</a> by :devLuizalenora: | <a href="https://redheadstock.deviantart.com/art/Foliage-Swirls-80455211">Foliage Swirls</a> by :devredheadstock: | <a href="https://kuschelirmel-stock.deviantart.com/art/Twirl-Border-Brushes-37708243">Twirl Border Brushes</a> by :devkuschelirmel-stock:</div>
+*/

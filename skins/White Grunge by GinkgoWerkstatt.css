@@ -1,0 +1,124 @@
+.gr-box{
+background: url(https://fc04.deviantart.net/fs70/o/2010/149/7/1/165747096_129026_header.jpg) top no-repeat #f9f9f9;
+color:#424242;
+font-family:Verdana, Tahoma, Trebuchet MS,sans-serif;
+text-align:center;}
+
+.gr{background: transparent; border: none; padding: 0;}
+
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+text-align:left;
+border: none; 
+font-size:10px;
+width:460px;
+margin:auto;
+padding:90px 0 45px 0;
+background: transparent }
+
+.gr-top img{display: none;}
+.f {display:none;}
+
+h2 {
+font-weight:normal;
+font-size:20px;
+margin: 0 0 -5px 0;
+font-family:Verdana, Tahoma, Trebuchet MS,sans-serif;}
+
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+font-size:11px;
+padding: 0 0 75px 0;
+background:url(https://fc04.deviantart.net/fs70/o/2010/149/f/f/165747096_129027_footer.jpg) center bottom no-repeat;
+border: none;}
+
+.text {
+background: url(https://fc09.deviantart.net/fs70/o/2010/149/b/a/165747096_129028_bg.jpg) repeat-y center;
+text-align:left;
+padding: 0 40px;
+width:390px;
+_width: 460px;
+margin:auto;}
+
+.navi {
+color:#5c9ad8;
+position:absolute;
+width:400px;
+top:24px;
+text-align: right;
+margin: auto;
+z-index: 23;}
+
+.navi a{color: #424242; text-decoration: none;}
+.navi a:hover{color: #5c9ad8;}
+
+.shadow {background:none!important;}
+
+a{color: #5c9ad8;}
+
+em{
+color:#5c9ad8;
+font-style: normal;
+border-bottom:1px solid;
+display: block;
+font-size:15px;}
+
+hr{
+height: 1px;
+margin: 20px 0 0 0;
+color: #5c9ad8;}
+
+.credit {
+font-size:9px;
+text-align: center;
+padding: 30px 0 5px 0;}
+
+.credit a {color:#424242;}
+
+.feature{text-align: center;}
+.feature .shadow{background-image: none!important}
+.feature a{
+display: inline-block;
+width: 60px!important;
+height: 60px!important;
+overflow: hidden;
+border:1px solid #424242;}
+
+.feature a:hover{
+border-color: #000!important;
+outline: 1px solid transparent!important;}
+
+.feature img{margin:-20px -50px}
+
+.bottom{
+margin: 20px 0 0 0;}
+
+.bottom a {
+color:#424242;
+font-size:10px;
+text-decoration:none;}
+
+.bottom a:hover {color:#5c9ad8;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Headline
+<em>... </em>
+- Divider
+<hr>
+- Mini thumbs
+<div class="feature">... </div>
+
+--Header Code--
+<div class="navi"><a href="https://ginkgografix.deviantart.com/">^ginkgografix</a> | <a href="https://chat.deviantart.com/chat/darelated">#dA related</a></div><div class="content">
+--End Header Code--
+--Footer Code--
+</div><div class="footer"></div><div class="credit">Brushes by :devyana-stock:
+Original mini gallery by :devthespook:</div>
+*/

@@ -1,0 +1,96 @@
+.journalbox h2
+{
+padding-top: 375px;
+color: #fac0f0;
+font-family: ar decode;
+font-size: 48px;
+text-decoration: none;
+text-decoration: bold;
+}
+.journalbox h2 a
+{
+color: #fac0f0;
+text-decoration: none!important;
+}
+h2 img
+{
+display: none;
+}
+.journalbox .commentslink 
+{
+color: #fac0f0;
+font-size: 30px;
+}
+.journalbox .prevlink 
+{
+color: #fac0f0;
+font-size: 30px;
+}
+.journaltop {background: url(https://fc02.deviantart.net/fs70/o/2012/046/b/f/285223033_367231_journal_header_img_by_jeffretta-d4pt9xd.jpg) top left no-repeat transparent; height: 480px; text-align: center; color: #FFFFFF; font-size: 20px; width: 640px; margin-bottom: 20px;}
+.journalbox
+{
+width: 640px;
+font-size: 25px;
+font-family: arabic typesetting;
+background-color: #7f9684;
+}
+.journalbottom
+{
+background: url(https://fc06.deviantart.net/fs71/o/2012/046/a/6/285223033_367232_journal_footer_img_by_jeffretta-d4njisg.jpg)center no-repeat transparent; height: 380px; width: 640px;
+}
+.journaltext
+{
+border-radius: 30px;
+text-align: center;
+font-family: bookman old style;
+font-size: 15px;
+color: #eba1d8; 
+background: #964f71;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 15px;
+margin-top: 20px;
+margin-left: 35px;
+margin-right: 35px;
+margin-bottom: 35px;
+}
+.journaltext a
+{
+color: #fac0f0; 
+text-decoration: underline;
+}
+.list
+{
+background-color: transparent;
+margin: -435px 220px -189px 10px;
+padding: 165px 25px;
+text-align: center;
+height: 260px;
+}
+.journalbox .list li {
+ background:  none repeat scroll 0 0 transparent;
+ color: #2e322f;
+ font-family: bookman old style;
+ font-size: 18px;
+}
+.journalbox .list li.a {
+ font-family: bookman old style;
+ color: #2e322f;
+ font-size: 18px;
+}
+.footer
+{
+font-size: 12px;
+}
+.footer a
+{
+text-decoration: none!important;
+}
+/*
+--Footer Code--
+<div align="CENTER"> ____________________________________
+<div class="footer">Photos by <a href="https://www.deviantart.com/jeffretta">JeffrettaLyn</a> | <a href="https://www.deviantart.com/jeffrettalyn/art/Butterfly-Journal-Skin-285223033">Butterfly Journal Skin</a> by <a href="https://www.deviantart.com/jeffretta">JeffrettaLyn</a>
+</div>
+</div>
+*/

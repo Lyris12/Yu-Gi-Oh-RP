@@ -1,0 +1,92 @@
+.journalbox {
+
+    background-color: #e9c0d1 !important;
+    border: 15px #e2c9e2 ridge !important;
+font-family: Kristen ITC;
+font-size: 18px;
+text-align: left; 
+}
+
+.journalbox .list li {
+    background-color: #e9c0d1 !important;
+    color: #260b05 !important;
+font-family: Kristen ITC;
+font-size: 16px;
+text-align: left; 
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.journalbox .list li.a {
+    background-color: #e9c0d1 !important;
+    color: #260b05 !important;
+font-family: Kristen ITC;
+font-size: 16px;
+text-align: left; 
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.journalbox .journaltop {
+border-bottom: 15px #e2c9e2 ridge !important;
+    background-color: #e9c0d1  !important;
+    background-image: url(https://fc06.deviantart.net/fs71/o/2013/340/a/a/418127707_1312422_sylveon_journal_top_animated_by_abyssinchaos-d6wxuvl.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+color: #260b05 !important;
+float: center;
+    height: 943px;
+
+}
+
+.journalbox h2 {
+    color: #260b05 !important;
+font-family: Kristen ITC;
+font-size: 16px;
+text-align: left; 
+}
+
+.journalbox a {
+    color: #260b05 !important;
+font-family: Kristen ITC;
+font-size: 20px;
+font-weight: bold;
+}
+
+.journalbox a:hover {
+    color: #4d6397 !important;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #260b05 !important;
+    font-weight: bold;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #260b05 !important;
+    font-weight: bold;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #4d6397 !important;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #4d6397 !important;
+}
+
+.journalbox .journaltext .content {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.journalbox .journaltext {
+    font-size: 16pt !important;
+    color: #260b05 !important;
+}
+.journalbox .journaltop img {
+    display: none !important;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

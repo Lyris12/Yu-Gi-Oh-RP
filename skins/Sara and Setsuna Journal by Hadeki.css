@@ -1,0 +1,96 @@
+.journalbox 
+{border-width: 2px;
+border-color: #fffeea;
+-moz-border-radius: 10px;
+background-color: #fffeea;
+background-image: url("https://img.photobucket.com/albums/v203/Hadeki/angelsanctuaryheader.png");
+background-repeat: no-repeat;
+background-position: top right;}
+
+.journaltop
+img
+{display:none;}
+
+.journaltop
+{height: 270px;
+background-color: transparent;
+font-family: verdana, arial;
+font-size: 11px;
+font-style: italic;
+color: #333333;
+text-align: center;
+padding-top: 15px;
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 15px;}
+
+h2 
+{font-family: berylium, times new roman, verdana, arial;
+font-size: 20px;
+color: #333333;
+padding-top: 15px;}
+
+h2:first-letter
+{font-family: edwardian script itc, berylium, times new roman, verdana, arial;
+font-size: 32px;
+color: #333333;
+letter-spacing: 3px;}
+
+a:link
+{font-family: verdana, arial;
+font-size: 11px;
+font-style: italic;
+color: #333333;
+text-decoration: none;}
+a:hover
+{font-family: verdana, arial;
+font-size: 11px;
+font-style: italic;
+color: #333333;
+text-decoration: underline;}
+a:visited
+{font-family: verdana, arial;
+font-size: 11px;
+font-style: italic;
+color: #333333;
+text-decoration: none;}
+
+.journaltext
+{background: transparent;
+font-family: verdana, arial;
+font-size: 11px;
+color: #333333;
+text-align: left;
+padding-top: 0px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 15px;}
+
+.list 
+{background: transparent;
+font-size: 11px;
+font-family: verdana, arial;
+font-style: italic;
+color: #333333;
+text-align: left;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 15px;}
+ 
+.list 
+.a
+{background: transparent;}
+
+.journalbottom
+{background-color: transparent;
+font-family: arial;
+font-size: 11px;
+color: #333333;
+padding-bottom: 15px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 15px;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! An image on the header is from Photobucket
+*/

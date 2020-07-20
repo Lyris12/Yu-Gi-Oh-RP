@@ -1,0 +1,114 @@
+.journaltop {
+background: url(https://fc09.deviantart.net/fs71/o/2010/293/9/e/183337510_154242_pumpkin_small.png) center center no-repeat;
+color:transparent;
+font-size:10px;
+height:295px;
+margin:0 auto;
+padding:0;
+}
+.journalbox {
+background: url(https://fc09.deviantart.net/fs71/o/2010/293/0/e/183337510_154243_bg.jpg) top center no-repeat #000;
+border:1px solid #aaa;
+}
+.journaltop img {
+display:none;	
+}
+.journaltop span {
+color:#fff;
+margin-left:-20px;
+}
+.journaltop h2 {
+color:#fff;
+font-family: Trajan Pro;
+letter-spacing: 1px;
+position: absolute;
+font-size: 21px;
+top: 220px;
+left:60px;
+text-align:left;
+margin-bottom:10px;
+text-shadow: 4px -8px 8px #DE4B26;
+letter-spacing:2px;
+}
+.journaltext {
+opacity: 0.7;
+line-height:1.3em;
+margin:-10px 57px 0 57px;
+padding:20px;
+color:#ccc;
+border-top:12px inset #DE4B26;
+background:#111;
+-moz-border-radius:0 0 25px 25px;
+}
+a {
+color:#DE4B26;
+text-decoration:none !important;
+
+}
+a:hover {
+color:#fff;
+text-decoration:none !important;
+}
+ul {
+padding:0;
+margin:-5px 0 -20px 15px;
+color:#FF0;
+}
+ul li {
+padding:0;
+margin:-5px 0 0 20px;
+list-style:disc;
+color:#F8B52F;
+}
+ul li span {
+color:#ccc;
+}
+ul.list {
+padding-bottom:20px;
+margin:0;
+}
+ul.list li {
+list-style:none;
+margin:0 0 0 20px;
+padding-left:30px;
+background:#000;
+color:#666;
+}
+ul.list li strong {
+color:#DE4B26;
+padding-left:30px;
+background:transparent;
+font-family:Lucida Sans Unicode;
+font-weight:normal;
+padding-right:5px;
+}
+
+.journaltext blockquote {
+padding:40px 20px 0 40px;
+margin-left:0;
+color:#DE4B26;
+font-weight:normal;
+background: url(https://fc01.deviantart.net/fs71/o/2010/293/2/8/183337510_154244_quote_small.png) top left no-repeat transparent;
+font-style: italic;
+letter-spacing:1px;
+}
+
+b {
+color:#ccc;
+font-weight:bold;
+}
+.c {
+margin-top:20px;
+padding:0 0 40px 0;
+font-family:Lucida Sans Unicode;
+padding: 20px 0 30px 0;
+color: #ccc;
+letter-spacing: 1px;
+}
+.c a {
+color: #DE4B26; text-decoration: none;
+text-shadow: 0 -5px 6px #DE4B26;
+}
+.c a:hover {
+color: #fff; text-decoration: none;
+}

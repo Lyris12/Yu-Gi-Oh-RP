@@ -1,0 +1,111 @@
+.gr-box{
+max-width: 1000px;
+margin: auto;
+color: #6a480a;
+font-family: Verdana, sans-serif;
+background: #8ba807 url(https://fc05.deviantart.com/fs46/o/2009/216/0/d/132098275_81093_top.jpg) top center no-repeat;
+_text-align: center;}
+
+.gr{background: transparent; border: none;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+width: 450px;
+margin: auto;
+background: transparent;
+padding: 335px 0 0 0;}
+
+.gr-top img{display: none;}
+
+.gr-top span{ 
+color: #68810a;
+display: block; 
+text-align: right; 
+margin: 5px -115px -20px 0; }
+
+h2{
+color: #7f560a;
+font-size: 27px;
+margin-left: -15px;
+_margin-left: -55px;
+letter-spacing: 0.03em;}
+
+.list{display: none;}
+
+.gr-body{
+background: url(https://fc02.deviantart.com/fs46/o/2009/216/4/6/132098275_81094_bottom.jpg) bottom center no-repeat;
+border: none;
+overflow:visible!important;
+position:static!important;
+padding-bottom: 60px;}
+
+.text{
+background: url(https://fc01.deviantart.com/fs47/o/2009/216/2/5/132098275_81095_text.png);
+margin: auto;
+width: 440px;
+padding: 0 20px;
+_text-align: left;
+_width: 480px;}
+
+.topmenu{
+position: absolute;
+top: 310px;
+width: 440px;
+text-align: center;
+z-index: 20;}
+
+.topmenu a{
+font-weight: bold;
+color: #7f560a;
+text-decoration: none; 
+text-transform: lowercase;}
+
+.content{
+background: url(https://fc00.deviantart.com/fs47/o/2009/216/5/7/132098275_81096_content.jpg) top center no-repeat;
+padding: 0 10px;
+margin: -13px 0 0 0;}
+
+.content a{color: #668208;}
+.content a:hover{text-decoration: none;}
+
+.feature{
+padding: 0 10px 65px 10px;
+margin: 0 0 -10px 0;
+background: url(https://fc07.deviantart.com/fs46/o/2009/216/0/d/132098275_81097_box_bottom.png) bottom center no-repeat;}
+
+.feature p{
+color: #68810a;
+font-size: 17px;
+margin: 0 -10px;
+padding: 13px 0 30px 120px;
+background: url(https://fc00.deviantart.com/fs46/o/2009/216/d/6/132098275_81098_box_top.png) top center no-repeat;}
+
+.bottom{
+position: absolute;
+width: 100%;
+bottom: 10px;
+color: #ffffc4;
+_margin-left: -50%;}
+
+.bottom a{
+color: #ffffc4; 
+font-size: 15px;
+font-weight: bold;
+text-decoration: none;}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+- Feature
+< div class="feature">< p>Feature...< /p>...< /div>< /div>
+
+--Header Code--
+<div class="topmenu"><a href="https://www.deviantart.com/random/deviant">random deviant</a> | <a href="https://chat.deviantart.com/chat/">join dAmn</a> | <a href="https://www.deviantart.com/random/deviation">random deviation</a></div>
+<div class="content">
+--End Header Code--
+--Footer Code--
+</div>
+*/

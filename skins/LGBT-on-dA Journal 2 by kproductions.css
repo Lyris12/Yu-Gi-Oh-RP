@@ -1,0 +1,52 @@
+.journalbox {background:url(https://fc05.deviantart.net/fs71/o/2009/362/f/3/148276555_102588_147108507_100475_147107593_100464_journal_header_pride_by_kproductions.png) #fff top right no-repeat; color:#716e6c;  max-width:1300px; font: 14px  Arial, Verdana;padding:0;border:1px solid #FFFFFF;}
+
+.journaltop {text-align:left; font-variant:small-caps; font-size:10px;letter-spacing:1px;color:#FFFFFF;background-color:transparent;}
+.journaltop h2 {font: 28px Georgia, Times New Roman; color:#FFFFFF; letter-spacing:2px;background:transparent;}
+.journaltop img {display:none;}
+.journaltop a {color:#fff; text-decoration:bold;}
+
+a {color:#ff0000; text-decoration:bold;}
+a:hover {text-decoration:underline;color:#00ff00}
+
+.journaltext {text-align:left; padding: 5px 20px 20px 20px; line-height: 16px;padding-top:320px;font:Arial, Verdana 15px;color:#000}
+
+.navi {color:#fff; font-size:12px; font-variant:small-caps; letter-spacing:1px; text-align:center; padding: 0; border-top: 1px solid #fff; border-bottom: 1px solid #fff; width:300px; margin: 0 auto;}
+.navi a { padding: 1px 2px;color:#ff0000; }
+.navi a:hover {text-decoration:none; background: #fff;color:#ff0000;}
+
+.title {font: 18px Georgia, Times New Roman; color:#ff0000; margin: 0px 10px 5px 10px; padding: 20px 0px 0 60px;height:65px; letter-spacing:1px; border-bottom: 1px solid #fff; background:url(https://fc00.deviantart.net/fs71/o/2009/362/b/e/148276555_102589_147108507_100476_147107593_100465_pride_journal_header_by_kproductions.png) no-repeat center left;}
+
+.smallfaded {font-size: 14px; line-height:14px; color:#fff;padding:5px;}
+.smallfadedline {font-size: 10px; line-height:14px; color:#a5a19f; padding:5px; border-top: 1px solid #fff; text-align:right;}
+
+.journalbottom { padding: 10px 10px 0 20px; height: 19px; _height:19px; font: 14px Georgia, Times New Roman; letter-spacing:1px;float:center;background-color:transparent;}
+.journalbottom a {color:#000000;background-color:transparent;}
+
+.list {color:#000000; padding:10px 0px 15px 15px; margin:0;_padding-bottom: 70px; text-align:left; font-size:10px; letter-spacing:1px; background: right;}
+.list .a {background-color:transparent;}
+.list li {padding:1px;}
+.list strong {color:#000000; font-weight:normal;}
+
+.skin_attribution {padding:3px;background-color:transparent;}
+
+.shadow a img {padding:4px; background:#fff; border:1px solid #a5a19f; }
+.shadow a:hover img {background:#2f4461;}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Body text is barely visible
+
+To add the title bars like in the live version, type this:
+<.div class="title">Type your title here<./div>
+(Just be sure to remove the "." from both of the div's!)
+
+--Header Code--
+<div class="navi">&#9830; <a href="https://lgbt-on-da.deviantart.com/">Profile</a> &#9830; <a href="https://lgbt-on-da.deviantart.com/aboutus/">About Us</a> &#9830; <a href="https://lgbt-on-da.deviantart.com/gallery/">Features </a> &#9830;</div>
+
+<div class="smallfaded">Be Proud!</div>
+--End Header Code--
+--Footer Code--
+<div class="smallfadedline">CSS code for this journal dervied from stock CSS code provided by :devkuschelirmel-stock:
+Journal graphics created by :devkproductions:
+Made originally for :devlgbt-on-da:
+</div>
+*/

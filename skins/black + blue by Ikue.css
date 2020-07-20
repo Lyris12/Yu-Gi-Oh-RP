@@ -1,0 +1,124 @@
+.journalbox {
+	border:0px solid;
+	background: #0e0e0e url(https://fc02.deviantart.net/fs51/o/2009/339/f/a/145780533_99294_bottom-white.png) bottom repeat-x;
+}
+.journaltop {
+	font-size:0px;
+	color:#0e0e0e;
+height:195px;
+background:url(https://fc07.deviantart.net/fs51/o/2009/339/5/b/145780533_99295_top-white.png) bottom repeat-x;
+padding:0px!important;
+}
+.journaltop h2 {
+color:#333;
+font-size:35px;
+font-family:Georgia;
+text-align:center;
+	background:url(https://fc08.deviantart.net/fs51/o/2009/339/2/8/145780533_99296_top-all-text2.png) top center no-repeat;
+height:194px;
+padding-top:135px;
+line-height:25px;
+text-shadow: #fff 0px 1px 0px;
+}
+.journaltop span {
+	display:none; color:#0e0e0;
+}
+.journaltop img {
+	display:none;
+}
+.journaltext {
+background:url(https://fc03.deviantart.net/fs50/o/2009/339/8/2/145780533_99297_text-bg.png) top center no-repeat;
+min-height:233px!important;
+color:#d7d7d7;
+font-size:13px;
+line-height:20px;
+padding:25px 46px;
+}
+.journalbottom {
+	margin-left:auto;
+	margin-right:auto;
+background:url(https://fc08.deviantart.net/fs50/o/2009/339/e/7/145780533_99298_bottom-all2.png) bottom center no-repeat;
+padding-top:250px!important;
+color:#fff!important;
+text-shadow: #000 0px 1px 0px;
+}
+.journalbottom a{color:#fff!important;}
+.journalbottom a:hover{color:#fff!important; text-decoration:none!important;}
+a{color:#2795b1!important; text-decoration:none!important; text-shadow: #000 0px 1px 0px;}
+a:hover{color:#2795b1!important; text-decoration:underline!important; text-shadow: #000 0px 2px 3px;}
+
+.list {	display:none;}
+
+.heads {
+color:#fff;
+font-size:20px;
+font-family:Georgia;
+font-weight:bold;
+text-shadow: #000 0px 2px 0px;
+}
+.boxor {
+background:url(https://fc03.deviantart.net/fs50/o/2009/339/8/2/145780533_99297_text-bg.png) top center no-repeat;
+min-height:233px!important;
+_height:233px!important;
+margin-left:-46px;
+margin-right:-46px;
+border-top:solid 1px #454545;
+padding:25px 46px;
+}
+
+li {
+line-height:0px;
+_line-height:20px;
+list-style-image:url(https://fc05.deviantart.net/fs50/o/2009/339/7/4/145780533_99299_list-arrow.gif);
+margin-left:14px;
+_margin-left:0px;
+}
+ol li{list-style-type:lower-roman!important;}
+
+.linkage{
+height:200px!important;
+width:400px;
+position:relative;
+margin-bottom:-260px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+text-align:center;
+background:url(https://fc01.deviantart.net/fs51/o/2009/339/2/7/145780533_99300_links.png) top center no-repeat;
+padding-top:30px;
+overflow:hidden;
+}
+.linkage a{display:block; width:156px; padding:6px 0px 15px 0px; background:url(https://fc07.deviantart.net/fs50/o/2009/339/0/e/145780533_99301_button.png) top center no-repeat;
+text-align:center;
+font-size:20px; color:#4b4b4b!important;
+text-shadow: #fff 0px 1px 0px;}
+.linkage a:hover{text-decoration:none!important; color:#2795b1!important;}
+.linkage .col1 {float:left; }
+.linkage .col2 {float:right; margin-top:-20px;}
+
+.shadow-holder .shadow a img{ border: 1px solid #000;}
+.shadow-holder .shadow a:hover img{ border: 1px solid #2795b1;}
+em .shadow { background-image:none!important;}
+em .shadow-holder img{border-width: 0px 0px 2px 0px!important;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Making a new box:
+<div class="boxor">More text goes in here till your done then... </div>
+Making a new header:
+<div class="heads">New header text</div>
+You can add one new row of links to the bottom area bringing the button count up to 6, but I really wouldn't recommend going any further than that. To do that find the 'footer' and locate either
+<div class="col1"> add an <a>nchor here </div> (left column)
+<div class="col2"> add an <a>nchor here </div> (right column)
+**Use your own text for the anchor links and the CSS will fill in the rest
+If you are featuring emotes you can get rid of the full border and shadow if you wrap the :thumb: in:
+<em>:thumb#:</em>
+
+--Footer Code--
+<div class="linkage">
+<div class="col1"><a href="http://">twitter</a>
+<a href="http://">last.fm</a></div>
+<div class="col2"><a href="http://">facebook</a>
+<a href="http://">web site</a></div>
+</div>
+*/

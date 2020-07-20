@@ -1,0 +1,39 @@
+.gr {background: transparent; border: none 0;}
+.gr-top {background: transparent; border: none 0;}
+.gr-body {background: transparent; border: none 0;}
+ul.list li.f {padding-top: 4px; padding-bottom: 4px;}
+.shadow a i {display: none;}
+i.gr1 {display: none;}
+i.gr2 {display: none;}
+i.gr3 {display: none;}
+i.tri {display: none;}
+ul.list {margin: 20px 33px; padding: 0; min-width: 150px; position: absolute; top: -400px;}
+ul.list li {background: transparent !important; color: #fff; font-size: 8pt; padding-left: 0; text-shadow: 0px 0px 5px #9f8066; vertical-align: baseline;}
+ul.list li strong {text-transform: uppercase; letter-spacing: 1px; font-size: 6pt;}
+.gr-box {background-color: #b786b6; border-radius: 15px 15px 0 0; border: 1px solid #805181; max-width: 1000px; margin: 0 auto;}
+.gr-top {height: 450px; background: url(https://fc03.deviantart.net/fs71/o/2013/169/4/f/379034453_979284_20130612_sky2_by_winnietehpoohie-d69o0eg.jpg) repeat-x 50% 0%; padding-top: 5px; border-radius: 13px 13px 0 0; border-width: 1px 1px 0; border-style: solid; border-color: #fff;}
+.gr-top h2 {color: #fff; background: url(https://fc07.deviantart.net/fs70/o/2013/169/e/6/379034453_979285_butterfly_icon_by_winnietehpoohie-d68tju2.png) no-repeat 0 72%; padding-left: 21px; text-shadow: 0px 0px 5px #9f8066;}
+.gr-top h2 a {color: #fff; text-decoration: none;}
+.gr-top h2 a:hover {text-decoration: underline;}
+.gr-top span {color: #fff; text-shadow: 0px 0px 5px #9f8066;}
+.gr-top img {display: none;}
+.gr-body {border-width: 0 1px 1px; border-style: solid; border-color: #fff; overflow: visible;}
+.gr-body .grf-indent {margin-top: -410px; position: relative; z-index: 300;}
+.gr-body .text {color: #fff; font-size: 9pt; line-height: 14pt; padding: 15px 33px 37px; margin-top: 400px;}
+.gr-body .text a {color: #fcbcee;}
+.gr-body .text a:hover {color: #ffddf7;}
+.gr-body .bottom {color: #196ba7; cursor: default; text-transform: uppercase; letter-spacing: 2px; font-size: 6pt;}
+.gr-body .bottom a {text-decoration: none; color: #805181;}
+.gr-body .bottom a:hover {text-decoration: none; color: #fff;}
+.gr-body .bottom a.commentslink {font-weight: bold;}
+hr {border-width: 1px 0 0 0; border-style: solid; border-color: #805181;}
+.photoalbum {margin: 30px 0; padding: 30px 20%; background: rgb(5, 10, 27); border-radius: 10px; text-align: center;}
+.photoalbum img.photo {max-width: 100%; height: auto; border: 6px solid white; box-shadow: 1px 1px 3px black; display: block; margin: 0 auto;}
+/*
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/winyumi/art/Butterfly-Journal-Skin-379034453">Butterfly Journal Skin</a> by <a href="https://www.deviantart.com/Winyumi">Winyumi</a>
+</sub>
+*/

@@ -1,0 +1,230 @@
+.journalbox 
+{
+max-width: 598px;
+_width: 598px;
+color: #48720C;
+font-size: 11px;
+font-family:  Trebuchet MS;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+
+.journaltop 
+{
+height: 180px;
+color: #FFFFFF;
+display:block;
+text-shadow:0 0 20px #A9D533,0 0 10px #A9D533,0 0 5px #A9D533;
+background: url(https://fc09.deviantart.net/fs71/o/2011/305/f/4/266622182_324768_grasstypehead.png) no-repeat top center;  
+font-family: Trebuchet MS; 
+font-size: 10px;
+padding: 150px 25px 0px 0px;
+text-align: center;
+}
+
+.journaltop h2 
+{
+color: #FFFFFF;
+display: block;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:normal;
+text-shadow:0 0 20px #A9D533,0 0 10px #A9D533,0 0 5px #A9D533;
+background-color: transparent; 
+font-family: century gothic;
+font-size: 25px; 
+font-weight: normal; 
+letter-spacing: 1px;
+text-align: center;
+padding: 145px 0px 0px 0px;
+}
+.text strong {
+color:#FFFFFF;
+font-family: century gothic; 
+display: block;
+font: bold 150%/100%  
+overflow: auto none;
+font-weight:bold;
+text-shadow:0 0 10px #0E5718,0 0 10px #0E5718,0 0 5px #0E5718;
+background-color: transparent; 
+font-size: 15px;
+text-align: center;
+padding-bottom: 1px;
+}
+
+.text p{
+color: #31741B;
+font-size: 12px;
+font-family: century gothic;
+text-align: center; 
+text-shadow: #4FCB48 1px 1px 1px;
+background-color:#ffffff;
+margin: 5px 35px 5px 35px;
+border:1px dashed #13551C; 
+padding:10px;
+-moz-border-radius: 6px;
+
+}
+
+.journaltop img 
+{
+display: none;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+width:95px;
+height:95px;
+opacity: 0.70;
+padding: 5px;
+border: 1px dashed #FCAD04;}
+
+.thumbs img:hover{
+opacity: 100;
+background: #F7E943;
+border: 1px dashed #fff;}
+
+.journalbox .list li {
+text-align: center;
+font-family: century gothic;
+font-size: 11px;
+text-shadow: #C0C0C0 1px 1px 1px;
+padding: 2px;
+margin: 2px;
+border: 1px dashed #FFF;
+border-radius: 115px;
+    background-color: #ffffff !important;
+    color: #26AB31 !important;
+}
+
+.journalbox .list li.a {
+    background-color: #D2F556 !important;
+    color: #214B11 !important;
+}
+
+.journaltext 
+{
+background-image: url(https://fc08.deviantart.net/fs70/o/2011/305/e/0/266622182_324769_grasstypebg.png);
+padding: 30px 55px 0px 55px;
+text-align: justify;
+}
+.journalbox .journaltext b {
+	color:#8A660E;
+	font-family:century gothic;
+	font-size:13px;
+	font-weight:bold;
+        text-transform:none;
+	text-decoration:none;
+}
+.journalbox .journaltext u {
+	text-decoration: normal;
+	color:#F1312C;
+	font-family: Trebuchet MS; 
+	font-size:12px;
+	font-weight: bold;
+}
+.journalbox .journaltext i {
+	color:#9A4B17;
+	font-family:century gothic;
+	font-size:12px;
+	font-weight:italic;
+        text-transform:none;
+	text-decoration:none;
+}
+.journaltext a
+{
+color: #960A05;
+font-family: century gothic; 
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #F10B0D;
+text-decoration: underline;
+}
+
+.boxtitle{
+font-size: 15px;
+font-weight: bold;
+color: #A3312A;
+display:block;
+text-shadow: #F89CCC 1px 1px 2px;
+margin: 10px 0 -10px 0;}
+
+.scrollbox{
+background: nonce;
+overflow: auto;
+color: #405E2E;
+text-shadow: #989898 1px 1px 1px;
+height: 150px;
+padding: 5px;
+border:1px dashed #30C546;}
+
+.scrollbox a{color: #621326;}
+
+.journalbottom 
+{
+background: url(https://fc09.deviantart.net/fs71/o/2011/305/2/a/266622182_324770_grasstypefoot.png) no-repeat; 
+height: 101px;
+padding: 0px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: century gothic;
+font-size: 11px;
+color: #F10B0D;
+text-decoration: bold;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #2A6C17;
+text-decoration: underline;
+}
+
+.footer
+{
+font-size: 10px;
+padding: -90px 0px 0px 0px;
+}
+
+.footer a
+{
+color: #404496;
+text-decoration: none;
+}
+
+.footer a:hover
+{
+color: #6F2F0D;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Artist does not allow editing
+
+Scrollbox:
+<div class="scrollbox">Text here </div>
+Bold:
+<b> Text here</b>
+Strong Text:
+Text here
+Re-Color/Underline:
+<u> Text here</u>
+Parragraph:
+<p> Text here</p>
+Italic:
+<i> Text here</i>
+Thumb Effect:
+<div class="thumbs"> Art here </div>
+
+--Footer Code--
+<div class="footer"><div align="center">
+Artwork by::devashflura:
+Original CSS by :devLilyas: Graph design by::devhinachuu:
+Thx to :devginkgografix: for CSS Tutorials
+And Resources by::devIllusion-Kat:&:devGillianIvy:</a></div>
+*/

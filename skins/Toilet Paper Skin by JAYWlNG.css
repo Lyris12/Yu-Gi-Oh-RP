@@ -1,0 +1,65 @@
+.journalbox {
+width: 600px;
+border: none;
+margin: auto;
+background-color: transparent;
+color: #5A6371;
+}
+
+.journaltop {
+background: url(https://fc07.deviantart.net/fs71/o/2012/224/7/d/320590195_457315_header.png);
+height: 420px;
+padding-left: 123px;
+padding-top: 40px;
+}
+
+.journaltop img {display: none;}
+
+
+.text {
+background: url(https://fc03.deviantart.net/fs71/o/2012/224/f/5/320590195_457316_center.png);
+min-height: 207px;
+margin-top: -10px;
+padding-left: 233px;
+padding-right: 30px;
+text-shadow: -1px 0 #E8ECED, 0 1px #E8ECED, 1px 0 #E8ECED, 0 -1px #E8ECED;
+}
+
+.journalbottom {
+background: url(https://fc05.deviantart.net/fs71/o/2012/224/2/9/320590195_457317_footer.png);
+height: 82px;
+text-align: center;
+margin-top: -3px;
+padding-left: 203px;
+padding-top: 10px;
+}
+
+.journalbox A:link {color: #8B94A3;}
+.journalbox A:hover {color: #8B94A3;}
+.journalbox A:active {color: #8B94A3;}
+.journalbox A:visited {color: #8B94A3;}
+
+.list .a {
+background: transparent;
+}
+
+.list{
+background: #E8ECED;
+border: 5px solid #9DA8B1;
+-moz-border-radius: 20px;
+position: absolute;
+_position: relative;
+top: 410px;
+width: 200px;
+text-align: right;
+margin-left: 18px;
+overflow: hidden;
+opacity: 0.50;
+}
+
+.list:hover {
+opacity: 1.00;
+}
+/*
+! There is a gap between the body and footer
+*/

@@ -1,0 +1,53 @@
+.gr-box{width: 450px; margin: auto; color: #f19f52; font-family: Verdana, sans-serif; background: transparent url(https://fc04.deviantart.com/fs51/o/2009/297/8/a/141308277_93270_halloween_top2.png) top center no-repeat;}
+
+.gr{background: transparent; border: none;}
+.gr1 {display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{border: none;  width: 420px; margin: auto; background: transparent; padding: 418px 0 0 0;}
+
+.gr-top img{background: transparent; display: none;}
+
+.gr-top span{ background: transparent; color: #bb562c; display: block; text-align: center; }
+
+h2{color: #ad4b22; font-size: 27px; text-align: left; letter-spacing: 0.03em;}
+
+.list{display: none;}
+
+.text{background: url(https://fc09.deviantart.com/fs50/o/2009/297/0/6/141308277_93271_halloween_body.png) top center repeat-y; width: 411px; padding: 0 20 0 10; margin: auto;}
+
+
+.gr-body{ background: transparent; border: none; overflow:visible!important; padding-bottom: 20px;}
+
+.scrollbox {background:#f9a95b; border:1px #ad4b22 solid; min-height:100px; max-height:300px; width: 350px; _height:300px; overflow:auto; padding:10px; color: #1f0f23;}
+
+.links {text-align: center; margin: -170px 0px 0px 0px; padding: 0px 0px 0px 0px; width: 150px; height: 150px; right: 40px; position: absolute; z-index: 50;}
+
+.links a {display: block; margin: 0px 0px 0px 0px; padding: 10px 0px 5px 0px; width: 150px; height: 15px; _height: 35px;
+background:url(https://fc00.deviantart.com/fs50/o/2009/297/e/d/141308277_93272_halloween_links1.png) no-repeat; background-position: 0px 0px; color: #cc8444; font-size: 9px; font-weight: bold; text-align: center; text-decoration: none!important;}
+
+.links a:hover {background:url(https://fc00.deviantart.com/fs50/o/2009/297/e/d/141308277_93272_halloween_links1.png) no-repeat; font-size: 10px; color: #ad4b22;}
+
+.body a{color: #deba62;}
+.body a:hover{text-decoration: none;}
+
+.bottom{background: url(https://fc07.deviantart.com/fs51/o/2009/297/1/4/141308277_93273_halloween_bottom.png) bottom center no-repeat; position: absolute; width: 458px; height: 30px; bottom: 10px; color: #cc8444;}
+
+.bottom a{color: #cc8444;  font-size: 10px; font-weight: bold; text-decoration: none;}
+
+.bottom a:hover{color: #ad4b22; font-size: 11px; font-weight: bold; text-decoration: none;}
+/*
+! There is a large, white gap
+
+To use the scrollbox, go into Journal edit mode--->Journal Text tab---> write:
+<****div class="scrollbox">.....CONTENT OF THE SCROLLBOX GOES HERE<**** /div>
+
+--Header Code--
+<div class="links"><a href="https://seiorai.deviantart.com/">Watch me</a><a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery</a><a href="https://www.deviantart.com/marufuji--ryou/favourites/">Faves</a></div>
+<div class="body">
+--End Header Code--
+--Footer Code--
+</div>
+*/

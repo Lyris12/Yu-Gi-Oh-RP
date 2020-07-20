@@ -1,0 +1,253 @@
+.journalbox {
+background: #151617;
+border: none;
+font-family:  Verdana, Lucida Console, 'Georgia' ,serif;
+padding: 0 0 10px;
+margin: 0;
+}
+.journaltext {
+font-family:  Verdana, Lucida Console, 'Georgia' ,serif;
+width: auto;
+height: auto;
+padding: 64px 14px 10px;
+margin: -68px 30px 70px 115px;
+border: 1px solid #3c3c3d;
+border-bottom: 2px solid #000;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+color: #627881;
+background: #19191a;
+background: url(https://fc07.deviantart.net/fs70/o/2011/031/5/a/195636468_172489_text_bg.png) top left repeat-x #000;
+box-shadow: #000 5px 0px 25px, #000 -5px 8px 25px;
+line-height:15px;
+}
+.journaltext a {
+color: #378;
+}
+.journaltext a:hover {
+color: #fff;
+}
+.journaltext ul {
+line-height: 1em;
+list-style: disc;
+}
+.journaltext ul li{
+display: list-item;
+margin: -5px 0;
+padding: 0;
+line-height:1em;
+}
+.journaltop {
+color:transparent;
+text-align:center;
+height: 150px;
+background: url(https://fc09.deviantart.net/fs70/o/2011/031/8/2/195636468_172490_header.png) repeat-x;
+}
+.journaltop h2 {
+text-align: center;
+display: block;
+font: bold 150%/100%  Verdana, Lucida Console, 'Georgia' ,serif;
+overflow: auto none;
+margin: 100px 60px 0 120px;
+color: #0076ae;
+text-shadow: 0 1px 0 #00ffff, 0 -1px 2px #00ffff;
+letter-spacing: 1px;
+}
+.journaltext em {
+text-align: center;
+display: block;
+font: bold 150%/100%  Verdana, Lucida Console, 'Georgia' ,serif;
+color: #0076ae;
+text-shadow: 0 1px 0 #00ffff, 0 -1px 2px #00ffff;
+letter-spacing: 1px;
+}
+.journaltop h2 img {
+display:none;
+}
+.journaltop span {
+text-align:center;
+color:#627881;
+display:block;
+padding-left: 60px;
+margin: -5px 0 0;
+}
+.topbar {
+position:absolute;
+top: 0;
+left: 0;
+width: 666px;
+height: 50px;
+background: url(https://fc01.deviantart.net/fs70/o/2011/031/2/2/195636468_172491_top_bar.png) no-repeat;
+font-size:90%;
+}
+.topbar ul {
+list-style: none;
+font-size: 90%;
+margin: 23px 0 0 60px;
+}
+.topbar ul li {
+display: inline;
+list-style-type: none;
+}
+.topbar ul li a:hover{
+color:#fff;
+}
+.topbar ul li.comminfo {
+display: inline-block;
+list-style-type: none;
+padding-right: 50px;
+width: 100px;
+height: 12px;
+overflow: hidden;
+}
+.topbar ul li.watchme {
+display: inline-block;
+list-style-type: none;
+padding-right: 40px;
+width: 80px;
+height: 12px;
+overflow: hidden;
+}
+.topbar ul li.noteme{
+display: inline-block;
+list-style-type: none;
+padding-right: 45px;
+width: 80px;
+height: 12px;
+}
+.topbar ul li.memail{
+display: inline-block;
+list-style-type: none;
+width: auto;
+height: 12px;
+overflow: hidden;
+}
+.mavatar {
+width: 70px;
+height: auto;
+display: block;
+margin: -50px 0 0 -87px;
+border: 1px solid #3c3c3d;
+border-bottom: 2px solid #000;
+border-right: none;
+-webkit-border-radius: 8px 0 0 8px;
+-moz-border-radius: 8px 0 0 8px;
+border-radius: 8px 0 0 8px;
+color: #627881;
+background: #19191a;
+background: url(https://fc00.deviantart.net/fs70/o/2011/031/6/7/195636468_172492_av_bg.png) top left repeat-x #000;
+float: left;
+}
+.mavatar a img{
+display: block;
+width: auto;
+height: auto;
+border: none;
+margin: 10px;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}
+.journalbottom {
+margin: 0 0 0 80px;
+}
+.journalbottom a{
+text-decoration: underline;
+}
+.journalbottom a:hover {
+color: #fff;
+}
+.journalbottom span {
+
+}
+ul.list {
+margin-bottom:100px;
+background: #151617;
+color: #5d6267;
+margin-left: 43px;
+height: auto;
+
+width: auto;
+height: auto;
+padding: 84px 14px 10px;
+margin: -68px 30px 60px 115px;
+border: 1px solid #3c3c3d;
+border-bottom: 2px solid #000;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+color: #627881;
+background: #19191a;
+background: url(https://fc07.deviantart.net/fs70/o/2011/031/5/a/195636468_172489_text_bg.png) top left repeat-x #000;
+box-shadow: #000 5px 0px 15px, #000 -5px 8px 15px;
+}
+ul.list li {
+background: transparent;
+color: #5d6267;
+padding: 0 0 5px 0;
+}
+ul.list li strong {
+background: transparent;
+color: #5d6267;
+}
+blockquote {
+background: url(https://fc04.deviantart.net/fs70/o/2011/031/4/3/195636468_172493_bq_bg.png) top left no-repeat #121212;
+margin: 10px 31px;
+padding: 33px 23px 23px;
+line-height: 1.2em;
+font-style: italic;
+}
+.shadow-holder {
+margin: 0 0 5px 2px;
+width: 90px;
+height: 90px;
+}
+.mild {
+border: 1px solid #3c3c3d;
+border-bottom: 2px solid #030303;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+color: #627881;
+background: #19191a;
+background: url(https://fc07.deviantart.net/fs70/o/2011/031/5/a/195636468_172489_text_bg.png) top left repeat-x #000;
+box-shadow: #000 5px 0px 15px, #000 -5px 8px 15px;
+overflow: hidden;
+width: 80px;
+height: 80px;
+float:left;
+}
+.mild a {
+height:80px; display:block;overflow: hidden;
+}
+.mild img {
+padding:1px;
+}
+.final {
+clear:both;
+display:block;
+height:0;
+color:transparent;
+display:none;
+}
+b {
+color: #7ca0af;
+font-weight: bold;
+}
+.amazingKovowolf {
+margin: 0 auto;
+width: 230px;
+font-size: 70%;
+letter-spacing: 1px;
+opacity: .20;
+}
+/*
+--Header Code--
+<div class="topbar"><ul><li class="comminfo"><a href="http://3dserg.be/">My website</a></li><li class="watchme"><a href="https://my.deviantart.com/deviants/add/sergbel">Watch Me</a></li><li class="noteme"><a href="https://my.deviantart.com/global/notes/form.php?to_user=sergbel">Note Me</a></li><li class="memail">comicsserg[at]live[dot]com</li></ul></div>
+<div class="mavatar">:iconsergbel:</div>
+--End Header Code--
+--Footer Code--
+<p class="final"> </p>
+<div class="ultimatefloat"><div class="amazingKovowolf">designed by :devkovowolf: coded by :devsergbel:</div></div>
+*/

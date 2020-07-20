@@ -1,0 +1,214 @@
+.journalbox {
+min-width:450px;
+background-color:#e0dffd;
+background-image:url(https://fc02.deviantart.net/fs71/o/2010/155/8/c/166460017_130350_header.png);
+background-position:top right;
+background-repeat:no-repeat;
+border: 0px;
+text-align:left;
+color:#323c64;
+text-decoration:none;
+padding-bottom: 8px;
+}
+.journalbox div.text a {
+color:#860f3a;
+text-decoration:none !important;
+font-weight:bold;
+}
+.journalbox div.text a:hover {
+color:#323c64;
+text-decoration:underline!important;
+font-weight:bold;
+}
+.journalbox .boxtop {
+background-color:transparent !important;
+text-align:right;
+line-height:460px;
+font-size:10px;
+color:#860f3a;
+height:215px !important;
+padding-right:20px;
+}
+.journalbox .boxtop h2 {
+color:#8ea8ca;
+font-size:0px;
+font-weight:normal;
+text-align:left;
+}
+.journaltop h2 img {
+display:none;
+}
+.freestyleheader {
+color:#860f3a;
+position:absolute;
+top:10px;
+left:10px;
+font-size:120px;
+font-weight:normal;
+text-align:left;
+font-family:'palatino linotype';
+text-transform:uppercase;
+letter-spacing:-16px;
+z-index:1;
+}
+.freestyleheader_title {
+color:#323c64;
+position:absolute;
+top:138px;
+left:60px;
+font-size:18px;
+font-weight:normal;
+text-align:center;
+font-family:'palatino linotype';
+text-transform:uppercase;
+letter-spacing:1px;
+z-index:10;
+}
+.journalbox ul.list {
+font-size:10px;
+text-align:center;
+color:#323c64;
+background-color: transparent !important;
+text-decoration:none;
+min-height:100px;
+padding:10px 10px 0px 10px;
+margin-top:20px;
+}
+.journalbox .f {
+color:#323c64;
+background-color: transparent !important;
+}
+.title {
+color:#323c64;
+background-color:transparent !important;
+font-size:14px;
+font-weight:bold;
+font-family:'palatino linotype';
+line-height:17px;
+height:60px;
+text-align:left;
+text-transform:uppercase;
+letter-spacing:+1px;
+padding-left:50px;
+padding-top:14px;
+}
+.title2 {
+color:#323c64;
+background-color:transparent !important;
+background-image:url(https://fc04.deviantart.net/fs70/o/2010/155/3/5/166460017_130351_title2.png);
+background-position:top left;
+background-repeat:no-repeat;
+font-size:14px;
+font-weight:bold;
+font-family:'palatino linotype';
+line-height:14px;
+height:35px;
+text-align:left;
+text-transform:uppercase;
+letter-spacing:+1px;
+padding-left:90px;
+padding-top:27px;
+padding-bottom: 10px;
+}
+.contentbox {
+color:#323c64;
+min-height:300px;
+background-color:#d6d5f5;
+background-image:url(https://fc09.deviantart.net/fs71/o/2010/155/b/1/166460017_130352_titlecontent.png);
+background-position:top left;
+background-repeat:no-repeat;
+padding:0px 20px 20px 20px;
+text-align:left;
+border-top:3px solid #084b74;
+border-bottom:3px double #900a35;
+border-left:3px double #900a35;
+border-right:3px solid #084b74;
+margin-right: 15px;
+}
+.scrollbox {
+color:#323c64;
+height:200px;
+background-color:#d6d5f5;
+padding:0px 10px 10px 10px;
+text-align:left;
+border-top:3px solid #084b74;
+border-bottom:3px double #900a35;
+border-left:3px double #900a35;
+border-right:3px solid #084b74;
+margin-right: 15px;
+overflow:auto;
+}
+.footer {
+color:#323c64;
+background-color: #d6d5f5;
+background-image:url(https://fc09.deviantart.net/fs71/o/2010/155/b/1/166460017_130352_titlecontent.png);
+background-position:top left;
+background-repeat:no-repeat;
+height:100px;
+text-align:center;
+margin-right:15px;
+border-top:3px solid #084b74;
+border-bottom:3px double #900a35;
+border-left:3px double #900a35;
+border-right:3px solid #084b74;
+line-height:16px;
+font-size:11px;
+padding: 14px 0px 18px 0px;
+}
+.journalbox div.alink {
+background-color:transparent!important;
+text-decoration:none;
+text-align:center;
+line-height:26px;
+font-size:14px;
+border-top:1px solid #860f3a;
+border-bottom:1px solid #860f3a;
+padding-top:4px;
+}
+.journalbox div.alink a {
+color:#860f3a;
+text-decoration:none !important;
+font-weight:bold;
+}
+.journalbox div.alink a:hover {
+color:#323c64;
+text-decoration:underline!important;
+font-weight:bold;
+}
+.codebox {
+margin-left: 30px;
+margin-right: 30px;
+padding: 10px;
+color: #000000;
+background-color: #ffffff;
+text-align: left;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- COPY the following code below into the MAIN JOURNAL TEXT AREA
+<div class="contentbox">
+<div class="title">EDIT CONTENTBOX TITLE HERE</div>
+ADD CONTENT HERE
+</div>
+<div class="title2">TITLE2 EXAMPLE YOU MAY WISH TO COPY OR DELETE</div>
+EXAMPLE TEXT YOU MAY WISH TO EDIT WITH YOUR OWN CONTENT OR DELETE
+<div class="scrollbox">
+<div class="title2">EDIT SCROLLBOX TITLE HERE</div>
+ENTER CONTENT HERE
+</div>
+
+--Header Code--
+<div class="header">
+<div class="freestyleheader">J O U R N A L</div>
+<div class="freestyleheader_title"><b>YOU MUST EDIT THIS TITLE HERE!</b></div>
+</div>
+--End Header Code--
+--Footer Code--
+<div class="footer"><b>All the artworks on display in my gallery are copyrighted ©2010 [USERNAME]
+ALL RIGHTS RESERVED</b>
+
+All the materials contained in my DeviantART gallery may not
+be reproduced, copied, tubed, edited, published, transmitted
+or uploaded in any way without my written permission.</div>
+*/

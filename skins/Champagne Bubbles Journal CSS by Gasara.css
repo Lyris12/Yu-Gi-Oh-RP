@@ -1,0 +1,195 @@
+.journalbox {
+margin:auto;
+border: 1px solid #aaaaaa;         
+background-color:#ffffff;
+padding:0px 0px 0px 0px;
+}
+
+.journaltop {
+background-position: right;
+background-image: url(https://fc05.deviantart.net/fs71/o/2012/197/a/b/314834043_437348_champagne2_by_gasara-d57fcrt.gif);       
+color:#888888;
+font-size: 8px;
+text-align: right;
+padding: 40px 0px 40px 0px;
+margin: 0px 0px 0px 0px;
+}
+
+.journaltop img {
+display: none;
+}
+
+.journaltop span {
+color:#aaaaaa;
+font-size:8px;
+padding-right: 20px;
+}
+
+.journaltop h2 {
+font-family: Times new roman;
+color:#888888;
+text-transform: uppercase;
+letter-spacing: 6px;
+font-size:12px;
+text-align: right;
+padding: 10px 30px 10px 10px; 
+background-color: #ffffff;
+margin-bottom: 4px;
+}
+
+.journaltext{
+padding: 0px;
+}
+
+.sidebar{
+float: left;
+width: 140px;
+margin: 0px 15px 10px 0px;
+font-size: 11px;
+color: #888888;
+_position: relative;
+background: #ffffff;
+padding:10px;
+}
+
+.sbarheader{
+font-size: 12px;
+font-family: times new roman;
+letter-spacing: 3px;
+border-bottom: 1px dashed #aaaaaa;
+color: #888888; 
+padding: 10px;
+text-decoration: none;
+display: block;
+margin-bottom: 10px;
+}
+
+.sbarlink a{
+display: block;
+margin: 5px 0px 5px 0px;
+font-size: 12px;
+font-family: times new roman;
+letter-spacing: 3px;
+color: #cbb791; 
+text-decoration: none;
+padding: 5px 20px 5px 5px;
+font-weight: normal!important;
+}
+
+.sbarlink a:hover{
+display: block;
+margin: 5px 0px 5px 0px;
+font-size: 12px;
+font-family: times new roman;
+letter-spacing: 3px;
+color: #888888; 
+text-decoration: none;
+background-color: #f7f7f7;
+padding: 5px 20px 5px 5px;
+}
+
+.entry {
+margin-left: 160px;
+font-family: times new roman;
+margin-top: 0px;
+padding: 0px 20px 0px 20px;	    
+color: #aaaaaa;
+background-color: #ffffff;
+font-size: 13px;          
+}
+
+.entry a {
+color:#cbb791;
+text-decoration:none;
+font-weight: normal!important;
+}
+
+.entry a:hover {
+color:#888888;
+background-color: #f7f7f7;
+text-decoration:none;
+}
+
+a.external:after {
+display:none!important;
+}
+
+.journalbottom {
+background-image: url(https://fc05.deviantart.net/fs71/o/2012/197/a/b/314834043_437348_champagne2_by_gasara-d57fcrt.gif);
+padding: 15px 0;
+font-family: courier new;
+text-transform: uppercase;
+color:#eeeeee;
+letter-spacing: 4px;
+font-size:11px;
+margin: 0 0 0px 0;
+clear: both;
+}
+
+.feature {
+font-family: times new roman;
+background-image: url(https://fc05.deviantart.net/fs71/o/2012/197/a/b/314834043_437348_champagne2_by_gasara-d57fcrt.gif);
+font-size: 13px;
+color: #cbb791;
+text-align: center;
+padding: 10px 10px 10px 10px;
+margin: 0px 20px 0px 20px;
+ }
+
+strong {
+color: #ffffff;
+background-color: #cbb791;
+padding: 0px 2px 0px 2px;
+}
+
+a {
+color:#cbb791;
+text-decoration:none
+font-weight: normal!important;
+}
+
+a:hover {
+color:#888888;
+text-decoration:none;
+}
+
+b {
+color:#cbb791;
+}
+
+.list {
+display: none;
+}
+
+.center {
+text-align:center;
+}
+
+.shadow {
+padding:10px;
+background-color: #dddddd;
+border: 1px dashed #aaaaaa;
+}
+.shadow:hover {
+background-color:#cbb791;
+background-image:none;
+}
+.shadow-holder {
+margin:1px;
+vertical-align:middle;
+background-image:none;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Width
+To set the skin to a certain width add the following to the .journalbox section of the journal CSS:
+width: --px;
+
+--Header Code--
+<div class="sidebar"><div class="sbarheader">Menu</div><div class="sbarlink"><a href="..."><img src="https://fc01.deviantart.net/fs70/o/2012/197/b/e/314834043_437349_fleur_icon_by_gasara-d57fdqq.gif"> Link 1</a></div><div class="sbarlink"><a href="..."><img src="https://fc01.deviantart.net/fs70/o/2012/197/b/e/314834043_437349_fleur_icon_by_gasara-d57fdqq.gif"> Link 2</a></div><div class="sbarlink"><a href="..."><img src="https://fc01.deviantart.net/fs70/o/2012/197/b/e/314834043_437349_fleur_icon_by_gasara-d57fdqq.gif"> Link 3</a></div><div class="sbarlink"><a href="..."><img src="https://fc01.deviantart.net/fs70/o/2012/197/b/e/314834043_437349_fleur_icon_by_gasara-d57fdqq.gif"> Link 4</a></div>
+</div><div class="entry">
+--End Header Code--
+--Footer Code--
+</div>
+*/

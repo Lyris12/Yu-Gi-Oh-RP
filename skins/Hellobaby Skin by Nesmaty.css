@@ -1,0 +1,185 @@
+.gr-box{
+  background: url(https://fc01.deviantart.net/fs70/o/2013/152/e/a/375196161_939140_ee_by_soulfighty-d67dda5.jpg) top right repeat-y;
+  background-size: 700px;
+  border: none;
+  box-shadow: 0px 0px 4px 0px #05284b;
+  color: #255f74;
+  cursor: url(https://fc08.deviantart.net/fs70/o/2013/152/d/e/375196161_939141_wa_06_by_soulfighty-d67ddar.png), auto;
+  font-family: 'Philosopher', sans-serif;
+  margin: 5px auto 5px auto!important;
+  max-width: 700px!important;
+  overflow: hidden;
+  padding: 0px;
+}
+
+.gr-box a{
+  color: #67c3dc;
+  cursor: url(https://fc08.deviantart.net/fs70/o/2013/152/d/e/375196161_939141_wa_06_by_soulfighty-d67ddar.png), pointer;
+  font-family: 'Philosopher', sans-serif;
+  text-decoration: none;
+}
+
+.gr-box a:hover{
+  color: #255f74;
+  cursor: url(https://fc08.deviantart.net/fs70/o/2013/152/d/e/375196161_939141_wa_06_by_soulfighty-d67ddar.png), pointer;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+.gr1, .gr2, .gr3, .tri, .gr-top h2 img, .indent, .list, .prevlink, .hsep{
+  display: none;
+}
+
+.gr-top div.gr{
+  background: transparent;
+  border: none;
+}
+
+.gr-top{
+  background: transparent;
+  border: none;
+  height:0px!important;
+  margin: 0px;
+}
+
+h2{
+  border: none;
+  color:#255f74!important;
+  cursor: url(https://fc08.deviantart.net/fs70/o/2013/152/d/e/375196161_939141_wa_06_by_soulfighty-d67ddar.png), pointer;
+  font-size: 35px;
+  left: 20px!important;
+  position: relative;
+  text-align: left;
+  top: 570px!important;
+  width: 100%;
+}
+
+h2 a{
+  color:#255f74!important;
+  font-family: 'Philosopher', sans-serif;
+}
+
+h2 a:hover{
+  color:#67c3dc!important;
+}
+
+.gr-top span{
+  color: #255f74;
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  right: -25px!important;
+  text-align: left;
+  top: 500px!important;
+  width: 100%;
+  z-index: 3!important;
+}
+
+h1, h3, h4, h5, h6{
+  color:#255f74!important;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 120% important;
+  font-weight: bold;
+}
+
+.gr-body{
+  background: transparent url(https://fc09.deviantart.net/fs70/o/2013/152/7/d/375196161_939142_hello_01_by_soulfighty-d67df24.jpg) top right no-repeat;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.gr-body .gr {
+  border: none;
+}
+
+.gr-body .text{
+  background: #ffffff;
+  border: 1px solid #b1b9ba;
+  box-shadow: 0px 0px 4px 0px #05284b;
+  color: #255f74;
+  font-size: 16px;
+  line-height: 23px;
+  margin: 770px 50px 120px 50px;
+  overflow: hidden;
+  padding: 0px 50px 50px 50px;
+}
+
+.c{
+  border: none!important;
+  bottom: 170px;
+  font-size: 20px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  z-index: 3;
+}
+
+.c a{
+  color:#255f74!important;
+  font-family: 'Philosopher', sans-serif;
+  font-weight: bold;
+}
+
+.c a:hover{
+  color:#d37d3e!important;
+  font-family: 'Philosopher', sans-serif;
+  font-weight: bold;
+}
+
+.Footer{
+  border: none!important;
+  bottom: 10px;
+  font-size: 12px;
+  position: relative;
+  right: 30px;
+  text-align: left;
+  z-index: 2;
+}
+
+.Flower{
+  background: transparent url(https://fc04.deviantart.net/fs71/o/2013/152/9/1/375196161_939143_wa_03_by_soulfighty-d67ddb1.png) bottom center no-repeat;
+  border: none!important;
+  height: 285px;
+  position: absolute;
+  right: 35px;
+  top: 460px;
+  width: 228px;
+  z-index: 4;
+}
+
+.linkbox{
+  background: #ffffff;
+  border: 1px solid #b1b9ba;
+  box-shadow: 0px 0px 4px 0px #05284b;
+  font-size: 16px;
+  font-weight: bold;
+  left: 50px;
+  padding: 30px;
+  position: absolute;
+  right: 50px;
+  text-align: center;
+  top: 630px;
+  z-index: 3;
+}
+
+.shadow-holder img {
+  border: none;
+  box-shadow: 0px 0px 4px 0px #255f74;
+  margin: auto 5px auto 5px;
+  z-index: 1;
+}
+
+.shadow-holder img:hover {
+  box-shadow: 0px 0px 4px 1px #05284b;
+}
+/*
+! Header image is not showing
+
+--Header Code--
+<div class="linkbox"><a href="https://soulfighty.deviantart.com/">Profile</a> | <a href="https://soulfighty.deviantart.com/gallery/">Gallery</a> | <a href="https://my.deviantart.com/messages/">Inbox</a></div>
+--End Header Code--
+--Footer Code--
+<div class="Footer">Header image &#x00a9; :devhellobaby: .. Skin CSS &#x00a9; :devsoulfighty:</div>
+<div class="Flower"></div>
+*/

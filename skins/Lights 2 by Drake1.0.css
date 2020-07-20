@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+.gr1 { z-index: -200; visibility: hidden; }
+.gr2 { z-index: -200; visibility: hidden; }
+.gr3 { z-index: -200; visibility: hidden; }
+.tri { z-index: -200; visibility: hidden; }
+.gr-top h2 img { display: none; }
+.hsep { display: none; }
+.gr-box{
+    background: url('https://fc07.deviantart.net/fs70/o/2011/262/d/0/259220636_306614_259218031_306608_logo.jpg') top center no-repeat #151515;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.gr { background-color: transparent; border: none; padding: 0 !important; }
+.gr-top {
+    background: none transparent;
+    margin: 0 auto;
+    border: 0;
+    padding: 115px 25px 0;
+    text-align: left;
+}
+.gr-top h2 {
+    background-color: transparent;
+    font-family: Questrial, Arial, sans-serif;
+    font-size: 30px;
+    color: #FFF;
+    text-shadow: 0px 0px 10px #000;
+    margin: 0 auto 5px;
+    padding: 0;
+    font-weight: normal;
+}
+.gr-top span {
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+    color: #FFF;
+    display: block;
+    text-shadow: 0px 0px 5px #000;
+    text-transform: uppercase;
+    padding: 0;
+    letter-spacing: 0.25em;
+}
+.gr-body {
+    margin: 20px auto 0;
+    background: none transparent;
+    padding: 0;
+    border: 0;
+}
+.text {
+    border: 0;
+    padding: 20px;
+    background: url('https://fc06.deviantart.net/fs71/o/2011/262/b/6/259220636_306615_259218031_306609_transp.png') top repeat transparent;
+    font-family: 'Segoe UI', Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #FFF;
+    line-height: 22px;
+    text-shadow: 1px 1px 0px #000;
+    margin: 0;
+}
+.gr-body .text a { color: #CC692E; text-decoration: none; }
+.gr-body .text a:hover { color: #FF8740; }
+blockquote {
+    padding: 10px 10px 10px 45px;
+    margin: 5px 0 0 0;
+    background: url('https://fc05.deviantart.net/fs70/o/2011/262/e/3/259220636_306616_259218031_306610_quotes1.png') 10px 10px no-repeat #0D0D0D;
+    color: #EEE;
+}
+blockquote p { 
+    padding-right: 55px;
+    background: url('https://fc04.deviantart.net/fs70/o/2011/262/d/7/259220636_306617_259218031_306611_quotes2.png') 100% 100% no-repeat transparent;
+}
+.text h1, .text h2, .text h3, .text h4, .text h5, .text h6 {
+    font-family: Questrial, Arial, sans-serif;
+    font-size: 25px;
+    color: #FFF;
+    font-weight: normal;
+    margin-bottom: -15px;
+    margin-left: 10px;
+    line-height: 27px;
+}
+.text h2 { text-shadow: 0px 0px 10px #FFC600; }
+.text h3 { text-shadow: 0px 0px 10px #FF7200; }
+.text h4 { text-shadow: 0px 0px 10px #FF0000; }
+.text h5 { text-shadow: 0px 0px 10px #36FF00; }
+.text h6 { text-shadow: 0px 0px 10px #006CFF; }
+ul br, ol br { display: none; }
+ul li {
+    list-style: none;
+    background: url('https://fc05.deviantart.net/fs70/o/2011/262/a/0/259220636_306618_259218031_306612_ulicon.png') 0px 8px no-repeat transparent;
+    padding-left: 15px;
+    margin-left: 10px;
+}
+ol li { margin-left: 25px; }
+div.halfCol{
+    float: left;
+    width: 45%;
+    margin-right: 5%
+}
+div.clear { clear: both; }
+hr {
+    border: 0;
+    margin: 20px 0 0;
+    height: 1px;
+    background-color: transparent;
+    border-bottom: 1px solid #0C0C0C;
+    box-shadow: 0px 1px 0px #1D1D1D;
+}
+a img { border: 1px solid #222; margin: 5px; padding: 7px }
+a:hover img { border-color: #555; }
+.list { display: none; }
+.bottom {
+    background: url('https://fc09.deviantart.net/fs71/o/2011/262/b/e/259220636_306619_259218031_306613_bottom.jpg') top center no-repeat transparent;
+    padding: 20px 0 0 0;
+    height: 100px;
+    margin: 0;
+}
+.commentslink {
+    font-family: Questrial, Arial, sans-serif;
+    font-size: 25px;
+    color: #FFF;
+    text-shadow: 0px 0px 10px #000;
+    text-decoration: none;
+}
+.commentslink:hover { text-shadow: 0px 0px 10px #000, 0px 0px 10px #000, 0px 0px 10px #000; }
+.prevlink { display: none; }
+.gr-top h2 a { color: inherit; text-decoration: none; }
+/*
+How to use headings:
+Put the following code:
+<h1>Text here</h1>
+<h2>Text here</h2>
+<h3>Text here</h3>
+<h4>Text here</h4>
+<h5>Text here</h5>
+<h6>Text here</h6>
+How to use blockquotes:
+Put the following code:
+<blockquote>Text here</blockquote>
+If you want the two quotes on your blockquote, put the following code:
+<blockquote>
+<p>Text here</p>
+</blockquote>
+How to use lists:
+Put the following code:
+<ul>
+<li>List Item</li>
+<li>List Item</li>
+</ul>
+Put as many list items you want. And to put an Ordered List, just replace "ul" with "ol"
+You can use two columns if you want,
+just put the following code:
+<div class="halfCol">Text here</div>
+<div class="halfCol">Text here</div>
+<div class="clear">
+</div>
+Do not left any space or linebreak between </div> and <div class="halfCol">
+Other codes you can use:
+To put links: <a href="LINK HERE">List Item</a>
+To put an image: <img src="IMAGE LINK HERE" alt="" />
+To put a separator: <hr />
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/drake1/art/Lights-2-0-259220636">Lights 2.0</a> journal skin by <a href="https://www.deviantart.com/drake1">Drake1</a>
+</sub>
+*/

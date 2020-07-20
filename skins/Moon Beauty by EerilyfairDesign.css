@@ -1,0 +1,155 @@
+.journalbox {
+    background-color: #000000 !important;
+max-width:650px;
+height:1095px;
+    background-image: url(https://fc00.deviantart.net/fs71/o/2012/101/0/8/295303674_386833_295300506_386832_1u5e-1o-093f.png );
+background-repeat:no-repeat;
+}
+
+
+.journaltop
+{
+display:inline;
+background:transparent;
+color:#ffffff;
+font-family:Ruritania;
+font-size:16px;
+width:350px;
+position:absolute;
+top:330px;
+left:50px;}
+
+.journalbox h2 {
+    
+    font-family:Cambria;
+color:white;
+  
+}
+.content
+{
+text-align: justify;
+padding-top:420px;
+margin-left:30px;
+color:#ffffff;
+font-family:Segui UI;
+font-size:12px;
+width:550px;
+height:470px;
+overflow:auto;
+}
+.journaltext
+{
+}
+
+
+
+.journalbottom
+{margin-bottom:10px;}
+
+.commentslink
+{position:absolute;
+bottom:150px;
+left:130px;
+font-family:Times New Roman;
+color:#ffffff;
+font-size:20px;}
+
+.prevlink
+{position:absolute;
+bottom:150px;
+left:330px;
+font-family:Times New Roman;
+color:#ffffff;
+font-size:20px;}
+
+
+
+
+
+.list {
+display:table
+background:transparent;
+position:absolute;
+top:100px;
+left:250px;
+font:Segoe UI;
+font-size:10px;
+text-shadow: #a2b5ff 1px 1px 2px;
+opacity: .5;
+}
+
+
+li.f{background:transparent;
+color:#000000;
+font-size:13px;
+}
+li.a{background:transparent;
+color:#000000;
+font-size:13px;}
+
+strong{
+color:black;
+
+
+font-size:13px;
+}
+
+span.shadow-holder { box-shadow:3 5 10px #000000; display: inline-block; margin: 0 10px 10px 0; background: #483D8B; padding:5px; }
+span.shadow-holder:hover { box-shadow:3 3 3px #000000; background:#483D8B; }
+
+.sidebar p{
+opacity: .5;
+text-shadow: #a2b5ff 3px 3px 5px;
+word-spacing: 2px;
+position:absolute;
+top:50px;
+left:60px;
+text-decoration: underline;
+font-size: 14px;
+letter-spacing: 2px;
+font-weight: thin;
+margin: 0;
+color:#5567b5;
+font-variant: small-caps;
+text-transform: lowercase;
+}
+
+.sidebar a{color: #a2b5ff;}
+
+.copy
+{position:absolute;
+bottom:23px;
+left: 230px;
+border:1px;
+width:400px;
+height:100px;
+overflow:auto;
+color:#ffffff;}
+
+.title
+{
+text-shadow: #ffffff 1px 1px 2px;
+color:#00000;
+font: Calibri;
+font-size:18px;
+text-align:center;
+}
+/*
+:bulletblack: links
+You have to go to 'edit skin' on the top right of your journal writing site -> in the 'Skin Header' section you have to fill in this: < a class="u"href="...">About me</a >
+the ->".." <- with your own links and can rename the different sections.
+
+:bulletblack: titles
+You can use this tag to have custom header: <div class="title">your title</div>
+
+--Header Code--
+<div class="content">
+<div class="sidebar">
+<p>    <a class="u"href="...">About me</a> ||<a class="u" href="...">Favorites</a>|| <a class="u" href="...">Note us</a> <a class="u" href="...">Gallery</a>|| <a class="u" href="...">Facebooks</a>|| <a class="u" href="...">Links</a>
+</div>
+--End Header Code--
+--Footer Code--
+</div>
+<div class="copy"> design & css by :devCelairen:
+Tutorial used :devNeg0ne: border:http://phoenixwildfire.deviantart.com/art/Celtic-Knotwork-Borders-Set-51995200moon: by :devPhoenixWildfire:  http://fav.me/d2fywaw & http://fav.me/d2yseuj by :devwyldraven:</div>
+*/

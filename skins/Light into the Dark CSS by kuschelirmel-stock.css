@@ -1,0 +1,68 @@
+.journalcontrol {}
+.gr-box {}
+.gr-genericbox {}
+.gr1 {display:none;}
+.gr2 {display:none;}
+.gr3 {display:none;}
+.gr-top {background: #17191a url(https://kuschelirmel.de/01da/litd/header.jpg) no-repeat top right; height:236px; border:0; margin:0; padding:0 170px 0 20px;}
+.tri {display:none;}
+.gr {background:none;padding:0; margin:0; border:0; color:#cfe1e5; text-align:left;}
+.gr a {color:#2e7788; text-decoration:none;}
+.gr a:hover {text-decoration:underline;}
+.gr strong {letter-spacing:0.05em;}
+.gr b {letter-spacing:0.08em;}
+.gr blockquote {margin: 0 10px; padding:3px; text-align:justify;}
+.gr h2 { margin:0px; padding: 170px 0px 0px 0px; font: 32px Tempus Sans ITC; color:#ffe389;}
+.gr h2 img {display:none;}
+.gr span {color:#ffbf51; font-size:10px;}
+.gr-body {background: #17191a url(https://kuschelirmel.de/01da/litd/journal-top.jpg) no-repeat top right; border:0; margin:0; padding:0;}
+.gr {}
+.grf-indent { border:0; margin:0; padding:0 20px 160px 20px; background: url(https://kuschelirmel.de/01da/litd/footer.jpg) no-repeat bottom left; }
+.text {line-height: 1.5em;}
+.text ul li b {display:block; padding:3px 0; margin:0;}
+.title {font: 24px Tempus Sans ITC; color:#ffe389;}
+.t2 {font: 18px Tempus Sans ITC; color:#ffe389;}
+.menu {width:120px; float:right; border:0px solid #fdcd33; margin:0 -15px 10px 10px; padding:3px; font-size: 10px;line-height:1.2em;text-align:center;color:#ffe389;}
+.menu a {color:#ffbf51;}
+.navi {text-align:center; margin:0; padding:3px;}
+.footer {text-align:center; font-size: 10px; color:#506069; border-top: 1px dashed #3a3f42; padding: 10px 0; margin:0;line-height: 1.2em; letter-spacing: 1px;}
+.footer a {color:#506069;}
+.footer a:hover {color:#3a3f42; text-decoration:none;}
+.menu .footer {font-size: 8px; border-bottom: 1px dashed #3a3f42;}
+.bottom {font-size: 16px;}
+.bottom span {color:#2e7788;font-size: 16px;}
+.bottom a:hover {color:#ffe389;}
+ul.list {position:absolute; bottom:10px; text-align:left; margin:0px; padding:10px;   color:#ffe389;}
+li.f {padding:2px;font-size: 10px;}
+.a {background:transparent; color:#ffbf51}
+.f strong {color:#ffbf51; font-weight: normal;}
+.a strong {color:#ffe389; font-weight: normal;}
+/*
+! Skin's images are broken
+
+--Header Code--
+<div class="menu">
+<br>
+<br>
+<br>
+<br>
+<b>&#9830; Stock Rules &#9830;</b> 
+<br>
+<a href="https://www.deviantart.com/marufuji--ryou/journal/11273066/">Terms of Use</a>
+<br>
+<br>
+<b>&#9830; CSS &#9830;</b>
+<br>
+<a href="https://www.deviantart.com/kuschelirmel-stock/art/Light-into-the-Dark-CSS-185210176">Light into the Dark</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="footer">You can use the footer (<<i>
+</i>div class="footer"<i>
+</i>>) for whatever you like, for example for a disclaimer or like I do now for credits:
+<br>lantern by <a href="https://www.deviantart.com/pieceofmestock">pieceofmestock</a>, 
+<br>brushes by <a href="https://www.deviantart.com/missfairytaled">missfairytaled</a>, <a href="https://www.deviantart.com/kikariz">kikariz</a> and <a href="https://www.deviantart.com/solenero">solenero</a>
+<br>
+<a href="https://www.deviantart.com/kuschelirmel-stock/art/Light-into-the-Dark-CSS-185210176">Light into the Dark CSS</a> and design by <a href="https://www.deviantart.com/kuschelirmel-stock">kuschelirmel-stock</a></div>
+*/

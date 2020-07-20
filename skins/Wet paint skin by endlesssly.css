@@ -1,0 +1,112 @@
+.journalbox{
+text-align:right;
+border: 1px solid #999999;
+background-image:url(https://fc04.deviantart.net/fs70/o/2011/331/6/b/271160017_336446_wet_paint_bg.jpg);
+background-repeat:repeat;
+background-color:transparent;
+color:#56a328;}
+
+.journaltop{
+text-align:center;
+height:125px;
+font-size:9px;
+padding-top:180px;
+background-image:url(https://fc09.deviantart.net/fs70/o/2011/331/9/2/271160017_336447_wet_paint_head.png);
+background-repeat:no-repeat;
+background-position:top left;
+background-color:transparent;}
+
+.journaltop img{display: none;}
+
+h2{
+color:#56a328;
+font-family: harrison;
+font-size:35px;
+padding-top:10px;
+text-align:center;}
+
+.feature{
+overflow:auto;
+text-align:center;
+color:#333333;
+border: #999999 1px solid;
+font-size:12px;
+display:block;
+padding:15px;
+width:auto;
+background-image:url(https://fc08.deviantart.net/fs71/o/2011/331/b/2/271160017_336448_wet_paint_feature.png);
+background-repeat:repeat;
+background-position:left;}
+
+.header{
+font-family: harrison;
+font-size:20px;
+color:#bd0d6c;
+text-align:left;
+text-indent:85px;
+background-color:#transparent;
+background-image:url(https://fc00.deviantart.net/fs71/o/2011/331/3/6/271160017_336449_wet_paint_header.png);
+background-position:top left;
+background-repeat:no-repeat;
+padding:15px;
+width:auto;}
+
+.journalbox .list{
+position:absolute;
+top:25px;
+right:20px;
+color:#bd0d6c;}
+
+.journalbox .list li{
+float:center;
+line-height:10px;
+padding-right:15px;
+background:none !important;}
+
+.credit{
+position: absolute;
+bottom:20px;
+left:30px;
+color: #56a328;
+font-size: 10px;}
+
+.credit a{
+color: #bd0d6c;}
+
+.journaltext{
+font-family: Verdana;
+color: #333; 
+font-size: 12px;
+padding-top: 15px; 
+padding-left: 15px; 
+padding-right: 15px; 
+margin-left:15px;
+margin-right:15px;
+background:transparent;
+text-align:left;}
+
+.journaltext a{
+color:#56a328; 
+text-decoration:none;}
+
+.journaltext a:hover{
+color: #bd0d6c;}
+
+.journalbottom{
+background-image:url(https://fc01.deviantart.net/fs71/o/2011/331/5/b/271160017_336450_wet_paint_foot.png);
+background-repeat:no-repeat;
+background-position:center right;
+height:182px;}
+
+.commentslink{
+background-color: #transaprent!important;
+color: #bd0d6c!important;
+font-size: 12px !important;}
+
+.prevlink{display: none;}
+.hsep{display:none;}
+/*
+--Footer Code--
+<div class="credit">Skin by :devendlesssly: | <a href="https://raekre.deviantart.com/art/High-Res-Paint-Strokes-Set-II-212476592"> Brushes </a> by :devraekre: | <a href="http://www.dafont.com/harrison.font">Harrison Font</a>
+<a href="http://www.freedesign4.me/vectors/free-paint-brushes-vector-collection/"> Vector set </a> by www-freedesign4-me | <a href="https://raidzuo.deviantart.com/art/ACTION-PACK-CS3-5598988"> Action Pack</a> used by :devRaidzuo:</div>
+*/

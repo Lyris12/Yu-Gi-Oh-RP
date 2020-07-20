@@ -1,0 +1,164 @@
+.gr-box{
+font-size:10px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+background: url(https://fc00.deviantart.net/fs70/o/2009/345/2/4/146457965_99579_ecssitedcss03.png) bottom right no-repeat #362f2d;
+color:#c6ba96;
+text-align:center;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+background: transparent url(https://fc05.deviantart.net/fs70/o/2009/345/c/4/146457965_99580_ecssitedcss01.png) top center no-repeat;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:1px;
+text-align:center;
+height:180px;
+padding:1px 3px 0px 0px;
+border: none;}
+
+.gr-top img{display: none;}
+
+.gr-top span {
+color:#c6ba96; 
+width: 300px;
+font-size: 10px;
+margin-right: 310px;}
+
+h2{
+width: 300px;
+text-align: left;
+padding: 0 190px 0 0;
+margin: 9px auto -2px auto;
+color:#c6ba96;
+font-size:12px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:2px;
+text-transform:uppercase;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;
+padding: 0 0 50px 0;
+margin: 0px 15px 0px 15px;}
+
+.text{padding: 20px;}
+
+.list{display: none;}
+
+a {
+color:#c6ba96;
+text-decoration:none!important;}
+
+a:hover {color:#362f2d;}
+
+.header {
+font-size:14px;
+font-weight:bold;
+text-transform:uppercase;
+text-align:left;
+border-bottom:1px solid #c6ba96;
+padding: 0 0 0 10px;
+margin: 0 5px;}
+
+.minigal{
+position:absolute;
+z-index: 23;
+top: 38px;
+color:#8f634a;
+margin: 0 0 0 -40px;
+width: 100%;}
+
+.minigal .shadow{background-image: none!important;}
+
+.minigal a{
+display: inline-block;
+width: 60px!important;
+height: 60px!important;
+overflow: hidden;
+border: solid #8f634a;
+background: #8f634a;
+border-width: 1px 1px 1px 1px;
+-moz-border-radius: 4px 4px 4px 4px;}
+
+.minigal img{margin: 0px;}
+
+.minigal a:hover{
+border-color: #8f634a!important;
+outline: 0px solid transparent!important;}
+
+.window {
+height:100px;
+background: #362f2d;
+padding: 10px 0px 10px 0px;
+margin: 1px 30px 0px 30px;
+overflow: auto;}
+
+.shadow {
+background-color:transparent;
+border:1px solid transparent;}
+
+.shadow:hover {
+background-color:#362f2d;
+border:1px solid #c6ba96;}
+
+.corner {
+position:absolute;
+background:url(https://fc07.deviantart.net/fs70/o/2009/345/0/b/146457965_99581_308a2z7.png) bottom left no-repeat;
+width:18px;
+height:14px;
+right:-1px;
+bottom:-1px;}
+
+.linkline {
+position:absolute;
+color:#c6ba96;
+width:295px;
+right: 20px;
+bottom: 79px;}
+
+.bottom {
+font:9px Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:1px;
+text-align:right;
+position:absolute;
+bottom: 17px;
+right: 95px;
+color:transparent;}
+
+.bottom a {
+color:#362f2d;
+text-decoration:none!important;}
+
+.bottom a:hover {color:#362f2d;}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Short titles are not visible
+
+- MINIGAL: You can change what thumbnails appear here, or even whether or not you want to use the feature.
+To edit or remove, go to EDIT THIS ENTRY >> OPTIONS >> SKIN HEADER, and then change the :thumb000000: codes.
+- SCROLLBOX: To add to your journal, copy and paste the content below into your CONTENT section where you'd like it to appear in the journal.
+<div class="window"> Then put in the content you want inside your scrollbox here. Close it with </div>
+
+
+--Header Code--
+<div class="example-header"><div class="minigal">:thumb140180983: :thumb140034606: :thumb139711822: :thumb139452907: :thumb142331522: :thumb137231167:</div></div>
+--End Header Code--
+--Footer Code--
+<div class="header">HEADING 1</div>
+Lorem ipsum dolor <a href="">sit amet</a>, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+<div class="content">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.Lorem ipsum <a href="">dolor sit amet</a>, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+<div class="header">FEATURES</div>
+<div class="window">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. 
+
+:thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768: :thumb119752768:</div>
+
+<div class="linkline"><a href="https://vsconcepts.deviantart.com">Category 1</a> | <a href="https://vsconcepts.deviantart.com">Category 2</a> | <a href="https://vsconcepts.deviantart.com">Category 3</a></div>
+<div class="example-footer"><div class="corner"></div></div>
+*/

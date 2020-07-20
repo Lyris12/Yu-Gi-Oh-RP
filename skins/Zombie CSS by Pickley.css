@@ -1,0 +1,39 @@
+.journalbox {
+background: #272f24;
+}
+
+.journaltop {
+background: #272f24 url(https://fc01.deviantart.com/fs46/o/2009/180/c/7/127744601_74955_zombie.jpg);
+height: 200px;
+color: #b3c9ab;
+}
+
+.journaltop h2 {
+color: #b3c9ab;
+} 
+.journaltop img {
+display: none;
+}
+
+.journaltext {
+background: #272f24;
+color: #b3c9ab;
+}
+
+.journalbottom {
+color: #b3c9ab;
+font-size: 9pt;
+}
+
+.journalbox .list {
+display: none;
+}
+
+.commentslink {
+color: #b3c9ab;
+font-size: 9pt;
+}
+
+.prevlink {
+display: none;
+}

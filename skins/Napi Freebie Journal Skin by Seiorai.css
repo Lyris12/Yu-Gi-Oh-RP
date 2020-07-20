@@ -1,0 +1,85 @@
+.gr-box{width: 450px; margin: auto; color: #1caded; font-family: Verdana, sans-serif; background: transparent url(https://fc01.deviantart.net/fs70/o/2010/341/c/4/188800115_162434_x-mas2010-top.png) top center no-repeat;}
+
+.gr {background: transparent; border: none;}
+.gr1 {display: none;}
+.gr2 {display: none;}
+.gr3 {display: none;}
+.tri {display: none;}
+
+.gr-top {border: none;  width: 420px; margin: auto; background: transparent; padding: 350px 0 0 0;}
+
+.gr-top img {background: transparent; display: none;}
+
+.gr-top span { background: transparent; color: #f92794; display: block; text-align: center; margin-top: -100px; margin-left: 35px!important;}
+
+h2{display: none;}
+
+.list{display: none;}
+
+.text{background: url(https://fc04.deviantart.net/fs70/o/2010/341/6/b/188800115_162435_x-mas2010-body.png) top center repeat-y; width: 360px; padding-left: 50px;
+padding-right: 40px;
+padding-top: 50px;
+padding-bottom: 20px; margin: auto; margin-top: -133px!important;}
+
+.gr-body{ background: transparent; border: none; overflow: visible!important; padding-bottom: 20px;}
+
+.link1 {background:url(https://fc08.deviantart.net/fs71/o/2010/341/1/1/188800115_162436_xmas2010button.png) no-repeat;
+position: absolute; left: 50px; top: -56px; width: 87px; text-align: center; height: 50px; color: #f92794!important; font-size: 9px; font-weight: bold; z-index: 50; padding-top: 15px;}
+.link1 a {color: #1caded!important;}
+.link1 a:hover {font-size: 10px; color: #711357!important;}
+
+.link2 {background:url(https://fc08.deviantart.net/fs71/o/2010/341/1/1/188800115_162436_xmas2010button.png) no-repeat;
+position: absolute; left: 140px; top: -56px; width: 87px; text-align: center; height: 50px; color: #f92794!important; font-size: 9px; font-weight: bold; z-index: 50; padding-top: 15px;}
+.link2 a {color: #1caded!important;}
+.link2 a:hover {font-size: 10px; color: #711357!important;}
+
+.link3 {background:url(https://fc08.deviantart.net/fs71/o/2010/341/1/1/188800115_162436_xmas2010button.png) no-repeat;
+position: absolute; left: 230px; top: -56px; width: 87px; text-align: center; height: 50px; color: #f92794!important; font-size: 9px; font-weight: bold; z-index: 50; padding-top: 15px;}
+.link3 a {color: #1caded!important;}
+.link3 a:hover {font-size: 10px; color: #711357!important;}
+
+.link4 {background:url(https://fc08.deviantart.net/fs71/o/2010/341/1/1/188800115_162436_xmas2010button.png) no-repeat;
+position: absolute; left: 320px; top: -56px; width: 87px; text-align: center; height: 50px; color: #f92794!important; font-size: 9px; font-weight: bold; z-index: 50; padding-top: 15px;}
+.link4 a {color: #1caded!important;}
+.link4 a:hover {font-size: 10px; color: #711357!important;}
+
+.body a{color: #f92794!important;}
+.body a:hover{text-decoration: none; color: #711357;}
+
+.bottom{background: url(https://fc09.deviantart.net/fs71/o/2010/341/8/f/188800115_162437_x-mas2010-bottom.png) bottom center no-repeat; position: absolute; width: 458px; height: 30px; bottom: 10px; color: #f92794; margin-left: -4px;}
+
+.bottom a{color: #f92794;  font-size: 10px; font-weight: bold; text-decoration: none;}
+
+.bottom a:hover{color: #711357; font-size: 10px; font-weight: bold; text-decoration: none;}
+
+.scrollbox {background: url(https://fc05.deviantart.net/fs70/o/2010/341/2/6/188800115_162438_xmas2010_scrollbox-2.jpg); margin: 0 15px 0px 0px; border:1px #f92794 solid; min-height:100px; max-height:400px; min-width: 200px; max-width: 600px; overflow: auto; padding:10px; color: #f92794;}
+
+.gallerysmall{margin: 0 5px 5px 0px}
+
+.gallerysmall .shadow{background-image: none!important}
+
+.gallerysmall a{display: inline-block; width: 50px!important; height: 50px!important; overflow: hidden; border: solid transparent; background: transparent; border-width: 5px 5px 5px 5px; outline: 1px solid #f92794;}
+
+.gallerysmall img{margin: -20px -50px}
+
+.gallerysmall a:hover{border-color: #f92794!important; outline: 1px solid transparent!important;}
+
+.gallerysmall a:hover img{z-index: 999; position: absolute; margin: -5px 0 0 -30px; border: 5px solid #f92794; outline: transparent;}
+
+.gallerysmall a:hover img{z-index: 999; position: absolute; margin: -5px 0 0 -30px; border: 5px solid #1caded; outline: transparent;}
+/*
+! The bottom does not show (might just be a lack of linebreaks)
+
+Okay, to add the scrollbox in, add this in your Content section (be careful to remove the *'s )
+<div class="scrollbox"*>ADD TEXT HERE</div*>
+-----------------------
+To add the gallery in, add this in the Content section:
+<div class="gallerysmall"*>THUMBS HERE</div*>
+
+--Header Code--
+<div class="link1"><a href="http://LINK HERE">Profile</a></div> <div class="link2"> <a href="http://LINK HERE">Notes</a></div> <div class="link3"><a href="http://LINK HERE">Gallery</a></div><div class="link4"><a href="http://LINK HERE">Faves</a></div>
+<div class="body">
+--End Header Code--
+--Footer Code--
+</div>
+*/

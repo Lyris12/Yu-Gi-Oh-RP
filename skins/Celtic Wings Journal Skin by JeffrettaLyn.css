@@ -1,0 +1,129 @@
+.menu a
+{
+font-family: carolingia;
+}
+.menu a:hover
+{
+text-decoration: underline!important;
+}
+.journalbox h2
+{
+padding-top: 294px;
+color: #000;
+font-family: carolingia;
+font-size: 45px;
+text-decoration: none!important;
+padding-left: 95px;
+padding-right: 15px;
+text-align: right;
+}
+.journalbox h2 a
+{
+color: #000;
+text-decoration: none!important;
+}
+h2 img
+{
+display: none;
+}
+.journalbox .commentslink 
+{
+font-family: carolingia;
+color: #a83136;
+font-size: 30px;
+}
+.journalbox .prevlink 
+{
+font-family: carolingia;
+color: #a83136;
+font-size: 30px;
+}
+.journaltop 
+{
+background: url(https://fc04.deviantart.net/fs71/o/2012/208/a/c/317137437_445560_header_img_generic_by_jeffretta-d58t6nh.png) top left no-repeat transparent; 
+height: 370px;
+text-align: center;
+color: #a83136; 
+font-size: 20px; 
+width: 600px;
+}
+.journalbox
+{
+width:600px;
+font-size: 25px;
+font-family: arabic typesetting;
+background-color: #000;
+}
+.journalbottom
+{
+background: url(https://fc02.deviantart.net/fs71/o/2012/208/c/e/317137437_445561_300277241_400804_footer_img_by_jeffretta-d4yr922.jpg)bottom left no-repeat transparent;
+height: 290px;
+width: 600px;
+}
+.journaltext
+{
+text-align: center;
+font-family: arabic typesetting;
+font-size: 25px;
+color: #358e24; 
+background: transparent;
+padding-left: 15px;
+padding-right: 15px;
+}
+.journaltext a
+{
+color: #33c417;
+text-decoration: none!important;
+}
+.journaltext a:hover
+{
+text-decoration: underline;
+}
+.list
+{
+left: 100px;
+bottom: 70px;
+width: 308px;
+max-height: 180px;
+overflow: auto;
+background-color: transparent;
+text-align: center;
+height: 250px;
+position: absolute;
+}
+.journalbox .list li {
+ background:  none repeat scroll 0 0 transparent;
+ color: #000;
+ font-family: arabic typesetting;
+ font-size: 22px;
+}
+.journalbox .list li.a {
+ font-family: arabic typesetting;
+ color: #000;
+ font-size: 22x;
+}
+.footer
+{
+font-size: 20px;
+}
+ 
+.footer a
+{
+text-decoration: none;
+}
+.footer a:hover
+{
+text-decoration: underline!important;
+}
+/*
+--Header Code--
+<div class="menu">
+<a href="INSERT GALLERY URL HERE">My Gallery</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="footer">_______________________________________________
+<br>Coding and Artwork by <a href="https://www.deviantart.com/jeffretta">JeffrettaLyn</a>  
+</div>
+*/

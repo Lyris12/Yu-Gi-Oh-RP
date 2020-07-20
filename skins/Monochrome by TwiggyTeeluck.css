@@ -1,0 +1,230 @@
+.button a {
+display:inline-block;
+margin-bottom:3px;
+width:120px;
+height:7px;
+font-size:9px;
+padding:6px 0px 13px 0px;
+color:#FFFFFF;
+background-image:url(https://fc01.deviantart.net/fs70/o/2010/017/8/a/150788239_106169_4282065979_4859451890_o.png);
+background-position:top center;
+background-repeat:no-repeat;
+text-decoration: none;
+}
+
+.button a:hover { 
+color: #FFFFFF;
+background-image:url(https://fc07.deviantart.net/fs71/o/2010/017/8/1/150788239_106170_4282811884_a9d153a49b_o.png);
+background-position:top center;
+background-repeat:no-repeat;
+}
+
+.journalbox{
+text-align:left;
+border:none;
+color:#FFFFFF;
+padding-bottom:15px;
+background: #000000;
+}
+
+.journaltop{
+color:#808080;
+position:relative;
+top:30px;
+text-align:right;
+letter-spacing:5px;
+height:200px;
+font-size:11px;
+padding-top:65px;
+padding-right:10px;
+padding-left:50px;
+_padding-bottom: 75px;
+margin-bottom:55px;
+background: #FFFFFF center left no-repeat url(https://fc06.deviantart.net/fs71/o/2010/017/4/8/150788239_106171_4279676627_fdff762abf_o.png);}
+
+.journaltop img{display: none;}
+
+h2{color:#808080;
+font-size:30px;
+letter-spacing:5px;
+margin-top:45px;
+padding-right:0px;
+padding-left:40px;
+text-align:right;
+}
+
+.jcustom {
+overflow:auto;
+text-align:left;
+background-color:#000000;
+background-image:url(https://fc07.deviantart.net/fs70/o/2010/017/2/d/150788239_106172_4280419898_0045e99f6c_o.png);
+background-position:bottom right;
+background-repeat:no-repeat;
+color:#7d7d7d;
+font-size:11px;
+display:block;
+margin-bottom:5px;
+margin-top:20px;
+padding-right:53px;
+padding-left:5px;
+padding-top:5px;
+padding-bottom:90px;
+width:auto;
+}
+
+.jcustomscroll {
+overflow:auto;
+text-align:left;
+background-color:#000000;
+background-image:url(https://fc07.deviantart.net/fs70/o/2010/017/2/d/150788239_106172_4280419898_0045e99f6c_o.png);
+background-position:bottom right;
+background-repeat:no-repeat;
+color:#7d7d7d;
+font-size:11px;
+display:block;
+margin-bottom:5px;
+margin-top:20px;
+padding-right:53px;
+padding-left:5px;
+padding-top:5px;
+padding-bottom:90px;
+width:auto;
+height:150px;
+}
+
+.titles {
+font-size:17px ;
+color:#d5d5d5;
+text-align:left;
+letter-spacing:5px;
+border-bottom:1px solid #343434;
+background-color:#transparent;
+margin-top:35px;
+height:27px;
+width:auto;
+}
+
+.journalbox .list {
+background-color: #000000;
+color:#FFFFFF;
+text-align:left;
+padding-right:5px;
+}
+
+.journalbox .list .a {
+background-color: #000000;
+color:#cccccc;
+text-align:left;
+padding-right:5px;
+}
+
+
+.journalbox .journaltext {
+color: #adadad; 
+font-size: 11px ;
+padding-top: 0px ; 
+padding-left: 15px ; 
+padding-right: 15px ; 
+background: #000000;
+text-align:center;
+}
+
+.journalbox .journaltext a {
+color: #d5d5d5; 
+text-decoration:none;
+}
+
+.journalbox .journaltext a:hover {
+color: #FFFFFF; 
+text-decoration:none;
+}
+
+.journalbox .journalbottom {
+margin-top:10px;
+background-color: #000000;
+}
+
+.journalbox .commentslink {
+display:inline-table;
+background-color: #000000;
+color: #FFFFFF;
+width:140px;
+height:30px;
+font-size: 12px ;
+}
+
+.journalbox .commentslink:hover {
+background-color: #000000;
+color: #cccccc;
+font-size: 12px ;
+text-decoration:none; 
+text-transform:uppercase;
+}
+
+.journalbox .prevlink {
+background-color: #000000;
+color: #FFFFFF;
+display:inline-table;
+width:190px;
+height:30px;
+font-size: 12px ; 
+}
+
+.journalbox .prevlink:hover {
+background-color: #000000;
+color: #cccccc;
+font-size: 12px ;
+text-decoration:none; 
+text-transform:uppercase;
+}
+
+.note{
+padding-bottom:3px;
+padding-right:3px;
+padding-left:3px;
+width:475px;
+float:center;
+margin-left:auto;
+margin-right:auto;
+margin-top:5px;
+background-color:#333333;
+border-width:1px 1px 1px 1px;
+border-color:#333333;
+border-style:solid;
+color:#FFFFFF;
+font-size:9px;
+}
+
+.note:hover{
+padding-bottom:3px;
+padding-right:3px;
+padding-left:3px;
+width:475px;
+float:center;
+margin-left:auto;
+margin-right:auto;
+margin-top:5px;
+background-color:#000000;
+border-width:1px 1px 1px 1px;
+border-color:#FFFFFF;
+border-style:solid;
+color:#FFFFFF;
+font-size:9px;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Copy and paste this code into your "Content" section:
+<div class="jcustom"><div class="titles">YOUR TITLE HERE</div>
+JOURNAL TEXT HERE JOURNAL TEXT HERE JOURNAL TEXT HERE
+</div>
+
+--Header Code--
+<div class="button">
+<a class="u" href="https://things-not-seen.deviantart.com/">#Things-Not-Seen</a> <a class="u" href="https://bloodpromiser.deviantart.com/">Facebook</a> <a class="u" href="https://bloodpromiser.deviantart.com/gallery/">Gallery</a> <a class="u" href="https://bloodpromiser.deviantart.com/">dA Portfolio</a> <a class="u" href="https://my.deviantart.com/deviants/add/BloodPromiser">Watch Me</a> <a class="u" href="https://my.deviantart.com/notes/?to%3DBloodPromiser">Note Me</a> <a class="u" href="https://bloodpromiser.deviantart.com/journal/26198439/">Journal Skins</a>
+</div>
+--End Header Code--
+--Footer Code--
+CSS made by :devBloodPromiser:
+Brushes by :devsolenero73:
+*/

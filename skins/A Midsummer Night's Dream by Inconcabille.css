@@ -1,0 +1,201 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+/***************************************************************
+Copyright &#169; inconcabille.deviantart.com 
+Background &#169; danielbogni.deviantart.com 
+Free to use for dA journals. 
+Do not redistribute - partly or fully - without my permission.
+****************************************************************/
+.sidebar{
+    background: #none;     
+    clear: center;
+    float: center;
+    margin-left:auto;
+    margin-right:auto;
+    overflow: hidden;
+    padding: 1px 1px 1px 1px;
+    font-family: 'Montez', cursive;
+    color: #000000;
+    font-size:18px;
+    text-align:right;}
+.sidebar a:hover {
+    color: #801a3d;
+    font-family: 'Montez', cursive;
+    text-decoration: none;}
+a.external:after {
+display:none!important;}
+a {font-weight:normal!important;}
+.journalbox .journaltop {
+    color:transparent !important;
+    background-image: url(https://other00.deviantart.net/af45/o/2015/084/4/5/522519869_2212877_speedpaint___what_i_see____by_danielbogni_d8mfnu0_by_inconcabille-d8n21u9.png);
+    background-position: center !important;
+    background-repeat: repeat;
+    background-color:#FFFFFF;
+    height:576px;
+    max-width: 1024px;}
+h2{
+    color: #c7786c;
+    text-align:center; 
+    font-family: 'Montez', cursive;
+    font-size: 26px;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    max-width: 1024px;
+    background: #none;
+    top: 20px;}
+h2 a{
+    color:#c7786c!important;
+    text-decoration: none;}
+h2 a:hover{
+    border: none!important;
+    color:#c7786c!important;
+    text-decoration: none;}
+.journalbox {
+    background-color:transparent;
+    border: none;
+    max-width: 1024px;
+    background-position: center;
+    background-repeat: repeat;}
+.timestamp {display: none;}
+.list {display: none;}
+.journalbox .journaltop img {
+    display: none !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .boxtop {
+    padding: 0 !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .journaltext {
+    text-align:justify; 
+    font-family: Verdana; 
+    font-size:13px;
+    color:#c7786c;
+    background-color:#040610;
+    background-position: center;
+    padding: 10px 10px 10px 10px;
+    background-repeat: repeat;}
+.journalbox .journaltext .content {
+     padding-top: 0px;
+     background-position: center;
+     background-repeat: repeat;}
+.journalbox .journalbottom {
+    background: #040610;
+    padding: 10px 10px 10px 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40px;}
+.commentslink {
+    color: #c7786c;
+    text-decoration: none;
+    font-size: 26px;
+    text-align:justify; 
+    font-family: 'Montez', cursive;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    top: 10px;}
+.text blockquote {
+    background: #040610;     
+     color: #c7786c;
+     text-align:justify; 
+     font-family:'Verdana';
+     font-size:11px;
+     background-position: center;
+     padding: 0px 0px 0px 0px;
+     background-repeat: repeat;}
+a:hover{text-decoration: none;}
+a{color: #c7786c; text-decoration: none;}
+.Footer{
+     font-size: 10px;
+     color: #d7ccc7;
+     font-family: Verdana; 
+     font-weight:bold!important;
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #c7786c;
+     font-family: Verdana; 
+     text-decoration: none;}
+b {color:#d7ccc7;}
+i {color:#d7beaf;}
+h1 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #541128;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 30px;
+     display:inline-block;}
+h3 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #801a3d;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 30px;
+     display:inline-block;}
+h4 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #aa1a3d;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 30px;
+     display:inline-block}
+.mini .shadow-holder{
+width:100px;
+height:100px;}
+.mini .shadow-holder:hover img{padding:2px;}
+.mini .shadow-holder:hover{background:#none;}
+.mini .shadow-holder:hover img {background:#c7786c;}
+.mini .shadow-holder{margin: 10px;}
+.mini .shadow-holder{
+display:inline-block;
+overflow:hidden;}
+.mini .shadow-holder img{
+padding:0px;
+max-width:none;
+margin:-3px 0 0 -4px;}
+.mini .shadow-holder:hover img{
+position:absolute!important;
+margin: 5px 0 0 -50px;}
+.lit {
+     background-image: url(https://other00.deviantart.net/63d1/o/2015/084/9/e/522519869_2212878_01_by_inconcabille-d8n2cg5.png);
+     max-height: 180px; min-width: 120px;
+     border: #FFFFFF 1px solid;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align:justify; 
+     font-family: Verdana;  
+     font-size:10px;
+     color: #000000;}
+.lit img 
+     {display: none;}
+/*
+! Artist requests permission before copying
+- < block quote > Put Text Here  < / blockquote > (without space)
+- < div class="mini"> Put Thumbs Here < /div> (without space)
+- < h1> < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > (without space)
+
+--Header Code--
+<div class="sidebar">
+<a href="http://#USERNAME.deviantart.com">My Profile</a> &#8226; <a href="http://#USERNAME.deviantart.com/gallery/">My Gallery</a> &#8226; <a href="http://#USERNAME.deviantart.com/favourites/"> My Favourites</a> &#8226; <a href="https://my.deviantart.com/deviants/add/#USERNAME">Watch me</a> &#8226; <a href="https://my.deviantart.com/notes/?to%3D#USERNAME">Note me</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="Footer">[ Journal CSS ] &#169; <a href="https://www.deviantart.com/inconcabille">inconcabille</a> &#8226; [ Header ] &#169; <a href="https://www.deviantart.com/danielbogni">danielbogni</a>
+</div>
+</div>
+*/

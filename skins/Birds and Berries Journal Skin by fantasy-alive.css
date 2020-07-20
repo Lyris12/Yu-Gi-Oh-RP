@@ -1,0 +1,379 @@
+.gr-box {
+	background: #4d3832;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+}
+
+.gr1 {display:none;}
+.gr2 {display:none;}
+.gr3 {display:none;}	
+	
+
+.gr-box a {
+	color: #2496a7;
+	text-decoration: none;
+
+}
+
+.gr-box a:hover {
+	border-bottom: 1px dashed #2496a7;
+	
+}
+
+.gr-top {
+	background: url(https://fc07.deviantart.net/fs71/o/2010/055/2/e/155314457_110408_ss_header.png) top left repeat-x;
+	height: 270px;
+	position: static;
+	overflow: visible;
+	border: none;
+	text-align: right;
+
+
+}
+
+.gr-top .gr {
+	position: static;
+	overflow: visible;
+	background: none;
+	border: none;
+
+}
+
+.gr-top img {
+	display: none;
+}
+
+
+.gr-top h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-variant: small-caps;
+	font-size: 18px;
+	font-weight: normal;
+	letter-spacing: 2px;
+	color: #fff;
+	padding-top: 160px;
+	margin-right: 60px;
+}
+
+.gr-top span {
+	color: #fff;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-transform: lowercase;
+	font-style: italic;
+	letter-spacing: 1px;
+	font-size: 9px;
+	margin-right: 60px;
+	
+
+}
+
+.tri {
+	display: none;
+	
+}
+
+
+.topbird {
+	position: absolute;
+	top: 110px;
+	right: 0;
+	
+}
+
+.bottombird {
+	position: absolute;
+	bottom: 50px;
+	left: 30px;
+	
+}
+
+.gr-body {
+	position: static;
+	overflow: visible;
+	border: none;
+	background: none;
+	margin: -25px 30px 20px 30px!important;
+	padding: 0;
+
+}
+
+.gr-body .gr {
+	position: static;
+	overflow: visible;
+	border: none;
+}
+
+.left { 
+	position: absolute;
+	left: 32px;
+	top: 255px;
+	padding: 10px;
+	width: 150px;	
+	font-size: 13px;
+	text-align: center;
+	background: none;
+}
+
+.left a {
+	color: #fff;
+	text-transform: lowercase;
+	font-style: italic;
+	letter-spacing: 2px;
+}
+
+
+.left a:hover {
+	font-weight: bold;
+	
+}
+
+.leftlinks {
+	background: url(https://fc06.deviantart.net/fs70/o/2010/055/3/e/155314457_110409_ss_sidelinkbg.jpg) center no-repeat;
+	width: 131px;
+	height: 38px;
+	margin-left: 10px;
+	padding-top: 6px;
+       _padding-top: 3px;
+	margin-bottom: -8px;
+}
+
+
+
+
+.text {
+	background: #efe9d6 url(https://fc06.deviantart.net/fs71/o/2010/055/b/c/155314457_110410_ss_textbg.jpg) top left repeat-y; 
+	border: 1px solid #fffbf4;
+	color: #0a5561;
+	overflow: visible;
+	position: static;
+	min-height: 330px;
+	padding: 0 35px 25px 210px;
+	line-height: 24px;
+	padding-top: -40px!important;
+	
+
+	
+}
+
+
+.text ul {
+	
+	line-height: 17px!important;
+		background: #2596a8;
+	border: 1px solid #e1f7fb;
+	margin: 5px 25px 10px 26px;
+	padding: 10px 22px 10px 22px;
+	font-style: italic;
+	color: #fff;
+	list-style: inside;
+}
+
+
+
+.section {
+	font-variant: small-caps;
+	font-weight: bold;
+	color: #2496a7;
+	letter-spacing: 2px;
+	font-size: 20px;
+	margin-bottom: -13px;
+	line-height: 0px!important;
+       _line-height: 20px;
+	padding: 0;
+	margin-top: -15px;
+}
+
+
+.divider {
+	background: url(https://fc04.deviantart.net/fs70/o/2010/055/3/0/155314457_110411_ss_divider.jpg) center no-repeat;
+	height: 102px;
+	width: 100%;
+	margin: 5px 0 5px 0;
+}
+
+
+.features {
+	background: #2596a8;
+	border: 1px solid #e1f7fb;
+	margin: 5px -20px 10px -26px;
+	padding: 10px 10px 20px 10px;
+	text-align: center;
+	font-style: italic;
+	color: #fff;
+
+}
+
+
+.features-header {
+	font-variant: small-caps;
+	font-weight: bold;
+	color: #fff;
+	letter-spacing: 2px;
+	font-size: 20px;
+	margin-top: -5px;
+	font-style: normal;
+	
+}
+
+
+.bottom {
+	position: absolute!important;
+	right: 260px;
+	_right: 35px;
+        _margin-bottom: 100px;
+}
+
+
+.bottom a {
+		color: #fff;
+	
+}
+
+.bottom a:hover {
+	font-weight: bold;
+	border: none;
+	
+}
+
+.bottom .commentslink {
+font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	text-transform: lowercase;
+	color: #fff;
+	font-weight: normal;
+	font-style: italic;
+	letter-spacing: 2px;
+	padding-top: 2px;
+	padding-left: 2px;
+	position: absolute!important;
+	_position: relative;
+	background: url(https://fc03.deviantart.net/fs71/o/2010/055/0/0/155314457_110412_ss_commentsbg.png) center no-repeat;
+	height: 41px;
+	width: 217px;
+	margin-bottom: 10px;
+
+
+}
+
+.bottom .prevlink {
+	 display: none;
+}
+
+.bottom .hsep {
+	display: none;
+	
+}
+
+
+
+.list {
+	background: #ece4d7 url(https://fc01.deviantart.net/fs71/o/2010/055/b/d/155314457_110413_ss_bottombg.jpg) top left repeat-x;
+	min-height: 150px;
+	border-top: 1px solid #b3eff8;
+	line-height: 15px!important;
+		margin: 120px -30px 30px -30px;
+	padding: 15px 0 15px 220px;
+       _padding: 15px 0 140px 220px;
+
+}
+
+
+.list img {
+	display: none;
+	
+}
+
+.list li {
+	font-family: Georgia, "Times New Roman", Times, serif!important;
+	color: #fff;
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-bottom: -2px;
+}
+
+
+
+
+.a {
+	background: none;	
+}
+
+
+.features .shadow {
+	background: none!important;
+	
+}
+
+.features .shadow-holder {
+	margin: 5px;
+	_margin: 0px;
+	padding: 12px;
+	background: #a8d5dc;
+	border: 1px solid #e1f7fb;
+}
+
+
+.features .shadow-holder .shadow a img {
+	border: 1px solid #2596a8;
+    max-height: 120px;
+	max-width: 100px;
+     _width: 100px;
+     _height: 120px;
+}
+
+.features .shadow-holder .shadow a img:hover {
+	border: 1px solid #ffffff;
+
+	
+
+}
+
+
+.credit {
+	position: absolute;
+	bottom: 0;
+	right: 7px;
+	color: #fff;
+	font-size: 9px;
+	text-transform: uppercase;
+	
+}
+
+
+.credit a {
+	color: #fff;
+	
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Title is cut off at top
+
+Section Header
+<div class="section">Section Header</div>
+Berries Divider
+<div class="divider"></div>
+Features Box
+<div class="features">
+<div class="features-header">Features Header</div>
+Thumbs and text go here.
+</div>
+Left Sidebar
+If you want to add stamps, icons, or links to this area, simply go to the skin header area under the Options tab and add them there.
+
+--Header Code--
+<div class="topbird"><img src="https://fc08.deviantart.net/fs71/o/2010/055/1/5/155314457_110414_ss_topbird.png" width="133" height="126" alt="Top Bird" /></div>
+
+<div class="left">
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery</a></div>
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/favourites/">Favourites</a></div>
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/store/">Prints</a></div>
+<div class="leftlinks"><a href="http://www.your-site.com">Blog</a></div>
+<div class="leftlinks"><a href="http://www.your-facebook-url.com">Facebook</a></div>
+
+</div>
+--End Header Code--
+--Footer Code--
+<div class="credit">Skin made by :devfantasy-alive:</div>
+*/

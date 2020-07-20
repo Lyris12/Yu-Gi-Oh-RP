@@ -1,0 +1,110 @@
+.journalbox { 
+        position: relative;     
+text-align:center;
+border:none;
+margin:auto;
+width:588px;
+height:1700px;
+background:transparent url(http://i52.photobucket.com/albums/g21/chegarma/BunnyJournal1.png) no-repeat;
+        
+}
+
+.journaltop span {      
+background-color: transparent;
+text-align:left;
+color:#949190;
+font-size:10px;
+position:absolute;
+top:5px;
+left:0px;
+letter-spacing:0.0em ;
+}
+
+.boxtop {
+background:transparent;
+font-size:0;
+text-align:left;
+padding:780px 0px 0 0px;
+}
+
+.boxtop span {
+font-size:10px;
+}
+
+.boxtop img {
+display:none;
+}
+
+h2 {
+font-size:11px;
+        color: #949190;
+        position: absolute;
+        top: 520 px;
+        left: 240px;
+}
+
+ul.list {
+width:450px;
+position:absolute;
+font-size:11px;
+top:1500px;
+background:transparent;
+_left:0px;
+        color: #949190;
+        text-align:left;
+}
+
+.f {
+background:transparent;
+padding:2px 0;
+}
+
+.journaltext {
+width:230px;
+padding: -100px 20px -100px 0px;
+_padding:10px;
+height:380px;
+_height:320px;
+text-align:left;
+margin: 10px auto 3px auto;
+font-size:10px;
+overflow:auto;
+        color:#949190;
+        position: absolute;
+        top: 800px;
+        left: 180px;
+}
+
+a {
+text-decoration:none !important;
+color:#949190;
+font-weight:bold;
+}
+
+.journalbottom {
+text-align:right;
+width:330px;
+padding-top:20px;
+margin:auto;
+}
+
+.journalbottom a {
+color:#ffffff;
+}
+
+.prevlink {
+display:none;
+}
+
+.journalbox .commentslink {
+color:#949190;
+font-weight:normal; 
+text-decoration:none;
+margin:0px 10px 0px 100px;
+        position: absolute;
+        top: 1310px;
+        left: 170px;
+}
+/*
+! Background is on Photobucket, i.e. http://i52.photobucket.com/albums/g21/chegarma/BunnyJournal1.png
+*/

@@ -1,0 +1,285 @@
+* this is the main body of the journal. you can choose a header. footer and side image here pick which set you want. delete the DISABLED and you are good to go. make sure that the other sets are DISABLED {}
+
+* grunge set {}
+
+.gr-box {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	max-width: 650px;
+	min-width: 430px;
+	padding: 0;
+	background: #222 url(http://fc04.deviantart.net/fs70/o/2010/050/6/e/154696341_109737_sbottom.png) bottom left repeat-x !important;
+	font: 12px Verdana, Geneva, sans-serif;	
+	color: #ccc;
+	border: 2px solid #000;
+}
+
+.gr-top {
+	border: none;
+	margin: 0 auto;
+	height: 230px;
+	text-align: center;
+	background: transparent url(http://fc02.deviantart.net/fs71/o/2010/050/8/1/154696341_109738_sheader.png) top left repeat-x;
+}
+
+.bottom {
+	padding: 50px;
+	font-size: 10px;
+	color: #aaa;
+	text-decoration: none;
+}
+
+h2 {
+	font: 40px Verdana, Geneva, sans-serif;
+	color: #333;
+	background: transparent;
+	padding: 50px 0 0 0;
+}
+
+* end of grunge set {}
+
+* cross grunge set {}
+
+DISABLED .gr-box {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	padding: 0;
+	max-width: 560px;
+	background-color: #222222;
+	font: 12px Tahoma, Geneva, sans-serif;	
+	color: #fff;
+	border: 2px solid #000;
+}
+
+DISABLED .gr-top {
+	border: none;
+	padding: 0;
+	margin: 10px 50px 10px 50px;
+	width: 500px;
+	height: 130px;
+	text-align: center;
+	background: transparent url(https://fc04.deviantart.net/fs71/o/2010/050/a/5/154696341_109739_header.png) bottom left no-repeat;
+}
+
+DISABLED .bottom {
+	padding: 25px 50px 20px 0;
+	margin: 10px 50px 10px 50px;
+	background: transparent url(https://fc00.deviantart.net/fs70/o/2010/050/a/f/154696341_109740_bottom.png) bottom left no-repeat;
+	color: #a1a1a1;
+	text-shadow:1px 1px #000,-1px 1px #000, 1px -1px #000, -1px -1px #000, 0px 1px #000,-1px 0px #000, 1px 0px #000, 0px -1px #000;
+}
+
+DISABLED h2 {
+	font: 40px Tahoma, Geneva, sans-serif;
+	color:#fff;text-shadow:1px 1px #000,-1px 1px #000, 1px -1px #000, -1px -1px #000,
+0px 1px #000,-1px 0px #000, 1px 0px #000, 0px -1px #000;
+	padding: 15px 0 0 0;
+	background: transparent;
+}
+
+* end of cross grunge set {}
+
+.gr {
+	background: transparent; 
+	border: none;
+	text-align:center;
+	padding:0 !important;
+}
+
+* this controls the curved edges and downward arrow at the top of the journal {}
+
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+
+* this controls the little journal icon {}
+
+.gr-top img {
+	display: none;
+}
+
+* these classes relate to the header text in your journal {}
+
+.gr-top span { 
+	font: 10px Verdana, Geneva, sans-serif;
+	color: #ccc;
+	text-align:center;
+
+}
+
+.title {
+	font: 20px Verdana, Geneva, sans-serif;
+	margin-bottom: -20px;
+	color: #ccc;
+	background: transparent;
+	text-align: left;
+}
+
+* these classes relate to the body of your journal {}
+
+.gr-body {
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	background-color: transparent;
+}
+
+.text {
+	margin: 0 30px 0 30px;
+	padding: 0;
+	text-align: left;
+}
+
+.text a {
+	color: #000;
+	text-decoration: none;
+}
+
+.text a:hover {
+	text-decoration:none;
+}
+
+*this is bit that controls the mood area {}
+
+.list {
+	background: transparent;
+	margin: 15px 15px 30px 0 !important;
+	padding: 0;
+	float: left;
+	text-align: left;
+}
+
+.a {
+	background: transparent;
+}
+
+* this bit controls the comments and previous journals links {}
+
+.bottom a {
+	font-size: 10px;
+	color: #aaa;
+	text-decoration: none;
+}
+
+
+.bottom a:hover {
+	text-decoration: underline;
+	text-align: center; 
+}
+
+* this is a minigallery that thespook.deviantart.com wrote {}
+
+.minigal {
+	margin: 10px 0 0 0;
+ 	max-width: 240px; 
+	padding: 5px 5px 5px 5px;
+	background-color: #000;
+	position: relative;
+}
+
+.minigal .shadow {
+	background-image: none!important;}
+
+.minigal a{
+	display: inline-block;
+	width: 50px!important;
+	height: 50px!important;
+	overflow: hidden;
+	border: solid #ccc 1px;
+	background: #000;
+}
+
+.minigal img {	
+	margin:-20px -50px;
+}
+
+.minigal a:hover{
+	border-color: #000!important;
+	outline: 1px solid transparent!important
+}
+
+.minigal a:hover img{
+	z-index: 999;
+	position: absolute;
+	margin: -2px 0 0 -27px;
+	border: 1px solid #000;
+}
+
+* this is a menubar {}
+
+.menu {
+	width: auto;
+	margin: 0 auto;
+	margin-top: 15px;
+	text-decoration: none!important;
+	text-align: center;
+	border-bottom: 2px solid #000;
+	}
+
+.buttons a {
+	color: #ccc !important;
+	background-color: transparent;
+	margin: 0 auto;
+	font: 11px Verdana;
+	font-weight: none;
+	text-decoration: none !important;
+	text-align: center;
+	padding: 5px;
+	display: inline-block;
+}
+
+.buttons a:hover {
+	background: #111;
+	text-decoration: none;
+	color: ccc;
+	display: inline-block;
+}
+
+* this is a sidebar {}
+
+.sidebar{
+	background: transparent;
+	border-left: 2px solid #000;
+	float: right;
+	margin: 20px -80px 20px 20px;
+	max-width: 160px;
+	padding: 10px;
+	position: relative;
+}
+
+
+.sidebar .shadow {
+	background-image: none!important;}
+
+.sidebar a{
+	display: inline-block;
+	width: 100px!important;
+	height: 50px!important;
+	overflow: hidden;
+	background: #000;
+	outline: 1px solid #000;
+}
+
+.sidebar a:hover {	
+	outline: 1px solid #ccc;
+}
+
+.sidebar img {	
+	margin:-20px -50px;
+}
+/*
+! There is a black gap at the top
+
+To use the title simple put <div class="titlel">subheading goes here</div>
+
+To use the mini gallery simply add <div class="minigal">:thumb######:</div> at the point in the journal where you would like to use it.
+
+For the side bar add <div class="sidebar">:thumb######::icongroupname:</div> to the header. The side bar is optimised for images 150px wide, thumbs and images larger will be auto cropped to this. You can put any buttons or images you like there.
+
+For the menu bar add <div class="menu"><div class="buttons"><a href="url">title</a><a href="url">title</a><a href="url">title</a><a href="url">title</a><a href="url">title</a></div></div> to the header as well.
+
+-A little more advanced CSS.-
+To use the morgue CSS you need to edit the CSS and remove DISABLED from the section entitled "Cross Grunge Set" and add DISABLED to the "Grunge Set". It is important that the set you don't want to use has DISABLED in front of each class.
+*/

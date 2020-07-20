@@ -1,0 +1,159 @@
+.journalbox {
+ background: url(https://fc07.deviantart.net/fs71/o/2010/114/5/1/161773775_123228_f9096cc0e67391f8bb532aadab4557e5.jpg);
+ background-color: transparent;
+max-width: 900px;
+_width: 900px;
+background-repeat: no repeat;
+ background-position: center;
+ font-family: arial;
+ font-size: 12px;
+ color: #FFFFFF;
+ text-align: center;
+}
+.journalbox .journaltop {
+ background-image: url(https://fc02.deviantart.net/fs70/o/2010/114/d/2/161773775_123229_e412ab33a7f67a1821329601a5811b92.jpg);
+ background-repeat: no repeat;
+ background-position: center;
+ padding: 315px 0px 230px 20px;
+ font-family: Arial;
+ font-size: 12px;
+ color: #FFFFFF;
+ text-align: center;
+ font-weight: normal;
+}
+.journalbox .journaltop h2 {
+ color: #FFFFFF;
+ font-family: Arial;
+ font-size: 20px;
+ text-align: center;
+ font-weight: bold;
+}
+.journalbox .journaltop img {
+ display: none;
+}
+.journalbox .list {
+ background-image: url(https://fc01.deviantart.net/fs71/o/2010/114/6/c/161773775_123230_69b6c0544852619451a907432ebd17d9.jpg);
+background-repeat: no repeat;
+background-position: center;
+ padding: 215px 30px 50px 50px;
+ color: #FFFFFF;
+ font-family: Arial;
+ font-size:12px;
+ text-align: center;
+}
+.journalbox .list .a {
+ background-color: transparent;
+ color: #000000;
+ font-family: Arial;
+ font-size: 14px;
+}
+.journalbox .list strong {
+ font-family: Arial;
+ font-size: 16px;
+ font-weight: bold;
+}
+.journalbox .journaltext {
+font-family: Arial!important;
+font-size: 14px!important;
+text-align: center!important; 
+font-variant: normal!important; 
+font-weight: normal!important; 
+}
+.journalbox .journaltext A:link {
+color:# 000000!important;
+font-family: Arial!important;
+font-size: 14px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .journaltext A:active {
+text-decoration: none!important; 
+color:# 000000!important;
+font-family: Arial!important;
+font-size: 14px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: none!important; 
+}
+.journalbox .journaltext A:hover {
+text-decoration: none!important; 
+color:# 000000!important;
+font-family: Arial!important;
+font-size: 14px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .journaltext A:visited {
+text-decoration: none!important; 
+color:# 000000!important;
+font-family: Arial!important;
+font-size: 14px!important;
+font-variant: normal!important; 
+font-weight: normal!important; 
+text-decoration: none!important; 
+}
+.journalbox .journalbottom {
+font-family: Arial!important;
+font-size: 12px!important;
+text-align: center!important; 
+font-variant: normal!important; 
+font-weight: bold!important; 
+}
+.journalbox .journalbottom A:link {
+text-decoration: underline!important; 
+font-family: Arial!important;
+font-size:12px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .journalbottom A:visited {
+text-decoration: underline!important; 
+font-family: Arial!important;
+font-size:12px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .journalbottom A:hover {
+text-decoration:underline!important; 
+font-family: Arial!important;
+font-size:13px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .journalbottom A:active {
+text-decoration:underline!important; 
+font-family: Arial!important;
+font-size:12px!important;
+font-variant: normal!important; 
+font-weight: bold!important; 
+text-decoration: underline!important; 
+}
+.journalbox .commentslink {
+color:#FFFFFF!important;
+font-family: Arial!important;
+font-size:12px!important;
+text-align: center!important; 
+font-variant: normal!important; 
+font-weight: bold!important; 
+}
+.journalbox .prevlink {
+color:#FFFFFF!important;
+font-family: Arial!important;
+font-size:12px!important;
+text-align: center!important; 
+font-variant: normal!important; 
+font-weight: bold!important; 
+}
+/*
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/simoneyvette/art/RED-DOOR-161773775">RED DOOR</a> journal skin by <a href="https://www.deviantart.com/simoneyvette">simoneyvette</a>
+</sub>
+*/

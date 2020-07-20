@@ -1,0 +1,262 @@
+.journalbox {
+width:618px;
+border-style:hidden;
+color: #fff;
+font-family: trebuchet ms;
+font-size:12px;
+text-align: left;
+border:1px solid #aaa;
+background-color:#383c39;
+padding:12px;
+border-radius:10px;
+-moz-box-shadow:inset 0 0 10px #000000;
+margin: auto;
+}
+
+.journaltop {
+background: url(https://fc02.deviantart.net/fs70/o/2013/022/7/2/350046127_642430_dagreen_0017_header.png);
+width:590px;
+height:127px;
+background-position: center;
+text-align: left;
+margin: auto;
+}
+
+.journalbox .journaltop img {
+      display: none;
+ }
+
+.gr-top h2 a{ color:inherit; }
+
+.journaltop h2 {
+background-color: #------;
+color:#FFF;
+width:607px;
+font-family:Palatino Linotype;
+font-size:18px;
+text-align: left;
+padding-top: 30px;
+margin-left: 0px;
+text-shadow: -1px -1px 0px #000;
+font-variant:small-caps;
+}
+
+:link, *:visited {
+color: #C9FFE9 !important;
+}
+
+.journalbox .list {
+background-color: #383c39;
+width: 619px;
+color: #FFF;
+font-family: coustard;
+font-size:12px;
+text-align: center;
+margin:auto;
+}
+
+.journalbox .list .a {
+background-color:#383c39;
+width: 595px;
+color:#FFF;
+font-family: courier;
+font-size:12px;
+text-align: center;
+margin:auto;
+}
+
+.journaltext a:link {
+color:#0B755E;
+font-family: ------;
+font-size:12px;
+font-variant:small-caps;
+}
+
+.navigation { 
+width: 607px; 
+height: 30px;
+}
+
+.navigation .menu1 { 
+background: url(https://fc07.deviantart.net/fs70/o/2013/022/5/3/350046127_642431_dagreen_0015_journal-hover.png) no-repeat;
+width:74px; 
+height:30px;
+display:table;
+margin-top:0px;
+margin-left:100px;
+padding:0;
+}
+.navigation .menu1:hover {}
+
+.navigation .menu2 { 
+background: url(https://fc02.deviantart.net/fs70/o/2013/022/7/b/350046127_642432_dagreen_0014_profile-idle.png) no-repeat; 
+width:74px; 
+height:30px;
+display:table;
+margin-top:-30px;
+margin-left:175px;
+padding:0;
+}
+.navigation .menu2:hover { 
+background: url(https://fc02.deviantart.net/fs71/o/2013/022/2/5/350046127_642433_dagreen_0013_profile-hover.png) no-repeat; 
+}
+
+.navigation .menu3 { 
+background: url(https://fc04.deviantart.net/fs70/o/2013/022/2/7/350046127_642434_dagreen_0012_gallery-idle.png) no-repeat; 
+width:74px; 
+height:30px;
+display:table;
+margin-top:-30px;
+margin-left:250px;
+}
+.navigation .menu3:hover { 
+background: url(https://fc09.deviantart.net/fs70/o/2013/022/7/3/350046127_642435_dagreen_0011_gallery-hover.png) no-repeat; 
+}
+
+.navigation .menu4 { 
+background: url(https://fc05.deviantart.net/fs71/o/2013/022/1/5/350046127_642436_dagreen_0010_favourites-idle.png) no-repeat; 
+width:94px; 
+height:30px;
+display:table;
+margin-top:-30px;
+margin-left:325px;
+}
+.navigation .menu4:hover { 
+background: url(https://fc07.deviantart.net/fs71/o/2013/022/2/9/350046127_642437_dagreen_0009_favourites--hover.png) no-repeat; 
+}
+
+.navigation .menu5 { 
+background: url(https://fc06.deviantart.net/fs71/o/2013/022/2/d/350046127_642438_dagreen_0008_dev-watch-idle.png) no-repeat; 
+width:84px; 
+height:30px;
+display:table;
+margin-top:-30px;
+margin-left:420px;
+}
+.navigation .menu5:hover { 
+background: url(https://fc06.deviantart.net/fs71/o/2013/022/1/3/350046127_642439_dagreen_0007_dev-watch-hover.png) no-repeat; 
+}
+
+.navigation .menu6 { 
+background: url(https://fc07.deviantart.net/fs71/o/2013/022/0/5/350046127_642440_dagreen_0006_facebook-idle.png) no-repeat; 
+width:28px; 
+height:28px;
+display:table;
+margin-top:-140px;
+margin-left:445px;
+}
+.navigation .menu6:hover { 
+background: url(https://fc00.deviantart.net/fs71/o/2013/022/d/9/350046127_642441_dagreen_0005_facebook-hover.png) no-repeat; 
+}
+
+.navigation .menu7 { 
+background: url(https://fc02.deviantart.net/fs71/o/2013/022/8/5/350046127_642442_dagreen_0004_twitter-idle.png) no-repeat; 
+width:28px; 
+height:28px;
+display:table;
+margin-top:-28px;
+margin-left:475px;
+}
+.navigation .menu7:hover { 
+background: url(https://fc04.deviantart.net/fs71/o/2013/022/a/4/350046127_642443_dagreen_0003_twitter-hover.png) no-repeat; 
+}
+
+.journaltext {
+background-color: transparent;
+color: #FFF;
+font-family: trebuchet MS;
+font-size: 12px;
+text-align: justify;
+width: 605px;
+}
+
+.break .break1 { 
+background: url(https://fc03.deviantart.net/fs70/o/2013/022/2/d/350046127_642444_dagreen_0000_break.png) no-repeat; 
+width:607px; 
+height:5px;
+display:table;
+margin-top: -10px;
+}
+
+
+.break2 .break2 { 
+background: url(https://fc03.deviantart.net/fs70/o/2013/022/2/d/350046127_642444_dagreen_0000_break.png) no-repeat; 
+width:607px; 
+height:5px;
+display:table;
+margin-bottom: 70px;
+}
+
+.shadow-holder{
+background: transparent;
+padding-top:7px;
+margin: auto;
+}
+
+.shadow-holder img{
+position:center;
+width:auto;
+height:120px!important;
+border: 2px;
+border-style:solid;
+border-color:#29302D;
+border-radius: 5px;
+box-shadow: 0px 0px 0px 1px #507D66;
+overflow:hidden;
+}
+
+.shadow{
+background:none!important;
+}
+
+
+.feature{
+position:relative;
+top:60px;
+left:0px;
+}
+.shadow-holder img:hover {
+border:2px solid #67877A;
+border-radius: 5px;
+}
+
+.featuretitle {
+background: url(https://fc07.deviantart.net/fs71/o/2013/022/0/d/350046127_642445_dagreen_featurebutton.png) no-repeat;
+}
+
+.footer {
+background-color: transparent;
+color: #FFF;
+font-family: trebuchet MS;
+font-size: 12px;
+text-align: right;
+width: 605px;
+height: 50px;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+Changing the Navigation Links
+
+Change the links by clicking "edit skin" and then on the "Skin header" section replace my current links ("http#//nishithv#deviantart#com/" and so on) with yours.
+Class = "menu2" is for Profile page
+Class = "menu3" is for your Gallery page
+Class = "menu4" is for Favourites page
+Class = "menu5" is for Devwatch (this one you can leave it unchanged)
+Class = "menu6" is the link to your Facebook page
+Class = "menu7" is the link to your Twitter page
+_______________________________________________________________________________________________________________________________________
+Feature
+For the feature section, click "edit skin" and in the "Skin Footer" box,
+replace the :thumbXXXXXXXXX: with yours.
+
+--Header Code--
+<div class="navigation"><a href="#" class="menu1" title=""></a><a href="https://nishithv.deviantart.com/" class="menu2" title=""></a><a href="https://www.deviantart.com/marufuji--ryou/gallery/" class="menu3" title=""></a><a href="https://www.deviantart.com/marufuji--ryou/favourites/" class="menu4" title=""></a><a href="https://my.deviantart.com/deviants/" class="menu5" title=""></a><a href="http://www.facebook.com" class="menu6" title=""></a><a href="http://www.twitter.com" class="menu7" title=""></a></div>
+--End Header Code--
+--Footer Code--
+<div class="break"><a href="#" class="break1" title=""></a>
+<div class="featuretitle"><a href="#" class="featuretitle" title=""></a>
+<div align="center" class="feature">:thumb300136344::thumb299293821::thumb283957858::thumb283178653:</a>
+<div class="break2"><a href="#" class="break2" title=""></a>
+<div class="footer">Skin by: :devnishithv:</div>
+*/

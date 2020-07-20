@@ -1,0 +1,52 @@
+.gr-box{width: 450px; color: #70a220; margin: auto; font-family: Verdana, sans-serif; line-height: 20px; background: transparent url(https://fc05.deviantart.net/fs50/o/2009/332/1/d/145058127_98158_x_masfreebie_top.png) top center no-repeat;}
+
+.gr{background: transparent; border: none;}
+.gr1 {display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.list{display: none;}
+.tri{display: none;}
+
+.gr-top{border: none;  width: 420px; margin: auto; background: transparent; padding: 400px 0 0 0;}
+
+.gr-top img{background: transparent; display: none;}
+
+.gr-top span{background: transparent; color: #70a220; display: block; text-align: center; margin-top: 3px; margin-left: 35px!important; font-size: 10px;}
+
+.gr-body{ background: transparent; border: none; overflow:visible!important; padding-bottom: 30px;}
+
+h2{font-size: 21px; font-weight: bold; margin-top: -140px; color: #eab05c; text-align: center; padding-left: 30px; padding-right: -10px; line-height: 24px;}
+
+.text{background: url(https://fc06.deviantart.net/fs51/o/2009/332/d/3/145058127_98159_x_masfreebie_body.png) top center repeat-y; width: 400px; padding: 0 10 0 10; margin: auto; margin-top: -10px!important; text-align: center!important;}
+
+.scrollbox {background:#e79442; border:1px #ad4b22 solid; min-height:100px; max-height:300px; width: 370px; _height:300px; overflow:auto; padding:10px; color: #bb3a22;}
+
+.links {text-align: center; margin: -60px 150px 0px 0px; padding: 0px 0px 0px 0px; width: 120px; height: auto; right: 6px; position: absolute; z-index: 50;}
+
+.links a {display: block; margin: 10px 0px 10px 0px; padding: 0px 0px 0px 27px; width: 120px; height: 23px; _height: 35px;
+background:url(https://fc04.deviantart.net/fs50/o/2009/332/1/c/145058127_98160_x_masfreebie_buttons.png) no-repeat; background-position: 0px 0px; color: #eab05c; font-size: 9px; font-weight: bold; text-align: left; text-decoration: none!important;}
+
+.links a:hover {background:url(https://fc04.deviantart.net/fs50/o/2009/332/1/c/145058127_98160_x_masfreebie_buttons.png) no-repeat; font-size: 10px; color: #70a220;}
+
+.body a{color: #deba62;}
+.body a:hover{text-decoration: none;}
+
+.bottom{background: url(https://fc08.deviantart.net/fs50/o/2009/332/8/f/145058127_98161_x_masfreebie_bottom.png) bottom center no-repeat; position: absolute; width: 458px; height: 100px; bottom: 10px; color: #dc8836; margin-left: -6px;}
+
+.bottom a{color: #dc8836;  font-size: 10px; font-weight: bold; text-decoration: none; font-size: 9px;}
+
+.bottom a:hover{color: #70a220; font-size: 11px; font-weight: bold; text-decoration: none; font-size: 10px;}
+/*
+To use the scrollbox insert the text you want scrolled/featured between div tags, like this:
+<**div class="scrollbox">
+TEXT/IMAGES YOU WANT INSIDE THE SCROLLBOX GO HERE
+</div**>
+but remove the **
+
+--Header Code--
+<div class="links"><a href="https://my.deviantart.com/notes/?to=Seiorai">Send me a Note</a><a href="https://my.deviantart.com/notes/?to=Seiorai">Send me a Note</a><a href="https://my.deviantart.com/notes/?to=Seiorai">Send me a Note</a></div>
+<div class="body">
+--End Header Code--
+--Footer Code--
+</div>
+*/

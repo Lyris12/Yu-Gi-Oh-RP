@@ -1,0 +1,329 @@
+.gr-box {
+}
+
+.gr-genericbox {
+position:relative;
+border:none;
+margin:0px;
+padding:0px;
+margin-bottom:15px;
+background:transparent;
+background-image: url(https://fc08.deviantart.com/fs47/o/2009/194/c/d/129393553_77331_juice_01.png);
+max-width: 699px;
+_width:699px;
+background-repeat: no-repeat;
+background-position: top left;
+font-family: trebuchet ms;
+min-width:500px;
+}
+
+
+
+.gr1 {display: none;}
+
+.gr2 {display: none;}
+
+.gr3 {display: none;}
+
+
+
+.gr-top {
+position:auto;
+border:none;
+background:transparent;
+margin:0px!important;
+padding:0px!important;
+margin-bottom:35px!important;
+}
+
+.tri {display: none;
+}
+
+.gr-top .gr {
+position:auto;
+border:none;
+background:transparent;
+margin:0px!important;
+padding:0px!important;
+}
+
+h2 {
+position:auto;
+border:none;
+background:transparent;
+margin:0px!important;
+padding:0px!important;
+display: block;
+padding-top: 180px!important;
+padding-left: 3px!important;
+text-align: center;
+width:258px;
+font-size: 16px;
+color:white;
+}
+
+h2 img{display:none;}
+
+.gr-top span {
+position:auto;
+border:none;
+background:transparent;
+margin:0px;
+padding:0px!important;
+position:absolute;
+top:30px;
+left:180px;
+font-size: 10px;
+color:#c9e785;
+}
+
+.gr-body {
+position:auto;
+border:none;
+margin:0px;
+padding:0px;
+background:transparent;
+background-image: url(https://fc07.deviantart.com/fs46/o/2009/194/c/a/129393553_77332_juice_06.png)!important;
+background-position: bottom left;
+background-repeat: no-repeat;
+_width:699px;
+_margin-top:-3px;
+}
+
+.gr-body .gr {
+position:auto;
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+}
+
+
+
+.text {
+position:auto!important;
+border:none;
+margin:0px;
+padding:0px;
+background:transparent;
+background-image: url(https://fc03.deviantart.com/fs46/o/2009/194/a/1/129393553_77333_juice_04.png);
+background-repeat: repeat-y;
+width:238px;
+_width:363px;
+padding-right:110px;
+font-size: 11px;
+padding-left:15px;
+color: #5a8f22;
+margin-bottom:-15px;
+}
+
+.texty {
+margin-top:-25px;}
+
+.text strong {
+padding-left:20px;
+background-image: url(https://fc09.deviantart.com/fs46/o/2009/194/5/6/129393553_77334_drop_05.png);
+background-position: left center;
+background-repeat: no-repeat;
+font-size:14px;
+}
+
+.text li {
+display:inline-block;
+background-image: url(https://fc03.deviantart.com/fs46/o/2009/194/f/7/129393553_77335_list_09.png);
+background-repeat: no-repeat;
+background-position: left center;
+padding-left:8px;
+_background-image:none;
+_display:list;
+
+}
+
+.list img{
+}
+
+
+.list {
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+font-size: 10px;
+list-style-type: none;
+position:absolute!important;
+bottom:260px;
+left:350px;
+text-align: center;
+color:white;
+}
+
+.list li {
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+}
+
+.list li:hover {
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+}
+
+.list .a {border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+}
+.f {
+position:auto;
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+}
+.f strong {border:none;
+background:transparent;
+margin:0px;
+padding:0px;}
+
+.bottom {
+position:auto;
+border:none;
+background:transparent;
+margin:0px;
+padding:0px;
+font-size:11px;
+padding-bottom:450px;
+padding-top:60px;
+width:258px;
+text-align: center;
+}
+
+.bottom .prevlink {
+display:block;
+}
+
+.bottom .commentslink {
+}
+
+.hsep {display:none;}
+
+a {color:#f49e00; text-decoration: none;}
+
+a:hover {color:#edb621;}
+
+.minigal{margin: 0 0px 0px 0px}
+.minigal .shadow{background-image: none!important}
+.minigal a{
+  display: inline-block;
+  width: 50px!important;
+  height: 50px!important;
+  overflow: hidden;
+  border: solid #fff;
+  background: #fff;
+  border-width: 10px 5px 5px 5px;
+  outline: 1px solid #6da72c;
+  margin:4px;
+_border-color:#6da72c;
+_border-width:7px;
+_margin:0px;
+_width:67px;
+_height:67px;
+_outline:0px;
+_display:inline;
+}
+.minigal img{margin:0px;
+_border:none;}
+
+.minigal a:hover{
+  border-color: #6da72c!important;
+  outline: 1px solid #6da72c!important;
+_outline:0px!important;
+_border-width:1px;
+
+}
+.minigal a:hover img{
+  z-index: 999;
+  position: absolute;
+  margin: 0 0 0 -6px;
+  border: 1px solid #6da72c;
+_margin:0px 0px 0px 0px;
+_border:none;
+_z-index:auto;
+_position:auto;
+}
+
+.exp {
+  position:absolute;
+  top:30px;
+  color:#ddf1af;
+  left:75px;
+_display:none;
+}
+
+.cre_brgtt{
+position:absolute;
+top:230px;
+left:358px;
+_top:0px;
+}
+
+
+.cre_brgtt a{
+display:block;
+  background-image: url(https://fc08.deviantart.com/fs49/o/2009/194/3/4/129393553_77336_credit_03.png);
+  height:44px;
+  width:30px;
+}
+
+.cre_brgtt a:hover{
+display:block;
+  background-image: url(https://fc00.deviantart.com/fs49/o/2009/194/b/c/129393553_77337_credithov_03.png);
+  height:44px;
+  width:173px;
+}
+.cre_brgtt a span{
+display:none;}
+
+.cre_ikue{
+position:absolute;
+top:280px;
+left:358px;
+_top:50px!important:
+}
+
+
+.cre_ikue a{
+display:block;
+  background-image: url(https://fc06.deviantart.com/fs49/o/2009/194/b/b/129393553_77338_credit_06.png);
+  height:44px;
+  width:30px;
+}
+
+.cre_ikue a:hover{
+display:block;
+  background-image: url(https://fc01.deviantart.com/fs49/o/2009/194/2/9/129393553_77339_credithov_06.png);
+  height:44px;
+  width:173px;
+}
+.cre_ikue a span{
+display:none;}
+
+.no_breaky br{display:none;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Titles:
+<strong>Your title here</strong>
+Mini thumbs
+credit to `thespook for the original mini thumbs
+<div class="minigal">your thumbs here</div>
+
+--Header Code--
+<div class="cre_brgtt"><a href="http://www.tinyurl.dk/8847/"><span>brgtt</span></a></div><div class="cre_ikue"><a href="https://ikue.deviantart.com/"><span>ikue</span></a></div><div class="exp">Expiration Date:</div><div class="texty">
+--End Header Code--
+--Footer Code--
+</div>
+*/

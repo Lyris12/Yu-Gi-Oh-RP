@@ -1,0 +1,84 @@
+.journalbox {
+	font:15px Maiandra GD, Arial, Helvetica, sans-serif;
+	background-color:#000000;
+        text-align:center;
+	color:#a95c01;
+	border:1px solid #000000;
+	max-width: 838px;
+}
+a:link {
+	color:#FF1616;
+	text-decoration:none;
+}
+a:active {
+	color:#FF3F3F;
+	text-decoration:none;
+}
+a:visited {
+	color:#FFC156;
+	text-decoration:none;
+}
+a:hover {
+	color:#FF6363;
+	text-decoration:none;
+}
+.journaltop {
+	background:url(
+http://fc03.deviantart.net/fs71/o/2011/154/2/4/211554645_265913_header-4.jpg) top left no-repeat #000000;
+	font-size:10px;
+	color:#cba719;
+	text-align:right;
+	height:70px;
+	padding:120px 5px 70px 290px;
+}
+.journaltop h2 {
+	color:#ffefad;
+	padding:5px;
+	margin:2px;
+	text-align:right;
+	font:31px LittleLordFontleroy, Arial, Century Gothic, sans-serif;
+}
+.journaltop img {
+	display:none;
+}
+.list {
+	color:#ffefad; 
+        font:12px Tempus Sans ITC;
+        height:120px;
+	padding:119px 45px 11px 23px;
+	background:url(
+http://fc06.deviantart.net/fs70/o/2011/154/b/f/211554645_265914_footer-4.jpg) top left no-repeat #000000;
+}
+.a {
+	background:transparent!important;
+}
+.list li {
+	padding:4px;
+}
+.journalbottom {
+	padding:10px;
+	text-align:center;
+	color:#89803d;
+	text-transform:lowercase;
+}
+.journalbottom a {
+	text-decoration:none;
+	border-bottom:1px dashed #dcbf65;
+}
+.journalbottom a:hover {
+	text-decoration:none;
+	border-bottom:none;
+}
+.journaltext {
+	padding:5px;
+}
+/*
+! For deviantArt only
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/filmchild/art/House-of-Ghosts-Journal-211554645">House of Ghosts Journal</a> skin by <a href="https://www.deviantart.com/Filmchild">Filmchild</a>
+</sub>
+*/

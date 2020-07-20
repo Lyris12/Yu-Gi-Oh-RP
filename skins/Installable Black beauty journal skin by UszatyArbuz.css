@@ -1,0 +1,243 @@
+.journaltop {
+background-color: transparent;
+background-position: top center;  
+color: transparent;
+text-align: center;
+height: 220px;
+}
+.journaltop img{ display: none } 
+
+.journaltop span{
+font-family: "Raleway";
+color: #aaa;  
+text-align: center;
+font-size: 13px;}
+
+.journaltop h2 { 
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+font-size: 40px; 
+text-align: center;
+margin: 80px 180px 0 180px;
+}
+
+.journaltop h2 a{ 
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+font-size: 50px; 
+text-align: center;
+transition: all 0.5s;
+}
+
+.journaltop h2 a:hover{ 
+color: #c6218d; 
+text-shadow: 0 0 8px #fff;
+}
+
+.journalbox{ 
+background: url(https://other00.deviantart.net/e257/o/2016/170/b/8/616083897_2814690_bgj_by_uszatyarbuz-da6ohnb.png) repeat-y;
+background-position: top center;
+border: none;
+width: 950px;
+} 
+
+.journaltext{ 
+font-family: "Fondamento";  
+color: #d1d1d1;
+font-size: 16px;
+text-align: left;
+margin: 0 180px 0 180px;
+}
+
+.journaltext h1{
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+font-size: 35px; 
+text-align: center;
+}
+
+.journaltext h2{
+font-family: "UnifrakturMaguntia";  
+color: #6f134d;
+font-size: 25px; 
+text-align: center;
+text-shadow: 0 0 2px #fff;
+}
+
+.journaltext h3{
+font-family: "Fondamento";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+font-size: 22px; 
+text-align: center;
+}
+
+
+a {
+color: #c6218d; 
+text-decoration: none;
+text-shadow: none;
+transition: all 0.5s;
+font-weight: normal;
+}
+
+a:hover {
+text-decoration: none;
+color: #fff; 
+}
+
+a.external{font-weight:normal; text-decoration: none;}
+a.external:after{display:none;}
+
+.shadow-holder{
+padding: 0px;}
+.shadow{
+padding: 0px;}
+.shadow:hover{
+padding: 0px;}
+
+.embedded-image-deviation {
+vertical-align: middle;
+padding: 0px;}
+.embedded-image-deviation img {
+vertical-align: middle;
+padding: 0px;}
+.embedded-image-deviation img:hover {
+padding: 0px;}
+.embedded-image-deviation:hover {
+padding: 0px;}
+
+a img{vertical-align: middle;transition: box-shadow 0.4s;}
+a img:hover{vertical-align: middle;}
+
+.lit{
+padding: 0px;
+width: 180px;
+height: 180px;
+background: #000;
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+font-family: "Raleway"; 
+vertical-align: middle;
+}
+.lit:hover {}
+
+.lit q strong{
+font-family: "Fondamento";  
+margin: 5px;
+padding: 2px;
+padding-top: 5px;
+letter-spacing: 3px;
+font-weight: normal;
+color: #c6218d;
+font-size: 14px;}
+
+.lit q{
+margin-left: -20px;
+margin-bottom:5px;
+margin-right:5px;
+padding: 0px;
+color: #fff; 
+font-size: 12px;
+text-shadow: none;
+}
+
+.lit strong:not(:first-child){border: none;}
+a.lit q{text-shadow: none;}
+.lit img {display: none;}
+
+.text blockquote{
+background-color: transparent;
+font-size: 16px;
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+margin: 20px;
+padding: 15px;
+}
+
+.user-symbol::before { background-color: transparent; color: #000;}
+.user-symbol::after { background-color: transparent; color: #fff;}
+
+.journalbottom{
+text-align: center;
+background: none;
+height: 180px;
+margin: 0 180px 0 180px;
+}
+
+.journalbox .journalbottom a.commentslink {
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+font-size: 35px; 
+text-align: center;
+transition: all 0.5s;
+}
+
+.journalbox .journalbottom a.prevlink {
+font-family: "UnifrakturMaguntia";  
+color: #c6218d;
+text-shadow: 0 0 4px #000;
+font-size: 35px; 
+text-align: center;
+}
+
+.journalbox .journalbottom a.commentslink:hover { 
+color: #c6218d; 
+text-shadow: 0 0 8px #fff;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+color: #c6218d; 
+text-shadow: 0 0 8px #fff;
+}
+
+.credit {
+color: #c6218d;
+font-size: 12px;
+font-family: "Fondamento";  
+
+}
+
+.credit a {
+color: #fff;
+font-size: 12px;
+transition: all 0.3s;
+font-weight: normal;
+}
+
+.credit a:hover { 
+color: #c6218d; 
+}
+
+.list{ 
+background-color: transparent;
+font-family: "Fondamento";  
+font-size: 14px;
+text-align: center;
+} 
+
+.list li{
+color: #c6218d; 
+font-size: 14px; 
+padding: 0px; 
+font-weight: normal;
+text-shadow: 0 0 5px #fff;
+} 
+
+.list .a{ background: transparent; }
+.list li img{ display: none; } 
+
+.list .f strong{
+color: #c6218d; 
+background: transparent; 
+font-weight: normal;
+}
+/*
+--Footer Code--
+<div class="credit" align="right">Skin by :devuszatyarbuz:</div>
+*/

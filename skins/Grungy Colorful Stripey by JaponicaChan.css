@@ -1,0 +1,129 @@
+.journalbox {
+	background-position:center;
+	text-align:center;
+	border: none;
+	width: 549px;
+	height: 915px;
+	background: url(https://fc09.deviantart.net/fs71/o/2010/337/2/d/188372725_161592_bg1_by_japonicachan-d3440ax.png);
+	background-repeat: no-repeat;
+}
+
+.journaltop {
+	background-position:center;
+	text-align:center;
+	color: #0095c4;
+	background: url(https://fc06.deviantart.net/fs71/o/2010/337/0/f/188372725_161593_bg2_by_japonicachan-d3440gl.png);
+	background-repeat: repeat;
+	height: 50px;
+	width: 419px;
+	margin: 0px 60px 60px 60px;
+	padding: 5px 5px 5px 5px;
+}
+
+.journaltop img {
+	display: none;
+}
+
+.journaltop h2 {
+	background-position:center;
+	text-align:center;
+	color: #0094c4;
+	font-size:36px;
+	text-shadow: #033a4c;
+}
+
+.journaltop span {
+	background-position:center;
+	text-align:center;
+	color: #0bb3d6;
+	font-size: 9px;
+}
+
+.journaltext {
+	background-position:center;
+	text-align:center;
+	background-attachment: scroll;
+	overflow: auto;
+	background-position : scroll;
+	background: url(https://fc06.deviantart.net/fs71/o/2010/337/0/f/188372725_161593_bg2_by_japonicachan-d3440gl.png);
+	background-repeat: repeat;
+	height: 485px;
+	width: 419px;
+	margin-left: 60px;
+	margin-right: 60px;
+	padding: 5px 5px 5px 5px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px
+}
+
+.journaltext a {
+	color: #999;
+	text-decoration:none;
+}
+
+.journaltext a:hover {
+	color: #999;
+	text-decoration:underline;
+}
+
+.journalbottom {
+	background-position:center;
+	text-align:center;
+	color: #ffba00;
+	font-size: 12px;
+	background: url(https://fc06.deviantart.net/fs71/o/2010/337/0/f/188372725_161593_bg2_by_japonicachan-d3440gl.png);
+	background-repeat:repeat;
+	height: 110;
+	width: 419;
+	padding: 5px 5px 5px 5px;
+	margin: 60px 60px 60px 60px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.commentslink {
+	color: #56b651;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.prevlink {
+	color: #56b651;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+.commentslink:hover {
+	color: #56b651;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-decoration: underline;
+}
+
+.prevlink:hover {
+	color: #56b651;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-decoration: underline;
+}
+
+.list {
+	margin-left: 60px;
+	margin-right: 60px;
+	background: url(https://fc06.deviantart.net/fs71/o/2010/337/0/f/188372725_161593_bg2_by_japonicachan-d3440gl.png);
+	color: #ffba00;
+	font-size: 10px;
+}
+
+.a {
+	color: #ffba00;
+	font-size: 10px;
+	background-color: transparent!important;
+}
+
+.strong {
+	text-transform:uppercase;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

@@ -1,0 +1,319 @@
+.journalbox{
+  background:url(https://fc08.deviantart.net/fs71/o/2011/136/b/8/209090799_257228_2ccp24j.jpg) repeat;
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  border:2px solid red;
+  color:#fff4f4;
+  overflow:auto;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.journalbox a{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:red;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+}
+
+.journalbox a:hover{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:#fff4f4;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+}
+
+.journalbox .journaltop img{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  display:none;
+  border-radius:15px 15px 0 0;
+}
+
+.journalbox .journaltop{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  border:none;
+  height:80px;
+  color:#FFFFFF;
+  font:13px Kristen ITC !important;
+  text-shadow:0px 2px 1px green;
+}
+
+.sidebar {
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  overflow:auto;
+  margin-top:20px;
+  margin-left:-70px;
+  padding:5px;
+  width:25%!important;
+  vertical-align:top;
+  background:#ffe2e3;
+  border:2px solid #FC7B93;
+  text-align:center;
+  float:left;
+  -moz-border-radius: 15px 15px 15px 15px;
+  -webkit-border-radius: 15px 15px 15px 15px;
+}
+
+.journalbox .journaltop h2{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:white;
+  text-shadow:0px 2px 2px #9bf385;
+  font-size:30px;
+  position:absolute;
+  text-align:center;
+  font-weight:bold;
+  overflow:hidden;
+  font-family:Kristen ITC;
+  margin-top:30px;
+
+}
+
+.journalbox .journaltop span{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  border:none;
+  height:80px;
+  color:#FFFFFF;
+  font:13px Kristen ITC !important;
+  text-shadow:0px 2px 1px brown;
+}
+
+.journalbox .journaltext{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:url(https://fc06.deviantart.net/fs70/o/2011/136/2/c/209090799_257230_2u8hyec.jpg) repeat;
+  border:2px solid red;
+  color:#FFFFFF;
+  padding:30px;
+  font:13px Kristen ITC !important;
+  margin:50px;
+  text-shadow:0px 1px 3px brown;
+  border-radius: 15px 15px 15px 15px;
+  text-align:justify;
+}
+
+.Box{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:#ffe2e3;
+  border:2px solid #FC7B93;
+  border-radius:10px 10px 10px 10px;
+  -moz-border-radius:10px 10px 10px 10px;
+  -webkit-border-radius:10px 10px 10px 10px;
+  margin:10px;
+  overflow:hidden;
+  padding:25px 15px;
+  text-align:center;
+}
+
+.Box a{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:red;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+}
+
+.Box a:hover{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:#fff4f4;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+}
+
+.journalbox .journalbottom{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  font:13px Kristen ITC !important;
+  color:#FC7B93;
+  background:url(https://fc01.deviantart.net/fs71/o/2011/136/d/3/209090799_257231_200sdoz.png) repeat-x;
+  left:50px;
+  margin-top:-100px;
+  right:50px;
+  height:208px;
+  padding-bottom:20px;
+  padding-top:90px;
+  position:absolute;
+  z-index:1;
+  text-shadow:0px 2px 0px white;
+}
+
+.journalbox .journalbottom a {
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:#FC7B93;
+  font:14px Kristen ITC !important;
+  text-decoration:none !important;
+  text-shadow:0px 1px 0px red;
+  background:#ffe2e3;
+  border:2px solid red;
+  border-radius:10px 10px 10px 10px;
+  -moz-border-radius:10px 10px 10px 10px;
+  -webkit-border-radius:10px 10px 10px 10px;
+  display:block;
+  overflow:hidden;
+  float:right;
+  text-align:center;
+  margin:2px 5px;
+  padding:3px 8px;
+  text-shadow:0px 2px 0px white;
+}
+.journalbox .journalbottom a:hover {
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:red;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+  text-shadow:0px 2px 0px white;
+}
+
+.journalbox .list{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  border:none;
+  margin-top:130px;
+  margin-bottom:50px;
+  text-align:center;
+}
+
+.a{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  border:none;
+  font:12px Kristen ITC !important;
+  font-size:13px;
+  color:#ffe2e3;
+  text-shadow:0px 2px 1px green;
+  margin-bottom:40px;
+  margin-top:-40px;
+}
+
+.f{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  border:none;
+  font:12px Kristen ITC !important;
+  font-size:13px;
+  color:#ffe2e3;
+  text-shadow:0px 2px 1px green;
+  margin-bottom:40px;
+  margin-top:-40px;
+}
+
+.corner-ul{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:url(https://fc02.deviantart.net/fs70/o/2011/136/8/6/209090799_257232_abm1ig.png) top right;
+  height:130px;
+  position:absolute;
+  right:0px;
+  top:0px;
+  width:101px;
+  z-index:1;
+}
+
+.corner-dr{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:url(https://fc05.deviantart.net/fs71/o/2011/136/7/a/209090799_257233_2u4swux.png) 90% 20% no-repeat;
+  height:116px;
+  position:absolute;
+  left:-25px;
+  top:100px;
+  width:200px;
+  z-index:1;
+}
+
+.button{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:#ffe2e3;
+  border:2px solid #FC7B93;
+  font:14px Kristen ITC !important;
+  border-radius:10px 10px 10px 10px;
+  -moz-border-radius:10px 10px 10px 10px;
+  -webkit-border-radius:10px 10px 10px 10px;
+  display:block;
+  overflow:hidden;
+  float:right;
+  text-align:center;
+  font-size:14px;
+  margin:2px 5px;
+  padding:3px 8px;
+}
+
+.button a{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:#FC7B93;
+  text-decoration:none;
+  text-shadow:0px 2px 0px white;
+}
+
+.button a:hover{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  color:red;
+  text-shadow:0px 1px 0px white;
+  text-decoration:none;
+}
+
+.title{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent url(https://fc09.deviantart.net/fs71/o/2011/136/5/c/209090799_257234_o08jec.png) left no-repeat;
+  display:block;
+  overflow:hidden;
+  color:white;
+  font-size:20px;
+  font-weight:bold;
+  font-family:Kristen ITC;
+  padding-left:55px;
+  padding-top:28px;
+  margin-top:20px;
+  margin-bottom:-10px;
+  text-align:left;
+  text-shadow:0px 2px 1px #FC7B93;
+}
+
+.subtitle{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  background:transparent;
+  display:block;
+  overflow:hidden;
+  color:white;
+  font-family:Kristen ITC;
+  font-size:18px;
+  font-weight:bold;
+  margin:10px;
+  padding:5px;
+  padding-top:20px;
+  text-align:center;
+  text-shadow:0px 1px 1px green;
+}
+
+.footer{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  margin-top:20px;
+  margin-bottom:20px;
+  font-family:Kristen ITC;
+  font-size:12px;
+  text-align:center;
+}
+
+.journalbox .journaltop img{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  border:2px solid #FC7B93;
+  display:none;
+}
+
+.skin_attribution{
+  cursor:url(https://fc05.deviantart.net/fs70/o/2011/136/6/2/209090799_257229_30aal1y.png), pointer;
+  display:none;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Header Code--
+<div class="example-header"> <div class="button"><a href="https://my.deviantart.com/notes/?to%3Direal70">Note Me</a></div><div class="button"><a href="https://ireal70.deviantart.com/journal/33441015/">Commission Me</a></div></div><div class="button"><a href="https://ireal70.deviantart.com/gallery/">Gallery</a></div><div class="button"><a href="http://ireal.web.fc2.com/">Website</a></div>
+<div class="sidebar">
+:thumb78437003:
+:thumb94377808:
+:thumb171628384:
+:thumb95105657:
+:thumb192033159:
+</div> </div>
+--End Header Code--
+--Footer Code--
+<div class="example-footer"> <div class="footer">--------------------
+Strawberry Skin &#x00a9; :devireal70:
+--------------------</div>
+<div class="corner-ul"></div><div class="corner-dr"></div> </div>
+*/

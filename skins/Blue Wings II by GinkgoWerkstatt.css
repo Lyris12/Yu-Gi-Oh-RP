@@ -1,0 +1,34 @@
+.journalbox{
+margin: 10px 0 0 10px;
+padding: 0 0 70px 0;
+color: #fff;
+background: #000 url(http://fc07.deviantart.net/fs70/f/2013/264/b/9/blue_wings___bg_1_by_ginkgografix-d5tc30n.jpg) no-repeat top left;}
+
+.journalbox h2{
+font-size: 22px;
+color: #fff;
+padding: 166px 20px 10px 30px;
+margin: 0 0 120px 280px;
+letter-spacing: 1px;
+border-bottom: 1px solid #eb8af5;}
+
+.journalbox a{
+color: #b58eb7;
+text-decoration: none ;
+text-shadow: none;}
+
+.journaltext hr{
+border: none;
+height: 100px;
+background: url(http://fc05.deviantart.net/fs71/f/2013/264/c/1/blue_wings___thumb_by_ginkgografix-d5tc2zz.png) bottom center no-repeat;}
+
+.journaltext{
+margin: 0 50px 0 300px;
+padding: 20px 0 0 0;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Was originally a Gallery CSS
+
+- Background 1: http://fc07.deviantart.net/fs70/f/2013/264/b/9/blue_wings___bg_1_by_ginkgografix-d5tc30n.jpg
+- Background 2: http://fc03.deviantart.net/fs71/f/2013/264/5/7/blue_wings___bg_2_by_ginkgografix-d5tc307.jpg
+*/

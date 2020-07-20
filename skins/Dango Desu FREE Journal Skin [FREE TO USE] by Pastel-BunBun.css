@@ -1,0 +1,111 @@
+a:link {cursor:url(https://fc05.deviantart.net/fs70/o/2013/210/5/d/389221535_1063679_kawaii_shooting_star_by_pastel_bunbun-d65ehvm.png), pointer;
+
+}
+
+a:hover {cursor:url(https://fc05.deviantart.net/fs70/o/2013/210/5/d/389221535_1063679_kawaii_shooting_star_by_pastel_bunbun-d65ehvm.png), pointer;
+
+}
+
+body {cursor:url(https://fc05.deviantart.net/fs70/o/2013/210/5/d/389221535_1063679_kawaii_shooting_star_by_pastel_bunbun-d65ehvm.png), pointer;
+
+}
+.journalbox {
+    background-color: #ffffff !important;
+    border: 4px #ffffff solid !important;
+}
+
+.journalbox .list li {
+    background-color: transparent !important;
+    color: #000 !important;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: #000 !important;
+}
+
+.journalbox h2 {
+    color: #000 !important;
+}
+
+.journalbox .journaltop {
+    background-color: #ffffff !important;
+    text-align: center !important;
+    color: #ffffff !important;
+    background-image: url(https://fc03.deviantart.net/fs70/o/2013/210/f/5/389221535_1063680_dango_journal_header_by_pastel_bunbun_da_by_pastel_bunbun-d6fb0nf.jpg);
+    background-position: top center;
+    background-repeat: repeat-x;
+    height: 448px;
+}
+
+.journalbox a {
+    color: #fe9eba !important;
+}
+
+.journalbox a:hover {
+    color: #ffb4ca !important;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #9f70da !important;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #9f70da !important;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #ffffff !important;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #ffffff !important;
+}
+
+.journalbox .journalbottom {
+    background-color: #e7c4ea !important;
+    padding-top: 6px;
+}
+
+.journalbox .journaltext {
+    color: #505050 !important;
+    background-image: url(https://fc02.deviantart.net/fs70/o/2013/210/c/5/389221535_1063681_rainbows_and_pastel_clouds_by_pastel_bunbunda_by_pastel_bunbun-d6f9xsl.png);
+    background-repeat: repeat;
+    background-position: top left;
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+}
+
+.journalbox .boxtop {
+    padding: 0 !important;
+}
+
+div.scrollbox { 	
+background-attachment: scroll;
+background-image:url;
+ background-position: top left;
+    background-repeat: right-repeat;
+max-width:540px;
+height:355px;
+border-width: 2px 2px 2px 2px;		
+border-color: #c875ce;			
+border-style: solid;
+background-repeat : no-repeat;
+background-position : scroll;
+padding: 5px 5px 5px 5px;
+margin-top: 1px;
+background-color:#ffffff;
+overflow: auto;
+}
+/*
+--Header Code--
+<div align="center"><div class="scrollbox">:thumb311930775::thumb311930775::thumb311930775:
+<div class="links" align="center"><a href="YOUR YOUTUBE URL">YouTube</a> | <a href="YOUR COMMISSIONS LINK URL">Commissions</a> | <a href="YOUR FACEBOOK URL">Facebook</a> | <a href="YOUR TWITTER URL">Twitter</a> | <a href="YOUR TUMBLR">Tumblr</a></div>
+--End Header Code--
+--Footer Code--
+</div>
+
+<a href="https://pastel-bunbun.deviantart.com/"><img alt="" src="https://fc09.deviantart.net/fs70/o/2013/210/e/3/389221535_1063682_pastel_bunbun_stamp_2012_by_pastel_bunbun-d63drzn.png"width="300"/></a></div>
+*/

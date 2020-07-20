@@ -1,0 +1,109 @@
+.journalbox{
+	padding: 100px 70px 100px 70px;
+	height: 800px;
+	width: 560px;
+	background-image:url(https://fc00.deviantart.net/fs71/o/2010/338/3/c/188417543_161651_cxxxxxxxxxxxxxxx_by_japonicachan-d346esw.gif);
+	background-position:center;
+	border: none;
+}
+
+.journaltop {
+	background: none;
+	height: 90px;
+	width: 550px;
+	padding: 5px 0px 5px 0px;
+	color: #499945;
+	margin: 0px 70px 100px 70px;
+	font-family: Courier, monospace;
+	font-size:20px;
+}
+
+.journaltop img{
+       display: none;
+}
+
+.journaltop h2 {
+	color: #499945;
+	font-family: Courier, monospace;
+	text-indent:inherit;
+	font-size:44px;
+}
+
+.journaltop span {
+	color: #6be165;
+	font-family: Courier, monospace;
+	font-size:16px;
+}
+
+.journaltext {
+	background:none;
+	background-attachment: scroll;
+	overflow: auto;
+	height: 290px;
+	width: 560px;
+	margin: 0px 0px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	font-size:12px;
+	color: #2e9313;
+	font-family: Courier, monospace;
+}
+
+.journaltext a {
+	font-size:12px;
+	color: #6be165;
+	font-family: Courier, monospace;
+	text-decoration:underline;
+}
+
+.journaltext a:hover {
+	font-size:12px;
+	color: #6be165;
+	font-family: Courier, monospace;
+	text-decoration:underline;
+	text-transform:uppercase;
+}
+
+.journalbottom {
+	color: #499945;
+	font-size:12px;
+	font-family: Courier, monospace;
+	background:none;
+	height: 12px;
+	width: 550px;
+	padding: 5px 5px 5px 5px;
+	margin: 100px 0px 70px 0px;
+}
+
+.journalbottom a {
+	color: #2e9313;
+	font-size:12px;
+	font-family: Courier, monospace;
+	text-decoration:underline;
+}
+
+.journalbottom a:hover {
+	color: #6be165;
+	font-size:12px;
+	font-family: Courier, monospace;
+	text-decoration:underline;
+	text-transform:uppercase;
+}
+
+.journalbox ul {
+	background:none;
+	color: #499945;
+	font-size:12px;
+	font-family: Courier, monospace!important;
+	text-decoration:none;
+}
+
+a. {
+	background:none!important;
+	color: #499945;
+	font-size:12px;
+	font-family: Courier, monospace;
+	text-decoration: overline;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

@@ -1,0 +1,226 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+.sidebar{
+background: none;
+    clear: left;
+    float: left;
+    margin-left:-230px;
+    margin-right:auto;
+    overflow: hidden;
+    padding: 10px 10px 10px 10px;
+    padding-top:155px!important;
+    position: absolute!important;
+    font-family: 'Montez', cursive;
+    color: #000000;
+    font-size:18px;
+    text-align:left;
+    top: 70px;}
+.sidebar a:hover {
+    color: #FFFFFF;
+    text-shadow:#none 3px 2px 4px; font-size:2em; color:#034c7e;
+    font-family: 'Montez', cursive;
+    text-decoration: none;}
+a.external:after {display:none!important;}
+a {font-weight:normal!important;}
+a:hover{text-decoration: none;}
+a{color: #000000; text-decoration: none;}
+.journaltop{
+color: #000000;
+height: 80px;
+text-align:center; 
+font-family: 'Muli', sans-serif;
+font-size: 10px;
+background: none;
+padding: 5px 10px 20px 10px;
+margin: 0px 0px 10px 0px;
+background-position: center;
+background-repeat: repeat;}
+.journaltop img{ display: none; } 
+.journalbox{
+text-align:center;
+max-width: 630px;
+height: 849px;
+background-color: none;
+background: url(https://fc07.deviantart.net/fs70/o/2015/034/9/3/511533716_2133686_flower3_by_inconcabille-d8gj4z0.png);
+padding-top:0px;
+border-radius:50px;
+border-width: 2px;
+border-color: #b4be46;
+float:center;
+margin-left:auto;
+margin-right:auto;
+}
+h2{ 
+        font-family: 'Montez', cursive;
+        color: #000000;
+        text-shadow:#034c7e 3px 2px 4px; font-size:26px; color:#000000;
+        font-size: 26px;}
+ .journaltext{
+        text-align:justify; 
+        font-family: 'Muli', sans-serif;
+        font-size:11px;
+        color:#000000;
+        padding: 20px 20px 20px 20px;
+        margin-top: 130px;
+        margin-left: 230px;
+        margin-right:auto;
+background: none;
+        background-position: center;
+        background-repeat: repeat;
+        background-attachment: scroll;
+        overflow: auto;
+        max-width: 390px;
+        height: 510px;}
+.journalbottom {
+	background-position:center;
+	text-align:right;
+	color: #000000;
+	background-repeat:repeat;
+	padding: 5px 100px 10px 10px;
+        margin: 10px 0px 0px 0px;
+        font-family: 'Montez', cursive;
+        background: none;
+        background-position: center;
+        background-repeat: repeat;}
+.commentslink {
+        color: #000000;
+        font-family: 'Montez', cursive;
+        text-shadow:#034c7e 3px 2px 4px; font-size:24px; color:#000000;
+        font-size: 24px;
+        font-weight: bold;}
+.list {display: none;}
+b {color:#b4be46;}
+i {color:#68b1e2;}
+h1 {
+     background: none;      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #b4be46;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 26px;
+     display:inline-block;}
+h3 {
+     background: none;      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #68b1e2;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 28px;
+     display:inline-block;}
+h4 {
+     background:none;
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #034c7e;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size: 30px;
+     display:inline-block}
+.Footer{
+     font-size: 10px;
+     color: #000000;
+     text-shadow:#034c7e 3px 2px 4px; font-size:10px; color:#000000;
+     font-family: 'Muli', sans-serif;
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #000000;
+     font-family: 'Muli', sans-serif;
+     text-decoration: none;}
+.text blockquote {
+    background: none;     
+     color: #000000;
+     text-align:justify; 
+     font-family: 'Montez', cursive;
+     font-size:16px;
+     background-position: center;
+     padding: 10px 10px 10px 10px;
+     background-repeat: repeat;}
+span.shadow {padding:0px;}
+.thumb-holder b {
+     display:block;
+     color:#034c7e;
+     font-size:10pt;
+     text-align:center;
+     margin-top:-10px;}
+.thumb-holder .thumb:hover {
+     border-bottom:none;}
+.thumb-holder .shadow {
+     box-shadow:none;
+     margin:0px;}
+.thumb-holder img {
+     border: #034c7e 2px solid;
+     border-radius:100px;}
+.thumb-holder .shadow-holder {
+     transition:all 100ms ease-in-out;}
+.thumb-holder .shadow-holder:nth-child(4n+1) {
+     transform:rotate(24deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+2) {
+     transform:rotate(-24deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+3) {
+     transform:rotate(18deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+4) {
+     transform:rotate(-18deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+1):hover, .thumb-holder .shadow-holder:nth-child(4n+2):hover, .thumb-holder .shadow-holder:nth-child(4n+3):hover, .thumb-holder .shadow-holder:nth-child(4n+4):hover {
+     transform:rotate(0) scale(1,1);
+     transition:all 80ms ease-in-out;
+     z-index:100;}
+.lit {
+     background: none; 
+     max-height: 120px; max-width: 120px;
+     border: #034c7e 2px solid;
+     border-radius:100px;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align:center; 
+font-family: 'Muli', sans-serif;
+     font-size:10px;
+     color: #034c7e;}
+.lit img 
+     {display: none;}
+/*
+! Artist requests permission before copying
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div align= " center" >
+< div class=" thumb-holder" >  T H U M B < / div >
+< / div > (without space)
+- < h1 > < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > (without space)
+- b (bold) = 'Green' color
+- i (cursive) = 'Blue' color
+
+--Header Code--
+<div class="sidebar">
+<a href="https://USERNAME.deviantart.com">&#10034; My Profile</a>
+<br>
+<a href="https://USERNAME.deviantart.com/gallery/">&#10034; My Gallery</a> 
+<br>
+<a href="https://my.deviantart.com/deviants/add/USERNAME">&#10034; Watch me</a> 
+<br>
+<a href="https://my.deviantart.com/notes/?to%3DUSERNAME">&#10034; Note me</a>
+<br>
+<a href="https://www.facebook.com/USERNAME">&#10034; Facebook</a> 
+<br>
+<a href="https://twitter.com/USERNAME">&#10034; Twitter</a>
+<br>
+<a href="https://www.youtube.com/user/USERNAME">&#10034; Youtube</a> 
+<br>
+<a href="http://USERNAME.tumblr.com">&#10034; Tumblr</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="Footer">[ Journal CSS ] &#169; <a href="https://www.deviantart.com/inconcabille">Inconcabille</a>
+<br>[ Background ] &#169; <a href="https://www.deviantart.com/shizoo-design">shizoo-design</a> | shizoo-design.de
+<br>[ Flowers ] &#169; <a href="https://www.deviantart.com/kikarr">kikarr</a>
+</div>
+*/

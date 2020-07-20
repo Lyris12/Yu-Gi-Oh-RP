@@ -1,0 +1,164 @@
+.gr-box{
+  max-width:550px;
+  
+  margin:420px auto 20px auto;
+  position:relative;
+  padding:0px 0px;
+ 
+}
+.gr-top{
+  background-color: none;
+  border:none;
+
+}
+.gr-top .gr{
+  position:absolute;
+  top:60px;
+  left:140px;
+  padding:0px;
+}
+.gr-top h2 img{
+  display:none;
+}
+.gr-top h2{
+  font-size:25px;
+  color:#b24910;
+  font-weight:bold;
+  letter-spacing:-1px;
+  margin-bottom:2px;
+  margin-top:7px;
+  line-height:20px;
+  padding-right:30px;
+}
+.gr-body{
+  background:transparent;
+  border:1px solid #a6b2a6;
+  border-top:none;
+  border-bottom:none;
+  overflow:visible;
+  color:#f55600;
+  line-height:20px;
+  padding-top:105px;
+
+}
+.gr{
+  background:transparent;
+  border:none;
+}
+.gr-body .gr{
+  border:1px solid #ffffff;
+  border-top:none;
+  border-bottom:none;
+  padding:0px 30px 30px 30px;  
+  background-color: #ffcf7e;
+}
+.gr-body .gr .text{
+  padding:0;
+}
+i.tri{
+  display:none;
+}
+i.gr1{
+  display:none;
+}
+i.gr2{
+  display:none;
+}
+i.gr3{
+  display:none;
+}
+i.gb{
+  display:block;
+}
+.top{
+  position:absolute;
+  top:-480px;
+  left:-1px;
+  right:0px;
+  width:100%;
+  text-align:center;
+}
+.top img{
+  margin:0 auto;
+}
+
+a{
+  color:#196ba7;
+}
+a:hover{
+  color:#3e8eb7;
+  text-decoration:none;
+}
+ul{
+  line-height:2px;
+  list-style-image:url(https://fc04.deviantart.net/fs70/o/2011/160/8/2/212424354_270029_bulletblue.gif);
+}
+blockquote{
+  position:relative;
+  text-indent:25px;
+  background-color:#eef1ed;
+  padding:25px 35px;
+  font-family:Times New Roman;
+  font-size:15px;
+  line-height:22px;
+  color:#828982;
+  border:1px solid #c3d1c1;
+  border-radius:5px;
+  margin-bottom:0px;
+}
+blockquote i.lq{
+  font-size:80px; 
+  text-transform:normal; 
+  font-family:"Times New Roman"; 
+  position:absolute; 
+  display:block; 
+  height:30px; 
+  width:30px; 
+  top:28px; 
+  left:-15px; 
+  color:#dae4d9;
+  letter-spacing:-5px;
+  font-weight:bold;
+}
+blockquote i.rq{
+  font-size:80px; 
+  text-transform:normal; 
+  font-family:"Times New Roman"; 
+  position:absolute; 
+  display:block; 
+  height:30px; 
+  width:35px; 
+  bottom:0px; 
+  right:45px; 
+  color:#dae4d9;
+  letter-spacing:-5px;
+  font-weight:bold;
+}
+.shadow-holder{
+  padding:5px;
+  border:1px solid #c94eb0;
+  background-color:#ecb14d;
+  margin:5px;
+  border-radius:5px;
+}
+.shadow-holder img{
+  border:1px solid #eef1ed;
+}
+.shadow-holder:hover{
+  border-color:#0a6092;
+  background-color:#1690d6;
+}
+.shadow-holder:hover img{
+  border-color:#fff;
+}
+.shadow-holder .shadow{
+  background-image:none !important;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Header Code--
+<div class="top"><img src="https://fc09.deviantart.net/fs70/o/2011/160/6/e/212424354_270030_firepoke1.png"></img></div>
+--End Header Code--
+--Footer Code--
+*/

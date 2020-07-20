@@ -1,0 +1,185 @@
+.journalbox {
+    border: 2px solid #000;
+    border-radius: 15px;
+    max-width: 672px;
+    height:750px;
+    background-color:transparent;
+    border: 0px transparent solid;
+    background-image: url(https://fc02.deviantart.net/fs70/o/2014/001/6/c/423953428_1359799_journal_skin_by_annaza0000-d6zkoyg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family:  Tahoma;
+}
+.journalbox .list li {
+text-align: center;
+font-family: Georgia, serif;
+font-size: 11px;
+padding: 2px;
+
+
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: ##000000 !important;
+}
+
+.journaltop {
+    background-color: transparent;
+    color: #FFFFFF;
+    display:block;
+    text-shadow:0 0 20px #5CB3FF,0 0 10px #5CB3FF,0 0 5px #5CB3FF;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 60px;
+    text-align: center !important;
+    font-family:Georgia, serif;
+}
+.journalbox h2 {
+color: #000000;
+text-shadow:0 0 20px #FFFFFF,0 0 10px #FFFFFF,0 0 5px #FFFFFF;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:normal;
+background-color: transparent; 
+font-family: Georgia, serif;
+font-weight: normal; 
+letter-spacing: 1px;
+text-align: center;
+padding: 10px 0px 0px 0px;
+font-size:200%;
+}
+.text strong {
+color:#000000;
+font-family: tahoma; 
+display: block;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:bold;
+text-shadow:0 0 20px #FFFFFF,0 0 10px #FFFFFF,0 0 5px #FFFFFF;
+background-color: transparent; 
+font-size: 15px;
+text-align: center;
+padding-bottom: 1px;
+
+}
+.text p{
+color: #000000;
+font-size: 11px;
+font-family: Tahoma;
+text-align: center; 
+text-shadow: #FFFFFF 1px 1px 1px;
+background-color:#ffffff;
+margin: 0px 21px 0px 21px;
+border:1px dashed #FFFFFF; 
+padding:10px;
+-moz-border-radius: 10px;
+}
+.journaltop img 
+{
+display: none;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+width:75px;
+height:75px;
+opacity: 0.70;
+padding: 5px;
+border-radius: 7px;
+border: 1px dashed #FFFFFF;}
+
+.thumbs img:hover{
+opacity: 100;
+background: #34CDD5;
+border: 1px dashed #fff;}
+
+.journaltext 
+{
+    padding-top: 0px;
+    padding-left: 255px;
+    text-align: justify;
+}
+.journalbox .journaltext b {
+	color:#000000;
+	font-family:Lucida Console;
+	font-size:13px;
+	font-weight:bold;
+        text-transform:none;
+	text-decoration:none;
+}
+.journalbox .journaltext u {
+	text-decoration: italic;
+	color:#000000;
+     
+	font-family: Lucida Console; 
+	font-size:12px;
+	font-weight: bold;
+}
+.journalbox .journaltext i {
+	color:#00000;
+      
+	font-family:Lucida Console;
+	font-size:11px;
+	font-weight:italic;
+        text-transform:none;
+	text-decoration:none;
+}
+.journaltext a
+{
+color: #000000;
+font-family: Lucida Console; 
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #FFFFFF;
+text-decoration: underline;
+
+}
+.mainbox {
+	position:relative;
+	overflow:auto;
+	width:330px;
+	height:450px;
+	text-align:left;
+	background:transparent;
+	border:0px solid #FFFFFF;
+        font-family:font-family:  Georgia, serif;;
+        padding: 0px 5px 0px 5px;
+}
+.journalbox .journalbottom {
+    font-family: Lucida Console;
+    font-size: 11px;
+    color: #FFFFFF;
+    text-decoration: bold;
+    font-weight: bold;
+    padding-left: 180px;
+    padding-bottom: 40px;
+}
+.journalbottom a 
+{
+font-family: Georgia, serif;
+font-size: 11px;
+color: #FFFFFF;
+text-decoration: bold;
+font-weight: bold;
+}
+.journalbottom a:hover 
+{
+color: #FFFFFF;
+text-decoration: underline;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+--Header Code--
+<div class="mainbox">
+--End Header Code--
+--Footer Code--
+</div>
+*/

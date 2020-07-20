@@ -1,0 +1,369 @@
+.journalbox {
+	font-family: Verdana !important;
+	background-color: #ffffff !important;
+	border-color: transparent !important;
+	border-width: 0px !important;
+	background-image: url(https://fc01.deviantart.com/fs49/o/2009/168/d/1/126255981_72995_marshmallows_edit-1.png);
+}
+.journalbox .journaltop {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #ffffff;
+	height: 371px;
+	text-align: right;
+	padding-right: 10px;
+	background-image: url(https://fc04.deviantart.com/fs49/o/2009/168/0/3/126255981_72996__header.jpg);
+	background-repeat: repeat-x;
+	background-position: top left;
+	background-color: transparent;
+}
+.journalbox .journaltop img {
+	display: none;
+}
+.journalbox .journaltop h2 {
+	position: absolute;
+	top: 394px;
+	left: 20px;
+	font-family: verdana;
+	font-weight: bold !important;
+	font-variant: normal !important;
+	font-style: normal !important;
+	font-size: 13px;
+	color: #681915;
+	text-align: right;
+	line-height: normal;
+	letter-spacing: normal;
+	padding-left: 0px;
+	margin-top: -5px;
+	_top: 384px;
+}
+.journalbox .list {
+	display: none;
+}
+.journalbox .journaltext {
+	color: #962424;
+	font-family: verdana;
+	font-weight: normal;
+	font-size: 12px;
+	text-align: left;
+	line-height: 18px;
+	width: auto;
+	margin: 5px 153px 0px 10px;
+	padding: 0px 5px 5px 6px;
+	border: 1px #ff4fc7 solid;
+	background: #ffffff url(https://fc00.deviantart.com/fs49/o/2009/168/7/1/126255981_72997_h2-2.jpg) top left repeat-x;
+}
+.journalbox .journaltext .title {
+	background: transparent url(https://fc06.deviantart.com/fs49/o/2009/168/0/0/126255981_72998_titles-2.jpg) top left repeat-x !important;
+	font-family: verdana;
+	font-weight: bold !important;
+	font-variant: normal !important;
+	font-style: normal !important;
+	font-size: 13px;
+	color: #681915;
+	text-align: left;
+	line-height: normal;
+	padding: 10px 5px 8px 8px;
+	margin: 0 -5px -10px -7px;
+}
+.rightside {
+	background: #ffffff url(https://fc00.deviantart.com/fs49/o/2009/168/7/1/126255981_72997_h2-2.jpg) top left no-repeat;
+	width: 123px;
+	position: absolute;
+	right: 10px;
+	top: 388px;
+	bottom: 84px;
+	text-align: left;
+	line-height: 20px;
+	float: right;
+	padding: 5px 5px 5px 5px;
+	margin-left: 5px;
+	overflow: auto;
+	border: #ff4fc7 1px solid;
+	border-top: 0px !important;
+	margin-top: -2px;
+	z-index: 10;
+}
+.righttitle {
+	background: transparent url(https://fc05.deviantart.com/fs48/o/2009/168/5/0/126255981_72999_sidebartitle.jpg) top left repeat-x !important;
+	color: #681915;
+	font-family: verdana;
+	font-weight: bold !important;
+	font-variant: normal !important;
+	font-style: normal !important;
+	font-size: 13px;
+	text-align: left;
+	line-height: 20px;
+	padding: 3px 5px 14px 5px;
+	margin: -5px -5px -5px -5px;
+}
+a {
+	color: #d040a2;
+	text-decoration: underline !important;
+}
+a:hover {
+	color: #ff4fc7;
+	text-decoration: underline !important;
+}
+
+.journalbox .journalbottom {
+	background: transparent url(https://fc02.deviantart.com/fs47/o/2009/168/a/e/126255981_73000_footer.jpg) bottom left repeat-x;
+	text-align: center;
+	line-height: 42px;
+	color: #681915;
+}
+
+.journalbox .journalbottom a {
+	margin-top: 10px;
+	background-color: transparent;
+	font-family: verdana;
+	font-size: 12px;
+	text-decoration: none !important;
+	text-align: center;
+	color: #681915;
+	font-weight: bold;
+}
+.journalbox .journalbottom a:hover {
+	margin-top: 10px;
+	text-decoration: underline !important;
+	color: #ffffff;
+	font-weight: bold;
+}
+.pink_bullet ul {
+	padding: 0;
+	margin: 0;
+}
+.pink_bullet ul li {
+	background: url(https://fc09.deviantart.com/fs47/o/2009/168/f/8/126255981_73001_bulletpink.gif) no-repeat 0 4px;
+	padding-left: 17px;
+	list-style: none;
+	line-height: 18px;
+}
+.white_bullet ul {
+	padding: 0;
+	margin: 0;
+}
+.white_bullet ul li {
+	background: url(https://fc03.deviantart.com/fs48/o/2009/168/5/5/126255981_73002_bulletwhite.gif) no-repeat 0 4px;
+	padding-left: 17px;
+	list-style: none;
+	line-height: 18px;
+}
+ul br {display: none}
+ol br {display: none}
+dl br {display: none}
+
+li br {display: inline}
+dt br {display: inline}
+dl br {display: inline}
+
+hr {
+	border-top: 1px #ffffff solid;
+	border-bottom: 1px #d040a2 solid;
+	border-right: 0px transparent solid;
+	border-left: 0px transparent solid;
+}
+.menu_ br {display: none}
+.menu_ ul {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 349px;
+	_display: none;
+}
+.menu_ li{
+	margin: 0 20px 0 20px;
+	padding: 0 0 0 0;
+	position: relative;
+	list-style: none;
+	background: transparent;
+	width: auto;
+	max-width: 300px;
+	color: #d040a2;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: tahoma;
+	z-index: 20;
+	_display: none;
+}
+.menu_ li:hover{
+	background: transparent;
+	color: #ff4fc7;
+	z-index: 20;
+	_display: none;
+}
+
+.menu_ li ul {
+	position: absolute;
+	left: -999em;
+	border-top: 1px #ff4fc7 solid;
+	border-right: 1px #ff4fc7 solid;
+	border-bottom: none;
+	border-left: 1px #ff4fc7 solid;
+	_display: none;
+}
+
+.menu_ li:hover ul {
+	left: 104px;
+	top: 0;
+	text-align: left;
+	_display: none;
+}
+.menu_ li:hover ul li {
+	margin: 0 0 0 0;
+	padding: 2px 2px 2px 2px;
+	display: block;
+	text-decoration: none !important;
+	font-weight: normal !important;
+	font-family: verdana !important;
+	height: auto;
+	width: auto;
+	max-width: 400px;
+	color: #962424;
+	background-color: #f6d3e9;
+	border-bottom: 1px #ff4fc7 solid;
+	_display: none;
+}
+.menu_ li ul li:hover {
+	background-color: #eeb5bb !important;
+	_display: none;
+}
+.menu_ li .forcewidth_clubs {
+	min-width: 204px !important;
+	padding: 0 0 0 0 !important;
+	_display: none;
+}
+.menu_ li .forcewidth_credits {
+	min-width: 200px !important;
+	padding: 0 0 0 0 !important;
+	_display: none;
+}
+.menu_ li .forcewidth_stamps {
+	min-width: 219px !important;
+	padding: 0 0 0 0 !important;
+	_display: none;
+}
+.menu_ li li:hover ul {
+	color: #B8A26E !important;
+	background-color: #eeb5bb !important;
+	_display: none;
+}
+
+.menu_ li a {
+	text-decoration: none !important;
+	font-weight: normal !important;
+	font-family: verdana !important;
+	_display: none;
+}
+.menu_ li a:hover {
+	color: #ff4fc7 !important;
+	_display: none;
+}
+
+.menu_ li i {
+	position: absolute;
+	top: 0;
+	right: -25px;
+	width: 14px;
+	height: 100%;
+	display: block;
+	background: url(https://fc09.deviantart.com/fs47/o/2009/168/f/8/126255981_73001_bulletpink.gif) center no-repeat;
+	padding-left: 11px;
+	_display: none;
+}
+.menu_ li:hover i {
+	background-image: url(https://fc09.deviantart.com/fs47/o/2009/168/f/8/126255981_73001_bulletpink.gif);
+	_display: none;
+}
+.menu_.inline ul {
+	width: auto;
+	text-align: center;
+	_display: none;
+}
+.menu_.inline li {
+	display: inline-block;
+	height: 20px;
+	_display: none;
+}
+.menu_.inline li:hover ul {
+	left: 0;
+	top: 20px;
+	_display: none;
+}
+.menu_.inline li:hover li ul {
+	left: -999em;
+	_display: none;
+}
+.menu_.inline li li:hover ul {
+	left: 108px;
+	bottom: auto;
+	_display: none;
+}
+.minigal {
+	margin: 0 55px 55px 55px;
+}
+.minigal .shadow {
+	background-image: none !important;
+}
+.minigal a {
+	display: inline-block;
+	width: 50px !important;
+	height: 50px !important;
+	overflow: hidden;
+	border: solid #eeb5bb;
+	border-width: 10px 5px 5px 5px;
+	outline: 1px solid #ff4fc7;
+	background-color: #eeb5bb;
+}
+.minigal img {
+	margin: -20px -50px;
+}
+.minigal a:hover {
+	border-color: #f6d3e9 !important;
+	outline: 1px solid #ff4fc7 !important;
+}
+.minigal a:hover img {
+	z-index: 999;
+	position: absolute;
+	margin: 0 0 0 -16px;
+	border: 10px solid #eeb5bb;
+	outline: 1px solid #ff4fc7;
+	background-color: #eeb5bb;
+}
+/*
+! Some of the text is too tightly spaced from the titlebars
+! The menu may be hard to read
+
+--Header Code--
+<div class="menu_ inline"><ul><li>
+Clubs <i></i>
+<ul><div class="forcewidth_clubs"><li>
+:icondeviant::icondeviant::icondeviant::icondeviant:
+</li>
+</div></ul></li><li>
+Chats <i></i>
+<ul>
+<li>:#thumbshare:</li>
+<li>:#devart:</li>
+</ul></li><li>
+Credits <i></i>
+<ul><div class="forcewidth_credits">
+<li>CSS coded by :devpyritie:</li>
+<li>Various journal goodies from :devthespook:</li>
+<li>Images from <a href="http://perfectflavor.com">perfectflavor.com</a>, <a href="http://joyceira.net">joyceira.net</a>, <a href="http://sweetieworld.co.uk">sweetieworld.co.uk</a>, and <a href="http://recipe4living.com">recipe4living.com</a>.</li>
+</div></ul></li><li>
+Stamps <i></i>
+<ul><div class="forcewidth_stamps"><li>
+:thumb29379001::thumb29379001::thumb29379001::thumb29379001:
+</li></div></ul></li></ul>
+</div><div class="rightside"><div class="righttitle">Sidebar!</div><div class="pink_bullet"><ul><li><a href="http://example.com">Link</a></li><li><a href="https://deviantart.com">Another link</a></li></ul></div><div class="white_bullet"><ul><li>Not all of these have to be links!</li></ul></div>
+<div class="righttitle">Another title!</div>Some sample text!
+
+We all like sample text :D</div>
+--End Header Code--
+--Footer Code--
+<div class="title">Remove this after you've read it!</div>
+Click the "How to..." button down below to see more things this CSS can do! If the bottom of your sidebar is not aligned with the bottom of the main text box, please <b>remove extra linebreaks from the header</b>! I cannot stress this enough! D:
+
+Also check out http://pyritie.deviantart.com/art/Hive-CSS-121341028 for a detailed guide on everything from modifying the header to changing the CSS itself! :D
+*/

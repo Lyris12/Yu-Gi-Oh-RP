@@ -1,0 +1,56 @@
+.gr-box {max-width:1000px; text-align:center; margin:auto;padding:0;color:#f2eee7; font-size:12px;}
+.gr {border:none; text-align:center;background:none; margin:0; padding:0;}
+.gr-top { border:none;background: url(https://fc03.deviantart.net/fs71/o/2011/303/0/d/266140089_323195_header_by_kuschelirmel_stock-d4cac8e.jpg) no-repeat top center; margin:0; height:422px; padding:0;}
+.gr-top h2 {color:#47381b; font: 20px Charlemagne Std, Times New Roman; padding: 290px 20px 0 20px; margin:0 auto;text-shadow:1px 2px #f9f2e0;width:500px;}
+.gr-top img {display:none;}
+.gr-top span {color:#47381b;text-shadow:1px 2px #f9f2e0;font-variant:small-caps;letter-spacing:2px;}
+.tri {display:none;}
+.gr1 {display:none;}
+.gr2 {display:none;}
+.gr3 {display:none;}
+.gr4 {display:none;}
+.gr-body {border:none; background: #281709 url(https://fc09.deviantart.net/fs70/o/2011/303/9/d/266140089_323196_text_by_kuschelirmel_stock-d4cac8n.jpg) no-repeat top center;margin:0 0; padding:0;}
+.grf-indent {background:url(https://fc04.deviantart.net/fs70/o/2011/303/e/e/266140089_323197_bottom_by_kuschelirmel_stock-d4cac84.jpg) no-repeat bottom center;margin:0; border:none; padding:0 0 300px 0;}
+.text {margin:0; padding:0;}
+a {color:#a66c07;text-decoration:none;}
+a:hover {color:#eec346;text-decoration:none;}
+span {color:#a66c07;}
+.code {display:block; margin:5px; padding:5px;border:1px solid #150e07; background:#191008; border-radius: 10px;font-size:10px; letter-spacing:1px;}
+.menu {color:#eec346; text-shadow: 0 2px #000; margin:0 auto; max-width:600px; padding:50px 10px 5px 10px;font-variant:small-caps;letter-spacing:2px; font-size:14px;}
+.menu a {color:#eec346;}
+.menu a:hover {color:#f9e098;}
+.text2 {background: #211408 url(https://fc04.deviantart.net/fs70/o/2011/303/0/1/266140089_323198_box_by_kuschelirmel_stock-d4capg6.jpg) no-repeat top center; margin:0 auto; padding:70px 30px 40px 30px;max-width:600px;letter-spacing:1px;line-height:1.6em;}
+.title {color: #f9ac16;font-variant:small-caps;letter-spacing:2px; font: 16px Charlemagne Std, Times New Roman; background: url(https://fc00.deviantart.net/fs71/o/2011/303/4/7/266140089_323199_title_by_kuschelirmel_stock-d4capgn.jpg) no-repeat top center;padding: 18px 0px 147px 100px; margin:10px auto -70px auto; width:420px;text-align:left;}
+.t2 {color: #f9ac16;font-variant:small-caps;letter-spacing:2px; font: 14px Charlemagne Std, Times New Roman;}
+.bigger {font-size:16px;font-variant:small-caps;padding:10px 0 2px 0; margin:0;}
+.big {font-size:14px;font-variant:small-caps;padding:10px 0 2px 0; margin:0; display:inline;}
+.text2 ol {text-align:left;}
+.text2 ul {text-align:left;}
+.text2 ul li {padding:3px;list-style-image:url(https://fc00.deviantart.net/fs71/o/2011/303/6/5/266140089_323200_bulletyellow.gif);}
+.text2 br {display:default;}
+.bottom {padding:40px 0 0 0; font-size:16px;font-variant:small-caps;background:url(https://fc00.deviantart.net/fs71/o/2011/303/6/8/266140089_323201_bottom_by_kuschelirmel_stock-d4dla86.png) no-repeat top center; margin: -15px 0 0 0;text-shadow:1px 2px #000;}
+.list {font-size: 11px;width:400px; position:absolute; bottom:50px; right: 50px; background:none; margin:0px; padding:10px;height:200px;line-height:1.6em;letter-spacing:1px;color:#a66c07; text-align:right;}
+.list strong {letter-spacing:2px; color:#b88407;}
+.a {background:none;margin:0; padding:0;}
+.f {font-size: 11px;background:none;margin:0; padding:0;}
+.credits {color:#884d0d; letter-spacing:1px; position:absolute; bottom: 5px; right:5px; text-align:right;font-size:10px;}
+/*
+	To get the yellow bulleted list, use <ul>
+<li>item 1</li>
+<li>item 2</li>
+</ul>
+to get the big titles, use <div class="title">title here</div>
+There are also smaller titles, without the background image, that are coded as "t2" (instead of title)
+
+--Header Code--
+<div class="menu">~ <a href="http://fav.me/d4ec0y4">creature feature contest</a> ~ <a href="https://kuschelirmel.deviantart.com/favourites/46823621">entries</a>  ~</div>
+<div class="text2">
+--End Header Code--
+
+--Footer Code--
+</div>
+<div class="credits">
+<a href="https://www.deviantart.com/kuschelirmel-stock/art/Creature-Feature-CSS-266140089">Creature Feature CSS</a>
+<br>dragon: <a href="https://www.deviantart.com/Elevit-Stock">Elevit-Stock</a>, mountains: <a href="https://www.deviantart.com/fantom89">fantom89</a>, wastelands: <a href="https://www.deviantart.com/resurgere">resurgere</a> | <a href="https://www.deviantart.com/wroth">wroth</a>, chains: <a href="https://www.deviantart.com/ocd1c-stock">ocd1c-stock</a>, scroll: <a href="http://www.sxc.hu">sxc.hu</a> | <a href="http://www.sxc.hu/profile/ba1969">ba1969</a>, brushes: <a href="https://www.deviantart.com/redheadstock">redheadstock</a> &amp; <a href="https://www.deviantart.com/mouritsada-stock">mouritsada-stock</a>; coding and graphics by <a href="https://www.deviantart.com/kuschelirmel-stock">kuschelirmel-stock</a>
+</div>
+*/

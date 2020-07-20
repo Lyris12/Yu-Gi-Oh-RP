@@ -1,0 +1,162 @@
+.gr-box{background: #ccd9c8 url(https://fc08.deviantart.net/fs70/o/2010/247/2/7/177990027_147907_bg.jpg) repeat-x top;}
+
+.gr{background: transparent; border: none; padding: 0;}
+
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border-top: solid #404e4a;
+border-width: 25px 0 0 0;
+padding: 120px 0 71px 110px;
+background: transparent url(https://fc04.deviantart.net/fs70/o/2010/247/5/6/177990027_147908_header.jpg) no-repeat top left;}
+
+.gr-top img{display: none;}
+
+.gr-top span{
+font-size: 12px;
+color: #404e4a;}
+
+h2{
+font-size: 24px;
+color: #404e4a;
+text-shadow: 1px 1px 1px #edf3ea;
+letter-spacing: 1px;
+font-weight: bold;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+
+.text{
+padding: 0 20px 0 30px;
+background: transparent url(https://fc05.deviantart.net/fs71/o/2010/247/0/2/177990027_147909_text.jpg) no-repeat top left;;}
+
+.f{display: none;}
+
+.borderbox{
+margin: -26px 10px 0 0;
+padding: 40px 20px 30px 20px;
+border-left: 1px solid #f0f6ee;
+border-right: 1px solid #f0f6ee;}
+
+.h1{
+font-size: 23px;
+color: #edf3ea;
+padding: 12px 0 13px 20px;
+text-shadow: 1px 1px 1px #404e4a;
+letter-spacing: 1px;
+font-weight: bold;
+background: url(https://fc07.deviantart.net/fs70/o/2010/247/f/e/177990027_147910_star.png) no-repeat left top;}
+
+.h2{
+font-size: 23px;
+color: #404e4a;
+padding: 12px 0 13px 20px;
+text-shadow: 1px 1px 1px #edf3ea;
+letter-spacing: 1px;
+font-weight: bold;
+background: url(https://fc02.deviantart.net/fs70/o/2010/247/a/5/177990027_147911_stars.png) no-repeat left top;}
+
+.h3{
+font-size: 20px;
+font-weight: bold;
+padding: 50px 0 26px 40px;
+text-shadow: 1px 1px #cee036;
+color: #1f2318;
+background: url(https://fc01.deviantart.net/fs70/o/2010/247/8/4/177990027_147912_green.png) no-repeat left top;}
+
+p{margin: -30px 0 0 70px;}
+
+
+li{
+list-style: none;
+background: url(https://fc02.deviantart.net/fs71/o/2010/247/1/2/177990027_147913_list.png) no-repeat left center;
+padding: 0 0 0 18px;}
+
+.roundbox{
+text-align: center;
+margin: auto;
+width: 300px;
+background: #f0f6ee;
+padding: 20px;
+-moz-border-radius: 15px;
+border-radius: 15px;}
+
+.top{
+position: absolute;
+top: 4px;
+right: 5px;
+font-weight: bold;
+font-size: 14px;
+z-index: 23;
+color: #cee036;}
+
+.darkbox_wrap{
+padding: 0 0 60px 0;
+margin: 0 -20px 0 -30px;
+background: url(https://fc06.deviantart.net/fs70/o/2010/247/1/7/177990027_147914_gradient.jpg) repeat-x bottom;}
+
+.darkbox{
+padding: 10px 45px 40px 45px;
+background: #404e4a url(https://fc04.deviantart.net/fs70/o/2010/247/8/2/177990027_147915_splatter.png) no-repeat right bottom;
+border-top: 1px solid #edf6eb;
+border-bottom: 1px solid #edf6eb;
+outline: 1px solid #404e4a;
+color: #f0f6ee;}
+
+.darkbox li{
+list-style: none;
+background: url(https://fc05.deviantart.net/fs71/o/2010/247/4/6/177990027_147916_list2.png) no-repeat left center;
+padding: 0 10px 0 18px;
+margin: -2px 0 -1px -15px;}
+
+.darkbox a{
+text-decoration: none;
+color: #cee036;}
+
+
+.bottom{
+text-align: center;
+background: url(https://fc04.deviantart.net/fs70/o/2010/247/f/b/177990027_147917_button.jpg) no-repeat top center;
+margin: -25px 0 20px 0;
+padding: 138px 0 50px 0px;}
+
+.commentslink{
+padding-top: 6px;
+border-top:1px solid #edf6eb; }
+
+.hsep{display: none;}
+.bottom a{display: block;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Box frame
+<div class="borderbox">...
+</div><div class="darkbox_wrap"><div class="darkbox">
+...
+</div></div>
+To make sure that the journal will look like the preview, do just add your content for the ...
+Do not add any breaks between the tags!
+- Headline 1
+<div class="h1">Headline 1</div>
+- Headline2
+<div class="h2">Headline 2</div>
+- Headline3
+<div class="h3">Headline 3</div>
+- Text under headline 3
+<p>...</p>
+- Box with rounded corners
+<div class="roundbox">...</div>
+- List
+<li>...</li><li>....</li><li>...</li>
+
+--Header Code--
+<div class="top">Add anything you want here!</div>
+--End Header Code--
+--Footer Code--
+*/

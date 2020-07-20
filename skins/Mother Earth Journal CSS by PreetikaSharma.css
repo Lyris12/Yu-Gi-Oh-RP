@@ -1,0 +1,284 @@
+.journalbox
+{
+	color:#e9f7a5;
+	background:#092c00 url(https://fc08.deviantart.net/fs71/o/2010/161/7/c/167161481_131367_48002325.png) repeat-y top center;
+	_background-position:center top;
+	_background-color:#092c00;
+	margin:auto;
+	border:none;
+}
+
+.journaltop
+{
+	background:url(https://fc00.deviantart.net/fs71/o/2010/161/4/2/167161481_131368_headernj.png) no-repeat top center;
+	_background-position:center;
+	font-size:11px;
+	color:#e9f7a5;
+	text-align:center;
+	_text-align:center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	height:330px;
+	padding:0px 0px 0px 0px;
+}
+
+.journaltop h2
+{
+	color:#43b524;
+        text-shadow: #000 2px 2px 2px;
+	font-size:18px;
+	padding:290px 0px 5px 0px;
+	text-align:center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	text-transform:uppercase;
+        letter-spacing:1px;
+}
+
+.journaltop img
+{
+	display:none;
+}
+
+.list
+{
+	background:url(https://fc07.deviantart.net/fs70/o/2010/161/6/e/167161481_131369_footer2f.png) no-repeat bottom center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	_background-position:top center;
+	height:322px;
+	_height:322px;
+	padding:10px 0 0 0;
+	text-align:center;
+	font-size:10px;
+	color:#e9f7a5;
+
+}
+
+.list .a
+{
+	background:transparent!important;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.list li
+{
+	padding:4px;
+}
+
+.journaltext .link
+{
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	height:auto;
+	text-align:center;
+	color:#e9f7a5;
+	margin:auto;
+	padding:10px;
+	border-bottom: 1px #9ec15c dashed;
+	width:300px;
+	_width:300px;
+}
+
+.journaltext .link a
+{
+	padding:0 0 0 20px;
+	margin:0 8 0 8px;
+        color:#43b524;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext .link a:hover
+{
+	color:#d3ef6f;
+        text-decoration:underline !important;
+}
+
+.journaltext
+{
+	overflow:auto;
+        letter-spacing:0px;
+	text-align:center;
+	background:transparent !important;
+	_background-position:top center;
+	padding:10px 0;
+	margin:0 auto;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext .content
+{
+	width:300px;
+	_width:300px;
+	padding:0px 10px 10px 5px;
+	color:#e9f7a5;
+	text-align:justify;
+	font-size:11px;
+	margin:auto;
+        background-color:0e4400;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+
+.journaltext a
+{
+        color:#43b524;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext a:hover
+{
+	color:#d3ef6f;
+        text-decoration:underline !important;
+}
+
+.heading
+{
+	background:url(https://fc09.deviantart.net/fs71/o/2010/161/2/1/167161481_131370_subheada.png) no-repeat top center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	font-variant: small-caps; 
+	_background-position:center;
+	color:#0e4400;
+	font-size:12px;
+	font-weight:bold;
+        margin-top:10px;
+        padding: 1.5px 0 15px 0px;
+        text-align:center;
+}
+
+.journaltext .blockquote
+{
+	font-style: italic;
+	text-align:justify;
+	width:300px;
+	_width:300px;
+	padding:10px 10px 10px 10px;
+	color:#e9f7a5;
+	font-size:11px;
+	margin:auto;
+        background-color:#145A01;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.thumbs {
+	width:300px;
+	_width:300px;
+	float:center;
+	margin:auto;
+	text-align: left;
+}
+
+.thumbs .shadow {
+	background-image:none!important;
+}
+
+.thumbs a
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	display:inline-block;
+	width:75px!important;
+	height:75px!important;
+	overflow:hidden;
+	border:solid #092C00;
+	border-width:5px 5px 5px 5px;
+}
+
+.thumbs img
+{
+	margin:-10px -10px;
+}
+
+.thumbs a:hover
+{
+	border:solid #092C00;
+	border-width:5px 5px 5px 5px;
+        background: #145A01;
+}
+
+.thumbs a:hover img
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	position:absolute;
+	margin:50px 50px 50px -5px;
+	border: solid #9ec15c;
+	border-width:10px 10px 10px 10px;
+}
+
+
+.journalbottom
+{
+	color:#e9f7a5;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	padding:5px 5px 0 5px;
+}
+
+.journalbottom a
+{
+        color:#43b524;
+	font-size:12px;
+	font-weight:bold;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journalbottom a:hover
+{
+	color:#d3ef6f;
+	font-size:12px;
+        text-decoration:underline !important;
+}
+
+.credits
+{
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	font-variant: small-caps;
+	color:#e9f7a5;
+	font-size:11px;
+        text-align:center;
+        width:300px;
+        _width:310px;
+        padding:10px 0px;
+        margin:auto;
+        border: solid 1px #9ec15c;
+}
+
+.credits a
+{
+        color:#43b524;
+        font-size:11px;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.credits a:hover
+{
+	color:#d3ef6f;
+        text-decoration:underline !important;
+        font-size:11px;
+}
+/*
+! The bottom does not show (might just be a lack of linebreaks)
+
+- < div class="content"> < / div> for the journal content.
+- < div class="heading"> < / div> for the sub-heading.
+- < div class="thumbs"> < / div> for the thumbs section.
+- < div class="blockquote"> < / div> for this block quote section.
+
+--Header Code--
+<div class=link><a href="www.abcd.com">Link 1</a><a href="www.abcd.com">Link 2</a><a href="www.abcd.com">Link 3</a></div>
+--End Header Code--
+--Footer Code--
+<div class=heading>Credits</div>
+<div class="credits">Journal Design and CSS by :devwalnut-cookie:
+<a href="https://gileryd.deviantart.com/art/Grass-Planet-Resource-29825198">Grass Planet Resource</a> by :devgileryd:
+<a href="https://xxlyndseyelizxx.deviantart.com/art/Rainbow-64601263">Rainbow</a> by :devxxlyndseyelizxx:
+<a href="https://fairiegoodmother.deviantart.com/art/Tree-Stock-2-85860267">Tree Stock 2</a> by :devfairiegoodmother:
+<a href="https://aka-joe.deviantart.com/art/Floral-Swirl-Brushes-107859186">Floral Brush</a> by :devaka-joe:
+<a href="https://javierzhx.deviantart.com/art/Cloud-Brushes-34277964">Clouds Brush</a> by :devjavierzhx:</div>
+*/

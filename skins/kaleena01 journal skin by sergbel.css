@@ -1,0 +1,168 @@
+.topbar {
+background: none repeat scroll 0 0 transparent;
+font-family: 'Trajan Pro';
+font-size: 110%;
+height: 50px;
+left: 2%;
+margin: 0 auto;
+position: absolute;
+right: 2%;
+text-align: center;
+top: 0;
+width: 666px;
+}
+.topbar ul {
+font-size: 110%;
+margin: 38px 2% 0;
+padding: 0;
+text-align: center;
+width: 100%;
+}
+.topbar ul li {
+color: #FFFFFF;
+display: inline;
+padding: 0 33px;
+}
+.topbar ul li a{
+color:#9edde8;
+text-decoration:none;
+}
+.topbar ul li a:hover{
+color:#fff;
+text-decoration:underline;
+}
+a{
+color:#9edde8;
+text-decoration:none;
+}
+a:hover{
+color:#fff;
+text-decoration:underline;
+}
+
+
+
+
+.journalbox {
+background:url(https://fc08.deviantart.net/fs70/o/2011/223/c/e/252233771_292819_bg.png) repeat-x center top #000;
+}
+.journaltop {
+color:#7896b8;
+text-align:center;
+background:url(https://fc02.deviantart.net/fs70/o/2011/223/9/5/252233771_292820_journalheader.png) no-repeat center top transparent;
+height:64px;
+padding:10px 0 0;
+}
+.journaltop h2 {
+color:#fff;
+font-family:'Trajan Pro';
+}
+.journaltop img {
+display:none;
+}
+.journaltext {
+font-family:Verdana;
+background:#1A283B;
+border:1px solid #2b3d59;
+color:#b8c4ca;
+margin:39px;
+padding:33px 27px 45px;
+overflow:hidden;
+}
+blockquote {
+background:url(https://fc08.deviantart.net/fs71/o/2011/223/7/7/252233771_292821_qo_48_48.png) no-repeat #0d131d;
+margin:20px 0;
+padding:38px 55px;
+text-align:center;
+color:#5c8192;
+}
+blockquote .quote {
+background:url(https://fc04.deviantart.net/fs70/o/2011/223/b/1/252233771_292822_qc_48_48.png) no-repeat #0d131d;
+bottom:0;
+right:0;
+width:48px;
+height:48px;
+display:block;
+float:right;
+margin: 0 -55px 0 0;
+}
+h1 {
+background:url(https://fc02.deviantart.net/fs70/o/2011/223/c/9/252233771_292823_header_bg.png) no-repeat right top transparent;
+clear: left;
+color: #CCE5F1;
+float: left;
+font-family: 'Trajan Pro';
+height: 50px;
+padding: 10px 260px 10px 0;
+text-shadow: 0 0 20px #6CB6FC;
+height:auto;
+}
+br {
+width:100%;
+clear:both;
+display:block;
+margin-top:10px;
+}
+.featured_artist {
+background:url(https://fc09.deviantart.net/fs70/o/2011/223/4/d/252233771_292824_featured_artist.png) no-repeat center top #131D2C;
+padding:58px 0 0;
+position:relative;
+border:1px solid #2b3d59;
+color:#b8c4ca;
+margin:40px -39px 40px;
+padding:58px 27px 45px;
+overflow:hidden;
+}
+.shadow-holder .shadow .thumb img {
+border:1px solid #fff;
+box-shadow:0 2px 12px #6dc0e0;
+margin:12px;
+}
+
+
+.journalbottom {
+background:url(https://fc01.deviantart.net/fs71/o/2011/223/8/9/252233771_292825_footer_.png) no-repeat right top transparent;
+height:304px;
+color:#fff;
+}
+.journalbottom a {
+color:#fff;
+text-shadow:0 0 2px #6dc0e0, 0 2px 12px #fff;
+}
+
+
+.list {
+background:transparent;
+color:#fff;
+padding:20px 0;
+width: auto;
+margin: 5px 0 80px 45px;
+z-index:99;
+position:absolute;
+bottom:0;
+}
+.list .a {
+background:transparent;
+color:#fff;
+}
+.list li strong {
+width: 90px;
+display: inline-block;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header may still need fixing.
+
+- to use headings just use an h1 tag
+- to use blockquotes use:
+< blockquote>content here <i class="quote></i></blockquote >
+without spaces in blockquote tag
+- to use featured artist:
+< div class="featured_artist"> content here </div >
+without spaces in div tag
+- to use lists just use ul or ol tag
+
+--Header Code--
+<div class="topbar"><ul><li><a href="https://my.deviantart.com/gallery/">ART INFO</a></li><li><a href="https://my.deviantart.com/gallery/">GALLERY</a></li><li><a href="http://www.facebook.com/sergbel">FACEBOOK</a></li><li><a href="https://my.deviantart.com/global/notes/form.php?to_user=sergbel">NOTE ME</a></li></ul></div>
+--End Header Code--
+--Footer Code--
+*/

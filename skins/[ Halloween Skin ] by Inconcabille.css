@@ -1,0 +1,155 @@
+.sidebar{
+  background: transparent url(https://fc09.deviantart.net/fs71/o/2013/280/8/9/405737329_1204276_sidebargcqq9.png) repeat;
+  clear: left;
+  -moz-border-radius: 1px 1px 1px 1px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  background: transparent url(https://fc09.deviantart.net/fs71/o/2013/280/8/9/405737329_1204276_sidebargcqq9.png) repeat;
+  border:1px solid #FF8000!important;
+  border-radius: 10px 10px 10px 10px;
+  display: block;
+  float: left;
+  left: 110px;
+  line-height: 20px;
+  margin: 2px;
+  overflow: hidden;
+  padding: 5px 0px 5px 0px;
+  padding-top:35px!important;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 130px;
+}
+.sidebar a:hover{
+  color: #FF8000;
+  text-decoration: none;
+}
+.Footer{
+  bottom: 30px;
+  font-size: 10px;
+  position: absolute;
+  left: 55px;
+  text-align: right;
+  color: #808080;
+}
+.footer a {color: #c0c0c0;}
+.footer a:hover{
+  color: #404040;
+  text-decoration: none;
+}
+.journalbox{
+text-align:center;
+width: 956px;
+height: 640px;
+background-color: none;
+background: url(https://fc08.deviantart.net/fs70/o/2013/280/7/8/405737329_1204277_halloweenskin2_by_inconcabille-d6pk43r.png);
+padding-top:10px;
+border-width: 3px;
+border-color: #FF8000;
+border-radius:30px;
+float:center;
+margin-left:auto;
+margin-right:auto;
+}
+.journaltop{
+color: #FF8000;
+height: 10px;
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 9px;
+text-align: center;
+letter-spacing: 2px;
+margin: 15px 15px 5px 15px;
+padding: 35px 5px 20px 5px;
+background-color: transparent;
+}
+.journaltop img{ display: none; } 
+h2{ 
+font-family: 'Gloria Hallelujah', cursive;
+color: #E6E6E6;
+letter-spacing: 1px;
+font-size: 22px; }
+a:hover{text-decoration: underline;}
+a{
+color: #E6E6E6;
+text-decoration: none;
+}
+h3{ 
+font-family: 'Gloria Hallelujah', cursive;
+color: #FF8000;
+letter-spacing: 2px;
+font-size: 22px; }
+a:hover{text-decoration: underline;}
+a{
+color: color: #FF8000;
+text-decoration: none;
+}
+.journaltext{
+color: #E6E6E6;
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 12px;
+text-align: center;
+padding: 15px 10px  10px 235px;
+margin: 40px 10px 10px 10px;
+border-radius:20px;
+background: none;
+background-position : scroll;
+background-repeat: repeat;
+background-attachment: scroll;
+overflow: auto;
+height: 280px;
+width: 510px;
+}
+.journalbottom {
+	background-position:center;
+	text-align:center;
+        color: #FF8000;
+	font-size: 12px;
+	background-repeat:repeat;
+	height: 110;
+	width: 419;
+	padding: 5px 5px 5px 5px;
+	margin: 10px 10px 10px 10px;
+	font-family: 'Gloria Hallelujah', cursive;
+        letter-spacing: 5px;
+}
+.heading{
+color: #none;
+font-family: Times New Roman, serif;
+font-size:18px;
+font-weight: bold;
+border-bottom: 1px solid #9f9f9f;
+}
+.commentslink {
+color: #FF8000;
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 14px;
+font-weight: bold;
+}
+.list{ margin: 10px 0px 20px 10px; } 
+.list li{
+color: #FFFFFF;
+font-family: Verdana, serif;
+font-size: 7px;
+padding: 0px; 
+} 
+.list li img{ display: none; } 
+.list .a{ background: transparent; }
+/*
+--Header Code--
+<div class="sidebar">
+<br>
+<br>
+<br>
+<br>
+<a href="https://inconcabille.deviantart.com/">Profile</a>
+<br>
+<a href="https://inconcaille.deviantart.com/gallery/">Gallery</a>
+<br>
+<a href="https://www.deviantart.com/marufuji--ryou/favourites/">Favourites</a>
+<br>
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="Footer">CSS [ Halloween Skin ] &#x00a9; <a href="https://www.deviantart.com/inconcabille">Inconcabille</a>
+</div>
+*/

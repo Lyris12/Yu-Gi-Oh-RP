@@ -1,0 +1,102 @@
+.gr-top, .gr-body, .gr, .grf-indent {background:transparent;border:0;padding:0;}
+a {text-decoration:none;}
+
+.gr-box {background:#fff;border:1px solid #fff;border-bottom:10px solid #cad9fe;color:#6c79b3;font:16px/1 'Fresca',sans-serif;margin:10px auto;max-width:650px;text-align:left;text-shadow:1px 1px 3px #fff;}
+
+.gr-top {background:url(https://fc07.deviantart.net/fs70/o/2012/349/2/e/342884292_606179_head_by_radioactiveshake-d5ny6w4.jpg) top center no-repeat;height:500px;padding:0 50px;}
+ .gr-top .gr {padding-left:0!important;}
+ .gr-top h2 {color:#fff;font:3em 'Raleway Dots',cursive;padding-top:50px;text-shadow:1px 1px 10px #fff,-1px 1px 10px #fff,1px -1px 10px #fff,-1px -1px 10px #fff;}
+  .gr-top a {color:inherit;}
+  .gr-top a:hover {color:#fff;text-shadow:1px 1px 0 #011667,-1px 1px 0 #011667,1px -1px 0 #011667,-1px -1px 0 #011667;}
+ .gr-top span {color:#b7bdd9;font-size:12px;text-shadow:1px 1px 7px #828ebd,-1px 1px 7px #828ebd,1px -1px 7px #828ebd,-1px -1px 7px #828ebd;}
+
+.gr-body {background:#ebf0fb url(https://fc03.deviantart.net/fs71/o/2012/349/0/d/342884292_606180_body_bg_by_radioactiveshake-d5o3u1g.png);border-radius:20px 20px 0 0;position:static;}
+ .gr-body:before {background:linear-gradient(bottom,#ebf0fb 0%,#fff 99%);content:'';display:block;height:50px;}
+
+.text {background:rgba(255,255,255,0.6);font-size:0.92em;line-height:1.5;margin:0 30px 0;padding:0 30px 30px;position:relative;top:-50px;border-radius:0 0 15px 15px;position:relative;}
+ .text a {color:#60b0de;}
+ .text a:hover {color:#4e7eb0;}
+ .text:after {background:transparent url(https://fc07.deviantart.net/fs70/o/2012/349/6/7/342884292_606181_flair_by_radioactiveshake-d5o4f09.png) repeat-x bottom center;content:'';display:block;height:25px;opacity:0.3;margin:0 auto -42px;max-width:125px;}
+
+.bottom {margin:0 auto 75px;}
+ .bottom a {color:#a5b7e4;}
+ .bottom a:hover {color:#4e7eb0;}
+
+h3 {margin:0;padding:0;text-shadow:2px 2px 0 #fff,-2px 2px 0 #fff,2px -2px 0 #fff,-2px -2px 0 #fff;}
+h3 {color:#a5b7e4;font:2.25em 'Henny Penny',cursive;}
+ .cursive {color:#8a9bc6;font:800 40px 'Allura',cursive;}
+ .flavoured {color:#c6c9e6;font:xx-large 'Flavors',cursive;text-align:center;}
+ .plain {font:italic 21px 'Fresca',sans-serif;}
+ h3:not(.cursive,.flavoured,.plain) {padding-left:0.75em;}
+
+ul, ol {margin:0.15em auto 0.15em 2em;}
+blockquote {background:linear-gradient(-45deg,#d9e3fb,#fff);border:1px solid #d9e3fb;font:large 'Architects Daughter',cursive;margin:auto;padding:0.75em;width:70%;box-shadow:5px 5px 7px #d9e3fb;}
+ blockquote:after {background:transparent url(https://fc07.deviantart.net/fs70/o/2012/349/6/7/342884292_606181_flair_by_radioactiveshake-d5o4f09.png) repeat-x bottom center;background-size:15px auto;content:'';display:block;height:15px;opacity:0.4;max-width:15px;margin:0 auto -21px;}
+::selection {background:#182170;color:#fff;text-shadow:none;}
+hr {background:transparent url(https://fc07.deviantart.net/fs70/o/2012/349/6/7/342884292_606181_flair_by_radioactiveshake-d5o4f09.png) repeat-x center;background-size:5px auto;border:0;height:5px;margin:0 auto;opacity:0.6;width:70%;}
+
+.thumb img {background:linear-gradient(125deg,#60b0de,#ebf0fb);border:1px solid #d9e3fb;padding:3px;}
+ .thumb:hover img, .lit {background:#ebf0fb;border:1px solid #fff;box-shadow:1px 1px 5px #60b0de,-1px -1px 5px #60b0de;}
+.lit {background:linear-gradient(125deg,#ebf0fb,#fff);border:1px solid #d9e3fb;color:#4e7eb0!important;font-size:12px;padding:3px 10px;}
+ .lit:hover {background:linear-gradient(125deg,#d9e4fc,#fff);border-color:#ebf0fb;}
+ .lit img, .lit:hover img {border:0;padding:0;}
+ .lit strong {color:#a5b7e4;font:800 10px 'Didact Gothic',sans-serif;letter-spacing:1px;text-transform:uppercase;}
+
+.menu {text-align:center;margin:auto;}
+ .menu a {color:#a5b7e4;font:400 10px 'Didact Gothic',sans-serif;letter-spacing:1px;margin:20px;text-transform:uppercase;padding:3px 15px;border-radius:10px;box-shadow:inset -2px -2px 0 #ebf0fb;}
+ .menu a:hover {background:#ebf0fb;}
+
+.list {position:absolute;bottom:15px;margin:0;width:300px;}
+ .list li {font:10px/1 'Didact Gothic',sans-serif;text-transform:uppercase;}
+ .list .a {background:transparent!important;}
+
+div.boxed {background:#ebf0fb url(https://fc04.deviantart.net/fs70/o/2012/349/c/b/342884292_606182_box_bg_by_radioactiveshake-d5o3tei.png);margin:20px -30px;padding:10px 30px;box-shadow:0 5px 10px #ebf0fb,0 -5px 10px #ebf0fb;}
+ .scroll {height:200px;overflow:auto;}
+ .centered {text-align:center;}
+ div.boxed h3 {text-align:center;}
+h3.boxed {color:#416e9d;text-align:center;position:relative;z-index:2;}
+ h3.boxed+div.boxed {margin-bottom:-30px;position:relative;top:-45px;z-index:1;}
+
+.scroll::-webkit-scrollbar {width:5px;}
+ .scroll::-webkit-scrollbar-track {border-radius:3px;background:#ebf0fb;}
+ .scroll::-webkit-scrollbar-thumb {border-radius:3px;background:#cad9fe;}
+
+.tri, .gr1, .gr2, .gr3, .gr-top img, .list img, li~br, .menu+br, h3+br, hr+br, .credits~br, .credits span {display:none;}
+
+.credits {background:#d9e3fb;font:10px 'Didact Gothic',sans-serif;padding:5px;text-transform:uppercase;position:absolute;bottom:-25px;right:30px;border-radius:5px;}
+ .credits:hover span {display:block;}
+/*
+! There is a white gap near the section section
+
+-Headings-
+- <h3>Lechón</h3>
+- <h3 class="cursive">Crispy Pata</h3>
+- <h3 class="flavoured">Hamón</h3>
+- <h3 class="plain">Lumpiang Shanghai</h3>
+- <h3 class="boxed">Features</h3> - Used in conjunction with a custom box
+
+-Custom Box-
+- boxed - Simply put, the custom box.
+- scroll - Scroll dat baby, 'cause you people love that for some reason. :3
+- centered - Hint: It aligns the content to the center. May be used with other tags, too.
+
+-Usage Samples-
+- You see the collection of thumbs at the top of the preview image?
+<div class="centered">:bigthumb#####:
+:thumb#####::thumb#####::thumb#####:</div>
+- A scrolling feature box + a heading
+<h3 class="boxed">Features</h3><div class="boxed scroll centered">:thumb#####::thumb#####::thumb#####::thumb#####::thumb#####::thumb#####:</div>
+- A plain custom box with centered content
+<div class="boxed centered">:thumb#####::thumb#####::thumb#####:</div>
+-Misc-
+- <hr> - Divider
+- <blockquote>Block of text</blockquote>
+
+--Header Code--
+<div class="menu"><a href="#">Gallery</a><a href="#">Commission</a><a href="#">FAQ</a></div>
+--End Header Code--
+--Footer Code--
+<div class="credits">Credits<span>:devredheadstock:'s <a href="https://redheadstock.deviantart.com/art/Snow-Snowflakes-Brushes-69707391">Snow + Snowflakes Brushes</a>
+:devregularjane:'s <a href="https://regularjane.deviantart.com/art/Bokeh-Texture-Pack-001-105661310">Bokeh Texture Pack 001</a>
+:devNatalivesna:'s <a href="https://natalivesna.deviantart.com/art/New-year-house-with-snowmen-341536924">New year house with snowmen</a></span></div>
+*/

@@ -1,0 +1,98 @@
+.gr-box{
+color: #95a2b2;
+background: #fff url(https://fc06.deviantart.net/fs71/o/2010/340/a/b/188695478_162117_border.png) repeat-y left;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none;
+padding: 6px 10px 170px 0;
+_padding: 6px 0 170px 20px;
+text-align: right;
+_text-align: left;
+font-size: 10px;
+color: #616a78;
+background: transparent url(https://fc06.deviantart.net/fs70/o/2010/340/7/4/188695478_162118_top.png) top left no-repeat;}
+
+.gr-top img{display: none;}
+
+
+h2{
+position: absolute; 
+top: 140px; 
+left: 50px;
+_left: 40px;
+color: #9b0810;
+font-size: 25px;
+text-shadow: 1px 1px 2px #e1bec1;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc03.deviantart.net/fs70/o/2010/340/9/5/188695478_162119_gradient.png) repeat-x bottom;
+border: none;}
+
+.text{
+background: url(https://fc08.deviantart.net/fs70/o/2010/340/f/8/188695478_162120_bottom.png) no-repeat left bottom;
+padding: 0 40px 200px 30px;}
+
+.content{
+background: #eef3f7;
+border: 1px solid #f5f8fa;
+_border: 1px solid #d1dce6;
+outline: 1px solid #d1dce6;
+padding: 10px 20px 20px 20px;}
+
+a{color: #9b0810;}
+
+.feature{
+margin-top: 15px;
+text-align: center;}
+
+.feature .shadow{
+background: #fff!important;
+-moz-border-radius: 15px;
+border-radius: 15px;
+padding: 10px;
+border: 1px solid #c2585e;}
+
+.shadow img{
+max-width:none!important; 
+margin: -15px 0 0 -15px;}
+
+.feature a{
+display: inline-block;
+width: 60px!important;
+height: 60px!important;
+overflow: hidden;
+border: 1px solid #d1dce6;}
+
+
+
+.list{
+position: absolute;
+bottom: 35px;
+left: 90px;}
+
+.f{background: transparent;}
+
+.bottom{
+position: absolute;
+right: 8px; 
+bottom: 2px;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+-Feature
+<div class="feature">...</div>
+
+--Header Code--
+<div class="content">
+--End Header Code--
+--Footer Code--
+</div>
+*/

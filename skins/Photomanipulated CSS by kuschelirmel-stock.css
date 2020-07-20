@@ -1,0 +1,73 @@
+.gr-box {margin: 0 auto 10px auto; max-width:950px; background: #1a2a24 url(https://fc03.deviantart.net/fs71/o/2012/123/5/0/299608238_397271_header_new_by_kuschelirmel-d4x9wh9.jpg) no-repeat top right; border:none; color:#dacfbc; font: 12px Verdana;padding: 0px;line-height:18px;}
+.gr {background: transparent;border:none; margin:0; padding:0;}
+.gr-top {text-align:right;background: none;border:none; margin:0; padding: 430px 40px 0 40px;}
+.gr-top span {color:#8b9b8c;font: 11px Century Gothic, Verdana; letter-spacing:2px;}
+.gr-top img {display:none;}
+.gr-top h2 {color:#dacfbc;font: 32px Century Gothic, Verdana; letter-spacing:1px; margin: 0 -20px;}
+.gr-top h2 a {color:#dacfbc;}
+.gr-top h2 a:hover {color:#dacfbc;}
+.gr-body {background: none;border:none; margin:0; padding:0;}
+.gr1 {display:none;}
+.gr2 {display:none;}
+.gr3 {display:none;}
+.tri {display:none;}
+a {color:#dacfbc;text-decoration:none;}
+a:hover {text-decoration:underline;}
+.text {background: transparent;border:none; margin: 0; padding:0;}
+.text .title {background: transparent url(https://fc07.deviantart.net/fs71/o/2012/123/e/2/299608238_397272_title_by_kuschelirmel-d4wcrw1.png) no-repeat bottom left;font: 20px Century Gothic, Verdana; letter-spacing:1px;padding: 3px; margin:0 5px;font-weight:bold;}
+.text h1 {background: transparent url(https://fc07.deviantart.net/fs71/o/2012/123/e/2/299608238_397272_title_by_kuschelirmel-d4wcrw1.png) no-repeat bottom left;font: 20px Century Gothic, Verdana; letter-spacing:1px;padding: 3px; margin:0 5px;font-weight:bold;}
+.text .t2 {font: 16px Century Gothic, Verdana; padding: 3px 0 0 0; margin:0 5px;font-weight:bold; font-style:italic}
+.text h2 {font: 16px Century Gothic, Verdana; padding: 3px 0 0 0; margin:0 5px;font-weight:bold; font-style:italic}
+.roundcorners {background:#fbf7f1; border-radius: 5px; padding:10px; margin:0; text-align:center;}
+blockquote {border-left: 5px solid #fbf7f1; margin:0 10px; padding:2px 5px;}
+a.embedded-deviation img {padding:0px;border:3px solid #fbf7f1;margin:2px;}
+a.embedded-deviation:hover img {border-color:#1a2a24;}
+.shadow a img {padding:0px; border:3px solid #fbf7f1;margin:0px;}
+.shadow a:hover img {border-color:#1a2a24;}
+.navi {position:relative; top:70px; right:10px; text-align:right; font-variant:small-caps;color:#8b9b8c;font: 12px Century Gothic, Verdana; letter-spacing:1px; font-weight:bold;}
+.navi a {color:#8b9b8c;}
+.navi a:hover {color:#dacfbc; text-decoration:none;}
+.textboxtop {margin:0; padding:0;position:absolute; top:492px; left:25%; text-align: right;}
+.textbox {background: #dacfbc; color:#1a2a24;overflow:auto; margin: 93px 5px 59px 5px;padding:0;}
+.boxlines {margin:10px 5px; border-left: 1px solid #1a2a24; border-right: 1px solid #1a2a24; padding:0 20px 90px 20px;}
+.brooch {margin:0; padding:0;position:absolute; bottom:101px;text-align:center;width:950px;}
+.textbox a {color:#653804;text-decoration:none;}
+.textbox a:hover {text-decoration:underline;}
+.credit {text-align:center; font-variant:small-caps;color:#8b9b8c;font: 11px Century Gothic, Verdana; letter-spacing:1px; margin:20px 10px 20px 10px; height:80px; padding:0;overflow:auto;}
+.credit a {color:#8b9b8c;}
+.credit a:hover {color:#dacfbc; text-decoration:none;}
+.bottom {margin: 0px;padding:10px; font: 16px Century Gothic, Verdana; letter-spacing:1px;height:20px;}
+.list {display:none;}
+/*
+The "title" class makes the underlined headlines, as does the h1 tag
+The "t2" class makes the smaller ones (see below) as does the h2 tag
+The lighter background with round corners is done with the "roundcorners" class
+The blockquote tag will create a light line to the left which can also be used on a single line with bold text as a sort-of headline
+Lists are created having one ul or ol tag enclosing li tags for each bullet point like this: <ul><li>item 1</li><li>item 2</li></ul>
+
+--Header Code--
+<div class="navi">
+<a href="http://fav.me/d3zs2db">Stock Rules</a> | <a href="kuschelirmel-stock.deviantart.com/gallery/">My Gallery</a> | <a href="kuschelirmel.deviantart.com">Art Account</a>
+</div>
+<div class="textbox">
+<div class="textboxtop">
+<img src="https://fc01.deviantart.net/fs71/o/2012/123/c/9/299608238_397273_textboxtop_small_by_kuschelirmel-d4wcssb.png">
+</div>
+<div class="boxlines">
+--End Header Code--
+
+--Footer Code--
+</div>
+<div class="brooch">
+<img src="https://fc00.deviantart.net/fs70/o/2012/123/1/f/299608238_397274_brooch_new_by_kuschelirmel-d4x9whh.png" />
+</div>
+</div>
+<div class="credit">
+<br>
+<b>
+<a href="https://www.deviantart.com/kuschelirmel-stock/art/Photomanipulated-CSS-299608238">Photomanipulated CSS</a> credit goes to:</b>
+<br>Stock: <a href="https://www.deviantart.com/dragoroth-stock">dragoroth-stock</a>, <a href="https://www.deviantart.com/mysticbubblesz">mysticbubblesz</a>, <a href="https://www.deviantart.com/mimose-stock">mimose-stock</a>, <a href="https://www.deviantart.com/dralliance-stock">dralliance-stock</a>, <a href="https://www.deviantart.com/dracoart-stock">dracoart-stock</a>, <a href="https://www.deviantart.com/gaiastock">gaiastock</a>, <a href="https://www.deviantart.com/castock">castock</a>
+<br>Brushes: <a href="https://www.deviantart.com/mouritsada-stock">mouritsada-stock</a>
+<br>Coding &amp; graphics: <a href="https://www.deviantart.com/kuschelirmel-stock">kuschelirmel-stock</a>
+</div>
+*/

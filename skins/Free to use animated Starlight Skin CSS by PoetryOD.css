@@ -1,0 +1,289 @@
+.journalbox {
+width:600px;
+	background-color:#000000;
+	border-width: 0px;
+	border-color: #000000;
+	color: #f65288;
+	font-size:0.95em;
+}
+
+.h2 {
+color: #ffffff;
+}
+.boxtop {
+    width:600px;
+	background-position:top;
+    background-image:
+    width:600px;
+	_width:600px;
+	background-color:#000000;
+	background: url(https://fc05.deviantart.net/fs70/o/2013/052/e/a/355614295_708537_kathrynod.gif) no-repeat;
+color:#ffffff;
+text-align:left;
+	padding:400px 0px 80px 76px;
+	_padding:400px 0px 80px 76px;
+}
+.boxtop span {
+	color:#f65288;
+	margin-left:2px;
+	_margin-left:2px;
+	background-position: left;
+	padding:50px 0px 50px 40px;
+	_padding:50px 0px 50px 40px;
+}
+.boxtop img {
+	display:none;
+}
+.boxtop h2 {
+	color:#f65288;
+	text-align:left;
+	background-color: transparent;
+	font-weight:bold;
+	font-size:1.85em;
+	margin-bottom:10px;
+	_margin-bottom:10px;
+}
+.navi .List .Button {
+	color:#eeefe1;
+	background-color: transparent;
+	border: 0px solid #1a1a1a;
+	margin: 40px 0px 40px 17px;
+	_margin: 40px 0px 40px 17px;
+	top:-60px;
+	max-width:600px;
+	width:70px;
+	_width:70px;
+	padding: 0px 0px 0px 5px;
+	_padding: 0px 0px 0px 5px;
+	float: left;
+	_float: left;
+	text-decoration: bold;
+}
+.navi .List .Button:hover {
+	color:#1199bb;
+	background-color: transparent;
+	border: 0px solid #000000;
+}
+.journalbox .list {
+	display:none;
+}
+.journalbox .journaltext {
+	color: #eeefe1;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:16px;
+	text-align: justify;
+	margin: -80px 10px 10px 10px;
+	_margin: -80px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	_padding: 5px 5px 5px 5px;
+	display:block;
+	width:570px;
+}
+.caps:first-letter {
+	padding: 5px 5px 5px 5px;
+	_padding: 5px 5px 5px 5px;
+	color:#ffffff;
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size:400%;
+	font-weight:800;
+	float:left;
+}
+.journalbox .journaltext .txt {
+	background-color: #transparent;
+	font-size: 12px;
+	display: block;
+	padding:0px 10px 10px 10px;
+	_padding:0px 10px 10px 10px;
+	max-width: 580px;
+}
+.journalbox .journaltext .txt a {
+	text-decoration: none;
+	border-bottom:#000000;
+}
+.journalbox .journaltext a {
+	color: #f65288;
+	text-decoration: none;
+}
+.journalbox .journaltext a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+u {
+	text-decoration: none;
+	color: #874b52;
+	cursor: default;
+	position: relative
+}
+u .shadow-holder {
+	display: none;
+	position: absolute;
+	bottom: 50%;
+	right: 50%
+}
+u:hover .shadow-holder {
+	display: block
+}
+u:hover {
+	color: #6a0000
+}
+.table br {
+	display:none;
+}
+.table {
+	display:table;
+	margin:0 auto;
+	_margin:0 auto;
+width:470px;
+	border-collapse:separate;
+	border-spacing:1px;
+}
+.table i {
+	display:table-row;
+}
+.table img {
+	height:90%;
+	width:90%;
+	_width:auto;
+	_height:auto;
+}
+.table .shadow-holder {
+	background:#ebebeb;
+	border:1px solid #1a1a1a;
+	display:table-cell!important;
+	max-width:160px;
+	max-height:160px;
+	vertical-align:middle!important;
+	text-align:center;
+	margin:0;
+	padding:2px;
+}
+.table .shadow-holder:hover {
+	border:1px solid #76a1aa;
+	background-color:#99c80c;
+}
+table .shadow {
+	display: inline!important;
+	background: none!important;
+	padding: 0!important;
+	margin: 0!important;
+}
+.table a {
+	display:table-cell!important;
+	text-align:center;
+	vertical-align:middle;
+	padding:0!important;
+	margin:0!important;
+}
+.scroll {
+	height: 200px;
+	overflow: auto
+}
+.journalbox .journalbottom {
+	background-color: transparent;
+	padding: 20px 20px 20px 20px;
+	_padding: 20px 20px 20px 20px;
+	visibility:hidden;
+}
+.journalbox .commentslink {
+	color: #f65288;
+	background-color: transparent;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	letter-spacing:1px;
+	text-decoration: none;
+	visibility:visible;
+	position:absolute;
+	top:452px;
+	_top:452px;
+	left:202px;
+	_left:202px;
+}
+.journalbox .prevlink {
+	color: #FFFFFF;
+	background-color: transparent;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0;
+	text-decoration: none;
+	visibility:visible;
+	position:absolute;
+	top:445px;
+	_top:445px;
+	left:385px;
+	_left:380px;
+	background-position: left;
+	padding:0px 0px 0px 20px;
+	_padding:0px 0px 0px 20px;
+}
+.journalbottom {
+	background-color: #transparent;
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
+.journalbottom a {
+	color:#f65288;
+	text-decoration:none;
+}
+.journalbottom a:hover {
+color:#f65288;
+	text-decoration: none;
+}
+.journalbox .list li {
+	background-color: #transparent;
+	color:#f65288;
+	font-size: 10px;
+	text-align:center;
+}
+.journalbox .list .a {
+	background-color: #transparent;
+	color:#f65288;
+	font-size: 10px;
+	text-align: center;
+}
+.journalbox ul {
+	background-color: #transparent;
+color:#ffffff;
+	margin: 25px 5px;
+	_margin: 25px 5px;
+	padding:5px 20px 5px 50px;
+	_padding:5px 20px 5px 50px;
+	background-position: bottom right;
+}
+ul.list {
+	background: #FFFFFF;
+}
+
+.nostril {
+color:#1199bb;
+font-size:25px;
+font-family:Georgia;
+text-align:center;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- To Centre Things use the code:
+<div align="center"> CENTERED CONTENT </div>
+
+- To Capitalise the first letter of content use the code:
+<div class="caps"> CONTENT </div>
+
+- To use the large blue headers use the code:
+<div align="nostril"> BLUE TITLE TEXT </div>
+
+- To make the thumbs table use the code:
+<div class="table"> <i> :thumb: :thumb: :thumb: </i>
+<i> :thumb: :thumb: :thumb: </i>
+<i> :thumb: :thumb: :thumb: </i> </div>
+
+- To make my cute writers dividers use this code:
+<div align="center">:iconkittydividerplz::iconkittydivider2plz::iconkittydivider3plz::iconkittydivider4plz::iconquillplz:</div>
+
+--Header Code--
+<div class="navi"><div class="List"> <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a> <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a> <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a> <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a>  <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a> <a href="HTTP://WWW.URL.COM"><div class="Button"> LINK </div></a></div></div><br/><br/><br/><br/><br/><div class="txt">
+--End Header Code--
+--Footer Code--
+<div align="center"><sub>YOURNAME © 2013
+
+CSS by :devKathrynODriscoll: | Stars by :devdann94: | Trees by :devdarkmercy:</sub></div></div>
+*/

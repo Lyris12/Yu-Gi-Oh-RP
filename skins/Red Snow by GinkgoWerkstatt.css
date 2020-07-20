@@ -1,0 +1,107 @@
+.gr-box{
+font-size: 11px;
+margin: 0 auto 10px auto;
+max-width: 1000px;
+text-align: center;
+background:url(https://fc01.deviantart.com/fs46/o/2009/248/6/5/135961157_86074_bg.jpg) top center;
+color:#323232;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+background:url(https://fc09.deviantart.com/fs30/o/2009/248/3/9/135961157_86075_header.jpg) top center no-repeat transparent;
+border: none; 
+padding: 170px 0 50px 0;}
+
+h2{
+color:#c81b1f;
+width: 360px;
+_width: 410px;
+text-align: left;
+padding: 10px 0 0 50px;
+letter-spacing: 1px;
+margin: auto;
+_margin: 0 auto -2px auto;}
+
+.gr-top img{display: none;}
+
+.gr-top span {
+display: block;
+text-align: center;
+margin: 0 0 0 -140px;}
+
+.gr-body{
+background:url(https://fc07.deviantart.com/fs46/o/2009/248/2/3/135961157_86076_footer.jpg) bottom center transparent no-repeat;
+border: none;
+padding: 0 0 120px 0;}
+
+.text{
+width: 420px;
+padding: 0 20px 100px 10px;
+margin: auto;
+text-align: justify;}
+
+a {color:#c81b1f;}
+a:hover{text-decoration: none;}
+
+.left {
+width: 200px;
+float: left;
+_position: absolute;}
+
+.right{
+border-left: 1px solid #c0c0c0;
+margin: -26px 0 0 215px;
+padding: 0 0 10px 10px;
+width: 200px;}
+
+em{
+color:#c81b1f;
+letter-spacing: 1px;
+margin: 10px 0 -12px 0;
+font-size: 14px;
+font-style: normal;
+display:  block;}
+
+.minithumbs {text-align: center;}
+.minithumbs .shadow {background-image:none!important;}
+
+.minithumbs a{
+display: inline-block;
+width: 50px;
+height: 50px;
+overflow: hidden;
+border: 1px solid #c81b1f;}
+
+ul.list{
+width: 340px;
+padding: 0 0 0 100px;
+_padding: 0 0 0 80px;
+_width: 450px;
+margin: auto;}
+
+.list{text-align: left;}
+.f{background: transparent;}
+
+.bottom {
+position:absolute;
+width: 100%;
+bottom: 48px;
+_text-align: center;
+_width: 450px;}
+
+.bottom a {color:#424242; text-decoration:none;}
+.bottom a:hover {color:#c81b1f;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Columns (you have to use both!)
+< div class="left"> ... < /div>
+< div class="right"> ... < /div>
+- Headline
+< em> ... < /em>
+*/

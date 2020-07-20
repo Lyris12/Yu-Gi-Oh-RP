@@ -1,0 +1,135 @@
+.gr-box{
+width: 500px; 
+margin: auto; 
+color: transparent; 
+font-family: Verdana, sans-serif; 
+background: transparent url('https://fc07.deviantart.net/fs71/o/2010/153/7/d/166268586_130000_headxq.jpg') top center no-repeat;
+	
+}
+
+.gr{
+background: transparent; 
+border: none;}
+
+.gr1 {display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none;  
+width: 420px; 
+margin: auto; 
+background: transparent; 
+height:460px;
+padding: 20px 0 0 0;
+
+}
+
+.gr-top img{
+background: transparent; display: none;}
+
+.gr-top span{ 
+background: transparent; 
+color: #ffffff; 
+display: block; 
+text-align: right; 
+}
+
+h2{color: #ffffff; font-size: 30px; text-align: right; letter-spacing: 0.03em;
+position: absolute;
+   right: 0;
+padding-top:15px;
+width:200px;
+}
+
+.list{display: none;}
+
+.text{
+background: url('https://fc06.deviantart.net/fs70/o/2010/153/e/0/166268586_130001_bodyp.png') top center repeat-y; width: 500px; padding: 0 0 0 0; margin: auto;}
+
+.gr-body{ 
+background: #ccd9c8; 
+border: none; 
+overflow:visible!important; 
+padding-bottom: 20px;}
+
+.blue {
+background:#7ad5f7; border:6px #1ca4ef groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+.purple {
+background:#cdb1ff; border:6px #965ed5 groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+
+.pink {
+background:#f2a4cf; border:6px #e8509f groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+.red {
+background:#ff9696; border:6px #d40000 groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+.orange {
+background:#ffb892; border:6px #fa5923 groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+.yellow {
+background:#fff0b2; border:6px #ffb700 groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+
+.green {
+background:#d2f4ad; border:6px #108b00 groove; min-height:auto; max-height:500px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+.rainbow {
+background:transparent; border:1px #ffffff dashed; min-height:auto; max-height:25px; width: 400px; _height:300px; overflow:auto; color: #1f0f23;}
+
+
+.links {text-align: center; margin: -200px 0px 0px 0px; padding: 0px 0px 0px 0px; width: 150px; height: 150px; right: 20px; position: absolute; z-index: 50;}
+
+.links a {display: block; margin: 0px 0px 0px 0px; padding: 8px 0px 6px 0px; width: 130px; height: 15px; _height: 35px;
+background:url('https://fc06.deviantart.net/fs70/o/2010/153/4/f/166268586_130002_link1.png') no-repeat; background-position: 0px 0px; color: #000000; font-size: 9px; font-weight: bold; text-align: center; text-decoration: none!important;}
+
+.links a:hover {
+background: url('https://fc05.deviantart.net/fs71/o/2010/153/a/1/166268586_130003_key1b.png') no-repeat; font-size: 10px; color: #ffffff;}
+
+.body a{color: #3b6ace;}
+.body a:hover{text-decoration:none;}
+
+.bottom{
+background: url('https://fc00.deviantart.net/fs71/o/2010/153/4/2/166268586_130004_footert.jpg') bottom center no-repeat; width: 499px; height: 80px; color: #1e55c7;}
+
+.bottom a{color: #000000;  font-size: 10px; font-weight: bold; text-decoration: none;padding-top:0px;}
+
+.bottom a:hover{color: #ffffff; font-size: 11px; font-weight: bold; text-decoration: none;background:#000000;}
+
+strong {
+	font-size:14px;
+	color:#ffffff;
+	font-weight:bold;
+	text-shadow:#000000 1px 1px 1px!important;
+}
+
+
+a:link {
+cursor:url(https://fc00.deviantart.net/fs71/o/2010/153/a/7/166268586_130005_afterw.png), pointer;
+}
+a:hover {
+cursor:url(https://fc00.deviantart.net/fs71/o/2010/153/a/7/166268586_130005_afterw.png), pointer;
+}
+body {
+cursor:url(https://fc01.deviantart.net/fs70/o/2010/153/b/f/166268586_130006_beforec.png), auto;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! There is a gap between the body and bottom of the journal
+! Body text is invisible
+
+To use A BIG white font type <strong>YOUR TEXT HERE</strong>
+To use the colored boxes write:
+<div align="center"><div class="red"><div class="window">YOUR TEXT HERE</div></div></div>
+And replace "red" with any other of the following colors: Red, orange, yellow, green, blue, purple, pink.
+To make a scrollbox appear, simply write a lot of text!
+
+--Header Code--
+<div class="links"><a href="https://www.deviantart.com/marufuji--ryou/gallery">Gallery</a><a href="https://www.deviantart.com/marufuji--ryou/favorites/">Favorites</a><a href="https://my.deviantart.com/notes/#tk=XBwJWxUAGhdFW1pYbVpICVtAVQ==">Note Me</a><a href="https://www.deviantart.com/marufuji--ryou/prints/">My prints</a></div>
+--End Header Code--
+--Footer Code--
+<div align="center"><div class="rainbow"><div class="window"><sub><a href="http://tiny.cc/jns3l">More journal skins</a> by :devmxlove:</sub></div></div></div>
+*/

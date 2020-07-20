@@ -1,0 +1,252 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+.sidebar{
+background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+    clear: center;
+    float: center;
+    margin-left:auto;
+    margin-right:auto;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);
+    padding: 30px 30px 30px 30px;
+    padding-top:35px!important;
+    position: absolute!important;
+    font-family:'Tahoma';
+    text-shadow:#610B0B 3px 2px 4px; font-size:3em; color:#000000;
+    color: #000000;
+    letter-spacing:1px;
+    font-size:14px;
+    text-align:center;
+    top: 250px;}
+.sidebar a:hover {
+    color: #FFFFFF;
+    text-shadow:#610B0B 3px 2px 4px; font-size:3em; color:#000000;
+    font-family:'Tahoma';
+    text-decoration: none;}
+.journalbox .journaltop {
+    color:transparent !important;
+    background-image: url(https://fc00.deviantart.net/fs71/o/2014/248/7/0/480390194_1894681_mountainside_dragon_by_zylanthe-d62ri67.jpg);
+    background-position: center !important;
+    background-repeat: repeat;
+    background-color:transparent;
+    height:534px;
+    max-width: 800px;}
+h2{
+    color: #000000;
+    text-shadow:#610B0B 3px 2px 4px; font-size:3em; color:#000000;
+    font-family: Tahoma;
+    font-size: 28px;
+    letter-spacing: 2px;
+    position: relative;
+    padding-left: 5px;
+    padding-right: 5px;
+    max-width: 800px;
+    text-align: center !important;
+background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+    top: 160px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);}
+h2 a{
+    color:#000000!important;
+    text-decoration: none;}
+a:hover{
+    border: none!important;
+    color:#000000!important;
+    text-decoration: none;}
+.journalbox {
+    background-color:transparent;
+    border: 0px solid #FFFFFF;
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    background-position: center;
+    background-repeat: repeat;
+}
+.timestamp {display: none;}
+.list {display: none;}
+.journalbox .journaltop img {
+    display: none !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .boxtop {
+    padding: 0 !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .journaltext {
+    font-family: Tahoma;
+    font-size:13px; 
+    color:#000000;
+    text-align: center;
+    background-color:#db928b;
+    background-position: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-repeat: repeat;}
+.journalbox .journaltext .content {
+     padding-top: 8px;
+     background-position: center;
+     background-repeat: repeat;}
+.journalbox .journalbottom {
+background-image: url(https://fc00.deviantart.net/fs71/o/2014/248/7/0/480390194_1894681_mountainside_dragon_by_zylanthe-d62ri67.jpg);    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;}
+.commentslink {
+    color: #000000;
+    text-shadow:#610B0B 3px 2px 4px; font-size:3em; color:#000000;
+    font-family: Tahoma;
+    text-decoration: none;
+    font-size: 28px;
+    letter-spacing: 2px;
+    position: relative;
+    top: 30px;
+    text-align: center !important;
+background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+    padding-left: 300px;
+    padding-right: 300px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);}
+.text blockquote {
+     background:  url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png); 
+     border-radius: 15px;
+     box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);
+     color: #000000;
+     text-shadow:#610B0B 3px 2px 4px; font-size:3em; color:#000000;
+     font-family: Segoe Script; font-size: 22px;
+     background-position: center;
+     padding: 15px 10px 15px 10px;
+     background-repeat: repeat;}
+hr {
+     background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+     background-repeat: repeat-x;
+     background-position: center;
+     margin:10px 10px 10px 10px;
+     height: 3px;
+     border-radius: 5px;
+     box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);
+     border: #none;}
+.thumb{text-align: center;}
+.thumb .shadow{
+     background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+     display: inline-block;
+     text-align: center !important;}
+.thumb .shadow img {
+     vertical-align: middle;
+     border:4px solid url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+     padding:0px;
+     border-radius: 15px;
+     box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);}
+     
+.thumb .shadow img:hover{border-color: #766d9f;}
+.lit {
+     box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5); background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png); 
+     border: #823f24 2px solid;
+     max-height: 160px; min-width: 100px;
+     border-radius: 15px;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align: center;
+     font-family: Tahoma;
+     font-size: 12px;
+     color: #000000;}
+.lit img 
+     {display: none;}
+a:hover{text-decoration: none;}
+a{
+	 font-weight: bold;
+     color: #000000;
+     text-decoration: none;}
+.scrollbox{
+background: url(https://fc09.deviantart.net/fs70/o/2014/248/6/e/480390194_1894680_450870964_1593964_419000026_1320552_412260564_1263369_412081538_1261651_411057629_1253166_410598610_1249340_410256922_1246308_410245060_1246180_j3vxpmy.png);
+overflow: auto;
+color: #000000;
+height: 150px;
+padding: 5px;
+border-radius: 15px;
+box-shadow: 0px 10px 20px rgba(27, 18, 45, 0.5);
+border: #none;}
+.scrollbox a{color: #000000;}
+.Footer{
+     bottom: 100px;
+     font-size: 12px;
+     color: #000000;
+     text-shadow: 1px #FFFFFF;
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #000000;
+     font-family: Tahoma;
+     text-decoration: none;}
+h1, h3, h4, h5, h6 {
+     color: #000000;
+     font-family: Segoe Script; font-size: 22px;
+     text-transform:uppercase;
+     letter-spacing:2px;
+     text-align:center;
+     display:inline-block;}
+h1 {
+     background: #f5ecdb; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;}
+h3 {
+     background: #d6c29f; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;}
+h4 {
+     background: #cd3041; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;}
+h5 {
+     background: #92a07f; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;}
+h6 {
+     background: #b3c6cd; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;}
+/*
+! Artist requests permission before copying
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div class="thumb" >  T H U M B < / div > (without space)
+- < hr > Half Transparent Line (without space)
+- < div class="scrollbox" > S C R O L L B O X < /div >
+- < h1 > < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > | < h5 > < /h5 > | < h6 > < /h6 > (without space)
+
+--Header Code--
+<div class="sidebar">
+<a href="https://inconcabille.deviantart.com">My Profile</a> 
+<br>
+<br>
+<a href="https://www.deviantart.com/marufuji--ryou/gallery/">My Gallery</a> 
+<br>
+<br>
+<a href="https://my.deviantart.com/deviants/add/Inconcabille">Watch me</a> 
+<br>
+<br>
+<a href="https://my.deviantart.com/notes/?to%3DInconcabille">Note me</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<div class="Footer">
+<sub>[ Journal CSS ] &#169; <a href="https://www.deviantart.com/Inconcabille">Inconcabille</a> &#8226; [ Background ] &#169; <a href="https://www.deviantart.com/zylanthe">zylanthe</a>
+</sub>
+</div>
+<br>
+*/

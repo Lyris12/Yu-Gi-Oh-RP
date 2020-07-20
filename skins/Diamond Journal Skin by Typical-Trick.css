@@ -1,0 +1,265 @@
+.gr-box {
+border-width:0px;
+}
+.f {
+background: white;
+text-align:left;
+color:black;
+font-size:10px;
+margin:0px;
+}
+.f.a {
+background: #d0d0d0;
+text-align:left;
+color:black;
+font-size:10px;
+margin:0px;
+}
+.f img {display:none}
+
+ul.f.list{
+background:white;
+position:absolute;
+bottom:0px;
+width:100%;
+margin-bottom:24px;
+left:0px;
+}
+.bottom{
+height:180px;
+background-image:url(https://fc00.deviantart.net/fs70/o/2011/213/d/2/245913452_289403_p6-1.jpg);
+background-repeat: repeat-x;
+background-position:bottom right;
+background-color:transparent;
+padding-right:200px;
+}
+.hsep{display:none;}
+.gr-body{
+background-color:transparent;
+margin:0px;
+padding:0px;
+border-width:0px;
+background-image: url(https://fc06.deviantart.net/fs70/o/2011/213/6/0/245913452_289404_bg-11.jpg);
+background-position:top right;
+}
+.grf-indent{
+margin:0px;
+border-width:0px;
+border-color:#460338;
+border-style:solid;
+}
+i.gr1{
+background-image: url(https://fc02.deviantart.net/fs70/o/2011/213/b/3/245913452_289405_p3-1.jpg);
+background-repeat:repeat-x;
+background-color:transparent;
+background-position:top right;
+width:100%;
+height:273px;
+position:absolute;
+right:0px;
+top:0px;
+background-color:transparent;
+margin:0px;
+border-width:0px;
+z-index:1;
+}
+i.gr2{
+background-image: url(https://fc04.deviantart.net/fs70/o/2011/213/d/b/245913452_289406_p1-2.jpg);
+background-repeat:no-repeat;
+position:absolute;
+right:0px;
+top:0px;
+border-width:0px;
+background-position:top right;
+width:590px;
+background-color:transparent;
+height:333px;
+margin:0px;
+z-index:9;
+}
+.gr {
+background-color:transparent;
+border-width:0px;
+margin-left:0px;
+}
+.boxtop{
+background-image: url(https://fc01.deviantart.net/fs70/o/2011/213/1/b/245913452_289407_p5.jpg);
+background-repeat:repeat-y;
+position:absolute;
+right:0px;
+top:0px;
+background-position:top right;
+border-width:0px;
+width:237px;
+background-color:transparent;
+height:100%;
+z-index:1;
+margin-left:0px;
+}
+.tri{display:none}
+.gr-top{
+background-color:transparent;
+height:273px;
+padding:0px;
+z-index:999;
+border-width:0px;
+}
+.gr-top img{display:none}
+.timestamp{
+font-size:7pt;
+color:#5d2970;
+position:absolute;
+right:30px;
+top:300px;
+padding:0px;
+margin:0px;
+}
+H2{
+font-size:13pt;
+color:#91215e;
+border-style:solid;
+border-width:0px;
+width:600px;
+padding:0px;
+position:absolute;
+top:250px;
+right:40px;
+letter-spacing:2px;
+text-indent:20px;
+z-index:99999999;
+text-align:right;
+}
+H2:first-letter {
+font-size:33pt;
+color:#91215e;
+font-style:Italic;
+}
+.main{
+padding:10px;
+margin-top:60px;
+margin-right:260px;
+margin-left:20px;
+background:transparent;
+background-image: url(https://fc09.deviantart.net/fs71/o/2011/213/4/1/245913452_289408_bg-9.png);
+}
+i.gr3{
+margin:0px;
+height:303px;
+width:237px;
+position:absolute;
+top:333px;
+right:0px;
+padding:0px;
+background-image: url(https://fc07.deviantart.net/fs70/o/2011/213/9/8/245913452_289409_p2-3.jpg);
+background-repeat: no-repeat;
+background-position:top right;
+border-width:0px;
+}
+.text{
+margin-top:0px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom:0px;
+padding:0px;
+background:transparent;
+color:#5d2970;
+}
+.a.prevlink{
+background-color:transparent;
+display:none;
+color:#5d2970;
+}
+.a.commentslink{
+background-color:transparent;
+display:block;
+padding-bottom:0px;
+border-width:0px;
+z-index:99;
+color:#5d2970;
+}
+.corner {
+background-image:url(https://fc04.deviantart.net/fs70/o/2011/213/0/d/245913452_289410_p7.jpg);
+margin:0px;
+height:24px;
+width:248px;
+position:absolute;
+right:0px;
+bottom:0px;
+z-index:99;
+}
+p {
+text-indent:50px;
+margin:0px;
+padding:0px;
+}
+p:first-letter {
+font-size:17px;
+}
+b {
+color:#91215e;
+font-size:13px;
+letter-spacing:3px;
+}
+i {
+color:#db599f;
+font-size:12px;
+letter-spacing:5px;
+}
+a:hover {
+color:#5d2970;
+background-color:#db599f;
+font-size:13px;
+text-decoration:none;
+letter-spacing:1px;
+}
+a {
+color:#db599f;
+font-size:13px;
+letter-spacing:1px;
+background-color:black;
+text-decoration:none;
+}
+a:active {
+color:#db599f;
+font-size:13px;
+letter-spacing:1px;
+}
+a:visited {
+color:#db599f;
+font-size:13px;
+letter-spacing:1px;
+background-color:black;
+}
+blockquote {
+color:#db599f;
+background-color:#cdcdcd;
+border-style:solid;
+border-left-width:15px;
+border-right-width:0px;
+border-top-width:0px;
+padding:10px;
+border-bottom-width:0px;
+}
+H3 {
+font-size:13pt;
+color:#91215e;
+border-style:solid;
+border-width:0px;
+padding:0px;
+letter-spacing:10px;
+text-align:right;
+font-style:italic;
+font-weight:normal;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Documentation
+
+-Header-
+<div class="boxtop"></div>
+<div class="main">
+-Footer-
+</div>
+<div class="corner"></div>
+*/

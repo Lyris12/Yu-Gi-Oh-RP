@@ -1,0 +1,265 @@
+.journalbox {
+font-family: Sylfaen;
+background: url(https://fc07.deviantart.net/fs70/o/2011/033/9/7/195920116_172782_test_bg.jpg) 0 80px repeat-x #fff;
+width: auto;
+height: auto;
+border: none;
+max-width: 695px;
+}
+.topbar {
+position: absolute;
+top: 338px; left: 50%;
+width: auto;
+padding-left:0px;
+height: 40px;
+z-index:3;
+}
+.journaltext .topbar .centraal {
+margin: 0 auto 0 -300px; 
+padding: 0;
+width: 600;
+overflow: hidden;
+height: 40px;
+}
+.journaltext .topbar ul {
+margin: 0 auto 0 0; padding: 0;list-style: none;
+width: auto;
+display: block;
+height: 38px;
+}
+.journaltext .topbar ul li {
+float:left;
+list-style-type: none;
+display:inline;
+vertical-align: middle;
+margin: 0 0 10px;
+}
+.journaltext .topbar ul li img {
+float:left;
+margin:0;
+padding:0;
+}
+.journaltext .topbar ul li a {
+float:left;
+color:#d0cecc;
+margin:0;
+padding:10px;
+font-weight:normal;
+text-decoration:none;
+font-size:1.3em;
+display:block;
+}
+.journaltext .topbar ul li a:hover {
+color:#fe560f;
+}
+.mijnheader {
+background: url(https://fc08.deviantart.net/fs71/o/2011/033/6/1/195920116_172783_body_bg.png) 0 0 repeat-x;
+position: absolute;
+top: 0;
+left: 0;
+width: 1440px;
+height: 379px;
+z-index:0;
+}
+.journaltop {
+font-family: Sylfaen;
+background: url(https://fc07.deviantart.net/fs71/o/2011/033/2/c/195920116_172784_header.png) top center no-repeat;
+height: 327px;
+border: none;
+margin: 0 0 50px;
+padding: 1px;
+text-align: center;
+color: transparent;
+position:relative;
+z-index:999;
+}
+.journaltop h2 {
+background: transparent;
+color: #fff;
+font: normal normal normal 220%/100% Sylfaen;
+margin: 248px auto 0;
+padding: 16px 18px 16px 38px;
+text-align: center;
+text-shadow: #dc3805 1px 0 8px, #dc3805 -1px 0 8px;
+letter-spacing: 1px;
+}
+.journaltop h2 img {
+display: none;
+}
+.journaltop span {
+color: #594a44;
+font-size: 2.2em;
+font-weight: bold;
+line-height: 1em;
+margin: 126px 0 0 -250px;
+position: absolute;
+text-transform: uppercase;
+width: 200px;
+background: transparent;
+}
+keeper {
+display:block;
+background: url(https://fc08.deviantart.net/fs71/o/2011/033/9/5/195920116_172785_shadow_top.png) center bottom no-repeat transparent;
+width: auto;
+height: 90px;
+margin: -78px auto 10px;
+}
+.journaltext {
+margin: -178px auto 0;
+padding: 220px 0 0;
+max-width: 695px;
+overflow: visible;
+}
+.journaltext em {
+color: #594a44;
+font-size: 1.8em;
+font-weight: bold;
+line-height: 1em;
+font-style:normal;
+}
+.journaltext a {
+color: #594a44;
+font-weight: bold;
+}
+.journaltext a:hover {
+color: #fe560f;
+}
+.journaltext ul {
+list-style: disc;
+line-height: 0.9em;
+}
+.journaltext ul li{
+display: list-item;
+margin: -5px 0;
+padding: 0;
+}
+.themaintext {
+font-size: 12pt;
+margin: -10px 0 0;
+padding: 0 80px 0;
+}
+.journalbottom { 
+background: url(https://fc02.deviantart.net/fs71/o/2011/033/3/3/195920116_172786_journalbottom.png) center top no-repeat;
+width: auto;
+height: 80px;
+margin: 0 auto;
+color: #fff;
+font-size: 120%;
+padding: 50px 0 0;
+}
+.journalbottom a{
+color: #fff;
+text-decoration: none;
+}
+.journalbottom a:hover {
+color: #fff;
+text-decoration: underline;
+}
+ul.list {
+font-family:Sylfaen;
+color:#7f7f7f;
+background: transparent;
+margin: 0px auto;
+width: 480px;
+height: auto;
+padding: 40px 0 20px;
+overflow:visible;
+}
+ul.list li {
+font-family:Sylfaen;
+background: transparent;
+margin-left: 245px;
+font-size:12pt;
+font-weight:bold;
+width: 380px;
+overflow: visible;
+}
+ul.list li strong {
+font-family:Sylfaen;
+color:#7f7f7f;
+font-weight:bold;
+}
+.shadowbottom {
+background: url(https://fc06.deviantart.net/fs70/o/2011/033/3/0/195920116_172787_shadow_bottom.png) center top no-repeat;
+display: block;
+margin: 0px auto;
+width: auto;
+height: 78px;
+}
+p.letsclearit {
+background: url(https://fc06.deviantart.net/fs70/o/2011/033/3/0/195920116_172787_shadow_bottom.png) center top no-repeat;
+clear: both;
+display: block;
+color: transparent;
+width: 662px;
+height: 78px;
+}
+.shadow-holder {
+margin: 10px;
+padding: auto;
+}
+.mild {
+overflow: hidden;
+float: left;
+padding: auto;
+margin: auto;
+}
+.mild a {
+box-shadow: #a09f9d 0 0 8px;
+display: block;
+}
+.mild a:hover {
+box-shadow: #a09f9d 2px 2px 10px;
+display: block;
+}
+.mild img {
+margin: 0;
+padding: 5px;
+}
+blockquote {
+background: url(https://fc00.deviantart.net/fs71/o/2011/033/5/a/195920116_172788_bq_bg.png) top left no-repeat #e9e9e9;
+margin: 10px 31px;
+padding: 33px 23px 23px;
+line-height: 1.2em;
+font-style: italic;
+}
+blockquote em {
+background: #F0EEEE url(https://fc03.deviantart.net/fs70/o/2011/033/0/2/195920116_172789_bq_end.png) no-repeat 0% 0%;
+color: transparent;
+display: block;
+float: right;
+height: 37px;
+margin: 6px -16px 0 0;
+padding: 0;
+width: 41px;
+}
+.awesomeKovowolf {
+color: #999;
+width: 300px;
+margin: 0 auto;
+display: block;
+text-align: center;
+}
+.awesomeKovowolf a {
+color: #999;
+margin-right:10px;
+}
+.awesomeKovowolf a:hover {
+color: #fe560f;
+}
+/*
+Just place an empt em tag at the end of the blockquote to have a closing quote at the background
+You can make text bold by using b tag
+Use can use em tag to get style like the word "Features" in the preview
+
+--Header Code--
+<div class="mijnheader"> </div>
+<div class="topbar"><div class="centraal"><ul><li><img src="https://fc08.deviantart.net/fs70/o/2011/033/4/b/195920116_172790_glow_37_33.png" /><a href="http://www.facebook.com/sergbel">FACEBOOK</a></li><li><img src="https://fc08.deviantart.net/fs70/o/2011/033/4/b/195920116_172790_glow_37_33.png" /><a href="http://3dserg.be/">MY WEBSITE</a></li><li><img src="https://fc08.deviantart.net/fs70/o/2011/033/4/b/195920116_172790_glow_37_33.png" /><a href="https://sergbel.deviantart.com/">DEVIANT</a></li><li><img src="https://fc08.deviantart.net/fs70/o/2011/033/4/b/195920116_172790_glow_37_33.png" /><a>comicsserg[at]live.com</a></li></ul></div></div>
+<div class="themaintext">
+--End Header Code--
+--Footer Code--
+<p class="letsclearit"> </p>
+</div>
+<div class="shadowbottom"> </div>
+<div class="awesomeKovowolf">designed by :devkovowolf: coded by :devsergbel:</div>
+*/

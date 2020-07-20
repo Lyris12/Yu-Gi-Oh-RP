@@ -1,0 +1,184 @@
+.sidebar
+{
+ padding:0 0 0 5px;
+ width:167px;
+ float:left;
+}
+.stamps-boxtop
+{
+background: url(https://fc01.deviantart.net/fs71/o/2012/210/c/8/317579868_447219_stamp_boxtop_img_by_jeffretta-d591oyt.png) top left no-repeat;
+height: 68px;
+width: 167px;
+margin-left: -14px;
+}
+.group-boxtop
+{
+background: url(https://fc07.deviantart.net/fs71/o/2012/210/5/2/317579868_447220_group_boxtop_img_by_jeffretta-d591o7l.png) top left no-repeat;
+height: 69px;
+width: 167px;
+margin-left: -14px;
+}
+.box-sides
+{
+background: url(https://fc02.deviantart.net/fs70/o/2012/210/f/7/317579868_447221_box_sides_img_by_jeffretta-d591o5o.png)top left repeat-y;
+width: 143px;
+ _width:167px;
+ text-align:center;
+height: 150px;
+overflow: auto;
+margin-left: 10px;
+font-size: 23px;
+font-family: arabic typesetting;
+}
+.boxbottom
+{
+background: url(https://fc04.deviantart.net/fs70/o/2012/210/9/d/317579868_447222_boxbottom_img_by_jeffretta-d591onb.png) bottom left no-repeat;
+width:149px;
+_width:167px;
+height: 26px;
+padding:0 5px 0 30px;
+text-align:center;
+margin-left: 10px;
+}
+.journalbox h2
+{
+padding-top: 200px;
+color: #ffffff;
+font-family: curlz mt;
+font-size: 40px;
+text-decoration: none!important;
+text-align: center;
+font-weight: normal;
+}
+.journalbox h2 a
+{
+color: #ffffff;
+text-decoration: none;
+}
+.journalbox h2 a:hover
+{
+text-decoration: underline;
+}
+h2 img
+{
+display: none;
+}
+.journaltop 
+{
+background: url(https://fc05.deviantart.net/fs71/o/2012/210/c/0/317579868_447223_journal_header_img_by_jeffretta-d591ovp.png) top left no-repeat transparent; 
+height: 288px;
+width: 640px; 
+text-align: center; 
+font-size: 18px;
+font-family: arabic typesetting;
+color: #ffffff;
+}
+.journalbox
+{
+width: 640px;
+height: auto;
+background-color: #7bbfee;
+}
+.journalbottom
+{
+background: url(https://fc05.deviantart.net/fs71/o/2012/210/f/4/317579868_447224_journal_footer_img_by_jeffretta-d591os0.png) top left no-repeat transparent;
+height: 294px;
+margin-bottom: -15px;
+}
+.journaltext
+{
+text-align: center;
+font-family: arabic typesetting;
+font-size: 25px;
+color: #9b0505; 
+background: transparent;
+min-height: 500px;
+padding-right: 20px;
+margin-right: 15px;
+margin-left: 15px;
+}
+.journaltext a
+{
+color: #ab2e2e; 
+text-decoration: none;
+}
+.journaltext a:hover
+{
+text-decoration:underline;
+}
+.journalbox .commentslink 
+{
+position: absolute;
+bottom: 290px;
+left: 470px;
+color: #0d420d;
+font-size: 27px;
+font-family: curlz mt;
+}
+.journalbox .prevlink 
+{
+position: absolute;
+bottom: 290px;
+left: 30px;
+color: #0d420d;
+font-size: 27px;
+font-family: curlz mt;
+}
+.list
+{
+background: transparent;
+text-align: center;
+position: absolute;
+width: 280px;
+height: 184px;
+bottom: 50px;
+left: 40px;
+padding: 15px 15px 15px 15px;
+overflow: auto;
+}
+.journalbox .list li 
+{
+ background:  none repeat scroll 0 0 transparent;
+ color: #ffffff;
+ font-family: arabic typesetting;
+ font-size: 20px;
+}
+.journalbox .list li.a 
+{
+ font-family: arabic typesetting;
+ color: #ffffff;
+ font-size: 20px;
+}
+.footer
+{
+color: #9b0505;
+font-family: arabic typesetting;
+font-size: 17px;
+text-align: center;
+bottom: 0px;
+}
+.footer a
+{
+color: #ab2e2e;
+text-decoration: none!important;
+}
+.footer a:hover
+{
+text-decoration: underline!important;
+}
+skin_attribution
+{
+display: none;
+}
+/*
+--Header Code--
+<div class="journalbox"><div class="sidebar"><div class="stamps-boxtop"></div>  <div class="box-sides"> INSERT THUMBS HERE </div><div class="boxbottom"></div><div class="group-boxtop"></div><div class="box-sides"> INSERT GROUP ICONS HERE </div><div class="boxbottom"></div></div></div>
+--End Header Code--
+
+--Footer Code--
+<div class="footer">_______________________________________________
+<br>Art &amp; CSS by <a href="https://www.deviantart.com/jeffretta">JeffrettaLyn</a> | Brushes by <a href="https://www.deviantart.com/redheadstock">redheadstock</a>  
+</div></div>
+<div class="journalbottom">&nbsp;</div>
+</div>
+*/

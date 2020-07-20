@@ -1,0 +1,143 @@
+* {background: transparent; border: none; margin: 0; padding: 0;}
+.gr {padding: 0 !important;}
+.gr-top img, .gr1, .gr2, .gr3, .tri, .hsep, .prevlink {display: none;}
+.put-art-here {width: 99% !important;}
+.put-art-here blockquote {margin: 0 !important; padding: 3.6em !important;}
+.gr-box {background: #FFFFFF; max-width: 500px; margin: 0 auto; border-radius: 35px;}
+.navigation {background: url(https://fc02.deviantart.net/fs70/o/2014/026/6/f/429684824_1405227_tumblr_static_00000.gif) center bottom;
+  padding: 220px 15% 20px 8%;
+  white-space: nowrap;}
+.gr-top {position: absolute;
+  margin-left: 18%;
+  width: 460px;
+  padding: 15px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  top: 10px;}
+.gr-top h2 {font-family: "Libre Baskerville", serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 40px;
+text-shadow:#F5A9F2 3px 2px 4px; font-size:2em; color:#000000;
+text-align: center;
+}
+.gr-top a {color: #000000;}
+.timestamp {display: none;}
+.navigation a {display: inline-block;
+  background: #F5F5F5;
+  text-shadow:#F5A9F2 3px 2px 4px; font-size:3em; color:#000000;
+  font-weight: bold;
+  font-family: "Libre Baskerville";
+  font-size: 10px;
+  margin-right: 25px;
+  letter-spacing:1px;
+  text-decoration: none;
+  border-radius: 5%;
+  box-shadow: 2px 2px 2px rgba(27, 18, 45, 0.5);
+  width: 120px; height: 20px;
+  text-align: center; line-height: 20px;
+  overflow: hidden;}
+.navigation a:last-of-type {margin: 0;}
+.navigation a:after {display: none;}
+.jcontent {padding: 0 4%; margin: 3em 0;
+padding: 15px 30px 20px 10px;
+margin: 10px 10px 10px 10px;
+  font-family: "Droid Serif", sans-serif;
+  text-shadow:#F5A9F2 3px 2px 4px; font-size:1em; color:#000000;
+  font-size: 10pt;
+  line-height: 1.8;
+  color: #2A292F;
+  text-align: center;
+background-position: center;
+background-repeat: repeat;
+background-attachment: scroll;
+overflow: auto;
+height: 380px;
+width: 440px;}
+.jcontent a {color: #F5A9F2; font-weight: normal; text-decoration: underline !important;}
+.jcontent a:after {display: none !important;}
+.jcontent a:hover {color: #01A9DB;}
+.jcontent blockquote a {color: #F5F5F5;}
+.user-symbol {color: #000000; font-size: 70%; opacity: 0.25;}
+h1, .jcontent h2, h3, h4, h5, h6 {font-family: "Libre Baskerville", serif;
+  letter-spacing: 1px;}
+h1 a, .jcontent h2 a, h3 a, h4 a, h5 a, h6 a {color: inherit !important;}
+h1 a:hover, .jcontent h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {color: #000000 !important;}
+h1 {font-size: 12px;}
+.jcontent h2 {font-size: 14px;}
+h3 {font-size: 16px;}
+h4 {font-size: 18px;}
+h5 {font-size: 20px;}
+h6 {font-size: 22px;}
+h1, h3, h5 {color: #F5A9F2;}
+h2, h4, h6 {color: #000000;}
+.lit {box-shadow: none; background: #FFFFFF; border: #F5A9F2 1px solid; border-radius: 4px; width: 160px; height: 150px;}
+.lit img {display: none;}
+.lit q {left: 0; right: 0; padding: 16px;
+  text-align: justify;
+  font-family: "Droid Serif", sans-serif;
+  font-size: 8pt;
+  line-height: 1.5;
+  color: #2A292F;}
+.lit q strong {background: url(https://fc05.deviantart.net/fs70/o/2014/026/4/0/429684824_1405228_yzs2lucf.png) center bottom;
+  margin: -16px -16px 16px -16px; padding: 16px;
+  font-family: "Libre Baskerville", serif;
+  font-size: 9pt;
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+  line-height: 1.5;}
+ul, ol {margin-left: 4em;}
+.list {display: none;}
+.text blockquote {
+background: #F5A9F2; 
+color: #000000;
+margin:10px 10px 10px 10px;
+padding: 10px;
+font-family: "Libre Baskerville", serif; font-size: 14px;
+text-shadow: #64835c 1px 1px 1px;
+box-shadow: #64835c 1px 1px 1px;
+border-radius: 15px;
+}
+.thumb{text-align: center;}
+.thumb .shadow{
+background:#FFFFFF!important;
+-moz-border-radius: 5px;
+display: inline-block;
+max-height: 160px; min-width: 100px;
+text-align: center !important;
+}
+.thumb .shadow img{
+vertical-align: middle;
+border:5px solid #F5A9F2;
+background:#FFFFFF;
+-moz-border-radius: 5px;
+padding:0px;
+box-shadow: #F5A9F2 1px 1px 1px;
+}
+.thumb .shadow img:hover{border-color: #F5A9F2;}
+.bottom {background: url(https://fc01.deviantart.net/fs70/o/2014/026/4/3/429684824_1405229_large.gif) center bottom;
+  text-align: center;
+ padding: 120px 10% 20px 18%;
+  font-size: 16px;}
+.bottom a {color: #F5F5F5;
+text-shadow:#F5A9F2 3px 2px 4px; font-size:1em; color:#000000;
+  font-family: "Libre Baskerville", serif;}
+/*
+- H1 & H2 & H3 & H4 & H5 & H6 with < h1 > t e x t < / h1 > (without space)
+- < blockquote > :heart: B L O C K Q U O T E :heart: < / blockquote > (without space)
+- < div class= "thumb" > THUMB < /div > (without space)
+
+--Header Code--
+<div align="center">
+<div class="navigation">
+<a href="https://www.deviantart.com/marufuji--ryou/gallery/">GALLERY</a>
+<a href="https://www.deviantart.com/marufuji--ryou/favourites/">FAVOURITES</a> <a href="https://www.deviantart.com/marufuji--ryou/profile/">PROFILE</a> </div>
+<div class="jcontent">
+--End Header Code--
+
+--Footer Code--
+</div>
+<sub>
+<a href="https://www.deviantart.com/inconcabille/art/Cherry-Blossom-429684824">[ Cherry Blossom ]</a> journal skin by <a href="https://www.deviantart.com/Inconcabille">Inconcabille</a>
+</sub>
+*/

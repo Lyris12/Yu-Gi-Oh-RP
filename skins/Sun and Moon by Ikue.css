@@ -1,0 +1,297 @@
+*{
+border: 0;
+padding: 0;
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+}
+i.gr1, i.gr2, i.gr3, i.tri, h2 img, ul.list {display: none;}
+.gr-box{
+background: transparent;
+width:800px;
+margin: 0 0;
+}
+.pkmnbackground{
+position: absolute;
+z-index:0;
+display: block;
+top:0;
+left:0;
+width: 100%;
+height: 100%;
+background: transparent;
+}
+.pkmnbackground br{display:none;}
+.pkmnbackground:after{
+display: block;
+height: 100%;
+width: 50%;
+position: absolute;
+right: 100%;
+top:0px;
+background: rgba(12,69,156,1);
+}
+.pkmnbackground:before{
+display: block;
+height: 100%;
+width: 50%;
+position: absolute;
+left: 100%;
+top:0px;
+background: rgba(244,167,5,1);
+}
+.pkmnmoon{
+display: block;
+position: absolute;
+top: 0px;
+right: 0px;
+height: 100%;
+width: 400px;
+background: rgba(30, 70, 151, 1.00);
+background-image: linear-gradient( rgba(79, 36, 124, 1.00) 10%,rgba(79, 36, 124, 0) 75%);
+overflow: hidden;
+opacity: 1;
+transition: all 0.5s ease;
+}
+.pkmnmoon:hover{
+width: 800px!important; 
+background-position: -559px 0;
+}
+.pkmnmoon:after{
+content:"";
+display: block;
+height: 100%;
+width: 100%;
+background: url(https://other00.deviantart.net/84a1/o/2016/329/3/6/647624879_3011709_stars_move.png);
+background-attachment: fixed;
+background-size: auto 500px;
+}
+.pkmnmoon:before{
+content:"";
+display: block;
+height: 552px;
+width: 356px;
+background: url(https://other00.deviantart.net/ff90/o/2016/329/d/8/647624879_3011710_md_section_pattern_home_aligntopright.png);
+position: absolute;
+top: 0;
+right: 0;
+}
+.pkmnmoon .moon{
+display: block;
+position: absolute;
+top: 112px;
+right: 302px;
+background: url(https://other00.deviantart.net/26a5/o/2016/329/b/0/647624879_3011711_moon.svg) no-repeat;
+height: 196px;
+width: 196px;
+}
+.pkmnmoon .moon:before{
+content:"";
+display: block;
+height: 552px;
+width: 356px;
+background: url(https://other00.deviantart.net/ed45/o/2016/329/3/7/647624879_3011712_md_section_pattern_home_aligntopleft.png);
+position: absolute;
+top: -112px;
+left: -302px;
+}
+.pkmnsun{
+display: block;
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 800px;
+background: rgba(233, 168, 57, 1.00);
+background-image:  linear-gradient(rgba(165,60, 54, 1.00) 10%,rgba(152, 45, 42, 0) 75%);
+opacity: 1;
+transition: all 0.5s ease;
+}
+.pkmnsun:hover .pkmnmoon{
+width: 0px; 
+}
+.pkmnsun:after{
+content:"";
+display: block;
+height: 100%;
+width: 100%;
+background: url(https://other00.deviantart.net/84a1/o/2016/329/3/6/647624879_3011709_stars_move.png);
+background-attachment: fixed;
+background-size: auto 500px;
+}
+.pkmnsun:before{
+content:"";
+display: block;
+height: 552px;
+width: 356px;
+background: url(https://other00.deviantart.net/ed45/o/2016/329/3/7/647624879_3011712_md_section_pattern_home_aligntopleft.png);
+position: absolute;
+top: 0;
+left: 0;
+}
+.pkmnsun .sun{
+display: block;
+position: absolute;
+top: 25px;
+left: 215px;
+background: url(https://other00.deviantart.net/b376/o/2016/329/6/5/647624879_3011713_sun.svg) no-repeat;
+height: 370px;
+width: 370px;
+}
+.pkmnsun .sun:after{
+content:"";
+display: block;
+height: 552px;
+width: 356px;
+background: url(https://other00.deviantart.net/ff90/o/2016/329/d/8/647624879_3011710_md_section_pattern_home_aligntopright.png);
+position: absolute;
+top: -25px;
+right: -215px;
+}
+.gr-top .gr{
+margin: 0px!important;
+padding: 0px!important;
+background: transparent;
+}
+.gr-top .gr span{ font-family: 'Exo 2', serif;}
+.gr-top{
+background: transparent;
+width: 75%;
+padding: 30px 20px 30px 20px;
+margin: 0 0 0 -45%;
+text-align: center;
+box-sizing: border-box;
+z-index: 9;
+position: absolute;
+top: 160px;
+left: 50%;
+}
+.gr-top h2{
+border:none!important;
+color: #fff;
+font-size: 28px;
+font-weight: 700;
+font-family: 'Exo 2', serif;
+line-height: 30px;
+transition: all 0.3s ease;
+    text-transform: uppercase;
+text-shadow: 0 1px 8px rgba(0,0,0,0.7);
+}
+.gr-top h2 a:hover{text-shadow: 0 1px 18px rgba(0,0,0,0.5);}
+.gr-body{
+background: transparent;
+z-index: 5;
+overflow: visible;
+padding: 0 0 60px 0;
+}
+.text{
+display: block;
+width:100%;
+}
+.journaltxt{
+display:block;
+width: 75%;
+padding: 0px 40px 90px 40px;
+margin: 440px 0px 0px 8.75%;
+font-size: 14px;
+line-height: 24px;
+position: relative;
+overflow: visible;
+background: #fff url(https://other00.deviantart.net/a29f/o/2016/329/b/2/647624879_3011714_md_end_footer.jpg) no-repeat bottom center;
+color: rgba(0,0,0,0.6);
+}
+.journaltxt:before{
+content:"";
+display: block;
+height: 100px;
+width: 100%;
+background: url(https://other00.deviantart.net/a48a/o/2016/329/d/5/647624879_3011715_md_lead_footer.png) top center;
+position: absolute;
+top: -60px;
+left: 0;
+}
+.journaltxt a{
+border-bottom: 2px solid #000;
+color: rgba(0,0,0,1);
+}
+.journaltxt a:hover{
+text-decoration: none;
+color: rgba(0,0,0,0.8);
+border-bottom: 2px solid rgba(0,0,0,0.2);
+}
+h1, h2, h3, h4, h5{ font-weight: 600;}
+h1, h2{
+border-bottom: 2px solid #C3005C;
+}
+h5{
+border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+ul, ol { 
+margin: 0 0 0 35px ;
+list-style-type: square;
+list-style-position: outside;
+}
+.bottom{
+position: absolute;
+bottom: 92px;
+left: 50%;
+margin-left: -113px;
+z-index: 9;
+    width: 226px;
+    height: 48px;
+text-align: center;
+font-family: 'Exo 2', serif;
+}
+.bottom a{
+padding: 0;
+color: rgba(0,0,0,1);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #1d3951;
+    text-align: center;
+    background-image: url(https://other00.deviantart.net/ebf6/o/2016/329/f/6/647624879_3011716_xs_button_hub_promo.png);
+    background-position: 0 0px;
+    width: 226px;
+    height: 48px;
+display:inline-block;
+}
+.bottom a:hover{
+text-decoration: none;
+    background-position: 0 -48px;
+}
+/*
+To add a background to your thumbs wrap your :thumbs: with the following:
+<div class="thumbs">
+:thumb:
+</div>
+
+--Header Code--
+<div class="pkmnbackground">
+<br> <div class="pkmnsun">
+<br> <div class="sun">
+</div>
+<br> <div class="pkmnmoon">
+<br> <div class="moon">
+</div>
+<br> </div>
+<br> </div>
+<br>
+<br>
+</div>
+<br>
+<div class="journaltxt">
+<br>
+<br>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<div align=right>
+<a href="https://www.deviantart.com/ikue/art/Sun-and-Moon-647624879">Sun and Moon</a> journal skin by <a href="https://www.deviantart.com/ikue">Ikue</a>
+</div>
+</div>
+*/

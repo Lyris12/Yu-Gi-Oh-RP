@@ -1,0 +1,136 @@
+.journalbox 
+{
+max-width: 700px;
+_width: 600px;
+color: #000000;
+font-size: 11px;
+font-family: tahoma;
+background-color: #ffffff;
+background-repeat: no-repeat;
+text-align: left;
+border: none;
+}
+
+.journaltop 
+{
+height: 400px;
+color: #000000;
+background: url(https://fc01.deviantart.net/fs70/o/2011/249/5/1/257040949_303391_strawberryjournaltop.png) no-repeat top center;
+font-family: tahoma; 
+font-size: 10px;
+padding: 10px 0px 0px 0px;
+text-align: left;
+}
+
+.journaltop h2 
+{
+color: #000000;
+background-color: transparent; 
+font-family: tahoma;
+font-size: 15px; 
+font-weight: bold; 
+letter-spacing: 5px;
+text-align: left;
+padding: 340px 50px 10px 10px;
+}
+
+.journaltop img 
+{
+display: none;
+}
+
+.list 
+{
+background-color: #ffffff;
+color: #000000;
+text-align: right;
+margin: -130px 30px 30px 20px;
+padding: 10px 0px 0px 0px; 
+font-family: tahoma;
+font-size: 11px;
+}
+.list .a 
+{
+background: none;
+}
+.list strong 
+{
+color: #000000; 
+font-weight: bolder;
+}
+.list li 
+{
+padding:2px;
+}
+
+.journaltext 
+{
+padding: 35px 45px 35px 25px;
+text-align: justify;
+}
+.journaltext a
+{
+color: #000000;
+font-weight:bold;
+text-decoration: underline;
+}
+.journaltext a:hover
+{
+color: #000000;
+text-decoration: none;
+}
+
+.title 
+{
+text-align: center;
+font-family: tahoma;
+font-size: 10px;
+font-weight: lighter;
+color: #ffffff;
+letter-spacing: 0px; 
+background: url(https://fc05.deviantart.net/fs70/o/2011/249/0/d/257040949_303392_backkgrounfff.png) no-repeat center left;
+height: 61px; 
+padding: 0px 0px 0px 80px;
+line-height: 61px;
+margin: 10px 0;
+}
+
+.bonus
+{
+text-align: justify;
+background-color:#595959;
+border: 3px solid #8A0030;
+padding: 10px 10px 10px 10px;
+}
+
+.journalbottom 
+{
+background: url(https://fc08.deviantart.net/fs70/o/2011/249/8/a/257040949_303393_strawberrybottom.png) no-repeat; 
+height: 300px;
+padding: 0px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: tahoma;
+font-size: 12px;
+color: #000000;
+text-decoration: none;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #ff0000;
+text-decoration: none;
+}
+
+.footer
+{
+font-size: 10px;
+padding: 0px 0px 0px 0px;
+}
+
+.footer a
+{
+color: #ffffff;
+text-decoration: none;
+}

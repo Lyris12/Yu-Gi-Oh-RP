@@ -1,0 +1,151 @@
+.journalbox {
+    background-color: transparent !important;
+    border: 0px black solid !important;
+    background-image: url(https://fc05.deviantart.net/fs71/o/2010/135/0/c/164162839_126119_sunsetfirepegasusmaingraphiccopy2.gif);
+    background-repeat: no-repeat;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+.journalbox .list li {
+    display: none;
+    background-color: black !important;
+    color: black !important;
+}
+
+.journalbox .list li.a {
+    display: none;
+    background-color: transparent !important;
+    color: #black !important;
+}
+
+.journalbox h2 {
+    color: lightyellow !important;
+    padding-top: 150px;
+    margin-left: 75px;
+    margin-right: 75px;
+    font-size: 22px;
+}
+
+.journalbox .journaltop {
+    background-color: transparent !important;
+    text-align: center !important;
+    color: lightyellow !important;
+    font-size: 10px;
+}
+
+.journalbox a {
+    color: #blue !important;
+}
+
+.journalbox a:hover {
+    color: red !important;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: purple !important;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: purple !important;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: white !important;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: white !important;
+}
+
+.journalbox .journaltext .content {
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 100px;
+    text-align: justify;
+    overflow: auto;
+    height: 500px;
+    background-image: url(https://fc07.deviantart.net/fs71/o/2010/135/a/1/164162839_126120_162215299_123792_whitetransparency601px.png);
+}
+
+.journalbox .journalbottom {
+    background-color: transparent !important;
+    padding-top: 6px;
+}
+
+.journalbox .journaltext {
+    color: center !important;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+}
+
+.dividerlarge {
+    background-image: url(https://fc07.deviantart.net/fs71/o/2010/135/e/b/164162839_126121_lineartdividersunsetlargecoloredcop.gif);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+}
+
+.dividermedium {
+    background-image: url(https://fc05.deviantart.net/fs71/o/2010/135/d/4/164162839_126122_lineartdividermediumcopylighter-1.gif);
+    height: 75px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.dividersmall {
+    background-image: url(https://fc08.deviantart.net/fs70/o/2010/135/b/a/164162839_126123_imgdividersmallsunsetcopy2.gif);
+    height: 50px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.titlelarge {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    border-bottom: 2px black solid;
+    letter-spacing: 8px;
+}
+
+.titlemedium {
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    letter-spacing: 6px;
+}
+
+.titlesmall {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 4px;
+}
+
+.feature {
+    border-bottom-style: groove;
+    border-top-style: groove;
+    font-size: 12px;
+    font-variant: small-caps;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+/*
+--Header Code--
+<div class="content">
+--End Header Code--
+--Footer Code--
+</div>
+*/

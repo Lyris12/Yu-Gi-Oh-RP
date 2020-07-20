@@ -1,0 +1,138 @@
+.gr-box{
+ max-width: 700 px;  
+ margin:0px auto 0px auto;
+ position:static;
+ padding:1% 1%;
+}
+.gr-top{
+ background-color: none;
+ border: none;
+}
+.gr-top .gr{
+ position:absolute;
+ top: 10%;
+ left: 0%;
+ padding-top: 5%;
+ text-align: left;
+ margin-left: 21%;
+ word-wrap:break-word;
+max-width: 300px;
+}
+.gr-top h2 img{
+ display:none;
+}
+.gr-top h2 a{
+font-size: 36px;
+color: #ffffff;
+text-align: left;
+}
+.gr-top h2{
+font-family: 'Raleway', 'Handlee', Georgia, Serif;
+ font-size: 15px;
+ color:#ffffff;
+ font-weight: bold;
+ letter-spacing:-1px;
+ margin-bottom:5%;
+ margin-top:50 px;
+ line-height:19px;
+ padding-right:10px;
+}
+.gr-body{
+text-align: justify;
+font-family: 'Lusitana', Serif;
+font-size: 15px;
+ background-image: url(https://other00.deviantart.net/8efc/o/2015/355/2/9/579269020_2580030_rlnlf8l.jpg);
+background-size: 100%;
+ border: none;
+ border-top:#ffffff;
+ border-bottom: #ffffff;
+ overflow:visible;
+ color:#333333;
+ line-height: 20px;
+ padding-top: 9%;
+}
+.gr{
+ background: none;
+ border:none;
+}
+.gr-body .gr{
+font-family: Lustitana, Serif;
+text-align: left;
+ border:none;
+ border-top:#ffffff;
+ border-bottom:#ffffff;
+ padding: 10% 27% 10% 27%;  
+ background-color: none;
+}
+.gr-body .gr .text{
+ padding:0;
+}
+i.tri{
+ display:none;
+}
+i.gr1{
+ display:none;
+ }
+i.gr2{
+ display:none;
+}
+i.gr3{
+ display:none;
+}
+i.gb{
+ display:block;
+}
+.top{
+ position:absolute;
+ top:100px;
+ left: 100px;
+ right:100px;
+ min-width: 300px;
+ text-align:left;
+}
+.top img{
+ margin:0 auto;
+}
+a{
+ color:#075a50;
+}
+a:hover{
+ color:#f25e6a;
+ text-decoration:none;
+}
+ul{
+ 
+}
+a:link {cursor:url(https://other00.deviantart.net/716c/o/2015/355/d/9/579269020_2580031_qlpmisq.png), pointer;}
+a:hover {cursor:url(https://other00.deviantart.net/716c/o/2015/355/d/9/579269020_2580031_qlpmisq.png), pointer;}
+body {cursor:url(https://other00.deviantart.net/716c/o/2015/355/d/9/579269020_2580031_qlpmisq.png), pointer;}
+.shadow-holder{
+ padding:5px;
+ border:none;
+ background-color:#075a50;
+ margin: 5px;
+ border-radius:5px;
+}
+.shadow-holder img{
+ border:none; }
+.shadow-holder:hover{
+ border-color:none;
+ background-color:#f25e6a;
+}
+.shadow-holder:hover img{
+ border-color:none;
+}
+.shadow-holder .shadow{
+ background-image:none !important;
+}
+/*
+--Header Code--
+<div class="top">&nbsp;</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<p>CSS by <a href="https://www.deviantart.com/freezingfeathers">freezingfeathers</a>
+</p>
+*/

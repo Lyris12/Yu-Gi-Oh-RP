@@ -1,0 +1,95 @@
+.journalbox {
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	background-color:#000000;
+	color:#a95c01;
+	max-width: 838px;
+	border:1px solid #000000;
+}
+a:link {
+	color:#c52e01;
+	text-decoration:none;
+}
+a:active {
+	color:#e08207;
+	text-decoration:none;
+}
+a:visited {
+	color:#bf0000;
+	text-decoration:none;
+}
+a:hover {
+	color:#cc520c;
+	text-decoration:none;
+}
+--
+.journaltop a:link {
+	color:#440F00;
+	text-decoration:none;
+}
+.journaltop a:active {
+	color:#5E3703;
+	text-decoration:none;
+}
+.journaltop a:visited {
+	color:#3D0000;
+	text-decoration:none;
+}
+.journaltop a:hover {
+	color:#4C1D04;
+	text-decoration:none;
+}
+.journaltop {
+	background:url(https://fc06.deviantart.net/fs71/o/2011/153/0/0/211480293_265791_candleheader.jpg) top left no-repeat #000000;
+	font-size:10px;
+	color:#0b0100;
+	text-align:right;
+	height:260px;
+	padding:80px 3px 0 290px;
+}
+.journaltop h2 {
+	color:#600f00;
+	padding:5px;
+	margin:2px;
+	text-align:right;
+	font:19px Bookman Old Style, Arial, Century Gothic, sans-serif;
+}
+.journaltop img {
+	display:none;
+}
+.list {
+	color:#2f0e00;
+	font-size:11px;
+	padding:20px 0px 35px 20px;
+	background:url(https://fc00.deviantart.net/fs70/o/2011/153/1/9/211480293_265792_candlefooter.jpg) top left no-repeat #000000;
+}
+.a {
+	background:transparent!important;
+}
+.list li {
+	padding:2px;
+}
+.journalbottom {
+	padding:10px;
+	text-align:center;
+	color:#8b1901;
+	text-transform:lowercase;
+}
+.journalbottom a {
+	text-decoration:none;
+	border-bottom:1px dashed #fff69f;
+}
+.journalbottom a:hover {
+	text-decoration:none;
+	border-bottom:none;
+}
+.journaltext {
+	padding:5px;
+}
+/*
+! For deviantArt only
+
+--Footer Code--
+<br>
+<br>
+<a href="https://www.deviantart.com/filmchild/art/Candle-Journal-Skin-211480293">Candle Journal Skin</a> by <a href="https://www.deviantart.com/Filmchild">Filmchild</a>
+*/

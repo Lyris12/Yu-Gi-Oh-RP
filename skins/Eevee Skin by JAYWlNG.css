@@ -1,0 +1,69 @@
+.journalbox {
+background: #A35C16;
+border: 10px solid #7B2E04;
+-moz-border-radius: 20px;
+margin-top: 400px;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+color: #FFFFFF;
+width: 650px;
+
+}
+
+.journaltop {background: none;}
+.journaltop img {display: none;}
+
+.text {
+background: #EDD18A;
+width: 500px;
+margin: auto;
+-moz-border-radius: 17px;
+color: #A35C16;
+}
+
+.scrollbox {
+height: 150px;
+border: 7px solid #D89C4D;
+margin: 10px;
+-moz-border-radius: 15px;
+padding: 10px;
+background: #FFFFFF;
+overflow: auto;
+}
+
+.title {
+font-size: 20px;
+border-bottom: 3px dashed;
+}
+
+.journalbox A:link {color: #7B2E04; text-decoration: none;}
+.journalbox A:hover {color: #7B2E04; text-decoration: none;}
+.journalbox A:active {color: #7B2E04; text-decoration: none;}
+.journalbox A:visited {color: #7B2E04; text-decoration: none;}
+
+
+.eevee {
+background: url(https://fc00.deviantart.net/fs71/o/2012/127/3/6/300463388_401149_eevee.png);
+color: transparent;
+position: absolute;
+_position: relative;
+margin-left: 70px;
+height: 480px;
+width: 600px;
+top: 0px;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Artist does not allow editing
+
+Scrollbox Code
+<div class="scrollbox"><div class="title">BOX TITLE</div><br>BOX TEXT</div>
+Title Code
+<div class="title">TITLE</div>
+
+--Header Code--
+<div class="eevee"></div>
+--End Header Code--
+--Footer Code--
+*/

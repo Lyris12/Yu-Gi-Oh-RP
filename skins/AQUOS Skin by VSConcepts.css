@@ -1,0 +1,187 @@
+.journalbox {
+font-size:12px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+background:url(https://fc07.deviantart.com/fs24/o/2009/247/9/6/135842153_85877_aquoscssfooter4.png) bottom center no-repeat;
+color:#024998;
+background-color: #FFFFFF;
+text-align:center;
+border:0px solid #FFFFFF;
+width:100%;
+}
+.journaltop {
+position: relative;
+background:url(https://fc02.deviantart.com/fs30/o/2009/247/b/d/135842153_85878_aquoscssheader2.png) top center no-repeat;
+font-size:10px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+color:#024998;
+letter-spacing:1px;
+text-align:center;
+height:210px;
+padding:1px 0px 0px 0px;
+}
+.journalbox .journaltop h2 {
+color:#024998;
+font-size:16px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:5px;
+text-align:center;
+text-transform:uppercase;
+margin-top:30px;
+margin-bottom:0px;
+width:100%;
+}
+.journaltop img {
+display:none;
+}
+.list {
+display:none;
+color:#024998;
+font-size:10px;
+font-family:Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:1px;
+background-color:4E8299;
+text-align:center;
+}
+div.window {
+background-attachment: scroll;
+width:95%;
+height:300px;
+border-width: 0px 0px 0px 0px;
+border-color: none;
+border-style: solid;	
+background-repeat : no-repeat;
+background-position : scroll;
+padding: 0px 0px 0px 0px;
+margin-top: 0px;
+background-color:transparent;
+overflow: auto;
+}
+.a {
+color:#024998;
+background:transparent!important;
+}
+.list li {
+padding:1px;
+}
+.journalbottom {
+background-color:transparent;
+padding:1px;
+font:11px Verdana, Arial, Myriad Pro, Helvetica, sans-serif;
+letter-spacing:1px;
+text-align:center;
+margin:0px 0px 0px 0px;
+padding:0px 0px 5px 0px;
+color:transparent;
+}
+.journalbottom a {
+color:#B4AD9B;
+text-decoration:none!important;
+border:0px dotted #4E8299;
+}
+.journalbottom a:hover {
+color:#FFFFFF;
+text-decoration:none!important;
+border:0px dotted #ffffff;
+}
+.journaltext {
+padding:1px;
+text-align:center;
+margin:0px 0px 0px 50px;
+}
+.journaltext a {
+color:#024998;
+text-decoration:none!important;
+}
+.journaltext a:hover {
+color:#FFFFFF;
+text-decoration:none!important;
+}
+.header {
+color:#024998;
+background-color:none;
+font-size:12px;
+font-family:Verdana, Arial, Tahoma, Myriad Pro, SunSans-Regular, sans-serif;
+text-align:center;
+font-weight:bold;
+text-transform:uppercase;
+width:auto;
+margin:10px -10px 0px 0px;
+}
+.shadow {
+background-color:transparent;
+border:1px solid transparent;
+}
+.shadow:hover {
+background-color:#FFFFFF;
+border:1px solid #FFFFFF;
+}
+.linkline {
+position:relative;
+color:#024998;
+background-color:transparent;
+width:auto;
+margin:0px 0px 0px 0px;
+text-align:center;
+}
+.links {
+position:relative;
+text-decoration:none;
+text-align:center;
+color:#024998;
+font:12px Verdana, Arial, Trebuchet MS, Tahoma;
+padding:0px 5px 0px 5px;
+font-weight:bold;
+}
+.links a {
+color:#024998!important;
+background-color:transparent!important;
+padding:0px 5px 0px 5px;
+font:12px Verdana, Arial, Trebuchet MS, Tahoma;
+text-decoration:none!important;
+text-align:center;
+text-transform:uppercase;
+font-weight:bold;
+}
+.links a:hover {
+background:#transparent!important;
+text-decoration:none!important;
+font:13px Verdana, Arial, Trebuchet MS, Tahoma;
+color:#FFFFFF!important;
+padding:0px 5px 0px 5px;
+font-weight:bold;
+}
+.linkbox {
+position:absolute;
+top:70px;
+left:0px;
+width:100%;
+font:10px Verdana, Arial, Trebuchet MS, Tahoma;
+text-decoration:none!important;
+text-align:center;
+text-transform:uppercase;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+- To add the row of Links:
+Copy and Paste these in: Options > Skin Header
+Be sure to put your own URL's and Descriptions in! Up to 5 links!
+<div class="linkbox"><a href="URL HERE">Your Link Here 1</a> | <a href="URL HERE">Your Link Here 2</a></div>
+- Scrollbox/Journal Content:
+How this journal CSS works, is by putting the journal body content inside a scrollbox that has "invisible" borders. You cannot use text in this journal outside of the scrollbox in the body or else you will have noticeable flaws.
+Here's the code, Place it in the "Journal Content" box.
+<div align="center"><div class="window">
+Place ALL of your journal's content here. So you copy in the part above this paragraph, and the part below (the div's and stuff), along with this paragraph. THEN, highlight this paragraph and delete it, and insert ALL of your journal content - the stuff you want to show or say in your journal - ALL of it. The "Scrollbox" is NOT a seperate feature of the design, the entire body of the journal is supposed to fit INSIDE the scrollbox so that way the background image stays "Static". Questions? Let me know. If one more person says that the background is white and that they don't like it - I'm going to scream. It's important that you READ the comments below a deviation...
+</div></div>
+
+--Header Code--
+<div class="example-header"> The skin's header goes here </div>
+--End Header Code--
+--Footer Code--
+<div align="center"><div class="window">
+
+Content?
+
+</div></div>
+<div class="example-footer"> The skin's header goes here </div>
+*/

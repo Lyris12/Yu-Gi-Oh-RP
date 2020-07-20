@@ -1,0 +1,164 @@
+a {
+color:#e1eaf4;
+}
+a:hover {
+color:#fff;
+text-shadow:0 0 5px #fff;
+text-decoration:overline underline;
+}
+ul {
+list-style:none;
+}
+.journalbox {
+padding:159px 0 0;
+background:url(https://fc05.deviantart.net/fs70/o/2011/217/e/3/251119254_291077_bg3.png) left top no-repeat #000;
+border:none;
+}
+.journaltop {
+text-align:center;
+z-index:100;
+margin:40px 10px 0 140px;
+padding:0;
+position:relative;
+height:54px;
+width:auto;
+color:#b6bec0;
+background:url(https://fc02.deviantart.net/fs71/o/2011/217/f/8/251119254_291078_title_bg.png) top center no-repeat #304052;
+border: 2px outset #34a6ee;
+box-shadow:0 2px 25px #000;
+display:block;
+}
+.journaltop h2 {
+color:#e0dcd6;
+margin:2px 0;
+}
+.journaltop img {
+display:none;
+}
+.journaltext {
+line-height:1.7em;
+height:auto;
+width:auto;
+margin:-5px 10px 40px 140px;
+padding:40px 20px 25px;
+color:#b6c2c8;
+background:url(https://fc04.deviantart.net/fs71/o/2011/217/d/c/251119254_291079_text_bg.png) repeat-x #0f151d;
+border: 2px outset #1c6096;
+min-height:250px;
+}
+.journaltext .awesomeAmberSidebar {
+width:140px;
+height:auto;
+display:block;
+position:relative;
+top:-140px;
+left:-165px;
+background:url(https://fc07.deviantart.net/fs70/o/2011/217/0/3/251119254_291080_sidebar_bg.png) repeat-y transparent;
+float:left;
+margin:0 -110px 0 0;
+}
+.journaltext .awesomeAmberSidebar h1{
+color:#e1eaf4;
+font-size:120%;
+width:135px;
+height:30px;
+background:url(https://fc01.deviantart.net/fs71/o/2011/217/e/3/251119254_291081_h1_bg.png) no-repeat;
+text-align:center;
+padding:2px 0 0;
+}
+.journaltext .awesomeAmberSidebar p {
+padding-left:10px;
+color:#e1eaf4;
+margin:-10px 0 20px;
+}
+.journaltext .awesomeAmberSidebar a {
+color:#e1eaf4;
+}
+.journaltext .awesomeAmberSidebar a:hover {
+color:#fff;
+text-shadow:0 0 5px #fff;
+text-decoration:overline underline;
+}
+.journaltext .awesomeAmberSidebar .awesomeAmberStamps {
+text-align:center;
+width:120px;
+background:url(https://fc02.deviantart.net/fs70/o/2011/217/b/6/251119254_291082_sidebar_bg_end.png) bottom left no-repeat transparent;
+}
+.journalbottom {
+background:url(https://fc07.deviantart.net/fs70/o/2011/217/f/a/251119254_291083_footer_bg.png) top left no-repeat #000;
+height:290px;
+margin-top:0;
+}
+.list {
+background:url(https://fc04.deviantart.net/fs71/o/2011/217/d/c/251119254_291079_text_bg.png) repeat-x #0f151d;
+border: 2px outset #1c6096;
+color:#fff;
+padding:20px;
+width: auto;
+margin: 5px 10px 40px;
+position:absolute;
+bottom:1%;
+left:10%;
+right:10%;
+z-index:99;
+}
+.list .a {
+background:transparent;
+color:#fff;
+}
+.list li strong {
+width: 90px;
+display: inline-block;
+}
+.journaltext .header {
+display: block;
+color:#e0dcd6;
+margin:30px 0 0;
+font-size: 140%;
+font-weight: bold;
+font-style: normal;
+border-bottom: 2px outset #34a6ee;
+}
+.Amber_is_AWESOME {
+position:absolute;
+bottom:20px;
+right:20px;
+
+font-size:80%;
+float:right;
+}
+.Amber_is_AWESOME p {
+color:#666;
+padding:0;
+margin:0;
+}
+blockquote {
+border: 2px outset #1c6096;
+color:#fff;
+padding:5px;
+margin:5px;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+heading: just use an < em class="header" >....</ em> to make headings (without spaces)
+diffrent tags for text: bold, italic, etc
+blockquotes
+
+--Header Code--
+<div class="awesomeAmberSidebar"><h1>Navigation</h1><p>
+      <a href="https://www.deviantart.com/marufuji--ryou/journal/42187489/">Commission Info</a>
+      <a href="https://my.deviantart.com/">About Me</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery Stats</a>
+</p><h1>Galleries</h1><p>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/25626098">Comic books</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/26578022">CSS / HTML</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/26165277">Space</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/25973900">Solar System</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/25731393">DA Stamps</a>
+      <a href="https://www.deviantart.com/marufuji--ryou/gallery/25626105">ID</a>
+   </p><div class="awesomeAmberStamps">:thumb171291339::thumb169541624::thumb174108937::thumb172949785:</div></div>
+--End Header Code--
+--Footer Code--
+<div class="Amber_is_AWESOME"><p>designed by :devkovowolf: coded by :devsergbel:</p></div>
+*/

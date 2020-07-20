@@ -1,0 +1,78 @@
+.journalbox {
+	font:10px Good Times, Arial, Helvetica, sans-serif;
+	background-color:#000000;
+	color:#b40302;
+        text-align:center;
+        border:1px solid #000000;
+}
+a:link {
+	color:#ff0000;
+	text-decoration:none;
+}
+a:active {
+	color:#bf0606;
+	text-decoration:none;
+}
+a:visited {
+	color:#bf0000;
+	text-decoration:none;
+}
+a:hover {
+	color:#cf0303;
+	text-decoration:none;
+}
+.journaltop {
+	background:url(https://fc01.deviantart.net/fs71/o/2011/181/1/f/215996165_278140_musicandbubblesjournalheader.jpg) top left no-repeat #000000;
+	font-size:9px;
+	color:#999999;
+	text-align:right;
+	height:250px;
+	padding:80px 3px 0 290px;
+}
+.journaltop h2 {
+	color:#fefefe;
+	padding:5px;
+	margin:2px;
+	text-align:right;
+	font:17px Good Times, Arial, Helvetica, sans-serif;
+}
+.journaltop img {
+	display:none;
+}
+.list {
+	color:#fefefe;
+	font-size:10px;
+	padding:120px 0px 45px 20px;
+	background:url(https://fc08.deviantart.net/fs70/o/2011/181/a/9/215996165_278141_musicandbubblesjournalfooter.jpg) top left no-repeat #000000;
+}
+.a {
+	background:transparent!important;
+}
+.list li {
+	padding:2px;
+}
+.journalbottom {
+	padding:10px;
+	text-align:center;
+	color:#999999;
+	text-transform:lowercase;
+}
+.journalbottom a {
+	text-decoration:none;
+	border-bottom:1px dashed #999999;
+}
+.journalbottom a:hover {
+	text-decoration:none;
+	border-bottom:none;
+}
+.journaltext {
+	padding:5px;
+}
+/*
+! For deviantArt only
+
+--Footer Code--
+<br>
+<br>
+<a href="https://www.deviantart.com/filmchild/art/Music-and-Bubbles-Journal-215996165">Music and Bubbles Journal</a> skin by <a href="https://www.deviantart.com/filmchild">Filmchild</a>
+*/

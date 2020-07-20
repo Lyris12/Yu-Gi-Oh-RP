@@ -1,0 +1,123 @@
+.journalbox {
+background: url(https://fc05.deviantart.net/fs71/o/2011/037/7/5/196389894_173413_505788page.png)repeat-x 50% 0;
+background-color: #7599b4;
+color: #1a2228;
+border-width: 4px;
+border-style: solid; border-color: #2d4658;
+border-radius: 10px 10px 10px 10px;
+font-size: 14px;
+font-family: Comic sans MS;
+text-align: center;
+}
+
+.journaltop {
+color: #1a2228;
+background: transparent;  
+font-family:  Comic sans MS;
+font-size: 12px;
+height: 41px;
+padding: 20px 20px 250px 30px;
+text-align: right;
+}
+
+.journaltop h2 {
+color: #1a2228;
+background-color: transparent; 
+font-family:  Comic sans MS;
+font-size: 18px; 
+font-weight: bold;
+font-style: Bold;
+letter-spacing: 1px;
+text-align: right;
+line-height:24px;
+}
+
+.journaltop img {
+display: none;
+}
+
+.journalbottom {
+background-color: transparent;
+color: #a8bc8e;
+font-family: Comic sans MS;
+font-size: 14px; 
+font-style: italic;
+}
+
+.journalbottom :hover {
+color:#d8e8c4;}
+
+.journalbottom a {
+color:#1f231b;
+text-decoration:none;}
+
+.list 
+{
+background-color: #2d4658;
+color: #b2cfe4;
+text-align: left;
+font-family: Comic Sans MS;
+font-size: 12px;
+margin: 30px 0px 50px 0px; 
+padding: 10px 0px 10px 5px;
+}
+
+.list .a 
+{
+background: #2d4658;
+}
+
+.list li 
+{
+font-family: Comic Sans MS;
+font-size: 13px;
+}
+
+.list strong 
+{
+color: #b2cfe4; 
+font-weight: bolder;
+font-family: Comic Sans MS;
+font-size: 14px;
+}
+
+.journaltext a
+{
+color: #35444f;
+font-weight:bold;
+text-decoration: underline;
+}
+.journaltext a:hover
+{
+color: #4b6274;
+text-decoration: none;
+}
+
+.title 
+{
+text-align: center;
+font-family:  Comic Sans MS;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+color: #b2cfe4;
+letter-spacing: 0px; 
+background-color: #2d4658;
+margin: -0px -10px 0px -10px;
+padding: 0px 0px 0px 0px;
+height: 40px; 
+line-height: 35px;
+}
+
+.boite
+{
+text-align: center;
+background: url(https://fc01.deviantart.net/fs70/o/2011/037/a/1/196389894_173414_689021carre.png); 
+border: 2px solid #2d4658;
+padding: 10px 10px 10px 10px;
+margin: 20px 50px 20px 50px;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! There are several seams in the background
+*/

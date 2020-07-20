@@ -1,0 +1,158 @@
+.journaltext .kovoMenu {
+display:block;
+color:#ccc;
+}
+.journaltext .kovoMenu ul {
+position:absolute;
+top:450px;
+left:16px;
+width:auto;
+height:88px;
+padding:0 18px 0;
+margin:0;
+overflow:hidden;
+}
+.journaltext .kovoMenu ul li {
+display:inline-block;
+height:75px;
+margin-right:28px;
+}
+.journaltext .kovoMenu ul li a{
+color:#3a6979;
+}
+.journaltext .kovoMenu ul li a:hover{
+color:#bee8f6;
+}
+.journalbox {
+background:url(https://fc06.deviantart.net/fs71/o/2011/134/8/b/208853405_256248_bg_body_1.png) top center no-repeat #0f222a;
+padding:482px 34px 75px;
+margin:0 0 100px;
+border:none;
+}
+.journaltop {
+height:63px;
+width:auto;
+background:url(https://fc03.deviantart.net/fs71/o/2011/134/1/9/208853405_256249_208683505_255483_celt_x.png) top left repeat-x;
+display:block;
+color:#577d91;
+text-align:center;
+padding:0;
+margin:0;
+border:1px solid #165a7f;
+border-top:none;
+font-size:80%;
+}
+.journaltop img {
+display:none;
+}
+.journaltop h2 {
+padding:2px 0 0;
+color:#fff;
+background:url(https://fc01.deviantart.net/fs71/o/2011/134/2/f/208853405_256250_208683505_255484_title_bg.png) top center no-repeat;
+display:block;
+margin: 0 0 -35px;
+padding: 8px 0 35px;
+}
+.journaltext {
+color:#fff;
+border:1px solid #27444e;
+padding:10px 32px 100px;
+margin:0;
+background: url(https://fc08.deviantart.net/fs70/o/2011/134/7/c/208853405_256251_208683505_255485_journaltext_bg.png) left top transparent;
+box-shadow:0 0 15px #111;
+}
+.journaltext .heading {
+background: url(https://fc09.deviantart.net/fs70/o/2011/134/8/f/208853405_256252_208683505_255486_h_351_60.png) no-repeat scroll left top transparent;
+display: block;
+font-size: 150%;
+font-style: normal;
+font-weight: bold;
+height: 60px;
+padding: 16px 0 0 18px;
+margin: 25px 0 -15px;
+color:#fff;
+}
+.journaltext ul {
+padding-top:0;padding-bottom:0;
+margin-top:0;margin-bottom:0;
+}
+.journaltext ul li{
+margin:0;
+padding:0;
+color:#8bb7df;
+}
+.journaltext a {
+color:#87d5f0;
+text-decoration:none;
+font-weight:bold;
+}
+.journaltext a:hover {
+color:#bee8f6;
+}
+.shadow-holder .shadow .thumb img {
+-moz-border-radius: 1px;
+-webkit-border-radius: 1px;
+border-radius: 1px;
+box-shadow:0 0 15px #111;
+}
+.journalbottom {
+color:#d1aeae;
+background:transparent;
+margin:0 31px -50px;
+padding:10px 0 0;
+text-align:right;
+}
+.journalbottom a {
+color:#fff;
+}
+.journalbottom a:hover {
+color:#fff;
+}
+.journalbottom .commentslink {
+color:#fff;
+}
+.journalbottom .hsep {
+display:none;
+}
+.journalbottom .prevlink {
+display:none;
+}
+.list {
+color:#fff;
+margin:30px;
+}
+.list .a {
+background:transparent;
+}
+blockquote {
+color:#597384;
+background:url(https://fc01.deviantart.net/fs71/o/2011/134/6/2/208853405_256253_208683505_255487_blockquoteopen.png) top left no-repeat #0f1c25;
+padding:22px 68px;
+margin:26px 0 0;
+}
+i.bqclose {
+background:url(https://fc06.deviantart.net/fs71/o/2011/134/4/9/208853405_256254_208683505_255488_blockquoteclose.png) top left no-repeat #0f1c25;
+padding:0;
+width:28px;
+height:24px;
+display:block;
+float: right;
+clear: both;
+margin: 12px -68px 0 0;
+color:transparent;
+}
+b {
+color:#8bb7df;
+}
+/*
+to make a heading like in preview use an em tag with the class 'heading' like this:
+< em class=" heading " >HEADING GOES HERE</ em >
+to make a blockquote use this:
+< blockquote >Just a blockquote example without trailing quote image</ blockquote >
+< blockquote >another blockquote example but now with a trailing quote image. To make it just use i tag with the class 'bqclose' like this < i class=" bqclose "></ i ></ blockquote >
+
+--Header Code--
+<div class="kovoMenu inline"><ul><li><a href="http://www.facebook.com/sergbel">Facebook</a></li><li><a href="https://sergbel.deviantart.com/">Commission me</a></li><li><a href="http://3dserg.be/">My website</a></li></ul></div>
+--End Header Code--
+--Footer Code--
+*/

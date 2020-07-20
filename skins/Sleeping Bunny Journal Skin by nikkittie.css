@@ -1,0 +1,71 @@
+.journalbox{ 
+border:none;
+width:600px;
+height:750px;
+height:750px;
+padding:300px;
+background: transparent url(https://fc05.deviantart.net/fs70/o/2011/216/7/d/250087222_290409_bg-1.png) bottom no-repeat;
+}
+a:link {cursor:url(https://fc06.deviantart.net/fs71/o/2011/216/f/e/250087222_290410_arrow.png), pointer;}
+a:hover {cursor:url(https://fc01.deviantart.net/fs71/o/2011/216/2/f/250087222_290411_hand.png), pointer;}
+body {cursor:url(https://fc06.deviantart.net/fs71/o/2011/216/f/e/250087222_290410_arrow.png), pointer;}
+.journalbox .list li {
+padding:0px 40px 0px 0px;
+background-color: transparent;
+text-align: right;
+color: #ece37b;
+}
+.journalbox .list li.a {
+background-color: transparent;
+text-align: right;
+color: #ece37b;
+}
+.journalbox h2 {
+color: #ece37b;
+}
+.journalbox .journaltop{
+background: transparent ;
+text-align: left;
+color: #ece37b;
+padding-top:100px;
+padding-right:50px;
+padding-bottom:0px;
+padding-left:50px;
+}
+.journalbox a {
+color: #c34343;
+}
+.journalbox a:hover {
+color: #9a9c9f;
+}
+.journalbox .journalbottom a.commentslink {
+color: #cb435d;
+}
+.journalbox .journalbottom a.prevlink {
+color: #cb435d;
+}
+.journalbox .journalbottom a.commentslink:hover {
+color: #cb435d;
+}
+.journalbox .journalbottom a.prevlink:hover {
+color: #cb435d;
+}
+.journalbox .journaltext {
+color:#6e371f;
+border:#6e371f 1px solid;
+background:url(https://fc08.deviantart.net/fs70/o/2011/216/e/3/250087222_290412_kdcopy-1.png)repeat; width:518px;
+height:620px;
+padding:20px;
+margin:20px 20px 20px 20px;
+text-align:justify;
+overflow:auto;
+}
+.journalbox .journaltop img {
+display: none;
+}
+/*
+--Footer Code--
+<br>
+<br>
+<a href="https://www.deviantart.com/nikkittie/art/Sleeping-Bunny-Journal-Skin-250087222">Sleeping Bunny Journal Skin</a> by <a href="https://www.deviantart.com/nikkittie">nikkittie</a>
+*/

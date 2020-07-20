@@ -1,0 +1,190 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+a.external:after {display:none!important;}
+a {font-weight:normal!important;}
+a:hover{text-decoration: none;}
+a{color: #000000; text-decoration: none;}
+.journaltop{
+color: #000000;
+height: 80px;
+text-align:center; 
+font-family: "Lobster Two";  
+font-size: 13px;
+text-shadow:#dd717f 3px 2px 4px; font-size:13px; color:#000000;
+background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);
+padding: 25px 30px 20px 10px;
+margin: 0px 0px 50px 0px;
+background-position: center;
+background-repeat: repeat;}
+.journaltop img{ display: none; } 
+.journalbox{
+text-align:center;
+max-width: 1024px;
+height: 1552px;
+background-color: none;
+background: url(https://fc02.deviantart.net/fs71/o/2014/360/d/c/502721509_2072629_474_by_inconcabille-d8bag8x.jpg);
+padding-top:50px;
+border-width: 3px;
+border-color: #dd717f;
+float:center;
+margin-left:auto;
+margin-right:auto;
+}
+h2{ 
+font-family: "Lobster Two";  
+color: #000000;
+text-shadow:#dd717f 3px 2px 4px; font-size:40px; color:#000000;
+font-size: 40px;}
+a:hover{text-decoration: none;}
+a{color: #000000;
+text-decoration: none;}
+ .journaltext{
+        text-align:justify; 
+        font-family: "Lobster Two";  
+        font-size:18px;
+        color:#000000;
+        padding: 20px 20px 20px 20px;
+        margin: 10px 10px 10px 10px;
+        margin-left:auto;
+        margin-right:auto;
+        background: none;
+        background-position: center;
+        background-repeat: repeat;
+        background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);
+        background-attachment: scroll;
+        overflow: auto;
+        max-width: 1024px;
+        height: 1175px;}
+.journalbottom {
+	background-position:center;
+	text-align:center;
+	color: #000000;
+	background-repeat:repeat;
+	padding: 25px 30px 20px 10px;
+        margin: 50px 0px 50px 0px;
+        font-family: "Lobster Two";  
+        background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);
+        background-position: center;
+        background-repeat: repeat;}
+.commentslink {
+        color: #000000;
+        font-family: "Lobster Two";  
+        text-shadow:#dd717f 3px 2px 4px; font-size:22px; color:#000000;
+        font-size: 22px;
+        font-weight: bold;}
+.list {display: none;}
+b {color:#dd717f;}
+i {color:#994e58;}
+h1 {
+     background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #d94265;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 26px;
+     display:inline-block;}
+h3 {
+     background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);      
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #af3551;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 28px;
+     display:inline-block;}
+h4 {
+     background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png);
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #8a2a40;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 30px;
+     display:inline-block}
+.Footer{
+     font-size: 18px;
+     color: #000000;
+     text-shadow:#dd717f 3px 2px 4px; font-size:18px; color:#000000;
+     font-family: "Lobster Two";  
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #000000;
+     font-family: "Lobster Two";  
+     text-decoration: none;}
+.text blockquote {
+    background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png) repeat!important;     
+     box-shadow: 0px 5px 10px rgba(53, 94, 96, 0.5);
+     color: #000000;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size:14px;
+     background-position: center;
+     padding: 10px 10px 10px 10px;
+     background-repeat: repeat;}
+span.shadow {padding:0px;}
+.thumb-holder b {
+     display:block;
+     color:#dd717f;
+     font-size:16pt;
+     text-align:center;
+     margin-top:-10px;}
+.thumb-holder .thumb:hover {
+     border-bottom:none;}
+.thumb-holder .shadow {
+     box-shadow:none;
+     margin:0px;}
+.thumb-holder img {
+     border: #d94265 5px solid;
+     border-radius:4px;}
+.thumb-holder .shadow-holder {
+     transition:all 100ms ease-in-out;}
+.thumb-holder .shadow-holder:nth-child(4n+1) {
+     transform:rotate(24deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+2) {
+     transform:rotate(-10deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+3) {
+     transform:rotate(1deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+4) {
+     transform:rotate(-4deg) scale(.8,.8);}
+.thumb-holder .shadow-holder:nth-child(4n+1):hover, .thumb-holder .shadow-holder:nth-child(4n+2):hover, .thumb-holder .shadow-holder:nth-child(4n+3):hover, .thumb-holder .shadow-holder:nth-child(4n+4):hover {
+     transform:rotate(0) scale(1,1);
+     transition:all 80ms ease-in-out;
+     z-index:100;}
+.lit {
+     box-shadow: 0px 5px 10px rgba(217, 66, 101, 0.5); 
+     background: url(https://fc04.deviantart.net/fs71/o/2014/360/3/5/502721509_2072628_500834536_2060254_unknown_kopie_by_inconcabille-d8a2tjr.png); 
+     max-height: 180px; min-width: 120px;
+     border: #994e58 5px solid;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size:14px;
+     color: #000000;}
+.lit img 
+     {display: none;}
+/*
+! Artist requests permission before copying
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div align= " center" >
+< div class=" thumb-holder" >  T H U M B < / div >
+< / div > (without space)
+- < h1 > < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > (without space)
+- b (bold) = 'Blue' color
+- i (cursive) = 'Blue' color
+
+--Footer Code--
+<div class="Footer">
+<sub>[ Journal CSS ] &#169; <a href="https://www.deviantart.com/inconcabille">inconcabille</a> &#8226; [ Background ] &#169; <a href="https://www.deviantart.com/shizoo-design">shizoo-design</a> | shizoo-design.de</sub>
+</div>
+*/

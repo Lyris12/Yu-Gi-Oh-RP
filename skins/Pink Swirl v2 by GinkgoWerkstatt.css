@@ -1,0 +1,168 @@
+.journal-edit-mode h2{display: block;}
+.gr{ border: none; padding: 0!important; background: transparent;}
+.gr1, .gr2, .gr3, .gr3, .tri, .gr-top img {display: none;}
+.gr-box{
+max-width: 700px;
+background: #777172;
+color:#F0BECA;
+padding: 40px 0 30px 0;
+margin: auto;}
+.gr-top{
+background: url(https://fc02.deviantart.net/fs70/o/2013/293/f/f/408458262_1229949_header_by_ginkgografix-d6r1sy0.jpg) no-repeat top center;
+text-align: center;
+border: 0;
+border-bottom: 1px solid #F0BECA;
+border-top: 1px solid #F0BECA;
+color: #777172;
+padding: 10px 0 10px 0;
+box-shadow: 1px 1px 7px #bda5ad;}
+h2 a{
+font-family: Georgia, "Times New Roman", Times, serif;
+color: #777172;
+margin-top: 10px;}
+.gr-top span{color: #777172;}
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+.text{
+padding: 30px 30px 40px 30px;}
+.text a{
+text-decoration: none !important;
+color: #F698A8;
+font-weight: bold;}
+.menu{
+background: url(https://fc00.deviantart.net/fs70/o/2013/293/1/0/408458262_1229950_links_by_ginkgografix-d6r1syg.jpg) no-repeat top left;
+width: 140px;
+padding: 30px 0 0 30px;
+float: right;
+margin: 30px 0 30px 30px;}
+.menu a{
+background: url(https://fc05.deviantart.net/fs70/o/2013/293/a/9/408458262_1229951_list_by_ginkgografix-d6r1syn.jpg) no-repeat center left;
+padding: 2px 0 2px 20px;
+display: block;
+letter-spacing: 1px;
+font-weight: normal;}
+.menu a:hover{color: #f6edef;}
+hr{
+background: url(https://fc09.deviantart.net/fs70/o/2013/293/9/b/408458262_1229952_divider1_by_ginkgografix-d6r1sx6.jpg) no-repeat center;
+height: 45px;
+border: none;}
+h1, h2, h3, h4, h5{
+color: #f6edef;
+letter-spacing: 1px;}
+h3{
+background: url(https://fc00.deviantart.net/fs70/o/2013/293/e/2/408458262_1229953_divider2_by_ginkgografix-d6r1sxf.jpg) no-repeat center bottom;
+text-align: center;
+font-size: 15px;
+padding: 0 0 28px 0;}
+h4{
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 15px;
+text-align: center;
+margin: 0 0 -2px 0;}
+h5{
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 15px;
+text-align: center;
+margin: 0 0 -18px 0;}
+.scrollbox{
+background: url(https://fc00.deviantart.net/fs70/o/2013/293/3/d/408458262_1229954_scrollbox_by_ginkgografix-d6r64qb.jpg) no-repeat center;
+text-align: center;
+padding: 60px 80px 50px 80px;
+width: 350px;
+margin: auto;}
+.scrollbox p{
+padding: 0 3px;
+height: 180px;
+text-align: center;
+color: #777172;
+overflow: auto;}
+.contentbox{
+width: 400px;
+margin: auto;}
+.contentbox p{
+margin: -5px 0 0;
+padding: 10px 36px 10px 43px;
+color: #777172; 
+width: 320px;
+background: url(https://fc03.deviantart.net/fs71/o/2013/293/1/8/408458262_1229955_box_bg_by_ginkgografix-d6r1sth.jpg) repeat-y center;}
+.contentbox:before{ content: url(https://fc00.deviantart.net/fs70/o/2013/293/7/0/408458262_1229956_box_header_by_ginkgografix-d6r1sww.jpg);}
+.contentbox:after{ content: url(https://fc06.deviantart.net/fs70/o/2013/293/c/d/408458262_1229957_box_footer_by_ginkgografix-d6r1svv.jpg);}
+.scrollbox a, .contentbox a{color: #f6edef; }
+blockquote{
+color: #bda5ad;
+padding: 20px;
+background: #5a5557;
+border: 1px solid #F0BECA;
+box-shadow: 1px 1px 7px #bda5ad;}
+.f{background: transparent!important;}
+.f strong{
+color: #F698A8; 
+border-bottom: dashed 1px #F0BECA;}
+.list {
+text-align:center;
+color:#F698A8;
+text-decoration:none;
+padding:10px 20px 0 20px;
+margin: 10px 0 20px 0;}
+.bottom{
+background: url(https://fc02.deviantart.net/fs70/o/2013/293/3/2/408458262_1229958_bg_by_ginkgografix-d6r1sz8.jpg) repeat-y center top;
+box-shadow: 1px 1px 7px #bda5ad;
+padding: 10px 0;
+border-bottom: 1px solid #F0BECA;
+border-top: 1px solid #F0BECA;}
+.bottom a{
+font-family: Georgia, "Times New Roman", Times, serif; 
+color: #777172;
+font-size: 14px;
+letter-spacing: 1px;}
+/*
+- Headlines
+<h1>... </h1>
+<h2>... </h2>
+- Divider
+<hr/>
+- Headline Divider
+<h3>... </h3>
+- Blockquote
+<blockquote>... </blockquote>
+- Non-Scrollbox
+<h4>H4 Box Headline</h4>
+<div class="contentbox">
+<p>...</p>
+</div>
+• The headline is optional. Just remove it, if you don't need it.
+- Scrollbox
+<h5>H5 Box Headline</h5>
+<div class="scrollbox">
+<p>...</p>
+</div>
+• The headline is optional. Just remove it, if you don't need it.
+- Menu
+<div class="menu">
+<a href="...">Website</a> <a href="">Gallery</a> <a href="">Blubb</a>
+</div>
+• The menu is optional. Just remove it from Skin Header, if you don't need it.
+
+--Header Code--
+<div class="menu">
+<a href="#">Website</a> <a href="#">Gallery</a> <a href="#">Blubb</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/ginkgowerkstatt/art/Pink-Swirl-v2-408458262">Pink Swirl v2</a> journal skin by <a href="https://www.deviantart.com/ginkgowerkstatt">GinkgoWerkstatt</a>
+</sub>
+</div>
+<div class="bottom">&nbsp;</div>
+&nbsp;</div>
+&nbsp;</div>
+</div>
+</div>
+</div>
+*/

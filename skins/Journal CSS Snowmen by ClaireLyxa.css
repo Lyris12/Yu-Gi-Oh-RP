@@ -1,0 +1,148 @@
+.journalbox 
+{
+max-width: 584px;
+_width: 584px;
+color: #516577;
+font-size: 13px;
+font-family:  Comic Sans MS;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+.journaltop 
+{
+color: #516577;
+background: url(https://fc08.deviantart.net/fs70/o/2012/051/8/6/286210405_370223_1202170826591347619452659.png) no-repeat top center;  
+font-family: Comic Sans MS; 
+font-size: 15px;
+text-align: right;
+height: 445px;
+padding: 0px 0px 0px 0px;
+}
+.journaltop h2 
+{
+color: #516577;
+background-color: transparent; 
+font-family: Comic Sans MS;
+font-size: 30px; 
+font-style: bolder;
+font-weight: normal; 
+letter-spacing: 1px;
+text-align: right;
+}
+.journaltop img 
+{
+display: none;
+}
+.list 
+{
+position : relative;
+bottom : 210px;
+background-color: transparent;
+color: #516577;
+text-align: left;
+margin-left : 50px;
+font-family: Comic Sans MS;
+font-size: 11px;
+}
+.list .a 
+{
+background: none;
+}
+.list strong 
+{
+color: #516577; 
+font-weight: bolder;
+}
+.list li 
+{
+padding:2px;
+}
+.journaltext 
+{
+background-image: url(https://fc00.deviantart.net/fs70/o/2012/051/9/1/286210405_370224_1202170826591347619452658.png);
+padding: 35px 45px 0px 45px;
+text-align: justify;
+}
+.journaltext a
+{
+color: #ffffff;
+font-weight:bold;
+text-decoration: underline;
+}
+.journaltext a:hover
+{
+color: #516577;
+text-decoration: none;
+}
+a img {
+background-color:#85a0b7;
+padding:0px;
+border:6px #85a0b7 solid;
+border-radius: 6px 6px 6px 6px;
+}
+a:hover img {
+border:6px #ecf4fb solid;
+border-radius: 6px 6px 6px 6px;
+}
+.title 
+{
+text-align: center;
+font-family:  Comic Sans MS;
+font-size: 30px;
+font-weight: bold;
+color: #516577;
+letter-spacing: 1px; 
+background: url(https://fc00.deviantart.net/fs71/o/2012/051/2/3/286210405_370225_1202170826591347619452656.png) no-repeat center;
+height: 65px; 
+padding: 0px 0px 0px 0px;
+line-height: 65px;
+margin: 10px 0;
+}
+.journalbottom 
+{
+background: url(https://fc03.deviantart.net/fs71/o/2012/051/0/c/286210405_370226_1202170826591347619452657.png) no-repeat; 
+height: 318px;
+}
+.journalbottom a 
+{
+font-family: Comic Sans MS;
+font-size: 12px;
+color: #ffffff;
+text-decoration: none;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #637b96;
+text-decoration: none;
+}
+.footer
+{
+font-size: 13px;
+padding-top: 100px;
+}
+.footer a
+{
+color: #ffffff;
+text-decoration: none;
+}
+.footer a:hover
+{
+color: #637b96;
+}
+/*
+- . . . if you want to write a "title", write the following sentence between the quotation marks in your text box:
+"<div class ="title">Write your title here. <* /div>"
+CAUTION! Remove the "*" in the sentence, otherwise it will not work.
+
+--Footer Code--
+<br>
+<div class="footer">
+<div align="center">CSS design by <a href="https://clairelyxa.deviantart.com/">ClaireLyxa</a>
+</div>
+</div>
+&nbsp;</div>
+</div>
+*/

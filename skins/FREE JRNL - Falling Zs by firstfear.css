@@ -1,0 +1,468 @@
+a:link {cursor:url(https://fc05.deviantart.net/fs71/o/2011/191/a/7/217676539_280695_onicursorhover-1.gif), pointer;
+
+}
+
+a:hover {cursor:url(https://fc05.deviantart.net/fs71/o/2011/191/a/7/217676539_280695_onicursorhover-1.gif), pointer;
+
+}
+
+body {cursor:url(https://fc05.deviantart.net/fs71/o/2011/191/d/9/217676539_280696_onicursor-1.gif), pointer;
+
+}
+
+body {
+color: #95734B;
+font-size:9pt;
+font-family:  Arial, Verdana, Comic Sans MS; 
+font-weight:bold;
+
+}
+
+.text strong {
+color: #ffffff;
+font-family:Comic Sans MS, Verdana, Arial; 
+display:block;
+font-size: 18px;
+text-shadow: #644A29 1px 1px 1px ;
+padding-bottom: 10px;
+
+}
+
+.text p{
+color: #644A29;
+font-size: 10px;
+font-family:Comic Sans MS, Verdana, Arial; 
+background-color:#F2DDC9;
+margin: 10px 10px;
+border:1px solid #D9B590; 
+padding:05px;
+-moz-border-radius: 6px;
+
+}
+
+.text blockquote{
+background-image: url(https://fc01.deviantart.net/fs70/o/2011/191/c/b/217676539_280697_quote.png);
+background-repeat: no-repeat;
+color: #ffffff;
+text-shadow: #644A29 1px 1px 2px;
+font-family:Comic Sans MS, Verdana, Arial; 
+font-size: 14px;
+margin: 10px ;
+padding-left: 40px;
+padding-right: 05px;
+padding-top: 05px;
+padding-bottom: 05px;
+background-color:#D9B590;
+border:1px solid F2DDC9; 
+-moz-border-radius: 6px;
+
+}
+
+li {
+background:url(https://fc02.deviantart.net/fs71/o/2011/191/9/c/217676539_280698_onibullet.gif);
+background-repeat: no-repeat;
+height:21px;
+padding-top:3px;
+padding-left:21px;
+list-style: none;
+
+}
+
+a {
+color: #5E4424; font-weight:bold;
+text-decoration:none;
+font-family:Verdana; 
+
+}
+
+a:hover{
+color: #3E8523; font-weight:bold;
+text-decoration:none;
+font-family:Verdana; 
+
+}
+
+.list {
+display:none;
+
+}
+
+.gr{
+border:none;
+
+}
+
+.gr-top h2{
+color:#4E6054; 
+font-family:Comic Sans MS; 
+font-weight:bold;
+font-size:12px;
+background: transparent;
+height:0px;
+
+}
+
+.gr-top span{
+font-family:Arial;
+color: #95734B;
+font-size:9pt;
+font-weight:bold;
+letter-spacing:3px;
+background: transparent;
+position:relative;
+top:270px;
+left:125px;
+z-index:5;
+
+}
+
+.gr-body{
+border:none; 
+background-color:#DAE4D9; 
+background-image: url(https://fc02.deviantart.net/fs70/o/2011/191/9/c/217676539_280699_bgtile.png);
+background-repeat:repeat;
+background-position:center top;
+border-left:1px solid #A6B2A6; 
+border-right:1px solid #A6B2A6; 
+
+}
+
+.journalmargin{
+margin-top:-25px; 
+padding:5px;
+min-height:200px;
+
+}
+
+.header{
+position:absolute;
+width:100%;
+top:0;
+left:0;
+z-index:4;
+background-image: url(https://fc04.deviantart.net/fs71/o/2011/191/0/5/217676539_280700_toptile-1.png);
+background-repeat:repeat-x;
+background-position:center top;
+}
+
+.speachbubble{
+position:absolute;
+top:280px;
+left:97px;
+z-index:8;
+
+}
+
+.sidemenu {
+ color:#63888b;
+ font-size:10px;
+ position:absolute;
+ width:128px;
+height:100%;
+overflow:auto;
+margin-top:230px;
+ z-index:5;
+margin-left:-45px;
+padding:10px;
+
+}
+
+.journalcontent {
+margin-top:210px;
+ margin-left: 65px;
+ padding-left:25px;
+margin-bottom:-28px;
+min-height:850px;
+
+}
+
+.bottom{
+padding-top: 10px;
+position: absolute;
+bottom: -05px;
+width: 100%;
+font-size: 10px;
+background:url(https://fc02.deviantart.net/fs71/o/2011/191/9/c/217676539_280701_commentsbg.png) repeat-x ;
+background-position:center;
+z-index:4
+
+}
+
+.bottom a{
+color: #5E4424; font-weight:bold;
+text-decoration:none;
+font-family:Comic Sans MS; 
+
+}
+
+.bottom a:hover{
+color:  #3E8523; font-weight:bold;
+text-decoration:none;
+font-family:Comic Sans MS; 
+
+}
+
+.bottommenu{
+position: relative;
+top:-15px;
+left:140px 
+width:100%;
+
+}
+
+.headers{
+top:10px;
+position:relative;
+z-index:3;
+
+}
+
+.Gallery{
+display: block;
+width: 74px;
+height: 81px;
+background: url(https://fc04.deviantart.net/fs71/o/2011/191/9/d/217676539_280702_gallery-1.png) no-repeat 0 0;
+
+}
+
+.Gallery:hover{ 
+background-position: 0 -81px;
+
+}
+
+.Gallery span{
+display: none;
+
+}
+
+.Contact{
+display: block;
+width: 74px;
+height: 81px;
+background: url(https://fc05.deviantart.net/fs71/o/2011/191/0/e/217676539_280703_contact-1.png) no-repeat 0 0;
+
+}
+
+.Contact:hover{ 
+background-position: 0 -81px;
+
+}
+
+.Contact span{
+display: none;
+
+}
+
+.Watch{
+display: block;
+width: 74px;
+height: 81px;
+background: url(https://fc02.deviantart.net/fs70/o/2011/191/e/0/217676539_280704_watch-1.png) no-repeat 0 0;
+
+}
+
+.Watch:hover{ 
+background-position: 0 -81px;
+
+}
+
+.Watch span{
+display: none;
+
+}
+
+.Findme{
+display: block;
+width: 74px;
+height: 81px;
+background: url(https://fc06.deviantart.net/fs71/o/2011/191/b/1/217676539_280705_findme-1.png) no-repeat 0 0;
+
+}
+
+.Findme:hover{ 
+background-position: 0 -81px;
+
+}
+
+.Findme span{
+display: none;
+
+}
+
+.round{
+display:block;
+
+}
+
+.round *{
+display:block;
+height:1px;
+overflow:hidden;
+background-color:#EDD0B4; 
+
+}
+
+.round1{
+border-right:1px solid #C49A6C;
+padding-right:1px;
+margin-right:2px;
+border-left:1px solid #C49A6C;
+padding-left:1px;
+margin-left:2px;
+border-top:1px solid #C49A6C;
+position: relative;
+top:1px;
+
+}
+
+.round1b{
+border-right:1px solid #C49A6C;
+padding-right:1px;
+margin-right:2px;
+border-left:1px solid #C49A6C;
+padding-left:1px;
+margin-left:2px;
+border-bottom:1px solid #C49A6C;
+position: relative;
+bottom:1px;
+
+}
+
+.round2{
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+padding:0px 1px;
+margin:0px 1px;
+
+}
+
+.round3{
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+margin:0px 1px;
+
+}
+
+.round4{
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+
+}
+
+.round5{
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+
+}
+
+.round_content{
+padding:5px 5px;
+background-color:#EDD0B4; 
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+text-align: left;
+
+}
+
+.bottomround_content{
+padding:5px 5px;
+background-color:#EDD0B4; 
+border-right:1px solid #C49A6C;
+border-left:1px solid #C49A6C;
+text-align: left;
+
+}
+
+.bottomround_content img{
+vertical-align: middle; 
+border:3px solid #C49A6C; 
+background:none; 
+padding:0px;
+-moz-border-radius: 6px;
+max-height: 75px; 
+position: relative;
+z-index:4;
+
+}
+
+.bottomround_content a:hover img{
+border:2px solid #C49A6C;
+margin:1px;
+max-height: 75px; 
+position: relative;
+z-index:5;
+
+}
+/*
+! Artist does not allow editing any images, including from Photobucket, i.e. https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/goodmorningheader-4.png, https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/speechbubble.png, https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/admired.png, https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/featured.png, https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/commissions.png, and https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/requests.png
+
+To place the animated Bouncing Strawberry Divider, use the following code: (making sure to remove all *s from the url)
+<div align="center"><img src="http:// ***fc07.deviantart.net/fs71/f/2011/191/4/2/pixel___onigiri_bounce_divider_by_firstfear-d3lljif.gif">
+----------
+To place Strong text, use the following code:
+(making sure to remove all *s)
+<**strong>Text goes here.</strong**>
+----------
+To place BlockQuote text, use the following code:
+(making sure to remove all *s)
+<**blockquote>Text goes here.</blockquote**>
+----------
+To place Highlighted Paragraph text, use the following code:
+(making sure to remove all *s)
+<**p>Text goes here.</p**>
+----------
+To place a List of text, use the following code:
+(making sure to remove all *s)
+<**ul>
+<**li>Item 1</li**>
+<**li>Item 2</li**>
+<**li>Item 3</li**>
+</ul**>
+
+--Header Code--
+<div class="header" align="center"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/goodmorningheader-4.png"></div><div class="speachbubble"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/speechbubble.png"></div>
+<div class="sidemenu" align="center">
+:iconfirstfear:
+
+<a class="Gallery" href="INSERT URL HERE" title="Gallery"><span>Gallery</span></a>
+<a class="Contact" href="INSERT URL HERE" title="Contact"><span>Contact</span></a>
+<a class="Findme" href="INSERT URL HERE" title="Find Me"><span>Find Me</span></a>
+<a class="Watch" href="INSERT URL HERE" title="+Watch"><span>+Watch</span></a>
+
+:thumb213261886:
+:thumb213261886:
+:thumb213261886:
+:thumb213261886:
+:thumb213261886:
+</div>
+<div class="journalcontent">
+<div class="round"><div class="round1"><div></div></div><div class="round2"><div></div></div><div class="round3"></div><div class="round4"></div><div class="round5"></div></div><div class="round_content"><div class="journalmargin">
+--End Header Code--
+--Footer Code--
+</div></div><div class="round"><div class="round5"></div><div class="round4"></div><div class="round3"></div><div class="round2"><div></div></div><div class="round1b"><div></div></div></div>
+<div class="bottommenu"><div class="headers" align="center"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/admired.png"></div><div class="round"><div class="round1"><div></div></div><div class="round2"><div></div></div><div class="round3"></div><div class="round4"></div><div class="round5"></div></div><div class="bottomround_content">
+
+
+<div align="center">:iconfirstfear: :iconfirstfear: :iconfirstfear:</div>
+
+
+</div><div class="round"><div class="round5"></div><div class="round4"></div><div class="round3"></div><div class="round2"><div></div></div><div class="round1b"><div></div></div></div></div><div class="bottommenu"><div class="headers" align="center"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/featured.png"></div><div class="round"><div class="round1"><div></div></div><div class="round2"><div></div></div><div class="round3"></div><div class="round4"></div><div class="round5"></div></div><div class="bottomround_content">
+
+
+<div align="center">:thumb217164973::thumb217164973::thumb217164973:</div>
+
+
+</div><div class="round"><div class="round5"></div><div class="round4"></div><div class="round3"></div><div class="round2"><div></div></div><div class="round1b"><div></div></div></div></div><div class="bottommenu"><div class="headers" align="center"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/commissions.png"></div><div class="round"><div class="round1"><div></div></div><div class="round2"><div></div></div><div class="round3"></div><div class="round4"></div><div class="round5"></div></div><div class="bottomround_content">
+
+
+<div align="center">----------  -----------</div>
+
+
+</div><div class="round"><div class="round5"></div><div class="round4"></div><div class="round3"></div><div class="round2"><div></div></div><div class="round1b"><div></div></div></div></div><div class="bottommenu"><div class="headers" align="center"><img src="https://i22.photobucket.com/albums/b307/unknown__user/DA/fallingZs/requests.png"></div><div class="round"><div class="round1"><div></div></div><div class="round2"><div></div></div><div class="round3"></div><div class="round4"></div><div class="round5"></div></div><div class="bottomround_content">
+
+
+<div align="center">----------  -----------</div>
+
+
+</div><div class="round"><div class="round5"></div><div class="round4"></div><div class="round3"></div><div class="round2"><div></div></div><div class="round1b"><div></div></div></div></div></div></div><br>
+*/

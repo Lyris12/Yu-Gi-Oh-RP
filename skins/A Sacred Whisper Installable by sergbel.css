@@ -1,0 +1,150 @@
+br {
+clear:both;
+}
+.ccc {
+background:transparent;
+width:100%;
+height:92px;
+margin:-50px 0 -30px;
+}
+.lceltic {
+background:url(https://fc07.deviantart.net/fs71/o/2011/240/a/b/255452411_300446_l_celtic.png) left top no-repeat transparent;
+width:112px;
+height:92px;
+display:block;
+float:left;
+margin:0 0 0 -50px;
+}
+.rceltic {
+background:url(https://fc00.deviantart.net/fs71/o/2011/240/6/0/255452411_300447_r_celtic.png) left top no-repeat transparent;
+width:112px;
+height:92px;
+display:block;
+float:right;
+margin:0 -50px 0 0;
+}
+.journalbox {
+background:url(https://fc04.deviantart.net/fs70/o/2011/240/b/8/255452411_300448_bg2.png) center top repeat-x #fff;
+
+margin:0 auto;
+}
+.journaltop {
+margin:268px auto 0;
+text-align:center;
+width:450px;
+color:#687174;
+position: relative;
+z-index: 50;
+background:transparent;
+}
+.journaltop span {
+color:#687174;
+}
+.journaltop img {
+display:none;
+}
+.journaltop h2 {
+font-family:Nyala;
+font-size:250%;
+text-shadow:1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+.journaltext {
+background:#e3e6e7;
+margin: -70px 40px 0;
+padding: 56px;
+position: relative;
+z-index: 10;
+border:2px double #d1d3d4;
+min-width: 130px;
+}
+.journaltext h1 {
+color:#48606b;
+font-family:Nyala;
+
+background:url(https://fc09.deviantart.net/fs71/o/2011/240/0/6/255452411_300449_heading_163_19.png) no-repeat right 10px transparent;
+clear: left;
+float: left;
+padding: 5px 170px 5px 0;
+height:auto;
+}
+.journalbottom {
+background:url(https://fc01.deviantart.net/fs71/o/2011/240/d/7/255452411_300450_footer.png) repeat-x left top transparent;
+color:#48606b;
+text-shadow:0 0 10px #fff;
+height:290px;
+width:100%;
+display:block;
+}
+.journalbottom a{
+color:#48606b;
+text-shadow:0 0 10px #fff;
+}
+.shadow-holder .shadow .thumb img {
+border:2px solid #fff;
+box-shadow:0 2px 12px #333;
+margin:12px;
+}
+a {
+color:#1683cf;
+text-decoration:none;
+font-weight:bold;
+}
+a:hover {
+color:#6bc1fd;
+text-decoration:none;
+}
+.list {
+color:#48606b;
+padding:0 20px 20px 25px;
+width: 300px;
+margin: 0;
+z-index:99;
+position:absolute;
+bottom:40px;
+text-shadow:0 0 5px #c28bf3;
+}
+.list li {
+color:#48606b;
+background:transparent;
+text-shadow:0 0 5px #fff;
+}
+.list .a {
+background:transparent;
+color:#48606b;
+}
+.list li strong {
+width: 90px;
+display: inline-block;
+color:#48606b;
+}
+blockquote {
+background:url(https://fc01.deviantart.net/fs71/o/2011/240/c/0/255452411_300451_qo_48_48.png) no-repeat #fcfcfc;
+margin:20px 0;
+padding:38px 55px;
+text-align:center;
+color:#cfd1d1;
+border:1px solid #d7dadb;
+}
+blockquote .quote {
+background:url(https://fc00.deviantart.net/fs71/o/2011/240/7/5/255452411_300452_qc_48_48.png) no-repeat transparent;
+bottom:0;
+right:0;
+width:48px;
+height:48px;
+display:block;
+float:right;
+margin: 0 -55px 0 0;
+}
+/*
+! There is a large gap at the top of the journal
+! The header image is hidden by the journal body box
+
+you can place an image of closing quote into the blockquote by placing <i class="quote"></i> at the end of the quote.
+E.g. <blockqoute>Some blockquote here<i class="quote"></i></blockqoute>
+to make headers use <h1>Some Heading</h1>\
+
+--Header Code--
+<div class="ccc"><div class="lceltic"></div><div class="rceltic"></div></div>
+--End Header Code--
+--Footer Code--
+*/

@@ -1,0 +1,106 @@
+.gr-box{
+color: #f7eee4;
+font-family: Times New Roman, serif;
+font-size: 16px;
+letter-spacing: 0.05em;
+text-shadow: 1px 1px #668caf;
+background: url(https://fc03.deviantart.net/fs70/o/2010/359/8/0/190838477_166025_bg.jpg) bottom repeat-x #99aec2;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+text-align: center;
+padding: 200px 30px 60px 0;
+background: transparent url(https://fc05.deviantart.net/fs70/o/2010/359/a/8/190838477_166026_header.jpg) no-repeat top;}
+
+.gr-top img{display: none;}
+
+.gr-top span{color: #ebdac9;}
+
+h2{
+font-size: 30px;
+font-family: Times New Roman, serif;
+color: #4c6885;
+font-weight: bold;
+text-shadow: 1px 1px #a3bfdc;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc03.deviantart.net/fs70/o/2010/359/6/4/190838477_166027_footer.jpg) bottom left no-repeat;
+border: none;
+padding: 0 0 140px 0;}
+
+.text{padding: 0 40px 70px 60px;}
+
+a{
+color: #2f4d68; 
+text-shadow: 1px 1px #abbdcd;
+text-decoration: none;}
+
+p{margin: 0;}
+
+p:first-letter{
+font-size: 25px;
+margin: 0 3px 0 0;
+color: #4c6885;
+font-weight: bold;
+text-shadow: 1px 1px #a3bfdc;}
+
+em{
+font-size: 20px;
+font-style: normal;
+letter-spacing: 2px;
+color: #4c6885;
+font-weight: bold;
+padding: 30px 30px 20px 60px;
+display: block;
+margin: 30px 0 -40px -40px;
+text-shadow: 1px 1px #a3bfdc;
+background: url(https://fc01.deviantart.net/fs71/o/2010/359/3/b/190838477_166028_headline.jpg) no-repeat top left;}
+
+
+.feature{
+margin-top: 15px;
+text-align: center;}
+
+.shadow{ background: none!important;}
+.shadow img{max-width:none!important}
+
+.feature a{
+display: inline-block;
+width: 80px!important;
+height: 80px!important;
+overflow: hidden;
+border: 1px solid #f7eee4;
+outline: 3px solid #4c6885;}
+
+
+.list{
+margin: 0px 0 0 140px;}
+
+.f{background: transparent;}
+
+.bottom{
+position: absolute;
+bottom: 73px;
+left: 170px;
+font-size: 17px;}
+
+.hsep{display: none;}
+.prevlink{display: none;}
+/*
+-Headlines
+<em>...</em>
+
+-1st Letter Paragraph
+<p>...</p>
+
+-Feature
+<div class="feature">...</div>
+*/

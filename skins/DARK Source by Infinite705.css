@@ -1,0 +1,269 @@
+.journalbox {
+	border:none;
+	text-align:left;
+	background-color:#0b0b0b;
+	min-width:600px;
+	padding:30px;
+}
+.journaltop {
+	background-color:transparent;
+	margin:0 auto;
+	padding:0px;
+	font-size:0px;
+	color:#b2bdae;
+}
+.journaltop img {
+	display:none;
+}
+.journaltop h2 {
+font-size:20px;
+color:#838383;
+text-align:center;
+font-family: 'Michroma', arial, serif;
+}
+
+.journaltop span {
+display:none;
+}
+
+.featimg {
+background-image:url(https://fc04.deviantart.net/fs71/o/2011/112/b/8/205940300_211629_example.jpg);
+background-repeat:no-repeat;
+background-position:center;
+height:100px;
+width:700px;
+}
+
+.journaltext {
+	text-align:left;
+	color:#747E74;
+	text-shadow:1px 1px 0px #ffffff;
+	font-size:14px;
+	line-height:18px;
+	padding:20px;
+	font-family: 'Lato', arial, serif;
+}
+.journaltext a {
+	text-decoration:none !important;
+	color:#ffffff;
+}
+.journaltext a:hover {
+	text-decoration:underline !important;
+}
+.journalbottom {
+color:#ffffff;
+font-weight:600;
+text-shadow:1px 1px 0px #000000;
+}
+
+.journalbottom a {
+text-decoration:none !important;
+background-color:transparent!important;
+color:#ffffff;
+font-weight:600;
+}
+
+.journalbottom a:visited {
+text-decoration:none;
+color:#ffffff;
+font-weight:600;
+}
+
+blockquote {
+background:url(https://fc04.deviantart.net/fs71/o/2011/112/e/b/205940300_211630_quote.jpg) top right no-repeat;
+border:1px solid #00bdf1;
+padding:10px;
+border-radius: 10px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+background-color:#1f1f1f;
+padding-right:90px;
+}
+
+a img {
+background-color:#000000;
+opacity:0.6;
+border-bottom:1px solid #000000;
+}
+
+a:hover img {
+opacity:1.0;
+border-bottom:1px solid #00bdf1;
+}
+
+.journalbottom a:hover {
+text-decoration:none !important;
+font-weight:600;
+color:#00bdf1;
+}
+.journalbottom a:active {
+text-decoration:none !important;
+font-weight:600;
+color:#ffffff;
+}
+
+.journaltext .title {
+color:#ffffff;
+text-shadow:1px 1px 0px #000000;
+font-weight:600;
+font-size:12px;
+text-transform:uppercase;
+font-family: 'Michroma', arial, serif;
+border-bottom:1px solid #00bdf1;
+}
+.contentnavi {
+background-color:#2b2b2b;
+background-image:url(https://fc06.deviantart.net/fs70/o/2011/112/9/d/205940300_211631_navibg_bt.jpg);
+background-repeat:repeat-x;
+background-position:bottom center;
+position:relative;
+z-index:1;
+}
+.contentnavi a {padding:3px; color:#fefef2; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+.contentnavi a:visited {color:#fefef2; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+.contentnavi a:hover {color:#00bdf1; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+
+.fix2navi {
+border:1px solid #131313;
+background-color:transparent;
+}
+.fixnavi {
+padding:15px;
+text-align:justify;
+border:1px solid #404040;
+background-color:transparent;
+}
+.tlnavi {
+position:absolute;
+background-color:transparent;
+top:0;
+left:0;
+background-image:url(https://fc09.deviantart.net/fs70/o/2011/112/7/5/205940300_211632_tlnavi.jpg);
+height:10px;
+width:10px;
+background-repeat:no-repeat;
+}
+.trnavi {
+background-color:transparent;
+position:absolute;
+top:0;
+right:0;
+_right:8px;
+background-image:url(https://fc02.deviantart.net/fs71/o/2011/112/8/d/205940300_211633_trnavi.jpg);
+height:10px;
+width:10px;
+background-repeat:no-repeat;
+}
+.blnavi {
+position:absolute;
+bottom:0;
+background-color:transparent;
+_bottom:50px;
+left:0;
+background-image:url(https://fc02.deviantart.net/fs70/o/2011/112/6/9/205940300_211634_blnavi.jpg);
+height:10px;
+width:10px;
+border:none !important;
+background-repeat:no-repeat;
+z-index:50;
+}
+.brnavi {
+position:absolute;
+bottom:0;
+_bottom:50px;
+right:0;
+_right:8px;
+background-color:transparent;
+background-image:url(https://fc02.deviantart.net/fs70/o/2011/112/2/1/205940300_211635_brnavi.jpg);
+height:10px;
+width:10px;
+border:none !important;
+background-repeat:no-repeat;
+z-index:50;
+}
+
+.content {
+background-color:#2b2b2b;
+background-image:url(https://fc06.deviantart.net/fs70/o/2011/112/9/d/205940300_211631_navibg_bt.jpg);
+background-repeat:repeat-x;
+color:#bfbfbf;
+background-position:bottom center;
+position:relative;
+z-index:1;
+text-shadow: 0px 1px 1px #000000;
+}
+
+.content a {color:#fefef2; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+.content a:visited {color:#fefef2; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+.content a:hover {color:#00bdf1; font-weight:600; text-shadow: 0px 1px 1px #191919; text-decoration:none !important;}
+
+.fix2 {
+border:1px solid #131313;
+background-color:transparent;
+}
+.fix {
+padding:0px 30px 20px;
+text-align:justify;
+border:1px solid #404040;
+background-color:transparent;
+}
+.tl {
+position:absolute;
+background-color:transparent;
+top:0;
+left:0;
+background-image:url(https://fc09.deviantart.net/fs70/o/2011/112/7/5/205940300_211632_tlnavi.jpg);
+height:10px;
+width:10px;
+background-repeat:no-repeat;
+}
+.tr {
+background-color:transparent;
+position:absolute;
+top:0;
+right:0;
+_right:8px;
+background-image:url(https://fc02.deviantart.net/fs71/o/2011/112/8/d/205940300_211633_trnavi.jpg);
+height:10px;
+width:10px;
+background-repeat:no-repeat;
+}
+.bl {
+position:absolute;
+bottom:0;
+background-color:transparent;
+_bottom:50px;
+left:0;
+background-image:url(https://fc02.deviantart.net/fs70/o/2011/112/6/9/205940300_211634_blnavi.jpg);
+height:10px;
+width:10px;
+border:none !important;
+background-repeat:no-repeat;
+z-index:50;
+}
+.br {
+position:absolute;
+bottom:0;
+_bottom:50px;
+right:0;
+_right:8px;
+background-color:transparent;
+background-image:url(https://fc02.deviantart.net/fs70/o/2011/112/2/1/205940300_211635_brnavi.jpg);
+height:10px;
+width:10px;
+border:none !important;
+background-repeat:no-repeat;
+z-index:50;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+Titles - <div class="title">title here</div>
+Blockquote - <blockquote>text here....</blockquote>
+
+--Header Code--
+<div class="contentnavi"><div class="tlnavi"></div><div class="trnavi"></div><div class="brnavi"></div><div class="blnavi"></div><div class="fix2navi"><div class="fixnavi"><div align="center"><a href="">Link Here</a> &#x2022; <a href="">Link Here</a> &#x2022; <a href="">Link Here</a> &#x2022; <a href="">Link Here</a></div></div></div></div></div><div align="center"><div class="featimg"></div></div><div class="content"><div class="tl"></div><div class="tr"></div><div class="br"></div><div class="bl"></div><div class="fix2"><div class="fix">
+--End Header Code--
+--Footer Code--
+</div></div></div></div></div>
+*/

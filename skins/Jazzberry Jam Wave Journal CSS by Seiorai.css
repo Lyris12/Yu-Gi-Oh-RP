@@ -1,0 +1,64 @@
+.gr1 {display: none;} .gr2 {display: none;} .gr3 {display: none;} .gr-top img {display: none;} .tri {display: none;} .list{display: none;}
+
+.gr{background: transparent; border: none;}
+
+.gr-box{width: 450px; margin: auto; color: #94d500; font-family: Verdana, sans-serif; font-size: 11px; background: transparent url(https://fc04.deviantart.net/fs71/o/2009/342/6/8/146115795_99437_8dec_top.png) top center no-repeat;}
+
+.gr-top{border: none;  width: 420px; margin: auto; background: transparent; padding: 340px 0 0 0;}
+
+.gr-top span{ background: transparent; color: #94d500; text-align: center; font-size: 9px; font-weight: bold; display: block; margin-top: -75px; margin-left: 35px!important;}
+
+.gr-body {background: transparent; border: none; overflow:visible!important; padding-bottom: 20px;}
+
+.body a {color: #fcb91a; text-decoration: none!important;}
+.body a:hover {color: #94d500; text-decoration: underline!important;}
+
+.text{background: url(https://fc07.deviantart.net/fs70/o/2009/342/1/a/146115795_99438_8dec_body.png) top center repeat-y; width: 402px; padding: 0 10 0 10; margin: auto; margin-top: -7px!important; margin-left: 0px!important;}
+
+h2{font-size: 21px; min-width: 300px; max-width: 450px; font-weight: bold; margin-top: -35px; color: #ffb341; text-align: center!important; padding-left: 30px; padding-right: -10px; line-height: 27px;}
+
+.links {text-align: center; margin: -115px 0px 0px 27px; padding: 0px; width: 100%; height: 50px; position: absolute; z-index: 50;}
+
+.links a {padding: 10px 130px 5px 0px; width: 100%; height: 50px; background: transparent; color: #94d500; font-size: 9px; font-weight: bold; text-align: center; text-decoration: none!important;}
+
+.links a:hover {background: transparent; font-size: 9px; color: #fcb91a; text-decoration: underline!important;}
+
+.bottom {background: url(https://fc05.deviantart.net/fs71/o/2009/342/2/b/146115795_99439_8dec_bottom.png) bottom center no-repeat; position: absolute; width: 458px; height: 30px; bottom: 10px; color: #fcb91a; margin-left: -4px;}
+
+.bottom a {font-size: 10px; font-weight: bold; color: #94d500; text-decoration: none;}
+
+.bottom a:hover {color: #fcb91a; font-weight: bold; text-decoration: underline!important;}
+
+.scrollbox {background: url(https://fc06.deviantart.net/fs70/o/2009/342/e/e/146115795_99440_8dec_scrollbox.jpg); margin: 0 15px 0px 0px; border:1px #94d500 solid; min-height:100px; max-height:400px; min-width: 200px; max-width: 600px; overflow: auto; padding:10px; color: #ffb341;}
+
+.gallerysmall{margin: 0 55px 55px 0px}
+
+.gallerysmall .shadow{background-image: none!important}
+
+.gallerysmall a{display: inline-block; width: 50px!important; height: 50px!important; overflow: hidden; border: solid transparent; background: transparent; border-width: 5px 5px 5px 5px; outline: 1px solid #ffb341;}
+
+.gallerysmall img{margin: -20px -50px}
+
+.gallerysmall a:hover{border-color: #94d500!important; outline: 1px solid transparent!important;}
+
+.gallerysmall a:hover img{z-index: 999; position: absolute; margin: -5px 0 0 -30px; border: 5px solid #671326; outline: transparent;}
+/*
+! There is a large, white gap in between the journal body and bottom
+
+--How to use the Scrollbox (aka the square box at the near bottom)--
+Place this in the Journal's text area:
+<**div class="scrollbox">YOUR TEXT OR IMAGES GO HERE</div**>
+But make sure to remove the two sets of **!
+
+--How to use the MiniGallery (aka the images with hover effect that are just above the scrollbox in the preview)--
+Place this in the Journal's text area:
+<**div class="gallerysmall">YOUR IMAGES THUMBNAIL CODES GO HERE</div**>
+But make sure to remove the two sets of **!
+
+--Header Code--
+<div class="links"><a href="https://my.deviantart.com/notes/?to=Seiorai">Send me a Note</a> <a href="https://www.deviantart.com/random/deviant">Random Deviant</a></div>
+<div class="body">
+--End Header Code--
+--Footer Code--
+</div>
+*/

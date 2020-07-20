@@ -1,0 +1,261 @@
+.gr{padding: 0 !important; background: transparent; border: none;}
+.negate-box-margin{margin: 0; padding: 0; background: url(https://fc06.deviantart.net/fs70/o/2014/346/7/4/499848941_2052936_floral_wallpaper_by_insurrectionx_png_by_melikebat-d87e3cb.png) fixed; border: none;}
+.gr-box{border: none;}
+.gr1, .gr2, .gr3, .tri, .gr3.gb, .gr2.gb, .gr1.gb.gb1, .gr-top img, a.external:after, .lit img{display: none;}
+.prevlink, .commentslink, .hsep, .list{display: none;}
+.gr-body{background: none; border: none;}
+a, .credit,
+.art span.shadow-holder, .art .embedded-deviation img,
+a img, img, .embedded-deviation-overlay{
+transition: all ease .6s;}
+.lit{
+transition: border ease .4s, box-shadow ease .4s;}
+.gr-top{
+margin: 30px 0 15px 0;
+padding: 30px 70px;
+text-align: center;
+background: #d4b66d;
+border: none;}
+.gr-top h2 a{
+text-shadow: 0 1px 0 #fff4ad, 0 -1px 0 #000;
+font-size: 38px;
+font-family: 'Bilbo', cursive;
+color: #8e7d09;}
+.gr-top h2 a:hover{
+text-shadow: 1px 1px 0 #000, -1px -1px 0 #fff4ad;}
+span.timestamp{
+text-transform: uppercase;
+font-weight: 900;
+font-family: 'PT Sans Narrow', sans-serif;
+color: #a13c11;}
+.gr-top .author{
+text-transform: uppercase;
+font-weight: 900;
+font-family: 'PT Sans Narrow', sans-serif;
+color: #a13c11;}
+.author a:hover{
+color: red;}
+.text{
+margin: 30px 0 15px 0;
+padding: 30px 70px;
+font-weight: 900;
+font-size: 14px;
+font-family: 'Open Sans Condensed', sans-serif;
+color: #161406;
+background: #d4b66d;}
+a, a.external{
+color: #a13c11;
+text-decoration: none;
+font-weight: 900;}
+a:hover, a.external:hover{
+color: #685a00;}
+h1, h3{text-align: left;}
+.text h2, h4{text-align: center;}
+h5{text-align: right;}
+h1, .text h2, h5{
+padding: 12px;
+font-size: 39px;
+font-family: 'Amatic SC', cursive;
+background: #e2c37a;}
+h3, h4{
+font-size: 21px;
+font-family: 'Courgette', cursive;}
+h1, .text h2, h3, h4, h5{
+margin: 0;
+font-weight: 100;
+text-decoration: overline;
+color: #181818;}
+h1 a, .text h2 a, h3 a, h4 a, h5 a,
+h1 a.external, .text h2 a.external,
+h3 a.external, h4 a.external, h5 a.external{
+font-weight: 100;
+color: #a13c11 !important;}
+h1 a:hover, .text h2 a:hover,
+h3 a:hover,h4 a:hover, h5 a:hover{
+color: #685a00 !important;}
+hr{
+margin: 30px -90px;
+padding: 15px;
+width: 150%;
+background: url(https://fc06.deviantart.net/fs70/o/2014/346/7/4/499848941_2052936_floral_wallpaper_by_insurrectionx_png_by_melikebat-d87e3cb.png) fixed;
+border: none;}
+blockquote{
+margin: 30px -90px;
+padding: 30px 120px;
+background: #b7a94d;
+border: 12px solid #968940;}
+.sbox{
+margin: 8px;
+padding: 8px;
+max-height: 400px;
+overflow: auto;}
+.sbox hr{
+margin: 0 auto;
+padding: 0;
+height: 19px;
+width: 90%;
+background: url(https://fc06.deviantart.net/fs70/o/2014/346/7/4/499848941_2052936_floral_wallpaper_by_insurrectionx_png_by_melikebat-d87e3cb.png) fixed;
+border: none;}
+::-webkit-scrollbar{width: 12px;}
+::-webkit-scrollbar-thumb{background: #b79659;}
+::-webkit-scrollbar-track{background: #e8ca86;}
+.source{
+margin-top: 15px;
+text-align: right;
+text-decoration: overline;
+font-size: 12px;}
+.source a, .source a.external{
+text-decoration: overline;}
+a.back{
+display: block;
+margin: 15px auto;
+padding: 6px;
+width: 120px;
+text-align: center;
+font-size: 13px;
+color: #968940;
+border-top: 1px solid #968940;}
+ul{margin-left: -16px; list-style: square;}
+ol{margin-left: -16px; list-style: decimal;}
+ul ol{margin-left: -2px; list-style: decimal-leading-zero;}
+ol ul{list-style: disc;}
+ul ul{list-style: circle;}
+ol ol{list-style: lower-latin;}
+ul, ol, ul ol, ol ul, ul ul, ol ol{list-style-position: outside;}
+.tab{display: table; margin: 3px auto; width: 100%;}
+.tab .col2, .tab .col3, .tab .col4{display: table-cell; padding: 8px 1%;}
+.tab .col2{width: 48%;}
+.tab .col3{width: 31.3%;}
+.tab .col4{width: 23%;}
+.ntb{
+text-align: center;
+line-height: 0;}
+.shadow-holder img, a img, img
+.embedded-image-deviation img,{
+margin: 6px;
+padding: 9px;}
+.lit{
+margin: 0;
+padding: 0;
+height: 230px;
+width: 200px;
+box-shadow: none !important;}
+.embedded-freeform-deviation{
+padding: 9px;}
+.shadow-holder img,  a img, img,
+.embedded-image-deviation img,
+.lit, .embedded-freeform-deviation{
+box-shadow: inset 0 0 12px 5px rgba(0, 0, 0, .5);
+border: 1px solid #9e8c1c;
+outline: 1px solid #a13c11;
+background: url(https://fc06.deviantart.net/fs70/o/2014/346/7/4/499848941_2052936_floral_wallpaper_by_insurrectionx_png_by_melikebat-d87e3cb.png);}
+.shadow-holder img:hover, a img:hover, img:hover,
+.embedded-image-deviation img:hover,
+.lit:hover, .embedded-freeform-deviation:hover{
+box-shadow: inset 0 0 12px 12px rgba(250, 250, 250, .6);
+border: 1px solid #a13c11;
+outline: 1px solid #9e8c1c;}
+.lit q strong{
+margin: -15px -19px 15px -19px;
+padding: 12px 3px 15px 3px;
+text-align: center;
+text-decoration: none;
+font-weight: 100 !important;
+font-size: 11px;
+color: #e0d1b4;
+background: rgba(132, 118, 29, .6);
+border: none;}
+.lit q{
+right: 0;
+left: 0;
+padding: 20px 25px 5px 25px;
+min-height: 100%;
+line-height: 1.5;
+font-weight: 100;
+font-size: 11px;
+color: #e0d1b4;
+background: rgba(114, 17, 0, .7);}
+.bottom{
+padding: 60px;}
+.credit{
+position: absolute;
+bottom: 10px;
+left: 50%;
+margin: 30px -95px;
+padding: 10px 30px;
+width: 160px;
+text-align: center;
+font-size: 9px;
+background: rgba(249, 220, 152, .2);}
+.credit:hover{
+font-size: 12px;
+background: rgba(249, 220, 152, .5);}
+/*
+- - - - - - - - - - - - - - - - - - - -
+Blockquote and Source
+- - - - - - - - - - - - - - - - - - - -
+<blockquote>QUOTE HERE<div class="source">SOURCE</div>
+</blockquote>
+- - - - - - - - - - - - - - - - - - - -
+Scrollbox
+- - - - - - - - - - - - - - - - - - - -
+<div class="sbox">SCROLL BOX CONTENT</div>
+- - - - - - - - - - - - - - - - - - - -
+"Back To" Link (Using Internal Linking In Journals)
+- - - - - - - - - - - - - - - - - - - -
+<a name="ICECREAM">
+<code>
+</code>
+</a>
+<a class="back" href="URLOFTHEJOURNAL#ICECREAM">BACK TO ICECREAM</a>
+- - - - - - - - - - - - - - - - - - - -
+Two Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col2">TEXT IN COLUMN 1</div>
+<div class="col2">TEXT IN COLUMN 2</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Three Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col3">TEXT IN COLUMN 1</div>
+<div class="col3">TEXT IN COLUMN 2</div>
+<div class="col3">TEXT IN COLUMN 3</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Four Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col4">TEXT IN COLUMN 1</div>
+<div class="col4">TEXT IN COLUMN 2</div>
+<div class="col4">TEXT IN COLUMN 3</div>
+<div class="col4">TEXT IN COLUMN 4</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Normal Thumb Box
+- - - - - - - - - - - - - - - - - - - -
+<div class="ntb">:thumb######:</div>
+
+--Header Code--
+<div class="negate-box-margin">&nbsp;&nbsp;
+<div class="gr-box gr-genericbox">
+<div class="gr-top">
+<div class="gr">
+<h2>
+<a href="#">*</a>
+</h2>
+</div>
+</div>
+<div class="gr-body">
+<div class="gr">
+<div class="grf-indent">
+<div class="text">
+--End Header Code--
+
+--Footer Code--
+<div class="credit">
+<a href="http://fav.me/d89lhwt">Rose Garden Journal Skin</a> by <a href="https://www.deviantart.com/artbymba">MelikeBAt</a>
+<a href="http://fav.me/d22bnlj">Texture</a> by <a href="https://www.deviantart.com/insurrectionx">insurrectionx</a>
+</div>
+*/

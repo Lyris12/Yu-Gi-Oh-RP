@@ -1,0 +1,92 @@
+.gr-box{
+border: solid #e8f2fb;
+margin: 0 auto 10px auto;
+border-width: 1px 1px 20px 1px;
+background: #90c2f7 url(https://fc03.deviantart.net/fs71/o/2010/323/a/0/186712185_159290_header.jpg) no-repeat top left;
+color: #ffffff;
+max-width: 800px;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+padding: 50px 0 200px 220px;
+background: transparent;}
+
+.gr-top span{color: #0f8bcf;}
+
+.gr-top img{display: none;}
+
+h2{
+margin: 0 0 -3px -50px;
+font-size: 24px;
+color: #0a5a85;
+text-shadow: 3px 3px 4px #8ae9ec;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc01.deviantart.net/fs71/o/2010/323/3/9/186712185_159291_footer.jpg) no-repeat bottom right;
+border: none;}
+
+.text{
+background: url(https://fc02.deviantart.net/fs70/o/2010/323/4/0/186712185_159292_border.jpg) left repeat-y;
+padding: 0 30px 40px 20px;
+margin: 0 0 50px 145px;}
+
+.sidebar{
+position: absolute;
+left: 10px;
+top: 320px;
+width: 130px;
+color: #e8f2fb;
+text-shadow: 1px 1px 1px #4a91dc;
+padding: 0 0 30px 0;}
+
+.sidebar p a{
+background: url(https://fc08.deviantart.net/fs70/o/2010/323/e/2/186712185_159293_snow.png) no-repeat left center;
+padding: 0 0 0 17px;
+font-style: normal;
+line-height: 17px;
+text-shadow: none;
+text-decoration: none;
+margin: 0;}
+
+.sidebar p a:hover{color: #ffffcc;}
+
+
+
+em{
+letter-spacing: 1px;
+background: url(https://fc01.deviantart.net/fs71/o/2010/323/d/0/186712185_159294_star.png) no-repeat left center;
+padding: 10px 0 5px 30px;
+font-style: normal;
+font-size: 19px;
+text-shadow: 1px 1px 1px #4a91dc;}
+
+.bottom{text-align: right; margin: 120px 20px 0 0;}
+.prevlink{display: none;}
+.hsep{display: none;}
+
+.f{display: none;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Headline
+<em>...</em>
+
+--Header Code--
+<div class="sidebar"><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+ 
+<a href="">Link</a>
+<a href="">Another Link</a>
+</p>
+
+:thumb108278247:
+
+</div>
+*/

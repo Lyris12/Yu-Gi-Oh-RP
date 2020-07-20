@@ -1,0 +1,46 @@
+.journalbox {
+background: #77C8ED;
+width: 600px;
+margin: auto;
+-moz-border-radius: 20px;
+overflow: hidden;
+border: none;
+}
+
+.journaltop {
+background: url(https://fc05.deviantart.net/fs70/o/2012/085/6/1/292324847_380544_topwwing.png) no-repeat;
+height: 255px;
+color: transparent;
+}
+
+.journalbox img {display: none}
+.journaltop h2 {margin-top: 100px; margin-left: 40px; color: #4997D3;}
+
+.text {
+background-color: #FFFFFF;
+color: #77C8ED;
+-moz-border-radius: 17px;
+opacity: 0.80;
+margin: 30px;
+}
+
+.journalbox A:link {color: #4997D3; text-decoration: none;}
+.journalbox A:hover {color: #4997D3; text-decoration: none;}
+.journalbox A:active {color: #4997D3; text-decoration: none;}
+.journalbox A:visited {color: #4997D3; text-decoration: none;}
+
+.journalbottom {
+background: url(https://fc03.deviantart.net/fs70/o/2012/085/b/2/292324847_380545_comments.png) no-repeat;
+background-position: center;
+height: 115px;
+margin-top: -20px;
+font-size: 200px;
+}
+
+.journalbottom A:link {color: transparent;}
+.journalbottom A:hover {color: transparent;}
+.journalbottom A:active {color: transparent;}
+.journalbottom A:visited {color: transparent;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

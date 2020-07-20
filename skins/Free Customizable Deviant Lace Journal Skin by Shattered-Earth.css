@@ -1,0 +1,215 @@
+.clear {clear:both;}
+
+a:link {
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png), auto
+}
+
+a:hover {
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png), auto;
+color:#4f773e;}
+
+
+a:active {
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png), auto;
+color:#b2c8a9;}
+
+.journalbox{
+background-image: url('https://fc08.deviantart.net/fs71/o/2012/019/6/4/280273041_356447_lacetopt_by_shattered_earth-d4mv47b.png');
+background-repeat: repeat-x;
+background-position: top;
+background-color: transparent;
+color:#2e4127;
+font-size: 11px;
+text-align: left;
+border: none;
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png),auto;
+}
+
+.journalbox .journaltop{
+background-image: url('https://fc08.deviantart.net/fs71/o/2012/019/3/5/280273041_356448_lacemiddlet_by_shattered_earth-d4mv472.png');
+background-position: -150px 20px;
+background-repeat: repeat-x;
+background-color: transparent;
+font-family: verdana;
+font-size: 11px;
+text-align: center;
+padding: 330px 5px 15px 5px;
+border: 0px;
+}
+
+.journalbox .journaltop img{display:none}
+
+.journalbox .journaltop h2 {
+text-shadow: 1px 1px 1px #729066; 
+color: #2e4127;
+text-align: center;
+font-family: georgia;
+border: none;
+}
+
+.journaltext {
+background-image: url('https://fc02.deviantart.net/fs70/o/2012/019/5/b/280273041_356449_lacesmall_by_shattered_earth-d4mv479.png');
+background-repeat: repeat-x;
+background-position: top;
+background-color:#e3e9e1;
+border: none;
+padding: 0px;
+float:center;
+text-align:justify;
+}
+
+.main{
+position:relative;
+top:20px;
+background-image: url('https://fc06.deviantart.net/fs70/o/2012/019/7/e/280273041_356450_none.png');
+background-image: none;
+background-repeat: repeat-x;
+background-position: top;
+text-align:justify;
+width:400px;
+padding:20px;}
+
+.main a{
+font-weight:bold;
+color: #679852;
+}
+
+.main a:hover {
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png), auto;
+color:#4f773e;}
+
+
+.main h1{
+font-variant:small-caps;
+font-size: 18px;
+color: #679852;
+text-decoration:none;
+text-align: left;
+font-family: georgia;
+}
+
+.text blockquote{
+color: #76956a;
+margin: 10px ;
+padding-left: 15px;
+padding-right: 5px;
+padding-top: 0px;
+padding-bottom: 15px;
+background-color:#f0f6ee;
+border:1px solid #a1b997;  
+-moz-border-radius: 15px;
+text-align:left;
+}
+
+.commission{
+color: #76956a;
+margin: 10px ;
+padding-left: 5px;
+padding-right: 05px;
+padding-top: -10px;
+padding-bottom: 20px;
+background-color:#f0f6ee;
+border:1px solid #a1b997;  
+-moz-border-radius: 15px;
+text-align:center;
+width: 50%;
+}
+
+.commission h2{
+text-shadow: 1px 1px 1px #729066; 
+color: #2e4127;
+text-align: center;
+font-family: georgia;
+border: none;
+}
+
+.commission a{
+text-shadow: 1px 1px 1px #729066; 
+color: #2e4127;
+text-align: center;
+font-family: georgia;
+border: none;
+text-decoration:none;
+}
+
+.commission a:hover {
+cursor:url(https://fc04.deviantart.net/fs70/o/2012/019/b/3/280273041_356446_cursor_by_shattered_earth-d4mv46z.png), auto;
+color:#4f773e;}
+
+.footer{
+background-image: url('https://fc06.deviantart.net/fs71/o/2012/019/c/b/280273041_356451_lacesmallfooter_by_shattered_earth-d4mv47a.png');
+background-repeat: repeat-x;
+background-position: bottom;
+background-color: transparent;
+width:100%;
+height:100px;}
+
+.journalbox .journalbottom {
+background-image:url('https://fc09.deviantart.net/fs71/o/2012/019/5/c/280273041_356452_lacemiddlefooter_by_shattered_earth-d4mv470.png');
+background-repeat: repeat-x;
+background-position: bottom;
+background-color: transparent;
+color:#2e4127;
+padding: 5px 20px 120px 20px;
+margin-bottom: 0px;
+margin-left: 0;
+margin-right: 0;}
+
+.journalbox .journalbottom A:link {
+color:#2e4127;
+}
+.journalbox .journalbottom A:visited {
+color:#2e4127;
+}
+
+.journalbox .list {
+background-color:#e3e9e1;
+
+}
+
+.journalbox .list li{
+color:#2e4127;
+font-family: helvetica;
+font-size: 10px;
+text-align: left;
+border-width: 0px;
+padding: 2px 2px 2px 5px;
+}
+
+.journalbox .list .a{
+background-color:#e3e9e1;
+color:#2e4127;
+border-width: 0px;}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! There is a gap between the journal footer and body
+
+-Headers
+Use this to make a header
+<h1>Header Text Goes Here</h1> and you should start the paragraph on the same line for best effect!
+-Blockquotes
+Use this to make blockquotes
+<blockquote>
+blockquotes look best with a line break in front but not one behind! </blockquote>
+And don't forget your basics like
+<b>bold!</b>
+<i>italics!</i>
+-Commission Info/Footer
+You CAN change the commission info box. When you go to your skins, you EDIT this skin, and the last box at the bottom (the footer) has the commission info. Just change the "Commission Info" part all the text under it to whatever you want! Suggestions for alternatives are friends, features, links to your own art, etc. :) Visually here: [link]
+-Header "My Journal" Image
+You CAN change the logo at the top if you know how to use photoshop or any program that opens PSD files and saves as 24-bit transparent pngs, feel free to change it yourself! Just download the PSD file HERE: [link]
+
+--Header Code--
+<div align="center">
+<div class="main">
+--End Header Code--
+--Footer Code--
+</div> 
+<div class="commission">
+<h2>&#x2605;<a href="URL">Commission Info</a>&#x2605;</h2>
+<b>Status:</b> OPEN
+<b>Requests:</b> NO
+<b>Kiriban:</b> #####
+</div>
+<div class="footer">Skin and CSS by :devshattered-earth:</div>
+*/

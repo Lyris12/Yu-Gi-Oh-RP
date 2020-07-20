@@ -1,0 +1,77 @@
+.black_square { background: url("https://orig10.deviantart.net/aea3/f/2015/119/7/5/am_06_by_immerot-d8rjkzm.png") top no-repeat; height: 106px; width: 708px; position: absolute; top: 220px; left: 50%; margin-left: -354px; }
+ .gen_links { text-align: center; margin-top: 42px; }
+  .gen_links a { padding-left: 30px; padding-right: 30px; text-decoration: none; font-family: Segoe Print, Corbel, Ariel !important; color: #c1b077 !important; font-weight: normal !important; }
+  .gen_links a:hover { color: #809bc4 !important; }
+.green_square { background: transparent; height: 50px; width: 708px; position: absolute; top: 100px; left: 50%; margin-left: -354px; }
+ .links { text-align: center; margin-top: 10px; }
+  .links a { padding-left: 20px; padding-right: 20px; text-decoration: none; font-size: 10pt !important; color: #acacac !important; font-weight: normal !important; }
+.gr1, .gr2, .gr3, .tri, .gr-top h2>img, .mavatar, .category, .name, .author { display: none; }
+.negate-box-margin { background: #dad9dc url("https://orig00.deviantart.net/7676/f/2015/119/7/f/am_behind_by_immerot-d8rjky5.jpg") top repeat-y; }
+.gr-box { background: url("https://orig14.deviantart.net/3cf0/f/2015/119/b/1/am_by_immerot-d8rjm6n.jpg") top no-repeat; }
+.gr-body { border: none; background: transparent; }
+ .gr-body .gr { border: none; }
+.gr-top { border: none; max-width: 700px; margin-left: auto; margin-right: auto; height: 250px; background: url("https://orig11.deviantart.net/f25f/f/2015/119/b/9/am_header_by_immerot-d8rjkxr.png") top repeat-y; }
+ .gr-top .gr { border: none; background: transparent; padding-top: 130px; text-align: center; }
+  .gr-top .gr a { font-family: Segoe Script, Segoe Print, Corbel, Ariel; font-size: 18pt; color: #aab1b8 !important; font-weight: normal !important; }
+  .gr-top .gr h2 { padding-right: 100px; }
+  .gr-top .gr .timestamp { color: #aab1b8 !important; font-family: DaunPenh, Corbel, Ariel; font-size: 11pt; position: absolute; top: 125px; left: 45%; }
+.grf-indent { max-width: 700px; margin-left: auto; margin-right: auto; background: url("https://orig10.deviantart.net/cf3f/f/2015/119/5/b/am_body_by_immerot-d8rjkxy.png") top repeat-y; }
+.text { padding: 100px 40px 0px 40px; font-family: Corbel, Ariel; font-size: 12pt; text-align: justify; color: #5e6064; margin-top: 40px; }
+ .text a { color: #809bc4; text-decoration: none; }
+ .text a:hover { color: #c1b077; }
+ .text ul { list-style-image: url("https://orig08.deviantart.net/d1a9/f/2015/119/a/d/am_23_by_immerot-d8rjkyi.png");  }
+ .text h1 { background: url("https://orig01.deviantart.net/7628/f/2015/119/7/1/am_12_by_immerot-d8rjkzi.png") top left no-repeat; padding-top: 18px; padding-bottom: 32px; padding-left: 40px; font-weight: lighter; font-size: 17pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -32px; margin-top: -30px; }
+ .text h2 { background: url("https://orig10.deviantart.net/1970/f/2015/119/b/c/am_13_by_immerot-d8rjkzb.png") top left no-repeat; padding-top: 18px; padding-bottom: 32px; padding-left: 40px; font-weight: lighter; font-size: 16pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -30px; }
+ .text h3 { background: url("https://orig13.deviantart.net/78f9/f/2015/119/7/8/am_16_by_immerot-d8rjkz5.png") top left no-repeat; padding-top: 14px; padding-bottom: 20px; padding-left: 40px; font-weight: lighter; font-size: 15pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -20px; }
+ .text h4 { background: url("https://orig04.deviantart.net/c184/f/2015/119/0/f/am_19_by_immerot-d8rjkyw.png") top left no-repeat; padding-top: 14px; padding-bottom: 20px; padding-left: 40px; font-weight: lighter; font-size: 14pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -20px; }
+ .text h5 { background: url("https://orig04.deviantart.net/af9c/f/2015/119/9/9/am_21_by_immerot-d8rjkyr.png") top left no-repeat; padding-top: 12px; padding-bottom: 20px; padding-left: 40px; font-weight: bolder; font-size: 13pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -20px; margin-top: 0px; }
+ .text h6 { background: url("https://orig12.deviantart.net/8297/f/2015/119/3/6/am_27_by_immerot-d8rjkyc.png") top left no-repeat; padding-top: 11px; padding-bottom: 20px; padding-left: 40px; font-weight: bolder; font-size: 12pt; letter-spacing: 1px; word-spacing: 0px; color: #81848b !important; margin-bottom: -30px; margin-top: 0px; }
+ .text blockquote { background: url("https://orig05.deviantart.net/e6f9/f/2015/119/5/6/am_29_by_immerot-d8rjkya.png") top repeat-y; padding: 10px 20px 20px 20px; margin: 5px 10px 10px 10px; border: 1px solid #e0e0e2; }
+ .text img { border: 1px solid #FFFFFF; }
+.c.ppb.alink.bottom { padding-top: 120px; padding-bottom: 40px; }
+ .commentslink:link { font-family: DaunPenh, Corbel, Ariel; font-size: 18pt; color: #809bc4 !important; }
+ .commentslink:hover { font-family: DaunPenh, Corbel, Ariel; font-size: 18pt; color: #c1b077 !important; text-decoration: none; }
+.f.list { position: relative; top: 150px; padding: 5px 40px 5px 40px; text-align: center;  }
+ .f.list>.f>img { display: none; }
+ .f.list>.f { padding-left: 5px; padding-right: 5px; }
+ .f li { display: inline; background: transparent; font-family: Segoe Print, Corbel, Ariel; font-size: 8pt; color: #acacac; }
+ .f.list+.text { margin-top: 60px; }
+.c.ppb.alink.bottom+.f.list { position: static; padding-bottom: 50px; }
+a.external:after{display: none!important;}
+/*
+The skin has two places for the custom links below the header: the main and the more simple one. To make them visible find the following sentences in header section of the skin, replace the "#" with your URLs and add the names for your links:
+<a href="YOUR_URL_INSTEAD_OF_#">YOUR_LINK_NAME</a>
+
+--Header Code--
+<div class="black_square">
+<div class="gen_links">
+<a href="#">
+</a>
+<a href="#">
+</a>
+<a href="#">
+</a>
+<a href="#">
+</a>
+</div>
+</div>
+<div class="green_square">
+<div class="links">
+<a href="#">
+</a>
+<a href="#">
+</a>
+<a href="#">
+</a>
+<a href="#">
+</a>
+</div>
+</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/immerot/art/skin-autumn-milk-400670539">skin :: autumn_milk</a> by <a href="https://www.deviantart.com/Immerot">Immerot</a>
+*/

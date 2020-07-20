@@ -1,0 +1,240 @@
+.journaltext-bottom
+{
+background: url(https://fc09.deviantart.net/fs71/o/2013/350/6/b/420256920_1331662_journaltext_bottom_right_img_by_jeffrettalyn-d6y4fll.png) bottom right;
+height: 120px;
+width: 426px;
+bottom: 461px;
+right: 15px;
+position: absolute;
+z-index: 2;
+}
+.journaltext-bottom-b
+{
+background: url(https://fc03.deviantart.net/fs71/o/2013/350/4/b/420256920_1331663_journaltext_bottom_right_b_img_by_jeffrettalyn-d6y4r9n.png) bottom right;
+height: 228px;
+width: 180px;
+bottom: 581px;
+right: 15px;
+position: absolute;
+z-index: 2;
+}
+.journaltext-top
+{
+background: url(https://fc09.deviantart.net/fs71/o/2013/350/7/b/420256920_1331664_journaltext_top_right_img_by_jeffrettalyn-d6y4fsw.png) top right;
+height: 123px;
+width: 445px;
+top: 445px;
+right: 15px;
+position: absolute;
+z-index: 1;
+}
+.journaltext-top-b
+{
+background: url(https://fc05.deviantart.net/fs70/o/2013/350/3/d/420256920_1331665_journaltext_top_right_b_img_by_jeffrettalyn-d6y4pwz.png) top right;
+height: 319px;
+width: 145px;
+top: 568px;
+right: 15px;
+position: absolute;
+z-index: 1;
+}
+.journaltext-left
+{
+background: url(https://fc06.deviantart.net/fs70/o/2013/350/c/0/420256920_1331666_journaltext_left_img_by_jeffrettalyn-d6y4fp4.png) top left;
+height: 108px;
+width: 352px;
+top: 450px;
+left: 15px;
+position: absolute;
+z-index: 1;
+}
+.journaltext-left-b
+{
+background: url(https://fc04.deviantart.net/fs70/o/2013/350/4/b/420256920_1331667_journaltext_left_b_img_by_jeffrettalyn-d6y4qbj.png) top left;
+height: 629px;
+width: 147px;
+top: 558px;
+left: 15px;
+position: absolute;
+z-index: 1;
+}
+.shadow-holder img
+{
+border: 1px solid #638595;
+border-radius:3px;
+}
+.shadow-holder img:hover 
+{
+border: 1px solid #f7abdb;
+border-radius:3px;
+}
+.shadow-holder 
+{
+background: url(https://fc09.deviantart.net/fs70/o/2013/350/9/f/420256920_1331668_shadowholder_img_by_jeffrettalyn-d6y4yxt.png) top left no-repeat;
+width: auto;
+height: 155px;
+padding-top: 40px;
+padding-left: 50px;
+}
+.shadow {
+background:none !important;
+}
+.top-right
+{
+background: url(https://fc00.deviantart.net/fs70/o/2013/350/8/8/420256920_1331669_top_right_img_by_jeffrettalyn-d6y4i5g.png) top right;
+height: 98px;
+width: 406px;
+top: 50px;
+right: 10px;
+position: absolute;
+z-index: 1;
+}
+.journalbox h2
+{
+padding-top: 250px;
+color: #d1d8db;
+font-family: janda elegant handwriting;
+font-size: 50px;
+text-decoration: none!important;
+text-align: center;
+font-weight: normal;
+}
+.journalbox h2 a
+{
+color: #d1d8db;
+text-decoration: none;
+}
+.journalbox h2 a:hover
+{
+color: #fff;
+}
+h2 img
+{
+display: none;
+}
+.journaltop 
+{
+background: url(https://fc06.deviantart.net/fs71/o/2013/350/9/1/420256920_1331670_journaltop_img_by_jeffrettalyn-d6y4f2u.png) top left no-repeat transparent; 
+height: 482px;
+width: auto; 
+max-width: 2500px;
+text-align: center; 
+font-size: 10px;
+font-family: book antiqua;
+color: #ffffff;
+}
+.journalbox
+{
+width: auto;
+background: url(https://fc08.deviantart.net/fs71/o/2013/350/9/1/420256920_1331671_body_img_by_jeffrettalyn-d6y3l5n.png) top left no-repeat transparent;
+max-width: 2500px;
+max-height: 2500px;
+}
+.journalbottom
+{
+background: url(https://fc06.deviantart.net/fs70/o/2013/350/e/3/420256920_1331672_journalbottom_img_by_jeffrettalyn-d6y4f73.png) bottom right no-repeat;
+height: 491px;
+}
+.journaltext
+{
+min-height: 400px;
+overflow: auto;
+max-height: 1300px;
+text-align: center;
+font-family: book antiqua;
+font-size: 14px;
+color: #fff; 
+background-color: #638595;
+border-radius: 30px;
+margin-right: 80px;
+margin-left: 90px;
+padding-bottom: 65px;
+padding-top: 50px;
+padding-right: 20px;
+margin-top: 20px;
+}
+.journaltext a
+{
+color: #f7abdb; 
+text-decoration: none;
+}
+.journaltext a:hover
+{
+text-decoration:underline;
+}
+.journalbox .commentslink 
+{
+color: #fff;
+font-size: 28px;
+font-family: janda elegant handwriting;
+position: absolute;
+bottom: 430px;
+left: 40%;
+z-index: 2;
+}
+.list
+{
+text-align: center;
+padding: 15px 15px 15px 15px;
+position: absolute;
+bottom: 100px;
+left: 80px;
+border-radius: 20px;
+background: url(https://fc06.deviantart.net/fs71/o/2013/350/1/2/420256920_1331673_mood_bg_img_by_jeffrettalyn-d6y4wjc.png) bottom left repeat transparent;
+}
+.journalbox .list li 
+{
+ background:  none repeat scroll 0 0 transparent;
+ color: #fff;
+ font-family: book antiqua;
+ font-size: 16px;
+}
+.journalbox .list li.a 
+{
+ font-family: book antiqua;
+ color: #fff;
+ font-size: 16px;
+}
+.footer
+{
+color: #fff;
+font-family: book antiqua;
+font-size: 12px;
+text-align: center;
+bottom: 0px;
+z-index: 2;
+}
+.footer a
+{
+color: #f7abdb;
+text-decoration: none!important;
+}
+.footer a:hover
+{
+text-decoration: underline!important;
+}
+skin_attribution
+{
+display: none;
+}
+/*
+--Footer Code--
+<div class="journaltext-bottom">
+</div>
+<div class="journaltext-bottom-b">
+</div>
+<div class="journaltext-top">
+</div>
+<div class="journaltext-top-b">
+</div>
+<div class="journaltext-left">
+</div>
+<div class="journaltext-left-b">
+</div>
+<div class="top-right">
+</div>
+<div class="footer">
+<hr>
+<a href="http://fav.me/d16wzo2">Star Brushes</a> by <a href="https://www.deviantart.com/kuschelirmel-stock">kuschelirmel-stock</a> | CSS, Design &amp; <a href="http://fav.me/d5ct1i9">Space Brushes</a> by <a href="https://www.deviantart.com/jeffretta">JeffrettaLyn</a>    
+</div>
+*/

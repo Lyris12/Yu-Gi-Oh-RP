@@ -1,0 +1,83 @@
+.journalbox {
+border:3px #d43a53 solid!important;
+background-image:url(https://fc00.deviantart.net/fs70/o/2013/100/6/4/364614374_815819_background.png);
+background-position:top left;
+background-repeat:repeat;
+}
+
+.journalbox .list li {
+background-color:#f8d6d5!important;
+color:#666!important;
+}
+
+.journalbox .list li.a {
+background-color:#ffaab2!important;
+color:#666!important;
+}
+
+.journalbox .journaltop h2 {
+color:#d43a53!important;
+padding-top:230px;
+font:32px Rokkitt;
+}
+
+.journalbox .journaltop {
+background-color:transparent;
+color:#666!important;
+font-size:8pt!important;
+background-image:url(https://fc07.deviantart.net/fs71/o/2013/100/0/d/364614374_815820_banner-2520--2520da.png);
+background-position:top left;
+background-repeat:no-repeat;
+}
+
+.journalbox .journalbottom {
+background-color:#f8d6d5!important;
+padding-top:6px;
+border-top:3px #d43a53 solid!important;
+}
+
+.journalbox .journaltext {
+color:#666!important;
+background-color:#fff!important;
+border:3px #EF8E96 solid!important;
+margin:20px;
+padding:10px;
+}
+
+.journalbox .journaltop img {
+display:none!important;
+}
+
+a.lit q {
+color:#222;
+}
+
+a.lit q > strong:first-child {
+color:#D43A53;
+}
+
+.journalbox .boxtop {
+padding-left:15px!important;
+}
+
+blockquote {
+border-left:1px dashed #EF8E96;
+font-style:italic;
+color:#999;
+margin:1em 3em;
+padding:.5em 1em;
+}
+
+blockquote p {
+margin:0;
+}
+
+.journalbox a,.journalbox a:hover {
+color:#d43a53!important;
+}
+
+h1, h2, h3, h4 {
+    font: bold 18pt Rokkitt;
+    letter-spacing: -1px;
+    margin: 0;
+}

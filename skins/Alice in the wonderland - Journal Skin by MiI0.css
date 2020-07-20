@@ -1,0 +1,146 @@
+}
+a: link{cursor:url(https://other00.deviantart.net/aa54/o/2015/266/4/6/562080846_2473852_cursor.png), pointer;}
+a: hover{cursor:url(https://other00.deviantart.net/aa54/o/2015/266/4/6/562080846_2473852_cursor.png), pointer;}
+body{cursor:url(https://other00.deviantart.net/aa54/o/2015/266/4/6/562080846_2473852_cursor.png), pointer;}
+.journalbox {
+width:672px;
+height:1200px;
+background: url(https://other00.deviantart.net/fa44/o/2015/266/d/9/562080846_2473853_1_by_mii0-d9aecwi.gif);
+background-repeat: no-repeat;
+background-position: center;
+background-color: transparent;
+font-family: Segoe Print;
+border: 0px;
+}
+.journaltop {
+color:purple;
+font-family: 'Segoe Print'; 
+font-size: 11px;
+text-align: right; 
+letter-spacing: 1px;
+_margin-bottom: 1px;
+padding: 65px 10px 10px 0px;
+
+}
+.journalbox .journaltop {
+position: relative;
+top: 272px;
+left: 0px;
+width:560px;
+background-color: transparent;
+color: #000000;
+text-align: left align;
+padding: 60px;
+font-variant: small-caps;
+font-weight: bolder;
+}
+.journalbox .journaltop img{ 
+
+display: none}
+
+.journalbox .journaltop h2 {
+ color: purplish;
+ text-align: center;
+font-family: Segoe Print;
+ font-weight: bolder;
+ padding-right: 0px;
+ font-size: 45px;
+}
+
+.journalbox .journaltext {
+position: relative;
+top: 295px;
+left: 50px;
+background-color: transparent;
+height: 481px;
+width: 475px;
+overflow: auto;
+text-align: center;
+padding: 55px;
+font-size: 12px;
+font-weight: bolder;
+color: black;
+}
+
+
+.journalbox .journaltext A{
+text-decoration: none;
+color: purple;
+font-family: Segoe Print;
+font-size:10px;
+font-variant: small caps;
+font-weight: bold; 
+}
+
+
+
+.journalbox .list .a {
+background-color:transparent;
+color:#000000;
+font-family: Segoe Print, sans-serif;
+font-size: 14px;
+text-align: left; 
+font-variant: normal; 
+font-weight: normal; 
+font-style:normal;
+}
+
+.journalbox .list {
+background-color: #transparent;
+color: Black;
+font-family: Segoe Print, sans-serif;
+font-size: 14px;
+text-align: left; 
+font-variant: normal; 
+font-weight: normal; 
+font-style:normal;
+}
+
+.journalbox .list strong {
+font-family: Segoe Print;
+font-size: 15px;
+text-align: right; 
+color:#000000;
+font-variant: small caps; 
+font-weight: bolder; 
+font-style: italic;
+}
+
+.journalbox .journalbottom {
+background-color: transparent;
+padding-top: 349px;
+height: 1px;
+font-size: 12px;
+font-family: Segoe Print;
+color: pink;
+}
+
+.journalbox .commentslink {
+background-color: transparent;
+color: Black;
+font-size:12px;
+text-align: right; 
+font-variant: bold;
+font-weight: bold; 
+}
+
+.journalbox .prevlink {
+background-color: transparent;
+color: Black;
+font-size:12px;
+text-align: right; 
+font-variant: bold;
+font-weight: bold; 
+}
+
+.text{padding-bottom: 0px;}
+
+.list{
+position: absolute;
+bottom: 20px;
+margin: 0 0 0 80px;}
+
+.f{background: transparent;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

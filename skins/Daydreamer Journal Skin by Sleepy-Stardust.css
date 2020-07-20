@@ -1,0 +1,153 @@
+.gr-box * 
+{
+background:transparent;
+border:0;
+margin:0 auto;
+padding:0;
+}
+.gr-top h2 img, .gr1, .gr2, .gr3, .tri, .gr3.gb, .gr2.gb, .gr1.gb
+{
+display:none;
+}
+.gr-box
+{
+background-image:url("https://fc08.deviantart.net/fs70/f/2014/043/2/3/23ee2e2e755140cfd16af98011e2ba6e-d76497x.gif");
+background-repeat:no-repeat;
+border:0;
+margin:0 auto;
+padding:0;
+width:556px;
+height:668px;
+}
+.gr-top h2, .gr-top h2 a
+{
+color:#ffb1ce;
+font-family:"Petit Formal Script", Verdana, Geneva, sans-serif;
+font-size:20px;
+text-align:center;
+padding-top:90px;
+margin-left:-14px;
+text-shadow: 2px 2px #fff0f5;
+}
+.gr-top span
+{
+top: 73px;
+position: absolute;
+left: 7px;
+font-family:Tahoma, Geneva, sans-serif;
+color:#d1d1d1;
+font-size: 9px;
+}
+.gr-body .text
+{
+background-color: transparent;
+overflow:auto;
+height:291px;
+width:480px;
+margin-left:32px;
+padding-right:10px;
+margin-top:88px;
+margin-bottom:2px;
+color:#948b8e;
+font-family:Tahoma, Geneva, sans-serif;
+}
+.gr-body .text q, quote, blockquote
+{
+font-style:italic;
+color: #ccc;
+}
+.gr-body .text strong, b
+{
+color: #8be0ff;
+}
+.gr-body .text em, i
+{
+color: #b6ff8b;
+}
+.gr-body .text a
+{
+color:#ff8bb6;
+}
+.gr-body .text u, underline
+{
+color:#ff938b;
+}
+.gr-body .text strike, line-through
+{
+color:#ffea8b;
+}
+.feature img
+{
+border:2px solid #ff8bb6;
+padding:2px;
+}
+.gr-body h1
+{
+color:#ff8bb6;
+font-family:"Petit Formal Script", sans-serif;
+font-size:25px;
+text-align:center;
+}
+.gr-body h2
+{
+color:#ffb1ce;
+font-family:"Petit Formal Script", sans-serif;
+font-size:20px;
+text-align:center;
+}
+.gr-body h3
+{
+color:#948b8e;
+font-family:"Petit Formal Script", sans-serif;
+font-size:15px;
+text-align:center;
+}
+.c, .c a
+{
+text-decoration:underline;
+color:#ff8bb6;
+margin-top:19px;
+margin-bottom:8px;
+margin-left:70px;
+margin-right:70px;
+font-family:Tahoma, Geneva, sans-serif;
+text-shadow: 2px 2px #fff0f5;
+border-top:1px solid #fff2f7;
+}
+.credit{
+bottom: 0px;
+position: absolute;
+right: 33px;
+color:#ffb5d1;
+text-align: right;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:10px;
+}
+.credit a
+{
+color:#ff8bb6;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:11px;
+text-shadow: 2px 2px #ffd6e5;
+}
+.gr-body .list strong
+{
+color:#ff8bb6;
+font-family:Tahoma, Geneva, sans-serif;
+padding-left:229px;
+}
+.gr-body .list
+{
+color:#ffb5d1;
+}
+.gr-body .list .f.a
+{
+margin-left:-204px;
+font-family:Tahoma, Geneva, sans-serif;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Footer Code--
+<div class="credit">Skin made by :devcupcakekitten20:</div>
+*/

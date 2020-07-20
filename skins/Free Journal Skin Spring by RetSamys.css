@@ -1,0 +1,189 @@
+a.commentslink{
+text-shadow: white 0px 0px 5px;
+color:blue;
+}
+a{
+color:blue;
+}
+body{
+max-width:632px;
+}
+.journalbox{
+_width:632px;
+max-width:632px;
+color:darkblue;
+font-size:16px;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.box{
+border:none;
+background-color:transparent;
+}
+.boxtop{
+padding-top:0px;
+}
+.journaltop{
+border-top-left-radius:50px;
+border-top-right-radius:50px;
+height:331px;
+_width:620px;
+max-width:620px;
+background-image:url("https://fc05.deviantart.net/fs70/i/2013/066/4/9/journal_header_by_retsamys-d5x2nws.png");
+background-size:contain;
+_background-position:bottom;
+background-repeat:no-repeat;
+background-color:#6781ff;
+text-align:center;
+}
+.journaltop h2{
+padding-top:175px;
+text-shadow: white 0px 0px 10px,white 0px 0px 20px,white 0px 0px 50px,white 0px 0px 30px;
+}
+.journalbottom{
+border-bottom-left-radius:50px;
+border-bottom-right-radius:50px;
+background-image:url("https://fc01.deviantart.net/fs70/i/2013/066/3/c/journal_footer_by_retsamys-d5x2oeq.png");
+background-size:contain;
+height:611px;
+_width:632px;
+max-width:632px;
+padding-top:75px;
+background-color:#6781ff;
+background-position:bottom;
+background-repeat:no-repeat;
+}
+.list{
+color:#000033;
+width:310px;
+height:160px;
+padding-top:290px;
+position:absolute;
+top:400px;
+font-size:12px;
+}
+.list .a{
+font-size:12px;
+background-color:transparent;
+float:right;
+clear:right;
+max-width:50%;
+}
+.list .f{
+font-size:12px;
+}
+.list .a:hover{
+background-image:url("https://fc04.deviantart.net/fs71/f/2012/362/a/7/semi_transparent_white_by_retsamys-d5pibks.png");
+border-radius:5px;
+margin-bottom:3px;
+margin-right:3px;
+}
+.list .f:hover{
+max-width:50%;
+background-image:url("https://fc04.deviantart.net/fs71/f/2012/362/a/7/semi_transparent_white_by_retsamys-d5pibks.png");
+border-radius:5px;
+margin-bottom:3px;
+margin-left:3px;
+}
+.feat{
+color:#6781ff;
+text-align:center;
+background-image:url("https://fc04.deviantart.net/fs71/f/2012/362/a/7/semi_transparent_white_by_retsamys-d5pibks.png");
+padding:15px;
+margin:30px auto 0px auto;
+border-radius:30px;
+max-width:60%;
+}
+.feature{
+max-width:99%;
+max-height:600px;
+padding:5px;
+overflow:auto;
+margin:auto;
+}
+.info{
+background-image:url("https://fc01.deviantart.net/fs70/f/2013/065/d/4/info_icon_by_retsamys-d5x50mc.png");
+background-repeat:no-repeat;
+background-size:25px;
+background-position:15px;
+height:25px;
+width:100%;
+position:absolute;
+bottom:35px;
+}
+.info .window{
+position:absolute;
+background-image:url("https://fc04.deviantart.net/fs71/f/2012/362/a/7/semi_transparent_white_by_retsamys-d5pibks.png");
+border-radius:10px;
+top:-240%;
+left:14px;
+max-width:200px;
+max-height:200px;
+padding:10px;
+overflow:auto;
+z-index:100;
+text-align:center;
+}
+.info:hover .window{
+display:block;
+}
+.journaltext{
+min-height:450px;
+background-color:#6781ff;
+overflow:auto;
+}
+.journaltext .text{
+margin-right:auto;
+margin-left:auto;
+width:90%;
+}
+.push{
+float:left;
+width:300px;
+height:90px;
+margin-right:10px;
+padding-top:360px;
+background-image:url("https://fc06.deviantart.net/fs70/f/2013/065/c/d/journal_mood_box_by_retsamys-d5x4zvf.png");
+background-size:contain;
+background-repeat:no-repeat;
+}
+.linkbar{
+font-size:18px;
+text-shadow: white 0px 0px 10px;
+text-align:center;
+margin:35px 0 20px 0;
+}
+.linkbar a{
+color:blue;
+padding-left:20px;
+padding-right:20px;
+text-decoration:none;
+}
+.linkbar a:hover{
+text-shadow: white 0px 0px 10px,white 0px 0px 20px,white 0px 0px 30px,white 0px 0px 40px,white 0px 0px 50px;
+}
+/*
+--Header Code--
+<div class="linkbar">
+<b>
+<a href="https://me.deviantart.com">Profile</a>&bull;<a href="https://me.deviantart.com/gallery">Gallery</a>&bull;<a href="https://my.deviantart.com/deviants/add/me">Watch me</a>&bull;<a href="https://me.deviantart.com/favourites">Favourites</a>
+</b>
+</div>
+<div class="push">
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="feat">
+<div class="feature">
+<h3>
+<u>Feature</u>
+</h3>
+<br>
+<br>
+</div>
+</div>
+<div class="info">
+<div class="window">CSS by <a href="https://www.deviantart.com/RetSamys">RetSamys</a><br>
+<a href="http://fav.me/d5x97fa">Install this Journal Skin</a> for free!</div>
+</div>
+*/

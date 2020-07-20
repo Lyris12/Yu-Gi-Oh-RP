@@ -1,0 +1,99 @@
+.journalbox {
+border: none;
+font-family: Verdana, sans-serif;
+color: #626161;
+background: #1d1d1d;}
+
+.journaltop {
+font-size: 11px;
+color: #434242;
+padding: 40px 0 45px 38px;
+background: transparent url(https://fc06.deviantart.com/fs44/o/2009/130/e/4/122036895_67013_header.jpg) no-repeat left top;}
+
+.journaltop img{display: none;}
+
+h2{
+font-weight: normal;
+font-family: Trajan Pro, Verdana, sans-serif;
+color: #ffffff;}
+
+ul{text-align: center;}
+
+li {
+letter-spacing: 1px;
+padding: 0 0 10px 20px; 
+font-size: 11px;
+line-height: 19px;
+background: url(https://fc06.deviantart.com/fs45/o/2009/130/5/0/122036895_67014_mood.jpg);}
+
+ul img{display: none;}
+
+.list a{background: transparent; }
+.f{padding: 1px;}
+strong{color: #ffffff; font-family: Trajan Pro, Verdana; font-weight: normal; padding: 0 5px 0 10px; }
+
+.journaltext {
+padding: 0 20px 90px 20px;
+margin: -18px 0 0 0;
+background: transparent url(https://fc09.deviantart.com/fs43/o/2009/130/5/b/122036895_67015_tianshi.jpg) no-repeat bottom right;}
+
+a{ color: #b5aaaa;}
+a:hover{color: #ffffff; }
+
+b{
+margin: 25px 0 -9px 0;
+_margin: 25px 0 0 0;
+font-size: 16px;
+font-weight: normal;
+font-family: Trajan Pro, Verdana;
+color: #ffffff;
+display: block;
+border-bottom: 1px solid;}
+
+p{margin: 0;}
+
+p:first-letter{
+font-size: 20px; 
+font-weight: bold; 
+color: #ffffff;
+margin-right: 2px;
+font-family: Trajan Pro, Verdana;}
+
+.feature{
+margin: 20px -20px 15px -20px;
+padding: 15px 0;
+background: #2a2a2a;
+text-align: center;}
+
+.mini .shadow{background-image: none!important}
+.mini a{
+display: inline-block;
+width: 50px!important;
+height: 50px!important;
+overflow: hidden;
+border: solid #353535;
+border-width: 1px;
+outline: 1px solid #080808!important }
+
+.mini a:hover{
+  border-color: #ffffff!important;
+  outline: 1px solid #080808!important}
+
+.journalbottom {
+position: relative;
+top: -50px;
+font-family: Trajan Pro, Verdana;
+color: #434242;}
+
+.journalbottom a{color: #434242;}
+.journalbottom a:hover{text-decoration: underline!important;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Headlines
+<b>....< /b>
+- Paragraph with first letter
+<p>...</p>
+- Mini Gallery
+<div class="feature"><div class="mini"> ... </div></div>
+*/

@@ -1,0 +1,79 @@
+.journalbox{
+background: #0f081b;
+border: 1px solid;
+margin: 0 auto;
+}
+
+.journaltext{
+padding-top: 20px;
+padding-left: 30px;
+padding-right: 30px;
+background: url(https://fc09.deviantart.com/fs47/o/2009/198/4/1/129829271_77845_contents.jpg) repeat-y;
+color: #c9cef2;
+background-position: right;
+padding-bottom:20px;
+line-height: 1.4em;
+
+
+}
+
+.journaltop{
+background: url(https://fc01.deviantart.com/fs49/o/2009/198/2/4/129829271_77846_header.jpg) no-repeat;
+height: 50px;
+font-size: 1.3em;
+color: #d9be82;
+font-size: .8em;
+text-align: center;
+padding-top:15px;
+}
+
+.journaltop h2{
+text-align: center;
+color: #e9be82;
+font-size: 2.5em;
+font-weight: normal;
+}
+
+
+
+
+.journaltop img{
+display: none;
+}
+
+.journalbottom{
+padding-top:6px;
+background: url(https://fc04.deviantart.com/fs48/o/2009/198/5/3/129829271_77847_comments.jpg) no-repeat;
+height: 30px;
+border-bottom: 1px dotted #321534;
+padding-bottom: 25px;
+}
+
+.journalbottom a{
+position: relative;
+top:20px;
+color: #e9be82;
+}
+
+.journalbottom a:hover{
+
+color: #f9fef2;
+text-decoration:none;
+}
+ a:hover{
+color: #f9fef2;
+text-decoration:none;
+}
+.journalbottom span{
+position: relative;
+top:20px;
+color: #e9be82;
+}
+
+.f li{
+padding-top: 3px;
+color: #c9cef2;
+}
+ .f{
+background: none;
+}

@@ -1,0 +1,384 @@
+.gr-box {
+	background: #4d3832;
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	font-size: 90%;
+	margin: 0;
+	padding: 0;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.gr1 {display:none;}
+.gr2 {display:none;}
+.gr3 {display:none;}	
+	
+
+.gr-box a {
+	color: #2496a7;
+	text-decoration: none;
+
+}
+
+.gr-box a:hover {
+	border-bottom: 1px dashed #2496a7;
+	
+}
+
+.gr-top {
+	background: url(https://fc08.deviantart.net/fs70/o/2012/366/f/4/345919407_621704_155314457_110408_ss_header.png) top left repeat-x;
+	height: 270px;
+	position: static;
+	overflow: visible;
+	border: none;
+	text-align: right;
+}
+
+.gr-top .gr {
+	position: static;
+	overflow: visible;
+	background: none;
+	border: none;
+}
+
+.gr-top img {
+	display: none;
+}
+
+.text h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	color: #2496a7;
+	letter-spacing: 1px;
+	margin: 0;
+	padding: 0;
+}
+
+.gr-top h2 {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	text-transform: capitalize;
+	font-size: 1.6em;
+	font-weight: 400;
+	color: #fff;
+	padding-top: 160px;
+	margin-right: 60px;
+	text-shadow: 1px 1px #6fbbc7;
+}
+
+.gr-top h2 a {
+	color: white;
+}
+
+.gr-top span {
+	color: #fff;
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	text-transform: lowercase;
+	font-style: italic;
+	font-size: 0.95em;
+	margin-right: 60px;
+	text-shadow: 1px 1px #6fbbc7;
+}
+
+.tri {
+	display: none;
+}
+
+
+.topbird {
+	position: absolute;
+	top: 110px;
+	right: 0;	
+}
+
+.bottombird {
+	position: absolute;
+	bottom: 50px;
+	left: 30px;	
+}
+
+.gr-body {
+	position: static;
+	overflow: visible;
+	border: none;
+	background: none;
+	margin: -25px 30px 20px 30px;
+	padding: 0;
+
+}
+
+.gr-body .gr {
+	position: static;
+	overflow: visible;
+	border: none;
+}
+
+.left { 
+	position: absolute;
+	left: 32px;
+	top: 255px;
+	padding: 10px;
+	width: 150px;	
+	font-size: 13px;
+	text-align: center;
+	background: none;
+	text-shadow: none;
+}
+
+.left a {
+	color: #fff;
+	text-transform: lowercase;
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+
+.left a:hover {
+	font-weight: bold;
+	
+}
+
+.leftlinks {
+	background: url(https://fc07.deviantart.net/fs70/o/2012/366/b/f/345919407_621705_155314457_110409_ss_sidelinkbg.jpg) center no-repeat;
+	width: 131px;
+	height: 38px;
+	margin-left: 5px;
+	padding-top: 6px;
+    _padding-top: 3px;
+	margin-bottom: -8px;
+}
+
+
+.text {
+	background: #efe9d6 url(https://fc06.deviantart.net/fs70/o/2012/366/a/1/345919407_621706_155314457_110410_ss_textbg.jpg) top left repeat-y; 
+	border: 1px solid #fffbf4;
+	color: #0a5561;
+	overflow: visible;
+	position: static;
+	min-height: 330px;
+	padding: 0 25px 0 200px;
+	line-height: 20px;
+	font-size: 1.1em;
+	text-shadow: 1px 1px #f9f5f0;
+}
+
+.text ul, .text ol {	
+	line-height: 17px;
+	background: #2596a8;
+	border: 1px solid #e1f7fb;
+	margin: 5px 25px 10px 26px;
+	padding: 10px 22px 10px 22px;
+	font-style: italic;
+	color: #fff;
+	list-style: inside;
+	text-shadow: none;
+}
+
+.section {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	color: #2496a7;
+	font-size: 1.7em;
+	margin-bottom: -10px;
+	line-height: 0px;
+    _line-height: 20px;
+	padding: 0;
+	margin-top: -20px;
+}
+
+.divider {
+	background: url(https://fc07.deviantart.net/fs71/o/2012/366/d/9/345919407_621707_155314457_110411_ss_divider.jpg) center no-repeat;
+	height: 102px;
+	width: 100%;
+	margin: 5px 0 5px 0;
+}
+
+.features {
+	background: #2596a8;
+	border: 1px solid #e1f7fb;
+	margin: 5px -10px 10px -15px;
+	padding: 10px 10px 20px 10px;
+	text-align: center;
+	font-style: italic;
+	color: #fff;
+	text-shadow: none;
+}
+
+.features h2 {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	color: white;
+	letter-spacing: 1px;
+	font-size: 1.7em;
+	margin-bottom: -10px;
+	line-height: 0px;
+    _line-height: 20px;
+	padding: 0;
+}
+
+.bottom {
+	position: relative;
+    _margin-bottom: 100px;
+	text-shadow: none;
+	margin-bottom: 60px;
+}
+
+.bottom a {
+		color: #fff;	
+}
+
+.bottom a:hover {
+	font-weight: bold;
+	border: none;	
+}
+
+.bottom .commentslink {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	text-transform: lowercase;
+	color: #fff;
+	font-weight: normal;
+	font-style: italic;
+	padding-top: 3px;
+	padding-left: 2px;
+	position: absolute;
+	right: 0;
+	margin-top: -1px;
+	margin-right: -3px;
+	background: url(https://fc06.deviantart.net/fs71/o/2012/366/1/c/345919407_621708_155314457_110412_ss_commentsbg.png) center no-repeat;
+	height: 41px;
+	width: 217px;
+	margin-bottom: 10px;
+}
+
+.bottom .prevlink {
+	 display: none;
+}
+
+.bottom .hsep {
+	display: none;
+	
+}
+
+.list {
+	background: #ece4d7 url(https://fc01.deviantart.net/fs70/o/2012/366/1/0/345919407_621709_155314457_110413_ss_bottombg.jpg) top left repeat-x;
+	min-height: 150px;
+	border-top: 1px solid #b3eff8;
+	line-height: 15px!important;
+	margin: 30px -30px -30px -30px;
+	padding: 15px 0 25px 220px;
+   _padding: 15px 0 140px 220px;
+	text-shadow: 1px 1px #6fbbc7;
+}
+
+.list img {
+	display: none;
+	
+}
+
+.list li {
+	font-family: 'Lora', Georgia, "Times New Roman", Times, serif!important;
+	color: #fff;
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-bottom: -2px;
+	background: none!important;
+}
+
+.a {
+	background: none;	
+}
+
+
+.features .shadow {
+	background: none!important;	
+}
+
+.features .shadow-holder {
+	margin: 5px;
+	_margin: 0px;
+	padding: 7px;
+	background: #a8d5dc;
+	border: 1px solid #e1f7fb;
+}
+
+
+.features .shadow-holder .shadow a img {
+	border: 1px solid #2596a8;
+    max-height: 120px;
+	max-width: 100px;
+     _width: 100px;
+     _height: 120px;
+}
+
+.features .shadow-holder .shadow a img:hover {
+	border: 1px solid #ffffff;
+}
+
+.credit {
+	color: #2596a8;
+	font-size: 9px;
+	text-transform: uppercase;	
+	text-shadow: none;
+	text-align: right;
+	margin-bottom: 5px;
+}
+
+.credit a {
+	color: #2596a8;	
+}
+
+blockquote {
+	background: #2596a8;
+	padding: 15px;
+	color: white;
+	font-style: italic;
+	text-shadow: none;
+}
+
+.simple-divider {
+	border-bottom: 1px dotted #2496a7;
+	padding: 0 30px 0 30px;
+	height: 1px;
+	margin: 5px 0 5px 0;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+Section Header
+<h2 class="section">Section Header</h2>
+Berries Divider
+<div class="divider"></div>
+Simple Divider
+<div class="simple-divider"></div>
+Headlines 1-6
+<h1>Headline</h1>
+<h2>Headline</h2>
+<h3>Headline</h3>
+<h4>Headline</h4>
+<h5>Headline</h5>
+<h6>Headline</h6>
+Features Box
+<div class="features">
+<h2>Features Header</h2>
+Thumbs and text go here.
+</div>
+For a sample journal entry that uses this code simply download the text file found at [link]
+Left Sidebar
+If you want to add stamps, icons, or links to this area, simply go to the skin header area under the EDIT SKIN option.
+
+
+--Header Code--
+<div class="topbird"><img src="https://fc05.deviantart.net/fs70/o/2012/366/8/b/345919407_621710_155314457_110414_ss_topbird.png" width="133" height="126" alt="Top Bird" /></div>
+
+<div class="left">
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery</a></div>
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/favourites/">Favourites</a></div>
+<div class="leftlinks"><a href="https://www.deviantart.com/marufuji--ryou/store/">Prints</a></div>
+<div class="leftlinks"><a href="http://www.your-site.com">Blog</a></div>
+<div class="leftlinks"><a href="http://www.your-facebook-url.com">Facebook</a></div>
+
+</div>
+--End Header Code--
+--Footer Code--
+<div class="credit">Skin made by :devfantasy-alive:</div>
+*/

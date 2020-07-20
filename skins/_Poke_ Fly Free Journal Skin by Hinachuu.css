@@ -1,0 +1,231 @@
+.journalbox 
+{
+max-width: 598px;
+_width: 598px;
+color: #361204;
+font-size: 11px;
+font-family:  Trebuchet MS;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+
+.journaltop 
+{
+height: 193px;
+color: #FFFFFF;
+display:block;
+text-shadow:0 0 20px #F2830B,0 0 10px #F2830B,0 0 5px #F2830B;
+background: url(https://fc02.deviantart.net/fs71/o/2011/343/d/3/273169359_342638_pokemoncommonbirdsskinh.png) no-repeat top center;  
+font-family: Trebuchet MS; 
+font-size: 10px;
+padding: 150px 25px 0px 0px;
+text-align: center;
+}
+
+.journaltop h2 
+{
+color: #FFFFFF;
+display: block;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:normal;
+text-shadow:0 0 20px #F2830B,0 0 10px #F2830B,0 0 5px #F2830B;
+background-color: transparent; 
+font-family: century gothic;
+font-size: 25px; 
+font-weight: normal; 
+letter-spacing: 1px;
+text-align: center;
+padding: 195px 0px 0px 0px;
+}
+.text strong {
+color:#FFFFFF;
+font-family: century gothic; 
+display: block;
+font: bold 150%/100%  
+overflow: auto none;
+font-weight:bold;
+text-shadow:0 0 10px #DCA80A,0 0 10px #DCA80A,0 0 5px #DCA80A;
+background-color: transparent; 
+font-size: 15px;
+text-align: center;
+padding-bottom: 1px;
+}
+
+.text p{
+color: #8C9375;
+font-size: 12px;
+font-family: century gothic;
+text-align: center; 
+text-shadow: #C0C0C0 1px 1px 1px;
+background-color:#ffffff;
+margin: 5px 35px 5px 35px;
+border:1px dashed #C2C5B7; 
+padding:10px;
+-moz-border-radius: 6px;
+
+}
+
+.journaltop img 
+{
+display: none;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+width:95px;
+height:95px;
+opacity: 0.70;
+padding: 5px;
+border-radius: 5px;
+border: 1px dashed #E47604;}
+
+.thumbs img:hover{
+opacity: 100;
+background: #FDF251;
+border: 1px dashed #fff;}
+
+.journalbox .list li {
+text-align: center;
+font-family: century gothic;
+font-size: 11px;
+text-shadow: #C0C0C0 1px 1px 1px;
+padding: 2px;
+margin: 2px;
+border: 1px dashed #FFF;
+border-radius: 115px;
+    background-color: #ffffff !important;
+    color: #ED5709 !important;
+}
+
+.journalbox .list li.a {
+    background-color: #FCEF54 !important;
+    color: #79390B !important;
+}
+
+.journaltext 
+{
+background-image: url(https://fc03.deviantart.net/fs70/o/2011/343/a/f/273169359_342639_pokemoncommonbirdsskinb.png);
+padding: 75px 50px 0px 50px;
+text-align: justify;
+}
+.journalbox .journaltext b {
+	color:#F52112;
+	font-family:century gothic;
+	font-size:13px;
+	font-weight:bold;
+        text-transform:none;
+	text-decoration:none;
+}
+.journalbox .journaltext u {
+	text-decoration: normal;
+	color:#4E6A45;
+	font-family: Trebuchet MS; 
+	font-size:12px;
+	font-weight: bold;
+}
+.journalbox .journaltext i {
+	color:#D20D06;
+	font-family:century gothic;
+	font-size:12px;
+	font-weight:italic;
+        text-transform:none;
+	text-decoration:none;
+}
+.journaltext a
+{
+color: #4D9515;
+font-family: century gothic; 
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #0B7372;
+text-decoration: underline;
+}
+
+.boxtitle{
+font-size: 15px;
+font-weight: bold;
+color: #E93B08;
+display:block;
+text-shadow: #C0C0C0 1px 1px 2px;
+margin: 10px 0 -10px 0;}
+
+.scrollbox{
+background: nonce;
+overflow: auto;
+color: #D63D08;
+height: 150px;
+padding: 5px;
+border-radius: 10px;
+border:1px dashed #C6AD54;}
+
+.scrollbox a{color: #545454;}
+
+.journalbottom 
+{
+background: url(https://fc05.deviantart.net/fs71/o/2011/343/c/9/273169359_342640_pokemoncommonbirdsskinf.png) no-repeat; 
+height: 121px;
+padding: 0px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: century gothic;
+font-size: 11px;
+color: #F86114;
+text-decoration: bold;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #E5180C;
+text-decoration: underline;
+}
+
+.footer
+{
+font-size: 10px;
+padding: -90px 0px 0px 0px;
+}
+
+.footer a
+{
+color: #D13D2E;
+text-decoration: none;
+}
+
+.footer a:hover
+{
+color: #283947;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Artist does not allow editing
+
+Bold:
+<b> Text here</b>
+<strong>Strong Text:</strong>
+Text here
+Underline/Re-Color:
+<u> Text here</u>
+Parragraph:
+<p> Text here</p>
+Italic:
+<i> Text here</i>
+Thumb Effect:
+<div class="thumbs"> Art here </div>
+Scrollbox:
+<div class="scrollbox">Text here </div>
+
+--Footer Code--
+<div class="footer"><div align="center">
+Artwork by::devsa-dui:
+Original CSS by :devLilyas: Graph design by::devhinachuu:
+Thx to :devginkgografix: for CSS Tutorials
+And Resources by::devIllusion-Kat:&:devGillianIvy:</a></div>
+*/

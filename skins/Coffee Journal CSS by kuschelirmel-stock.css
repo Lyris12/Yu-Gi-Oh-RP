@@ -1,0 +1,40 @@
+.journalbox {background:#f7f6f4; color:#716e6c; margin: 0 auto 10px auto; max-width:950px; font: 12px Verdana, Arial;padding:0;border:1px solid #fff;}
+.journaltop {text-align:center;background:url(https://fc01.deviantart.com/fs43/o/2009/158/5/d/125075084_71628_coffee-header.jpg) no-repeat top center; font-variant:small-caps; font-size:10px;margin:0; padding: 0 10px 0 10px;letter-spacing:1px;color:#6e7c8f;height: 211px;}
+.journaltop h2 { margin:0; padding:10px 0 2px 0; font: 28px Georgia, Times New Roman; color:#2f4461; letter-spacing:2px;}
+.journaltop img {display:none;}
+a {color:#2f4461; text-decoration:none;}
+a:hover {text-decoration:underline;}
+.journaltext {text-align:center; padding: 5px 20px 20px 20px; background:url(https://fc00.deviantart.com/fs44/o/2009/158/a/f/125075084_71629_coffee-journal-top.jpg) no-repeat top center; line-height: 16px;}
+.navi {color:#2f4461; font-size:12px; font-variant:small-caps; letter-spacing:1px; text-align:center; padding: 0; background: #f7f6f4;border-top: 1px solid #fff; border-bottom: 1px solid #fff; width:300px; margin: 0 auto;}
+.navi a { padding: 1px 2px; }
+.navi a:hover {text-decoration:none; background: #fff;}
+.title {font: 22px Georgia, Times New Roman; color:#2f4461; margin: 0px 10px 5px 10px; padding: 20px 10px 0 10px; letter-spacing:1px; border-bottom: 1px solid #fff; background:url(https://fc06.deviantart.com/fs48/o/2009/158/8/2/125075084_71630_coffee-title-bg.jpg) no-repeat top center;}
+.smallfaded {font-size: 10px; line-height:14px; color:#a5a19f;padding:5px;}
+.smallfadedline {font-size: 10px; line-height:14px; color:#a5a19f; padding:5px; border-top: 1px solid #fff;}
+.journalbottom {background: url(https://fc08.deviantart.com/fs45/o/2009/158/2/e/125075084_71631_coffee-bottom.jpg) no-repeat top center; padding: 40px 20px 0 20px; height: 49px; _height:89px; font: 14px Georgia, Times New Roman; letter-spacing:1px;}
+.journalbottom a {color:#716e6c;}
+.list {color:#a5a19f; padding:10px; margin:0; text-align:center; font-size:10px; letter-spacing:1px; background: url(https://fc05.deviantart.com/fs49/o/2009/158/3/8/125075084_71632_coffee-moods-repeat.jpg) repeat-x top center;}
+.list .a {background:none;}
+.list li {padding:1px;}
+.list strong {color:#716e6c; font-weight:normal;}
+.skin_attribution {padding:3px;}
+.shadow a img {padding:4px; background:#fff; border:1px solid #a5a19f; }
+.shadow a:hover img {background:#2f4461;}
+/*
+This is really easy to use: the only thing you need to check once you've installed it is to go through the links at the top once and insert the right urls where currently there are # in the code. You can add more items at the top, but it looks really strange if there are too many.
+The small text at the bottom and top you can either just swap with something of your own or delete if you don't need it (delete including the div tags!).
+The titles are created using the title div tags, you can see an example in the footer where the Feature headline is situated. This is also where the current features are.
+Oh and the images are this wide to account for wide monitors - they will get cut in a way that doesn't affect the journal's looks when viewed on smaller monitors :aww:
+
+--Header Code--
+<div class="navi">&#9830; <a href="#">Gallery</a> &#9830; <a href="#">Prints</a> &#9830; <a href="#">Profile </a> &#9830;</div>
+<br>
+<br>
+<div class="smallfaded">I'm looking for something witty to say up here and I'm drawing a blank - I'm sure you can do better or just edit this out. You can also use this div to get in some additional info at the bottom.</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<div class="smallfadedline">This is almost the same div as in the header, it has an added white line at the top to set it apart from the stuff above - you may want to use it to add a copyright notice, or a short blurb concerning commissions or whatever else you want. I'm now using it to tell you that the cup in the header was from <a href="https://www.deviantart.com/kaotiksymphony-stock">kaotiksymphony-stock</a> and that I used <a href="https://www.deviantart.com/mouritsada-stock">mouritsada-stock</a>'s brushes.</div>
+*/

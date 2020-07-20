@@ -1,0 +1,141 @@
+.gr-box {
+    background: none;
+    border: 0;
+    border-radius: 0;
+    margin: 0 auto;
+    width: 462px;
+}
+.gr-top {
+    background: url(https://fc02.deviantart.net/fs70/o/2012/094/b/e/293927795_384066_01a_by_psychocookee-d4uyqr0.png) no-repeat;
+    border: 0;
+    margin: 0 auto;
+    padding: 80px 30px 7px;
+    text-align: center;
+}
+.gr-top h2 {
+    border: 0;
+    color: #bec8cc;
+    font: bolder 14pt/.5 Helvetica, Helmet, Freesans, sans-serif;
+    padding: 10px 40px 7px 0;
+    text-align: center;
+    text-shadow: 0 1px 0 #F9F9F9;
+}
+.gr-top span {
+    display: none;
+}
+.gr {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+.gr-body {
+    background: url(https://fc07.deviantart.net/fs71/o/2012/094/c/9/293927795_384067_middle_by_marshallwalker-d4ut6aq.png) repeat-y center;
+    border: none;
+    padding: 0;
+    width: 462px;
+}
+.text {
+    background: transparent;
+    color: #798479;
+    font: 9px Verdana, sans-serif;
+    line-height: 14px;
+    padding: 15px 30px;
+    text-align: left;
+    text-shadow: 0 1px 0 #F9F9F9;
+}
+.text sup {
+    bottom: 1ex;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+.text sub {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    top: .5ex;
+    vertical-align: baseline;
+}
+.text .abbr {
+    border-bottom: 1px dashed #666;
+    cursor: help;
+}
+.text acronym {
+    border-bottom: 1px dotted #666;
+    cursor: help;
+}
+.text ins {
+    background: #FFF9C0;
+    text-decoration: none;
+}
+.text code {
+    background: #d9d9d9;
+    color: #000;
+    font: 10pt Inconsolata, Monaco, Consolas, monospace;
+}
+.text blockquote {
+    font: italic bold 12px/2;
+    margin: 0 3em -14px;
+}
+.text ol ol {
+    list-style: upper-alpha;
+    margin: 15px 0 -40px;
+}
+.text ul ul { list-style: square; }
+.text li {list-style: square;}
+.text h1 { line-height: 12px; font-size: 12pt; color: #af827c; letter-spacing: 1px; }
+.text h2 { line-height: 12px; font-size: 12pt; color: #b19c7c; letter-spacing: 1px; }
+.text h3 { line-height: 12px; font-size: 12pt; color: #afb37c; letter-spacing: 1px; }
+.text h4 { line-height: 12px; font-size: 12pt; color: #8cb47c; letter-spacing: 1px; }
+.text h5 { line-height: 12px; font-size: 12pt; color: #7e91ac; letter-spacing: 1px; }
+.text h6 { line-height: 12px; font-size: 12pt; color: #9582ac; letter-spacing: 1px; }
+.bottom {
+background: url(https://fc03.deviantart.net/fs70/o/2012/094/4/3/293927795_384068_03c_by_psychocookee-d4uzo8q.png) no-repeat;}
+.text a{
+    font-weight:bold;
+    color: #c991d1;
+    text-decoration: underline;
+    text-shadow: 0 1px 0 #f9f9f9;}
+ .bottom a {
+    font-weight: bold;
+    font-size: 10px;
+    color: #e9f0e6;
+    text-decoration: underline;
+    }
+.prevlink{
+display: none;
+}
+.hsep{
+display: none;
+}
+.text a:hover, .bottom a:hover { color: #83061b }
+.list, .gr-top img, .gr1, .gr2, .gr3, .tri { display: none }
+::-moz-selection, ::selection {
+    background: #DAA520;
+    color: #fff;
+    text-shadow: none;
+}
+  .shadow-holder {
+  background: #ced6d9;
+  border: #bec8cc 1px solid;
+  border-radius: 1px;
+  -moz-border-radius: 1px;
+  -webkit-border-radius: 1px;
+  margin: 1px;
+  padding: 1px;
+}
+/*
+Header codes:
+<h1>Red</h1>
+<h2>Orange</h2>
+<h3>Yellow</h3>
+<h4>Green</h4>
+<h5>Blue</h5>
+<h6>Purple</h6>
+
+--Footer Code--
+<br>
+<br>
+<a href="https://www.deviantart.com/nikkittie/art/Rainbow-Pixel-Journal-Skin-293927795">Rainbow Pixel Journal Skin</a> by <a href="https://www.deviantart.com/nikkittie">nikkittie</a>
+*/

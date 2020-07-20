@@ -1,0 +1,96 @@
+* {background: transparent; border: none; margin: 0; padding: 0;}
+.gr-top img, .gr1, .gr2, .gr3, .tri, .hsep, .prevlink, .list {display: none;}
+
+.journalbox {
+background-color: #fff;
+width: 606px;
+}
+
+.journaltop {
+background-image: url('https://fc06.deviantart.net/fs71/o/2013/140/b/a/372843172_910969_lace_border_top_by_cupcake_kitty_chan-d65we7l.png');
+background-repeat: no-repeat;
+color: #b0f0f9;
+font-size: 7pt;
+padding-left: 20px;
+}
+
+.journaltop h2 {
+padding-top: 70px;
+font-family: "comic sans ms", sans-serif;
+color: #81dcea;
+}
+
+.journaltop span {
+font-size: 7pt;
+color: #b0f0f9;
+}
+
+.journaltop img {
+display: none;
+}
+
+.journalbox {
+background-image: url('https://fc06.deviantart.net/fs71/o/2013/140/5/3/372843172_910970_blue_white_polka_by_cupcake_kitty_chan-d65wc2r.png');
+}
+
+.journaltext {
+width: 500px;
+margin: 20px auto;
+font-size: 8pt;
+line-height: 12pt;
+color: #777;
+}
+
+.journalbottom {
+background-image: url('https://fc04.deviantart.net/fs70/o/2013/140/b/9/372843172_910971_lace_border_bottom_by_cupcake_kitty_chan-d65z7st.png');
+background-repeat: no-repeat;
+background-position: center bottom;
+padding-top: 50px;
+padding-bottom: 10px;
+color: #b0f0f9;
+}
+
+.credit {
+text-align: right;
+font-size: 7pt;
+color: #b0f0f9;
+}
+
+a:link, a:visited {
+color: #81dcea;
+text-decoration: none;
+padding: 1px;
+}
+
+.commentslink {
+font-size: 7pt;
+}
+
+a:hover, a:active {
+cursor: n-resize;
+background-color: #effbfd;
+}
+
+b, strong {
+font-family: georgia, serif;
+color: #81dcea;
+}
+
+i, em {
+font-family: georgia, serif;
+color: #81dcea;
+}
+
+u {
+color: #81dcea;
+text-decoration: none;
+border-bottom: 1px solid #b0f0f9;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Footer Code--
+<div class="footer"><div class="credit">
+Skin by :devcupcake-kitty-chan:.
+</div></div>
+*/

@@ -1,0 +1,224 @@
+.journalbox {
+	width:560px; 
+	
+}
+
+.journalbox .list .f {
+	border: 0px;
+	background: #142a4e no-repeat center top;
+	color: #c9f1fb;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.journalbox .list .a {
+	border: 0px;
+        background: #171a29 no-repeat center top;
+	color: #a0bcef;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.journalbox .list {
+	border: 0px;
+	background: #393a44 no-repeat center top;
+	color: #fff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-align: left;
+        line-height: 1.8em;
+	list-style: none;
+        letter-spacing: 1px;
+        word-spacing: 1px;
+}
+.journalbox .list .f strong {
+        color: #ccc;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+}
+.journalbox .list .a strong {
+	color: #bcc4ea;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+}
+
+.journalbox h2 {
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-weight:normal;
+	color:#fffaad;
+	font-size:2em;
+	padding:2px 0 0;
+	text-transform:capitalize;
+	line-height:1.2em;
+	width: 320px;
+	position: absolute;
+	padding-top: 55px;
+	left: 140px;
+}
+
+.journalbox .journaltop {
+    background-color: #ccd9c8 !important;
+    color: #bcc9d9 !important;
+    background-image: url(https://fc01.deviantart.net/fs71/o/2009/355/5/f/147574612_101577_newyearheader.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 218px; text-align:center; 
+}
+.journalbox .journaltop span {
+    color: #fff65f;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: thin;
+    text-align: right;
+    width: 205px;
+    position: absolute;
+    top: 35px;
+    left: 140px;
+}
+.journalbox a {
+    color: #83b9f1 !important; text-decoration:none;
+}
+
+.journalbox a:hover {
+    color: #b1bffd !important; border-bottom:1px #F9F; text-decoration:none;
+}
+
+.journalbox .journalbottom  a.commentslink {
+    color: #b7bdde !important; text-decoration:none; 
+}
+
+.journalbox .journalbottom  a.prevlink {
+    color: #b7bdde !important; text-decoration:none; 
+}
+
+.journalbox .journalbottom  a.commentslink:hover {
+    color: #9daaea !important; text-decoration:underline;
+}
+
+.journalbox .journalbottom  a.prevlink:hover {
+    color: #9daaea !important; text-decoration:underline;
+	
+}
+
+.journalbox .journaltext .content {
+    padding-left: 100;
+    padding-right: 100;
+
+}
+
+.journalbox .journaltext b {
+color: #fddf78;
+}
+
+.journalbox .journaltext i {
+color: #9dd3e3;
+}
+
+.journalbox .journaltext blockquote {
+  font: 13px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc; 
+  border-right: 1px dotted #7a87cb;
+  border-bottom: 1px dotted #7a87cb;
+  border-top: 1px dotted #7a87cb;
+  font-style: italic;
+  color: #b4bef0;
+  background: #1e2236 no-repeat center top;
+}
+
+
+.journalbox .journalbottom {
+	text-align:left;
+	background-image: url(https://fc09.deviantart.net/fs71/o/2009/355/a/8/147574612_101578_newyearfooter.jpg);
+	background-repeat: no-repeat;
+	height:222px;
+	padding-top:60px; padding-left: 45px; 
+}
+
+.journalbox .journaltext {
+    color: #fff !important;
+    background-image: url(https://fc02.deviantart.net/fs70/o/2009/355/2/2/147574612_101579_newyearcontent.jpg);
+    background-repeat: repeat-y;
+    background-position: top center; padding-left:30px; padding-right:30px; 
+    font-size: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: left;
+    line-height: 1.5em; 
+
+ 
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+}
+
+.journalbox .boxtop {
+    padding: 0px !important;
+}
+
+
+
+.credits
+{
+width: 100px;
+height: 12px;
+text-align: center;
+margin: auto;
+font-family:"Arial";
+font-size:9px;
+color:#2e86ab;
+}
+
+.credits a
+{
+color:#134164;
+}
+
+.credits a:hover
+{
+color:#2f4b6b;
+}
+
+.title {
+
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-weight:bold;
+	color:#c1d9ec;
+	font-size:1.5em;
+	padding:5px 0px 0px 0px;
+	text-transform:capitalize;
+	line-height:1.0em;
+	position: absolute;
+        border-bottom: 1px #686f90 solid; 
+        width:500px;
+
+
+}
+
+
+
+	
+		.tip {
+	background: #515569 url(https://fc05.deviantart.net/fs70/o/2009/355/e/6/147574612_101580_tip.png) 15px    center no-repeat;
+	text-align: left;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #4f77ae;
+	border-bottom: 2px solid #4f77ae;
+	}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+for title use: <*div class="title">This is a title</div*><*br>
+(without *)
+
+for tip use: <*div class="tip" >this is another div style<* /div><*br>
+(without *)
+
+-Header-
+<div></div>
+-Footer-
+<div class="credits">Skin by :devshinji-bpm:</div>
+*/

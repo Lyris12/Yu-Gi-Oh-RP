@@ -1,0 +1,478 @@
+*{border:none; background:none; padding:0; margin:auto;}
+.gr1, .gr2, .gr3,.gr4{display:none;}
+.gr-top h2 img{display:none;}
+a.external:after {display:none;}
+img.lit{display:none;}
+.gr-box{
+font-family: 'Advent Pro', sans-serif;
+}
+.gr-top{
+background:#110011 url('https://fc03.deviantart.net/fs70/o/2014/118/d/7/450650511_1592061_stars_in_our_night_skin_header_by_huina-d7g5kxb.jpg')top left no-repeat;
+height: 300px;
+width:90%;
+}
+.gr-top h2{
+font-size: 4em;
+color:#bb8888;
+position:relative;
+top:150px;
+margin:auto;
+text-align:center;
+font-family: 'Fredericka the Great', cursive;
+letter-spacing:2px;
+font-weight:400;
+}
+.gr-top h2 a{
+color:#bb8888;
+}
+.gr-top h2 a:hover{
+color:#bb8888;
+}
+.gr-top span{
+display:block;
+color:#bb8888;
+position:relative;
+top:170px;
+margin:auto;
+text-align:center;
+text-transform:uppercase;
+}
+.gr-body{
+font-family: 'Advent Pro', sans-serif;
+font-size:1.4em;
+width:90%;
+}
+.text{}
+.content{
+width:90%;
+color:white;
+background-color:#222233;
+padding:15px 20px;
+margin:none!important;
+}
+.large{
+color:white;
+width:inherit;
+background-color:#443344;
+padding:15px 25px;
+}
+.left{
+background-color:#111122;
+color:#bb8888;
+float:left;
+margin-right:25px;
+margin-bottom:15px;
+padding:12px;
+text-align:center;
+width:44%
+}
+.right{
+background-color:#111122;
+color:#bb8888;
+float:right;
+margin-left:25px;
+padding:12px;
+text-align:center;
+width:44%
+}
+.bottom{
+color:white;
+width:inherit;
+background-color:#443344;
+padding:15px 25px;
+}
+.bottom a{
+color:white;
+}
+.bottom a:hover{}
+.list{
+margin:auto;
+text-align:center;
+color:#111122;
+}
+.list li{
+color:#111122;
+background:none;
+display:inline;
+padding:2px 7px;
+}
+.list .a{
+background:none;
+color:#111122;
+}
+.list .f{
+vertical-align:middle;
+color:#111122;
+}
+.list strong{
+color:#111122;}
+ul{padding-left:20px;}
+ol{padding-left:20px;}
+li{}
+a{
+color:#bb8888;
+}
+a:hover{
+color:#D28EB0;
+}
+.number{
+color:white;
+font-family: 'Poiret One', cursive;
+font-size: 0.8em;
+}
+b{}
+strong{}
+i{}
+em{}
+u{}
+ins{}
+tt{}
+code{}
+small{}
+sup{}
+sub{}
+p{}
+strike{}
+hr{
+height:1px;
+width: 75%;
+background: linear-gradient(to right, rgba(34,34,51,1) 0%,rgba(68,51,68,1) 20%,rgba(200,135,200,1) 35%,rgba(206,146,176,1) 50%,rgba(200,135,200,1) 65%,rgba(68,51,68,1) 80%,rgba(34,34,51,1) 100%);
+}
+blockquote{}
+.quoter{}
+.quoter:hover{}
+h1,.text h2,h3,h4,h5,h6{
+color:#bb8888;
+font-family: 'Poiret One', cursive;
+font-weight:700;
+text-align:center;
+}
+h1{font-size:3em;}
+.text h2{font-size:2.5em;}
+h3{font-size:2em;}
+h4{font-size:1.7em;}
+h5{font-size:1.5em;}
+h6{font-size:1.3em;}
+span.user-symbol {
+padding: 2px 3px 0px 4px!important;
+color:#bb8888;}
+span.user-symbol:hover{
+color:#bb8888;
+}
+.username {
+color:#bb8888;
+}
+.credits{
+color:#bb8888;
+font-size:10px;
+opacity:0.7;
+position: absolute;
+bottom: 10px;
+right:105px;}
+.credits:before{
+content:'©    ';
+font-size:15px;
+padding-right: 15px;}
+.credits:hover{
+position: absolute;
+right:10px;}
+.shadow-holder, .embedded-deviation, .daembed, .daembed iframe{
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+vertical-align:middle;
+padding:10px;
+margin: 5px;
+border-radius:6px;
+background-color:#111122;
+box-shadow: 0px 0px 5px #110011;
+}
+.shadow-holder img, iframe, .embedded-deviation img{
+border-radius:3px;
+}
+.shadow-holder:hover, .embedded-deviation:hover, .daembed:hover{
+background-color:#443344;
+}
+a.lit{
+text-align:center;
+background-color:#222233;
+}
+q{
+color:white;
+font-family: 'Poiret One', cursive;
+margin-left:-15px;}
+q strong{
+color:#bb8888;
+font-family: 'Poiret One', cursive;}
+em img{
+border:none!important;
+background:none!important;
+}
+em .shadow-holder:hover, em .shadow-holder{
+box-shadow:none;
+background:none!important;
+padding:0!important;
+border:none;
+}
+.big .shadow-holder{
+display:inline-block;
+width:200px;
+height:200px;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+  overflow:hidden;
+padding:0px!important;
+border-radius:0px!important;
+}
+.big .shadow-holder img{
+max-width:none;
+margin:-1px 0 0 -1px;
+padding:0px;}
+.big .lit{
+width:200px;
+height:200px;}
+.shadow img{max-width:none!important;}
+.mini .shadow {
+  background-image:none!important;
+}
+.mini a{
+vertical-align:middle;
+  display:inline-block;
+  width:100px!important;
+  height:100px!important;
+  line-height:100px;
+  overflow:hidden;
+  position:relative;
+  z-index:1;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+border-radius: 3px;
+}
+.mini a img{
+width:auto!important;
+  height:100px!important;
+  position:absolute;
+  top:-10px;
+  left:-20px;
+}
+.mini a img:hover{border-right:1px solid #544051;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+border-radius: 3px;
+}
+.mini a.lit{
+overflow:hidden;
+width:100px!important;
+height:100px!important;
+}
+.mini a.lit:hover{overflow:hidden;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+border-radius: 3px;
+}
+.mini q{margin-left:-15px;  overflow:hidden;}
+.mini a:hover{
+  overflow:visible;
+  z-index:99;
+  border:none;
+}
+.square .shadow-holder,.square .embedded-deviation{
+vertical-align:middle;
+  width:100px!important;
+  height:100px!important;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+  overflow:hidden;
+padding:0px!important;
+border-radius:0px!important;
+}
+.square .shadow-holder img,.square .embedded-deviation img{
+width:auto!important;
+  height:100px!important;
+  position:absolute;
+border-radius:0px!important;
+}
+.square .shadow-holder:hover,.square .embedded-deviation:hover, .square .daembed:hover{
+}
+.square a.lit{
+text-align:center;
+background-color:#222233;
+height:100px!important;
+width:100px!important;
+}
+.square q{
+color:white;
+font-family: 'Poiret One', cursive;
+margin-left:-15px;}
+.square q strong{
+color:#bb8888;
+font-family: 'Poiret One', cursive;}
+.circle .shadow-holder,.circle .embedded-deviation{
+vertical-align:middle;
+  width:100px!important;
+  height:100px!important;
+border:1px solid #D28EB0;
+  overflow:hidden;
+padding:0px!important;
+border-radius:50%!important;
+}
+.circle .shadow-holder img,.circle .embedded-deviation img{
+width:auto!important;
+  height:100px!important;
+  position:absolute;
+border-radius:none;}
+.circle .shadow-holder:hover,.circle .embedded-deviation:hover, .circle .daembed:hover{
+}
+.circle .lit{
+text-align:center;
+background-color:#222233;
+border-radius:50%!important;
+width:100px!important;
+height:100px!important;
+}
+.circle q{
+color:white;
+font-family: 'Poiret One', cursive;
+margin-left:-15px;
+}
+.circle q strong{
+color:#bb8888;
+font-family: 'Poiret One', cursive;
+}
+.box {
+    width: 44%;
+    height: 250px;
+    display: inline-block;
+    margin: 5px;
+    overflow: hidden;
+position:relative;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+border-radius: 3px;
+box-shadow: 0px 0px 5px #110011;
+}
+.box img {
+    position: absolute;
+    left: 0;
+top:-25%;
+}
+.image{
+    width: 100%;
+}
+.description {
+    z-index: 2;
+    position: absolute;    
+    text-align: center;
+   color:#bb8888;
+font-family: 'Poiret One', cursive;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    opacity: 0.8;
+    line-height: 14px;
+background-color:#111122;
+}
+.box-wide {
+    width: 75%;
+    height: 300px;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    overflow: hidden;
+border-right:1px solid #544051;
+border-bottom:1px solid #443951;
+border-top:1px solid #D28EB0;
+border-left:1px solid #C887C8;
+border-radius: 3px;
+box-shadow: 0px 0px 5px #110011;
+}
+.box-wide img {
+    position: absolute;
+    left: 0;
+top:-25%;}
+.image-wide{
+    width: 100%;
+}
+.description-wide {
+    z-index: 2;
+    position: absolute;    
+    text-align: center;
+   font-family: 'Poiret One', cursive;
+background-color:#111122;
+   color:#bb8888;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    opacity: 0.8;
+    line-height: 14px;
+}
+/*
+How to change the Header
+To find this code, you will have to modify the skin yourself. All the text in green is what you can change to will. What is in red is what you cannot change at all.
+<div class="content">
+<h3>Your own Quote here</h3>
+</div>
+<div align="center" class="large">Navigation<br>
+<div class="number"> <a href="http://username.deviantart.com">Home</a> | <a href="http://deviantart.com">Link#2</a>| <a href="http://deviantart.com">Link#3</a>
+</div>
+</div>
+<div class="content">
+In the text
+In the text you have different possibilities.
+<div class="large">Text</div>
+It can be used in two ways:
+-	The regular way is mentioned as upon and will put a purple box inside the dark blue part.
+-	With an additional </div> before the code upon and it will get you a ribbon upon your journal skin such as in the header section.
+To reset the dark blue box use <div class="content"> Your text here</div>
+<div class="left"> will align your text on a left column</div>
+<div class=”right”> will align your text on a right column </div>
+How to use the thumbs
+Regular Thumbs
+Use :thumb000000000:
+Embed
+<da:thumb id="000000000">
+Mini
+Use <div class="mini"> :thumb000000000:</div>
+Square
+Use <div class="square"> :thumb000000000: </div>
+Rounded
+Use <div class="circle"> :thumb000000000: </div>
+Title+description
+<div class="box-wide">
+<img src="Direct link of your image">
+<div class="description-wide">
+<a href="Link of the deviation">Title of the deviation by :devUSERNAME:</div>
+
+--Header Code--
+<div class="content">
+<h3>Your own Quote here</h3>
+</div>
+<div align="center" class="large">Navigation<br>
+<div class="number"> <a href="https://username.deviantart.com">Home</a> | <a href="https://deviantart.com">Link#2</a>| <a href="https://deviantart.com">Link#3</a>
+</div>
+</div>
+<div class="content">
+--End Header Code--
+
+--Footer Code--
+</div>
+<div class="credits">Skin made by <a href="https://www.deviantart.com/huina">huina</a>
+</div>
+*/

@@ -1,0 +1,162 @@
+.journalbox 
+{
+background-image: url(https://fc01.deviantart.net/fs71/o/2012/353/9/a/343486114_609392_on_christmas_night.png);
+margin:auto
+background-repeat: no-repeat;
+max-width: 580px;
+height: 786px;
+border: none;
+color: #301a02;
+}
+
+.journaltop 
+{
+height: 115px;
+background-color: transparent;
+font-size: 0px;
+}
+
+.journaltop span 
+{
+display: none;
+}
+
+.journaltop h2 
+{
+color: #820200;
+font-size: 40px;
+font-weight: normal;
+font-family: 'Euphoria Script', cursive;
+background-color: transparent;
+text-shadow: 1px 1px 1px #f2e4a3;
+text-align: center;
+margin: 100px 0px 0px 0px;
+}
+.journaltop h2 a
+{
+color: #820200;
+border-bottom: #820200 1px solid;
+}
+.journaltop h2 a:hover
+{
+color: #402406;
+text-decoration: none;
+}
+
+.journaltop img 
+{
+display: none;
+}
+
+.journaltext
+{
+text-align: justify;
+font-size: 14px;
+color: #400000;
+font-family: 'Merienda', cursive;
+font-weight: normal;
+max-width: 405px;
+height: 470px;
+overflow: auto;
+margin: 60px 10px 0px 87px;
+padding: 0px 10px 0px 0px;
+}
+.journaltext a
+{
+font-size: 14px;
+color: #820200;
+font-family: 'Merienda', cursive;
+font-weight: bolder;
+text-decoration: underline;
+}
+.journaltext a:hover
+{
+font-size: 14px;
+color: #2c4616;
+font-family: 'Merienda', cursive;
+font-weight: normal;
+text-decoration: none;
+}
+
+.titles
+{
+color: #820200;
+border-bottom: #820200 1px dashed;
+font-size: 40px;
+font-weight: normal;
+font-family: 'Euphoria Script', cursive;
+background-color: transparent;
+text-shadow: 1px 1px 1px #f2e4a3;
+text-align: center;
+margin: 10px 0px 20px 0px;
+}
+
+.journalbottom 
+{
+text-align: center;
+margin-top: 23px;
+font-family: 'Euphoria Script', cursive;
+font-size: 18px;
+}
+.journalbottom a 
+{
+text-decoration: none;
+color: #400000;
+}
+.journalbottom a:hover 
+{
+text-decoration: underline;
+color: #820200;
+}
+
+.journalbox ul 
+{
+display:none;
+}
+
+.features 
+{
+text-align: center;
+display: inline-block;
+max-height: 100px; 
+min-width: 100px;
+text-align: center;
+}
+
+.credits
+{
+margin: 0px 10px 5px 0px;
+text-align: right;
+font-size: 9px;
+font-weight: normal;
+font-family: "Verdana";
+color: #820200;
+text-decoration: none;
+}
+.credits a
+{
+font-size: 9px;
+font-weight: normal;
+color: #820200;
+text-decoration: underline;
+}
+.credits a:hover
+{
+font-size: 9px;
+font-weight: normal;
+color: #2d4917;
+text-decoration: none;
+}
+/*
+! Title may be hard to read in spite of the shadow
+
+- If you want to add a "feature" section, please use the following code and copy/paste it in the "Skin Footer" section before the credit line:
+<div class="titles">Features</div><div class="features">YOUR FEATURES HERE</div>
+
+- If you want to add a new section with a title of your own, please use the following code and copy/paste it in the "Skin Footer" section before the credit line:
+<div class="titles">YOUR TITLE HERE</div>Your text will go here...
+
+--Footer Code--
+<div class="credits">Stock from :devPhotoImpactPixels:, :devhawksmont:, :devpsdblast:, :devHoly-Win:, :devflashtuchka: and :devBaB-Jane:</div>
+*/
+

@@ -1,0 +1,95 @@
+.journalbox {
+         border:none;
+         background-color:transparent;
+}
+
+.journaltop {
+         background-color:transparent; 
+         background-image:url(https://fc07.deviantart.net/fs70/o/2013/046/c/5/354437214_696150_79751c38ccccab4ac343600fc056a63b-d5v0slg.png);
+         background-position:center;
+         background-repeat:no-repeat;
+         height: 1008px;
+         width:700px;
+         font-size:14px;
+         text-align: center;
+         font-family: Comic Sans MS;
+         padding: 0px 0px 0px 0px;
+}
+
+.journaltop h2 {
+         background-color:transparent;
+         border:none;
+         color:#d12257;
+         font-size: 20px;
+         text-align: center;
+         font-family: Comic Sans MS;
+}
+
+.journalbox h2 a {
+         color: #d12257 !important;
+}
+
+.journaltop img {
+          display:none;
+}
+
+.list {
+          display:none;
+}        
+
+.journaltext {
+          color:#d12257;
+          font-size:16px;
+          text-align: center;
+          font-family: Comic Sans MS;
+          background-image:url(https://fc00.deviantart.net/fs70/o/2013/046/c/f/354437214_696151_83d6de415b89a34ddc110e7df8e6eaf9-d5v0swz.png);
+          background-repeat:repeat-y;
+          background-position: center;
+          width: 700px;
+          padding: 0px 0px 0px 0px
+}
+
+.journalbox a {
+          color:#d12257;
+          font-weight:bold;
+}
+
+.journalbox a:hover {
+           color:#fbf895;
+           font-weight:bold;
+}
+
+.journalbottom a.commentslink {
+            color:#d12257;
+            font-family: Comic Sans MS;
+            font-weight:bold;
+            padding: 0px 0px 0px 0px;
+}
+
+.journalbottom a.prevlink {
+            color:#d12257;
+            font-family: Comic Sans MS;
+            font-weight:bold;
+}
+
+.journalbottom a.commentslink:hover {
+            color:#052d46;
+            font-weight:bold;
+}
+
+.journalbottom a.prevlink:hover {
+            color:#052d46;
+            font-weight:bold;
+}
+
+.journalbox .journalbottom {
+             background-color: transparent;
+             background-image:url(https://fc03.deviantart.net/fs70/o/2013/046/c/4/354437214_696152_4d1c69a91449412fd2103ad83f311f65-d5v0t1x.png);
+             background-position:center;
+             background-repeat:no-repeat;
+             height: 660px;
+             width: 700px;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

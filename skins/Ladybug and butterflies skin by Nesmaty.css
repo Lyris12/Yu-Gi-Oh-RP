@@ -1,0 +1,172 @@
+.gr-box{
+  background: url(https://fc05.deviantart.net/fs71/o/2013/223/3/d/392377358_1088400_lbs__2__by_nesmaty-d6hlrdv.jpg) top center repeat-y;
+  background-size: 799px Auto;
+  border: none;
+  border-radius: 10px;
+  color: #884648;
+  margin: auto!important;
+  max-width: 799px!important;
+  overflow: hidden;
+  padding: 0px;
+}
+
+.gr-box a{
+  color: #c36763;
+  text-decoration: none;
+}
+
+.gr-box a:hover{
+  color: #884648;
+  text-decoration: none;
+}
+
+.gr1, .gr2, .gr3, .tri, .gr-top h2 img, .indent, .list, .prevlink, .hsep{
+  display: none;
+}
+
+.gr-top div.gr{
+  background: transparent;
+  border: none;
+}
+
+.gr-top{
+  background: transparent url(https://fc02.deviantart.net/fs70/o/2013/223/8/8/392377358_1088401_lbs__1__by_nesmaty-d6hlrew.jpg) top center no-repeat;
+  border: none;
+  border-radius: 10px;
+  height: 565px;
+  margin: 0px;
+  text-align: center;
+  top: 0px!important;
+}
+
+h2{
+  background:#f6e6b2!important;
+  border: solid #f0b388 2px;
+  border-radius: 10px;
+  color:#884648!important;
+  font-size: 25px;
+  left:20px!important;
+  padding: 10px 0px;
+  position: relative;
+  text-align: center;
+  top: 550px!important;
+  width: 100%;
+}
+
+h2 a{
+  color:#884648!important;
+  font-family: 'Alex Brush', cursive;
+  font-size: 200%;
+}
+
+h2 a:hover{
+  color:#c36763!important;
+  font-family: 'Alex Brush', cursive;
+  font-size: 200%;
+}
+
+.gr-top span{
+  color: #884648;
+  left:20px!important;
+  position: relative;
+  text-align: center;
+  top: 560px!important;
+  width: 100%;
+  z-index: 3!important;
+}
+
+h1, h3, h4, h5, h6{
+  color:#884648!important;
+  font-family: 'Alex Brush', cursive;
+  font-size: 200%;
+}
+
+.name{
+  position: relative;
+  text-align: center;
+  top:0px!important;
+}
+
+.gr-body{
+  background: transparent;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.gr-body .gr {
+  border: none;
+}
+
+.gr-body .text{
+  background: #e9dace;
+  border: solid #f0b388 2px;
+  border-radius: 10px;
+  color: #884648;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 140px 90px 70px 90px;
+  overflow: hidden;
+  padding: 20px 40px 120px 40px;
+}
+
+.c{
+  border-top: 2px solid #f0b388;
+  bottom: 80px!important;
+  font-size: 130%;
+  left: 90px!important;
+  padding-top: 20px!important;
+  position: absolute;
+  right: 90px!important;
+  text-align: center!important;
+  z-index: 3;
+}
+
+.Footer{
+  background: transparent;
+  border: none!important;
+  bottom: 15px;
+  position: absolute;
+  right: 15px;
+  text-align: left;
+  z-index: 3;
+}
+
+.shadow-holder img {
+  border: solid #f0b388 2px;
+  border-radius: 10px;
+}
+
+.shadow-holder img:hover {
+  border: solid #c36763 2px;
+}
+
+.butterflies{
+  background: transparent url(https://fc02.deviantart.net/fs70/o/2013/223/b/7/392377358_1088402_lbs__3__by_nesmaty-d6hlrf2.png) top center no-repeat;
+  border: none!important;
+  bottom: 45px;
+  height: 281px;
+  left: 15px;
+  position: absolute;
+  width: 180px;
+  z-index: 5;
+}
+
+.mylinks{
+  background: transparent;
+  border-bottom: 2px solid #f0b388;
+  color: #c36763;
+  margin: 0px -40px;
+  padding: 0px 20px 20px 0px!important;
+  position: relative;
+  text-align: right;
+  z-index: 3;
+}
+/*
+--Header Code--
+<div class="mylinks"><a href="https://nesmaty.deviantart.com/">Profile</a> | <a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery</a> | <a href="https://my.deviantart.com/notes/#to=nesmaty">Note me</a></div>
+--End Header Code--
+--Footer Code--
+<div class="Footer">Images &#x00a9; :devSonges-et-crayons: & Skin CSS &#x00a9; :devsoulfight-a-devianty:</div>
+<div class="butterflies"></div>
+*/

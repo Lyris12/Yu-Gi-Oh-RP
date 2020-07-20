@@ -1,0 +1,117 @@
+.journalbox {
+font: 11px Verdana,Arial,Helvetica,sans-serif;
+background-color:#222a30;
+color:#c5d6e5;
+border: 1px solid #3e4a58;
+max-width: 680px;
+}
+
+.journaltop {
+background: url(https://fc01.deviantart.net/fs71/o/2010/032/4/a/152598214_107731_whheaderv1.jpg) top left no-repeat #18181A;
+font-size: 10px;
+color: #fff;
+text-align:right;
+height: 170px;
+padding: 40px 3px 0 26px;
+}
+
+.journaltop h2 {
+color: #fff;
+padding: 5px;
+margin:2px;
+text-align:right;
+font: 25px Verdana, Arial, Helvetica,sans-seif;
+}
+
+.journaltop img{
+display:none;
+}
+.list {
+color:#59616b;
+font-size: 9px;
+padding: 20px 0 15px 15px;
+background: url(https://fc07.deviantart.net/fs71/o/2010/032/e/9/152598214_107732_footer.jpg) top left no-repeat #18181a;
+}
+
+.a{ 
+background:transparent!important;
+}
+.list li {
+padding:2px;
+}
+
+.journalbottom {
+padding:10px;
+text-align:left;
+color:#b7d6e5;
+text-transform: lowercase;
+padding: 25px 0 215px 220px;
+background: url(https://fc07.deviantart.net/fs71/o/2010/032/e/9/152598214_107732_footer.jpg) top left no-repeat #18181a;
+}
+
+.journalbottom a{
+color:#fff;
+text-decoration: none;
+border-bottom:1px dashed #fff;
+}
+
+.journalbottom a:hover{
+text-decoration: none;
+border-bottom:none;
+}
+
+.jounraltext {
+padding: 5px;
+}
+
+.journaltext a{
+color: #718fa9;
+text-decoration: none!important;
+}
+
+.journaltext a:hover {
+color: #28445b;
+text-decoration: underline!important;
+text-decoration: none;
+border-bottom:1px dashed #3b4c55;
+}
+
+.credit {	
+font-size:9px;
+color:#5d666d;
+padding-top: 40px;
+padding-right: 10px;
+text-decoration:none;
+text-align:right;	
+}
+
+blockquote{
+  position:relative;
+  text-indent:20px;
+  background-color:#1a2024;
+  padding:25px 35px;
+  font-family: Cambria, serif;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: normal;  
+  text-transform: normal;
+  letter-spacing: normal;
+  line-height: 1.4em;
+  line-height: 1.45em;;
+  color:#99aab5;
+  border:1px solid #2a3035;
+  margin-bottom:0px;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! There is a gap between the header and body
+
+--Header Code--
+<div class="example-header">  </div>
+--End Header Code--
+--Footer Code--
+<div class="example-footer">
+<div class="credit">Journal Design & CSS
+ By :devKovoWolf:</div>
+ </div>
+*/

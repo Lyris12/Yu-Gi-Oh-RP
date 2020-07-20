@@ -1,0 +1,202 @@
+.gr-box {
+border:none;
+margin:0 auto 20px auto;
+padding:0;
+border: 1px solid black;
+}
+
+.gr-top
+{
+background-image: url(https://fc00.deviantart.net/fs71/o/2011/040/a/e/196761117_174095_fractaltoppink.jpg);
+height: 350px;
+background-position: center;
+border: none;
+}
+
+.gr-body
+{
+background: #000201;
+border: none;
+}
+
+.gr {
+background: transparent; 
+border: none;
+text-align:center;
+padding:0 !important;
+}
+
+.tri{display:none;} 
+.gr1{display:none;}
+.gr2{display:none;}
+.gr3{display:none;}
+
+.gr-body .text
+{
+margin-top: 0px;
+padding: 30px 50px 0 55px;
+font-size:12px;
+text-align:left;
+max-width:70%;
+margin:0 auto;
+color: #C62779;
+
+}
+
+.gr-body .text a
+{
+font-size:12px;
+color: #ffffff;
+text-decoration: none;
+
+}
+
+.gr-body .text a:hover
+{
+font-size:12px;
+color: #ffffff;
+text-decoration: underline;
+
+}
+
+.gr-top .gr
+{
+text-align: center;
+width: 100%;
+float: center;
+top: 280px;
+height: 110px;
+left: 0px;
+text-shadow: 0 1px 2px #A066A0;
+}
+
+.gr-top h2 img
+{
+display: none;
+}
+
+.gr-top h2
+{
+font: 25px Helvetica, Arial, sans-serif;
+font-weight: bold;
+color: #ffffff;
+text-shadow: 0 10px 10px #96004D;
+padding: 10px 10px 0 10px;
+max-width: 500px;
+margin: 0 auto;
+}
+
+.gr-top span
+{
+font-size:12px;
+text-shadow: 0 5px 5px #96004D;
+color:#ffffff;
+text-align:center;
+}
+
+.subject
+{
+padding-bottom: 0px;
+margin-bottom: -30px;
+min-height: 20px;
+font: 15px Helvetica, Arial, sans-serif;
+color:  #ffffff;
+}
+
+.bottom
+{
+height: 90px;
+background: url(https://fc09.deviantart.net/fs70/o/2011/040/1/c/196761117_174096_fractalbottompink.jpg);
+background-position: center;
+border: none;
+}
+
+.title {
+color:#ffffff;
+font-size: 14px;
+font-weight: bold;
+text-align: left;
+text-shadow: 0 5px 5px #96004D;
+padding: 10px 10px 0 10px;
+}
+
+.foot
+{
+text-align: center;
+}
+
+.bottom a
+{
+float: left;
+margin-top: 0px;
+margin-left: 10px;
+font-size:12px;
+color: #FFFFFF;
+text-decoration: none;
+font-style: italic;
+}
+
+.bottom a:hover
+{
+font-size:12px;
+color: #ffffff;
+text-decoration: underline;
+}
+
+span.hsep
+{
+display: none;
+}
+
+.list {
+	background: no-repeat bottom center;
+	_background-position:top center;
+	height:225px;
+	_height:225px;
+	padding:5px 0 0 0px;
+	text-align:left;
+	font-size:11px;
+font-style: italic;
+	color:#96004D;
+        background:#000201
+}
+.list .a {
+	background:#000201 !important;
+}
+.list li {
+        font-size:11px;
+        text-align:left;
+        padding:2px;
+        color:#96004D;
+
+}
+
+.minigal{margin: 0 10px 10px 10px}
+.minigal .shadow{background-image: none!important}
+.minigal a{
+  display: inline-block;
+  width: 50px!important;
+  height: 50px!important;
+  overflow: hidden;
+  border: solid #C62779;
+  background: #C62779;
+  border-width: 5px 5px 5px 5px;
+  outline: 1px solid #C62779
+}
+.minigal img{margin:-20px -50px;max-width:none!important;}
+
+.minigal a:hover{
+  border-color: #C62779!important;
+width: 50px!important;
+  height: 50px!important;
+  outline: 1px solid transparent!important
+}
+/*
+! Title may be hard to read
+
+Heading: copy/paste this in Journal Entry Box:
+<div class="title">Heading</div>
+
+Gallery: copy/paste this in Journal Entry Box:
+<div class="minigal">:thumbxxxxxxxx::thumbxxxxxxxx:</div>
+*/

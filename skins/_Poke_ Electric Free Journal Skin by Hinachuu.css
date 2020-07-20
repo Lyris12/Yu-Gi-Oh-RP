@@ -1,0 +1,240 @@
+.journalbox 
+{
+max-width: 598px;
+_width: 598px;
+color: #67310E;
+font-size: 11px;
+font-family:  Trebuchet MS;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+
+.journaltop 
+{
+height: 280px;
+color: #6E4230;
+text-shadow: #FFF840 1px 1px 1px;
+background: url(https://fc03.deviantart.net/fs71/o/2012/145/e/9/304158697_410869_electrictrypeskinhead_by_hinachuu-d512xrf.png) no-repeat top center;  
+font-family: Trebuchet MS; 
+font-size: 10px;
+padding: 150px 25px 0px 0px;
+text-align: center;
+}
+
+.journaltop h2 
+{
+color: #6E4230;
+text-shadow: #FFF840 1px 1px 1px;
+font-weight:normal;
+font-family: Pacifico;
+font-size: 25px; 
+letter-spacing: 1px;
+text-align: center;
+background-color: transparent; 
+padding: 245px 0px 0px 0px;
+}
+.text strong {
+color:#FFFFFF;
+font-family: century gothic; 
+display: block;
+font: bold 150%/100%  
+overflow: auto none;
+font-weight:bold;
+text-shadow:0 0 10px #DF2D1E,0 0 10px #DF2D1E,0 0 5px #DF2D1E;
+background-color: transparent; 
+font-size: 15px;
+text-align: center;
+padding-bottom: 1px;
+}
+.text p{
+color: #E0AF15;
+font-size: 11px;
+font-family: century gothic;
+text-align: center; 
+text-shadow: #C0C0C0 1px 1px 1px;
+background-color:#ffffff;
+margin: 0px 21px 0px 21px;
+border:1px dashed #F3DB38; 
+padding:10px;
+-moz-border-radius: 10px;
+}
+
+.journaltop img 
+{
+display: none;
+}
+.hover {
+background: #FFF;
+-moz-border-radius: 5px;
+text-align: center;
+height: 15px;
+width: 200px;
+overflow:hidden;
+}
+.hover:hover {
+height: auto;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+width:88px;
+height:88px;
+opacity: 0.70;
+padding: 5px;
+border-radius: 7px;
+border: 1px dashed #D40560;}
+
+.thumbs img:hover{
+opacity: 100;
+background: #FCFD2B;
+border: 1px dashed #fff;}
+
+.journalbox .list li {
+text-align: center;
+font-family: century gothic;
+font-size: 11px;
+text-shadow: #C0C0C0 1px 1px 1px;
+padding: 2px;
+margin: 2px;
+border: 1px dashed #FFF;
+border-radius: 115px;
+    background-color: #ffffff;
+    color: #8694CA;
+}
+
+.journalbox .list li.a {
+    background-color: #FFFE98;
+    color: #DE6109;
+}
+
+.journaltext 
+{
+background-image: url(https://fc01.deviantart.net/fs71/o/2012/145/2/9/304158697_410870_electrictrypeskinbg_by_hinachuu-d512xn0.png);
+padding: 35px 45px 0px 45px;
+text-align: justify;
+}
+.journalbox .journaltext b {
+	color:#151563;
+	font-family:century gothic;
+	font-size:13px;
+	font-weight:bold;
+        text-transform:none;
+	text-decoration:none;
+}
+.journalbox .journaltext u {
+	text-decoration: italic;
+	color:#6F5B00;
+	font-family: Trebuchet MS; 
+	font-size:12px;
+	font-weight: bold;
+}
+.journalbox .journaltext i {
+	color:#B87320;
+        text-shadow: -1px -1px ##D6CA46;
+	font-family:century gothic;
+	font-size:11px;
+	font-weight:italic;
+        text-transform:none;
+	text-decoration:none;
+}
+.journaltext a
+{
+color: #FF9E00;
+font-family: century gothic; 
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #C20C01;
+text-decoration: underline;
+
+}
+
+.boxtitle{
+font-size: 15px;
+font-weight: bold;
+color: #E93B08;
+display:block;
+text-shadow: #C0C0C0 1px 1px 2px;
+margin: 10px 0 -10px 0;}
+
+.scrollbox{
+background: nonce;
+overflow: auto;
+color: #7A5D51;
+height: 150px;
+padding: 5px;
+border-radius: 10px;
+border:1px dashed #F2B33E;}
+
+.scrollbox a{color: #9C522A;}
+
+.journalbottom 
+{
+background: url(https://fc02.deviantart.net/fs70/o/2012/145/3/5/304158697_410871_electrictrypeskinfoot_by_hinachuu-d512xo0.png) no-repeat; 
+height: 214px;
+padding: 0px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: century gothic;
+font-size: 11px;
+color: #F86114;
+text-decoration: bold;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #E5180C;
+text-decoration: underline;
+}
+
+.footer
+{
+font-size: 10px;
+padding: -90px 0px 0px 0px;
+}
+
+.footer a
+{
+color: #D13D2E;
+text-decoration: none;
+}
+
+.footer a:hover
+{
+color: #283947;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Artist does not allow editing
+
+Scrollbox:
+<div class="scrollbox">Text here </div>
+Bold:
+<b> Text here</b>
+<strong>Strong Text:</strong>
+Text here
+Spoiler:
+<div class="hover">Text
+*space*
+here</div>
+Underline/Re-Color:
+<u> Text here</u>
+Parragraph:
+<p> Text here</p>
+Italic:
+<i> Text here</i>
+Thumb Effect:
+<div class="thumbs"> Art here </div>
+
+--Footer Code--
+<div class="footer"><div align="center">
+Artwork by::devLetz:
+Skin Design by::devhinachuu: | CSS by :devLilyas: 
+CSS Tutorials: :devginkgografix:,:devIllusion-Kat:&:devGillianIvy:</a></div>
+*/

@@ -1,0 +1,66 @@
+.journalbox {background-color:black;
+font-family:sawasdee;
+font-size: 15px;
+border-width:6px;
+border-color:  #FFE303;
+border-style:solid;
+width:450px;}
+
+
+.journalbox .journaltop{text-align:left;
+color:#FFE600;
+background-color: black;
+background-image: url(https://fc01.deviantart.net/fs71/o/2011/333/d/9/271640142_338012_pikachu___wallpaper_by_cpt_doodle-d373wwa.png);
+background-repeat: no-repeat;
+background-position: bottom, center;
+height: 400px;}
+
+
+.journalbox h2{
+font-family:sawasdee ;
+font-size: 30px;
+color: #FFE303;}
+
+
+.journalbox .journaltext
+{color:#FFE600;
+background-color:#000000;
+height:400px;
+overflow:auto;
+font-family: comic sans ms;
+font-size: 16px;
+border-width:3px;
+border-color: #FFE600;
+border-style:dotted;}
+
+.journalbox .title{
+color: #FFE600;
+font-family: sans;
+font-size: 20px;
+text-align: left !important;
+background-color: transparent !important;
+border-bottom: 12px  #FFE303 double !important;
+width:300px;}
+
+
+.journalbox .journalbottom{
+background-image: url(https://fc01.deviantart.net/fs70/o/2011/333/c/2/271640142_338013_pikachu___wallpaper_by_cpt_doodle-d373wwa-1-1.png);
+background-color:#68228B;
+background-position: right;
+height:100px;
+font-family:sawasdee;}
+
+
+
+.journalbox .list li{ background-color:#000000; color:#FFE303;
+font-family:purisa;
+font-size:14px;}
+.journalbox .list li.a{background-color:#FFE600; color:#000000;
+font-family:purisa;
+font-size:14px;}
+.journalbox .journalbottom a.commentslink{color:#FFE303;}
+.journalbox .journalbottom a.prevlink{color:#FFE303;}
+.journalbox .journaltop img{display:none;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

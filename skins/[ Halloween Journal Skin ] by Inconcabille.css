@@ -1,0 +1,110 @@
+a: link{cursor:url(https://fc07.deviantart.net/fs71/f/2013/279/7/1/eye_by_inconcabille-d6pfkhw.png), pointer;}
+a: hover{cursor:url(https://fc07.deviantart.net/fs71/f/2013/279/7/1/eye_by_inconcabille-d6pfkhw.png), pointer;}
+body{cursor:url(https://fc07.deviantart.net/fs71/f/2013/279/7/1/eye_by_inconcabille-d6pfkhw.png), pointer;}
+.journaltop{
+color: #FFFFFF;
+height: 10px;
+font-family: Times New Roman, serif;
+font-size: 9px;
+text-align: center;
+letter-spacing: 2px;
+margin: 165px 5px 5px 5px;
+padding: 15px 5px 30px 5px;
+background-color: transparent;
+}
+.journaltop img{ display: none; } 
+.journalbox{
+text-align:center;
+width: 600px;
+height: 790px;
+background-color: none;
+background: url(https://fc06.deviantart.net/fs70/f/2013/279/f/e/halloween_by_inconcabille-d6pfkht.png);
+padding-top:10px;
+border-width: 3px;
+border-color: #FF8000;
+border-radius:30px;
+float:center;
+margin-left:auto;
+margin-right:auto;
+}
+h2{ 
+font-family: 'Gloria Hallelujah', cursive;
+color: #000000;
+letter-spacing: 2px;
+font-size: 22px; }
+a:hover{text-decoration: underline;}
+a{
+color: #000000;
+text-decoration: none;
+}
+.journaltext{
+color: #000000;
+font-family: Times New Roman, serif;
+font-size: 12px;
+text-align: center;
+padding: 25px 30px  30px 100px;
+margin: 30px 10px 150px 10px;
+border-radius:20px;
+background: none;
+background-position : scroll;
+background-repeat: repeat;
+background-attachment: scroll;
+overflow: auto;
+height: 250px;
+width: 370px;
+}
+.journalbottom {
+	background-position:center;
+	text-align:center;
+	color: #FFFFFF;
+	font-size: 12px;
+	background-repeat:repeat;
+	height: 110;
+	width: 419;
+	padding: 5px 5px 5px 5px;
+	margin: 10px 10px 10px 10px;
+	font-family: 'Gloria Hallelujah', cursive;
+        letter-spacing: 5px;
+}
+.heading{
+color: #none;
+font-family: Times New Roman, serif;
+font-size:18px;
+font-weight: bold;
+border-bottom: 1px solid #9f9f9f;
+}
+.credit {
+color: #FFFFFF;
+font-family: Times New Roman, serif;
+font-size: 9px;
+text-align: right;
+margin-bottom: -25px;
+margin-right: -10px;
+}
+.credit a:hover {text-decoration: underline;}
+.commentslink {
+color: #FF8000;
+font-family: 'Gloria Hallelujah', cursive;
+font-size: 14px;
+font-weight: bold;
+}
+.list{ margin: 20px 0px 20px 50px; } 
+.list li{
+color: #000000;
+font-family: Times New Roman, serif;
+font-size: 10px; 
+padding: 0px; 
+} 
+.list li img{ display: none; } 
+.list .a{ background: transparent; }
+/*
+--Header Code--
+<div class="credit">
+<a href="https://www.deviantart.com/inconcabille/art/Halloween-Journal-Skin-405513425">[ Halloween Journal Skin ]</a> by <a href="https://www.deviantart.com/inconcabille">Inconcabille</a>
+</div>
+<br>
+</br>
+--End Header Code--
+
+--Footer Code--
+*/

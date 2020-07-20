@@ -1,0 +1,264 @@
+* this is the main body of the journal {}
+
+.gr-box {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	max-width: 960px;
+	padding: 0;
+	background: #222222 url(https://fc08.deviantart.net/fs71/o/2010/052/3/3/154911630_109976_space.jpg) top left repeat-y;
+	font: 12px Tahoma, Geneva, sans-serif;	
+	color: #eee;
+	border: 2px solid #111;
+}
+
+* this is the top of the journal {}
+
+.gr-top {
+	border: none;
+	padding-top: 50px;
+	margin: 0 auto !important;
+	text-align: center;
+	background-color: transparent;
+}
+
+.gr {
+	background: transparent; 
+	border: none;
+	padding:0 !important;
+}
+
+* this controls the curved edges and downward arrow at the top of the journal {}
+
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+
+* this controls the little journal icon {}
+
+.gr-top img {
+	display: none;
+}
+
+* these classes relate to the header text in your journal {}
+
+.gr-top span { 
+	font: 10px Verdana, Geneva, sans-serif;
+	color: #ccc;
+	text-align:left;
+}
+
+h2 {
+	font: 40px Tahoma, Geneva, sans-serif;
+	color: #eee;
+	text-shadow:1px 1px #000,-1px 1px #000, 1px -1px #000, -1px -1px #000, 0px 1px #000,-1px 0px #000, 1px 0px #000, 0px -1px #000;
+	background: transparent;
+}
+
+* these classes relate to the body of your journal {}
+
+.gr-body {
+	margin: 0 auto;
+	margin-top: -170px;
+	width: auto;
+	padding-top: 200px;
+	border: none;
+	background: transparent url(https://fc00.deviantart.net/fs71/o/2010/052/8/f/154911630_109977_theader.png)top left no-repeat;
+}
+
+.content {
+	margin: 0 0 -400px 145px;
+}
+
+.text {
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 0;
+	text-align: left;
+}
+
+.text a {
+	color: #2d77ff;
+	text-decoration: none;
+}
+
+.text a:hover {
+	text-decoration: underline;
+}
+
+.title {
+	font: 20px Verdana, Geneva, sans-serif;
+	margin-bottom: -20px;
+	color: #eee;
+	background: transparent;
+	text-align: left;
+}
+
+*this is bit that controls the mood area {}
+
+.list {
+	background: transparent;
+	margin: -150px 30px 30px 0 !important;
+	padding: 0;
+	text-align: right;
+	text-shadow:1px 1px #000,-1px 1px #000, 1px -1px #000, -1px -1px #000, 0px 1px #000,-1px 0px #000, 1px 0px #000, 0px -1px #000;
+}
+
+.a {
+	background: transparent;
+}
+
+* this bit controls the comments and previous journals links {}
+
+.bottom {
+	padding: 600px 0 200px 0;
+	margin: 0 auto;
+	background: transparent url(https://fc00.deviantart.net/fs71/o/2010/052/c/8/154911630_109978_tfooter.png) bottom left no-repeat;
+}
+
+.bottom a {
+	font-size: 10px;
+	color: #eee;
+	text-decoration: none;
+	text-shadow:1px 1px #000,-1px 1px #000, 1px -1px #000, -1px -1px #000, 0px 1px #000,-1px 0px #000, 1px 0px #000, 0px -1px #000;
+}
+
+
+.bottom a:hover {
+	text-decoration: underline;
+	text-align: center; 
+}
+
+* this is a minigallery that thespook.deviantart.com wrote {}
+
+.minigal {
+	margin: 10px;
+ 	max-width: 240px; 
+	padding: 5px;
+	background-color: transparent;
+	position: relative;
+}
+
+.minigal .shadow {
+	background-image: none!important;}
+
+.minigal a{
+	display: inline-block;
+	width: 50px!important;
+	height: 50px!important;
+	overflow: hidden;
+	border: solid #ccc 1px;
+	background: #000;
+}
+
+.minigal img {	
+	margin:-20px -50px;
+}
+
+.minigal a:hover{
+	border-color: #000!important;
+	outline: 1px solid transparent!important
+}
+
+.minigal a:hover img{
+	z-index: 999;
+	position: absolute;
+	margin: -2px 0 0 -27px;
+	border: 1px solid #000;
+}
+
+* this is a menubar {}
+
+.menu {
+	width: auto;
+	margin: 0 auto;
+	margin-top: 50px;
+	text-decoration: none!important;
+	text-align: center;
+	border-bottom: 2px solid #eee;
+	}
+
+.buttons a {
+	color: #eee;
+	background-color: transparent;
+	margin: 0 auto;
+	font: 11px Verdana;
+	font-weight: none;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px;
+	display: inline-block;
+}
+
+.buttons a:hover {
+	background: #eee;
+	text-decoration: none;
+	color: #111;
+	display: inline-block;
+}
+
+* this is a sidebar {}
+
+.sidebar{
+	background: transparent;
+	float: left;
+	margin: 10px 10px 50px 0;
+	border-right: 2px solid #eee;
+	max-width: 100px;
+	padding: 10px;
+	position: relative;
+}
+
+
+.sidebar .shadow {
+	background-image: none!important;}
+
+.sidebar a{
+	display: inline-block;
+	width: 100px!important;
+	height: 55px!important;
+	overflow: hidden;
+	background: transparent;
+}
+
+.sidebar a:hover {	
+	outline: 1px solid #ccc;
+}
+
+.sidebar img {	
+	margin: 0 auto;
+}
+
+* this disables the skin by dxd part. please leave like this {}
+
+DISABLED .skin_attribution {
+display: none;
+}
+
+.clear {
+clear: both;
+}
+/*
+Subheading is <div class="title">...</div>
+
+Mini gallery is <div class="minigal">...</div>
+
+They go in the normal journal text.
+
+Sidebar is <div class="sidebar">...</div>
+
+Menu is <div class="menu">...<div class="buttons">...</div></div>
+
+They go in the header.
+
+It is important that you have <div class="content"> in the head and a </div> in the footer. Even if you don't use any of the features.
+
+--Header Code--
+<div class="menu"><div class="buttons"><a href="#">Link1</a><a href="#">link2</a><a href="#">link3</a><a href="#">link4</a><a href="#">link5</a></div></div>
+<div class="sidebar">:thumb#::thumb#::icon#::icon#:</div>
+<div class="content">
+--End Header Code--
+--Footer Code--
+</div>
+*/

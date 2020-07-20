@@ -1,0 +1,117 @@
+.journalbox {
+    background-color: transparent;
+    font-size:14px;
+    color: black;
+    background-image: url(http://XXXXXXXXXXXXXXXXXXXXPUT THE URL TO YOUR COLORED DRAGON AND ROSE IMAGE HEREXXXXXXXXXXXXXXXXXXXXXX);
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-family:georgia,serif,tahoma;
+    border:0px;
+}
+
+.journalbox .list li {
+    background-color: transparent;
+    color: black;
+    font-family:tahoma;
+    font-size:10px;
+    margin-left:115px;
+}
+
+.journalbox .list li.a {
+    background-color:transparent;
+    color: black;
+}
+
+
+.journalbox h2 {
+    color: black;
+    font-size:24px;
+    font-variant:small-caps;
+    font-family:georgia,serif,tahoma;
+    margin-top:250px;
+}
+
+.journalbox .journaltop {
+    font-family:georgia,serif,tahoma;
+    background-color: transparent;
+    text-align: center;
+    color: black;
+    font-size:10px;	
+	line-height:15px;
+	margin-left:150px;
+	width:340px;
+	color:black;
+	text-align:center;
+}
+
+.journalbox a {
+    color: blue;
+}
+
+.journalbox a:hover {
+    color: blue;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: black;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: black;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: black;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: black;
+}
+
+.journalbox .journaltext .content {
+border:3px red solid;}
+
+.journalbox .journalbottom {
+    background-color:transparent;
+    font-size:10px;
+    padding-top: 6px;
+    text-align:left;
+    margin-left:125px;
+}
+
+.journalbox .journaltext {
+	margin-left:100px;
+	margin-top:10px;
+        background-image:url(http://XXXXXXXXXXXXXXXXXXPUT THE IMAGE OF YOUR TRANSPARENT TEXT BACKGROUND HEREXXXXXXXXXXXXXXXXXXXXXX);
+-moz-border-radius: 8px;
+        border:2px white solid;
+	overflow:auto;
+	height:400px;
+	width:400px;
+	padding:20px;
+}
+
+.journalbox .journaltop img {
+    display: none;
+}
+.title1
+{	font-size:20px;
+	font-weight:bold;
+	border-bottom:3px black solid;
+	color:black;
+	text-align:center;
+	margin-left:30px;
+	margin-right:30px;
+}
+
+.credit
+{	text-align:center;
+	font-family:tahoma;
+	font-size:10px;
+}
+/*
+Dragon and Roses CSS code and images are copyrighted to Jennifer Leigh. jennyleigh.deviantart.com  Usage other than specified on this instruction manual is copyright infringement. Honestly, I think I'm being pretty nice here. Please don't be an dillhole about this.
+
+--Footer Code--
+Dragon and Roses CSS by @Jennyleigh
+*/

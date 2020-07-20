@@ -1,0 +1,111 @@
+.journalbox {
+    background-color: #CCD9C8;
+    font-size:14px;
+    color: #FFFFFF;
+    background-image: url(https://fc04.deviantart.com/fs46/o/2009/181/a/0/127819232_75006_rosesblue.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-family:georgia,serif,tahoma;
+    border:3px #CCD9C8 solid;
+}
+
+.journalbox .list li {
+    background-color: transparent;
+    color: #81A7ED;
+    font-family:tahoma;
+    font-size:10px;
+    margin-left:115px;
+}
+
+.journalbox .list li.a {
+    background-color:transparent;
+    color: #81A7ED;
+}
+
+
+.journalbox h2 {
+    color: #81A7ED;
+    font-size:24px;
+    font-variant:small-caps;
+    font-family:georgia,serif,tahoma;
+    margin-top:250px;
+}
+
+.journalbox .journaltop {
+    font-family:georgia,serif,tahoma;
+    background-color: transparent;
+    text-align: center;
+    color: #81A7ED;
+    font-size:10px;	
+	line-height:15px;
+	margin-left:150px;
+	width:340px;
+	color:#81A7ED;
+	text-align:center;
+}
+
+.journalbox a {
+    color: blue;
+}
+
+.journalbox a:hover {
+    color: white;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #81A7ED;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #81A7ED;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #81A7ED;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #81A7ED;
+}
+
+.journalbox .journaltext .content {
+border:3px red solid;}
+
+.journalbox .journalbottom {
+    background-color:#CCD9C8;
+    font-size:10px;
+    padding-top: 6px;
+    text-align:left;
+    margin-left:125px;
+}
+
+.journalbox .journaltext {
+	margin-left:100px;
+	margin-top:10px;
+        background-image:url(https://fc09.deviantart.com/fs49/o/2009/181/7/7/127819232_75007_blue.png);
+-moz-border-radius: 8px;
+        border:2px white solid;
+	overflow:auto;
+	height:400px;
+	width:400px;
+	padding:20px;
+}
+
+.journalbox .journaltop img {
+    display: none;
+}
+.title1
+{	font-size:20px;
+	font-weight:bold;
+	border-bottom:3px white solid;
+	color:white;
+	text-align:center;
+	margin-left:30px;
+	margin-right:30px;
+}
+
+.credit
+{	text-align:center;
+	font-family:tahoma;
+	font-size:10px;
+}

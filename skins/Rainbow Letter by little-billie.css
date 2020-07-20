@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.journalbox {
+     border-right: none;
+     border-left: none;
+     border-top: none;
+     border-bottom: 0px solid #ffffff;
+     background: #ffffff;
+     background:url(https://fc01.deviantart.net/fs71/o/2010/021/4/a/151220976_106542_rainbowbig.jpg) top center repeat;
+}
+
+.journalbox .journaltop {
+     height: 155px;
+     background:none;
+     font-family: 'Georgia';
+     font-size: 0px !important;
+     letter-spacing: -0,5px;
+     color: #000000;
+     font-weight: bold;
+}
+
+.journalbox .journaltop img {
+     display: none
+}
+
+.journalbox .journaltop h2 {
+     color: #bf00c8;
+     font-weight: normal;
+     font-family: 'Georgia';
+     padding: 50px 20px 0 50px;
+     letter-spacing: -3px;
+     font-size: 45px;
+     text-align: left;
+}
+
+.journalbox .journaltop span {
+     font-family: 'Courier New';
+     font-size: 14px;
+     letter-spacing: -0,5px;
+     padding-left: 100px;
+     color: #000000;
+}
+
+.journalbox .journaltext {
+     font-family: 'Courier New';
+     font-size: 14px;
+     color: #000000;
+     line-height: 20pt;
+     padding: 60px;
+     margin-top: -60px;
+     text-align: left;
+     letter-spacing: 0px;
+}
+
+.nav ul li a i {
+     display:none;
+
+}
+ 
+.nav {
+    margin-top: 10px;
+} 
+
+.nav ul {
+     list-style-type: none;
+     width: 100%;
+}
+
+.nav ul li {
+  float: left;
+}
+.nav ul li a {
+     padding: 10px;
+     font-weight: bold;
+     color: #ffffff;
+     text-decoration: none;
+     margin: 0px 1px 0px -10px;
+     background: url(https://fc05.deviantart.net/fs70/o/2010/021/8/0/151220976_106543_hover.jpg) 
+
+
+bottom repeat-x;
+}
+
+.nav ul li a:hover {
+     background:url(https://fc05.deviantart.net/fs70/o/2010/021/8/0/151220976_106543_hover.jpg) top 
+
+no-repeat #000000;
+     color: #000000;
+}
+
+.nav ul li a.active {
+     background:url(https://fc05.deviantart.net/fs70/o/2010/021/8/0/151220976_106543_hover.jpg) top 
+
+no-repeat #000000;
+     color: #000000;
+}
+
+.journalbox .journaltext A:link {
+     color: #b1f808;
+     text-decoration: none !important;
+}
+
+.journalbox .journaltext A:visited {
+     color: #b1f808;
+     text-decoration: none !important;
+}
+     
+.journalbox .journaltext A:hover {
+     color: #cd05bd;
+     text-decoration: none !important;
+}
+
+.title {
+     font-family: 'Georgia';
+     font-size: 25px;
+     font-weight: normal;
+     color: #0cf5d7;
+     letter-spacing: 0.4px;
+     background:url(https://fc06.deviantart.net/fs70/o/2010/021/c/3/151220976_106544_zaehl.jpg) left 
+
+no-repeat;
+     padding: 0 0 0 30px;
+     margin: 15px 15px 5px -50px;
+}
+--
+.quote {
+     color: #fff;
+     font-size: 22px;
+     text-align: center;
+     line-height: 28px;
+     letter-spacing: -0.5px;
+}
+
+.credits {
+     text-align: center;
+     color: #787878;
+     font-size: 9px;
+     letter-spacing: 0px;
+}
+
+.journalbox .list {
+   font-family: 'Century Gothic';
+   background-color: #ffffff;
+   color: #ffffff;
+   font-size: 11px;
+   padding: 10px;
+   display:none;
+}
+
+.journalbox .list .ul .li {
+float:left;
+	z-index:21;
+	list-style-type:none;
+	position:relative;
+	text-align:left;
+	width:25%;
+}
+
+.journalbox .list .a {
+   background-color: #ffffff;
+   color: #787878;
+   font-size: 11px;
+}
+
+.journalbox .list strong {
+   color: #FFF;
+   margin: 10px 10px 10px 15px;
+   list-style: none;
+   padding: 0 0 0 20px;
+   background:url(https://fc05.deviantart.net/fs70/o/2010/021/d/7/151220976_106545_zaehl1.jpg) left 
+
+no-repeat;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+
+.journalbox .journalbottom {
+     font-family: 'Courier New';
+     font-size: 13px;
+     text-align: center;
+     padding-bottom: 20px;
+     background-color:transparent;
+}
+
+.journalbox .journalbottom A:link {
+     color: #000000;
+     font-family: 'Courier New';
+     font-size: 13px;
+     text-decoration: none !important;
+}
+
+.journalbox .journalbottom A:visited {
+     color: #000000;
+     font-family: 'Courier New';
+     font-size: 11px;
+     text-decoration: none !important;
+}
+
+.journalbox .journalbottom A:hover {
+     text-decoration: none !important;
+     color: #000000;
+}
+
+.clear {
+     clear: both;
+}
+
+.store {
+     width: 20px;
+     margin:0 auto;
+}
+
+.thumbnail a  {
+     color: #000000;
+     padding-top: 1px;
+     text-decoration: none; 
+}
+
+.store .thumbnail a:hover {
+     color: #303030;
+}  
+
+
+.thumbnail {
+     float: left;
+     width: 180px;
+     border: 2px solid #ffffff;
+     margin: 0px 15px 15px 0;
+     margin: 0 auto;
+     padding: 5px;
+     text-align: right;
+     background-color: #fff;
+}
+
+.moodbox ul {
+     padding-left: 15px;
+}
+
+.moodbox ul li {
+     float: left;
+     list-style-type: none;
+     text-align: left;
+     width: 25%;
+}
+
+.moodbox ul li ul {
+     padding: 0 0 0 17px;
+     background:url(https://fc05.deviantart.net/fs70/o/2010/021/d/7/151220976_106545_zaehl1.jpg) left 
+---
+no-repeat;
+     color: #fff;
+     font-size: 12px;
+     font-weight: bold;
+}
+
+.moodbox ul li ul li {
+     color: #787878;
+     font-size: 11px;
+     padding-left: 13px;
+     width: 100%;
+     font-weight: normal;
+}
+
+.thumbox {
+background: #faf105;
+background-repeat: no-repeat;
+background-position: bottom right;
+font: 14px/16px "'Century Gothic'";
+letter-spacing: 0px;
+color:#ffffff;
+height:auto;
+width:95%;
+overflow:visible;
+text-align: left;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 15px;
+padding-top: 20px;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The footer may still need fixing.
+
+--Footer Code--
+CSS by :devlittle-billie:
+texture by :devSnapeisSexy:
+*/

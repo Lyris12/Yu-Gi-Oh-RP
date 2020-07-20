@@ -1,0 +1,166 @@
+.journalbox 
+{
+max-width: 595px;
+_width: 595px;
+color: #cc5800;
+font-size: 15px;
+font-family:  arial;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+
+.journaltop 
+{
+height: 220px;
+color: #1e00ff;
+background: url(https://fc02.deviantart.net/fs70/o/2013/280/6/9/405735493_1204249_halloweenjournalhead_by_acidkitty3-d6pk7fh.png) no-repeat top center;  
+font-family: century gothic; 
+font-size: 9px;
+padding: 180px 25px 0px 0px;
+text-align: center;
+}
+
+.journaltop h2 
+{
+color: #1e00ff;
+background-color: transparent; 
+font-family: Trebuchet MS;
+font-size: 30px; 
+font-weight: normal; 
+letter-spacing: 2px;
+text-align: center;
+padding: 200px 0px 0px 0px;
+}
+.text strong {
+color: #1e00ff;
+font-family: arial; 
+display: block;
+font-size: 25px;
+text-align: center;
+text-shadow: #1e00ff 1px 1px 2px;
+padding-bottom: 1px;
+
+}
+
+.journaltop img 
+{
+display: none;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+padding: 10px;
+border: 1px solid #2FBDBB;}
+
+.thumbs img:hover{
+background: #9DD577;
+border: 1px dashed #fff;}
+
+.sidebar{
+float: left;
+padding: 0 3px 20px 3px;
+margin: 10px 20px 10px 0;
+width: 130px;
+border-right: 1px dashed #536a5d;}
+
+.sidebar p{
+margin: 0 0 -5px 0;
+font-weight: bold;}
+
+.sidebar a{
+margin: 0 0 2px 0;
+display: block;
+letter-spacing: 1px;
+color: #5a8d19; 
+text-decoration: none;}
+
+.sidebar a:hover{text-decoration: underline;}
+
+.topmenu{
+text-align: center;
+display: block;
+padding: 35px 0 10px 0;
+border-bottom: 1px dashed #1e00ff;}
+
+
+.topmenu a{
+margin: 0 5px;
+letter-spacing: 1px;
+color: #1e00ff; 
+text-decoration: none;}
+
+.topmenu a:hover{text-shadow: #9ec26f 0 1px;}
+
+.list 
+{
+background-color: transparent;
+color: #1e00ff;
+text-align: left;
+margin: -150px 10px 10px 10px;
+padding: 0px 30px 30px 30px; 
+font-family: Trebuchet MS;
+font-size: 12px;
+}
+.list .a 
+{
+background: none;
+}
+.list strong 
+{
+color: #1e00ff; 
+font-weight: bolder;
+}
+.list li 
+{
+padding:2px;
+}
+
+.journaltext 
+{
+background-image: url(https://fc01.deviantart.net/fs70/o/2013/280/3/b/405735493_1204250_halloweenjournalbg_by_acidkitty3-d6pk7fa.png);
+padding: 0px 55px 0px 55px;
+text-align: justify;
+}
+.journaltext a
+{
+color: #1e00ff;
+font-family: arial;
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #1e00ff;
+text-decoration: underline;
+}
+
+.journalbottom 
+{
+background: url(https://fc07.deviantart.net/fs71/o/2013/280/5/3/405735493_1204251_halloweenjournalfoot_by_acidkitty3-d6pk7fd.png) no-repeat; 
+height: 217px;
+padding: 0px 0px 0px 0px;
+}
+
+.journalbox .list li {
+text-align: center;
+font-family: arial;
+font-size: 9px;
+padding: 1px;
+margin: 1px;
+border: 1px dashed #1e00ff;
+background-color: #bd92eb
+}
+/*
+--Footer Code--
+<div align="center">
+<sub>
+<img src="https://fc09.deviantart.net/fs70/o/2013/280/f/c/405735493_1204252_pumpkins_by_acidkitty3-d6pk6d9.gif" width=141 height=16 border=0>
+
+<br><small>
+<a href="https://www.deviantart.com/citriclily/art/Free-Halloween-Journal-Skin-405735493">Free Halloween Journal Skin</a> and Images <a href="https://www.deviantart.com/CitricLily">acidkitty3</a>
+</sub>
+</div>
+*/

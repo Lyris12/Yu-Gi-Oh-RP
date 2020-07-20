@@ -1,0 +1,144 @@
+.gr-box {
+font-family:Tahoma, Verdana, Trebuchet MS,sans-serif;
+border:none;
+background:url(https://fc07.deviantart.com/fs51/o/2009/262/b/7/137496858_88596_bg.jpg) #ffffff;
+color:#6e705b;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top {
+border: 1px solid;
+padding: 150px 0 103px 160px;
+color:#999898;
+background:transparent url(https://fc08.deviantart.com/fs51/o/2009/262/e/0/137496858_88597_header.jpg) left top no-repeat;
+border: none; }
+
+.gr-top img {display:none;}
+.gr-top span{font-size:9px;}
+
+h2 {
+color:#6b6557;
+margin-left: -45px;
+font-size: 24px;
+font-weight:normal;}
+
+.gr-body{
+background: transparent url(https://fc00.deviantart.com/fs50/o/2009/262/d/b/137496858_88598_footer.png) bottom left no-repeat;
+padding-bottom:170px;
+overflow:visible!important;
+position:static!important;
+border: none;}
+
+.text {padding: 10px 20px 0 15px;}
+
+a {color:#353535;}
+a:hover{ color: #825636; text-decoration: none!important;}
+
+.left {
+font-size:10px;
+position:absolute;
+left:12px;
+top: 250px;
+width:90px;
+color:#656161;
+z-index:21}
+
+.left p {
+margin:0 0 -8px 0;
+padding:0;
+font-size:11px;
+color:#c08180;}
+
+.left a {color:#656161; text-decoration: none!important;}
+.left a:hover {color:#c08180;}
+
+.right {
+border-left:1px solid #5a5a5a;
+margin:-45px 0 0 103px;
+padding-left:20px;}
+
+.headline {
+font-size:17px;
+margin:20px 0 -10px 0;
+border-bottom:1px solid;}
+
+.divider{
+width: 100%;
+height: 60px;
+margin: -20px 0;
+background: url(https://fc05.deviantart.com/fs51/o/2009/262/3/6/137496858_88599_divider.png) no-repeat center;}
+
+ul {
+letter-spacing:1px;
+color:#ab8866;
+padding:20px;
+margin-bottom:-15px;}
+
+
+.feature {
+margin:20px 0;
+border:1px solid #aca894;
+padding:10px;
+background:transparent url(https://fc04.deviantart.com/fs50/o/2009/262/9/f/137496858_88600_box_bg.jpg);
+text-align:center;}
+
+.featurebox img {
+padding:10px;
+border:1px solid #aca894;}
+
+
+.list{
+color: #886145;
+position: absolute;
+bottom: 40px;
+left: 130px;}
+
+.f{background: transparent;}
+
+
+.bottom {
+position: absolute;
+bottom: 10px;
+right: 20px;
+color:#80392f;}
+
+.bottom a {
+color:#80392f;
+text-decoration:none;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Divider
+< div class="divider">... < /div>
+- Headline
+< div class="headline"> ... < /div>
+- Feature
+< div class="feature"> ... < /div>
+
+--Header Code--
+<div class="left"><p>my links</p>
+• <a href="">my portfolio</a>
+• <a href="">dA portfolio</a>
+• <a href="...">my Stock</a>
+
+<p>Stock/Resources</p>
+• <a href="">Usage & policies</a>
+• <a href="">Unrestricted goodness!</a>
+• <a href="">Browse Stock Images</a>
+• <a href="">Browse all Resources</a>
+
+<p>Policy</p>
+• <a href="">dA Copyright Policy</a>
+• <a href="">Report Miscats</a>
+• <a href="">How to Guides</a>
+• <a href="">CEA Updates</a>
+• <a href="">Help & FAQ: Copyrightconcerns</a>  </div>
+<div class="right">
+--End Header Code--
+--Footer Code--
+</div>
+*/

@@ -1,0 +1,191 @@
+.journalbox {
+	border-color:none;
+	background-image:url(https://fc03.deviantart.net/fs70/o/2011/182/7/c/216083043_278380_1309449501_pencilback_by_thedeathofsen-d3kjp6r.png);
+	background-position:top center;
+	background-repeat:repeat;
+	max-width:650px;
+	border:none;
+	color:#623e2e;
+	font-family:Verdana;
+	text-align:center;
+	font-variant:small-caps;
+	font-weight:lighter;
+}
+.journaltop h2 img {
+	display:none;
+}
+.journalbox .journaltop {
+	background-image:url(https://fc04.deviantart.net/fs71/o/2011/182/9/5/216083043_278381_1309449507_penciltop_by_thedeathofsen-d3kjp6z.png);
+	background-position:top center;
+	background-repeat:no-repeat;
+	color:#623e2e;
+	font-family:Comic Sans MS;
+	font-size:10px;
+	text-align:center;
+	font-weight:lighter;
+}
+.journalbox .journaltop h2 {
+	background:none;
+	color:#xxxxxx;
+	border:none;
+	max-width:650px;
+	background:none;
+	border-color:none;
+	text-decoration:normal;
+	color:#623e2e;
+	font-family:Comic Sans MS;
+	font-size:26px;
+	padding:355px 40px 65px 40px;
+	text-align:center;
+	font-variant:normal;
+	font-weight:lighter;
+}
+.journalbox .list {
+	background-color:transparent;
+	color:#623e2e;
+	font-family:Comic Sans MS;
+	font-size:12px;
+	text-align:left;
+	font-variant:normal;
+	padding:0px 50px 0px 40px;
+}
+.journalbox .list .a {
+	background-color:transparent;
+	color:#623e2e;
+	font-family:Comic Sans MS;
+	font-size:12px;
+	text-align:left;
+	font-variant:normal;
+	padding:0px 40px 0px 0px;
+}
+.journalbox .list strong {
+	font-size:10px;
+	font-family:Comic Sans MS;
+	text-align:right;
+	font-variant:normal;
+	font-weight:lighter;
+}
+.journalbox .journaltext {
+	background-color:#fff6c7; 
+	color:#623e2e;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border:none;
+	max-width:650px;
+	font-family:Verdana;
+	font-size:13px;
+	padding:30px 10px 20px 10px;
+	margin: 20px 100px 100px 100px;
+	text-align:center;
+	font-variant:normal;
+	font-weight:lighter;
+}
+.journalbox .journaltext A:link {
+	color:#ff686c;
+	font-family:Comic Sans MS;
+	font-size:12px;
+	font-variant:Normal;
+	font-weight:lighter;
+	text-decoration:underline;
+}
+.journalbox .journaltext A:active {
+	text-decoration:none;
+	color:#ffa6a8;
+	font-family:Comic Sans MS;
+	font-size:12px;
+	font-variant:Normal;
+	font-weight:ligther;
+}
+.journalbox .journaltext A:hover {
+	color:#623e2e;
+	font-family:Verdana;
+	font-size:13px;
+	font-variant:Normal;
+	font-weight:lighter;
+	text-decoration:none;
+}
+.journalbox .journaltext A:visited {
+	color:#623e2e;
+	font-family:Verdana;
+	font-size:12px;
+	font-variant:Normal;
+	font-weight:lighter;
+	text-decoration:none;
+}
+.journalbox .journalbottom {
+	background-image:url(https://fc05.deviantart.net/fs71/o/2011/182/8/8/216083043_278382_1309531421_pencilbot_by_thedeathofsen-d3kjp6w.png);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	padding:553px 0px 0px 0px;
+	margin: -100px 0px 0px 0px;
+	font-family:Verdana;
+	font-size:10px;
+	text-align:center;
+	font-variant:normal;
+	font-weight:lighter;
+}
+.journalbox .journalbottom A:link {
+	text-decoration:none;
+	font-family:Verdana;
+	font-size:10px;
+	font-variant:Normal;
+	font-weight:lighter;
+}
+.journalbox .journalbottom A:visited {
+	text-decoration:none;
+	font-family:Verdana;
+	font-size:10px;
+	font-variant:Normal;
+	font-weight:lighter;
+}
+.journalbox .journalbottom A:hover {
+	font-family:Verdana;
+	font-size:10px;
+	font-variant:Normal;
+	font-weight:lighter;
+	text-decoration:underline;
+}
+.journalbox .journalbottom A:active {
+	background-color:#none;
+	font-family:Verdana;
+	font-size:10px;
+	font-variant:Normal;
+	font-weight:lighter;
+	text-decoration:none;
+}
+.journalbox .commentslink {
+	background-color:#none;
+	color:#6b493a;
+	font-family:Comic Sans MS;
+	font-size:10px;
+	text-align:center;
+	font-variant:normal;
+	font-weight:lighter;
+}
+.journalbox .prevlink {
+	background:#none;
+	color:#6b493a;
+	font-family:Comic Sans MS;
+	font-size:10px;
+	text-align:center;
+	font-variant:normal;
+	font-weight:lighter;
+}
+div.links {
+	height:12px;
+}
+
+a:link {
+cursor:url(https://fc02.deviantart.net/fs71/o/2011/182/0/5/216083043_278383_1309449501_link_by_thedeathofsen-d3kjp6o.png), pointer;
+}
+a:hover {
+cursor:url(https://fc02.deviantart.net/fs71/o/2011/182/0/5/216083043_278383_1309449501_link_by_thedeathofsen-d3kjp6o.png), pointer;
+}
+body {
+cursor:url(https://fc05.deviantart.net/fs71/o/2011/182/7/c/216083043_278384_1309449498_normal_by_thedeathofsen-d3kjp6q.png), pointer;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+*/

@@ -1,0 +1,107 @@
+.journalbox {
+background-color: #000000 !important;
+background-image: url(https://fc04.deviantart.net/fs70/o/2011/217/e/7/251252769_291343_143315024_95696_myflameedit01.jpg);
+background-position: bottom right;
+background-repeat: no-repeat;
+border: none;
+padding: none;
+font-family:tahoma;
+font-size:14px;
+-moz-border-radius: 8px;
+-webkit-border-radius:8px;
+}
+.journalbox .list li {
+background-color: transparent !important;
+color: #FFFFFF !important;
+}
+.journalbox .list li.a {
+background-color: transparent !important;
+color: #FF6600 !important;
+}
+.journalbox h2 {
+color: black !important;
+font-family:georgia,serif,tahoma;
+font-variant:small-caps;
+margin-top:20px;
+background-color:#CC8833;
+opacity:.7;
+padding:5px;
+}
+.journalbox .journaltop {
+background-color: transparent;
+text-align: center !important;
+color: #FFFFFF !important;
+font-size: 10px;
+}
+.journalbox a {
+color: #7F3300 !important;
+}
+.journalbox a:hover {
+color: #FFFFFF !important;
+}
+.journalbox .journalbottom a.commentslink {
+color: #FFFFFF !important;
+}
+.journalbox .journalbottom a.prevlink {
+color: #FFFFFF !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+color: #FFFFFF !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+color: #FF6600 !important;
+}
+.journalbox .journaltext .content {
+}
+.journalbox .journalbottom {
+background-color: transparent !important;
+padding-top: 6px;
+}
+.journalbox .journaltop img {
+display: none !important;
+}
+.box1 {
+background-color:#CC8833;
+opacity:.7;
+margin-left: 20%;
+margin-right: 20%;
+padding-left:10px;
+padding-right: 10px;
+margin-top: 150px;
+border: 0px white solid;
+-moz-border-radius: 8px;
+-webkit-border-radius:8px;
+font-weight: 100%;
+}
+.title1 {
+color: #FFFFFF !important;
+font-family:georgia,serif,tahoma;
+font-variant:small-caps;
+font-size: 20px;
+border-bottom:2px white solid;
+margin-right:20%;
+margin-left:20%;
+text-align:center;
+}
+.scrollbox1 {
+overflow: auto;
+height: 200px;
+margin-left: 10px;
+margin-right: 10px;
+border-left: 2px white solid;
+padding: 10px;
+}
+/*
+--Header Code--
+<div class="box1">
+<br>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/kaiiyra-chan/art/Improved-Flame-Journal-Skin-251252769">Improved Flame Journal Skin</a> by <a href="https://www.deviantart.com/kaiiyra-chan">kaiiyra-chan</a>
+</sub>
+</div>
+*/

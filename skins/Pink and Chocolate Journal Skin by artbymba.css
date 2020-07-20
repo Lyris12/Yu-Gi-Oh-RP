@@ -1,0 +1,292 @@
+.gr{padding: 0 !important; background: transparent; border: none;}
+.gr-box{border: none;}
+.gr1, .gr2, .gr3, .tri, .gr3.gb, .gr2.gb, .gr1.gb.gb1, .gr-top img, a.external:after, .lit img{display: none;}
+.bottom, .list{display: none;}
+.lit strong:not(:first-child){box-shadow: none;}
+a, span.user-symbol,
+.embedded-deviation-overlay{
+transition: all ease .6s;}
+.lit{
+transition: background ease .6s, border ease .6s;}
+.gr-top{
+padding: 30px;
+box-shadow: inset 0 11px 15px -9px #a54d35, inset 0 -15px 19px -9px #ffdfd6, 0 11px 15px -9px #935b79;
+border-radius: 50px 50px 0 0;
+text-align: center;
+background: #fab6a3;
+border-top: 3px solid #ffeae5;
+border-right: 3px solid #ffeae5;
+border-bottom: none;
+border-left: 3px solid #ffeae5;}
+.gr-top h2 a{
+font-size: 33px;
+font-family: 'Emilys Candy', cursive;
+color: #fffafa;}
+span.timestamp,
+.gr-top .author{
+word-spacing: 2px;
+letter-spacing: 1px;
+font-size: 12px;
+font-family: 'Patrick Hand', cursive;}
+span.timestamp,
+.gr-top .author, .author a,
+.gr-top span.user-symbol{
+color: #fffafa;}
+.gr-top h2 a:hover, .author a:hover,
+.gr-top span.user-symbol:hover{
+text-shadow: 0px 0px 2px #fff, 0px 0px 5px #fff;
+color: #fff;}
+.gr-top span.user-symbol{
+font-size: 9px;}
+.menu{
+position: absolute;
+z-index: 999;
+top: 158px;
+left: 50%;
+margin: 0 0 0 -50%;
+padding: 5px 0;
+width: 100%;
+text-align: center;}
+.menu a{
+display: inline-block;
+margin: -6px 3px 7px 3px;
+padding: 8px 19px;
+border-radius: 0 0 19px 19px;
+line-height: 19px;
+vertical-align: top;}
+.menu a:hover{
+line-height: 39px;}
+.but1, .but2{
+padding: 5px 0;
+text-align: center;}
+.but1 a, .but2 a{
+display: inline-block;
+margin: 6px 3px;
+padding: 8px 19px;
+border-radius: 19px 5px 19px 5px;}
+.menu a, .but1 a, .but2 a:hover{
+box-shadow: inset 0 11px 15px -9px #a54d35, inset 0 -15px 19px -9px #ffdfd6, 0 11px 15px -9px #935b79;
+color: #fef3f9 !important;
+background: #fab6a3;}
+.menu a:hover, .but1 a:hover, .but2 a{
+box-shadow: inset 0 19px 19px -9px #381000, inset 0 -18px 19px -9px #e5b995, 0 11px 15px -9px #935b79;
+color: #eec583 !important;
+background: #aa784f;}
+.gr-body{
+border-radius: 0 0 50px 50px;
+background: #fef3f9;
+border-top: none;
+border-right: 3px solid #fab6a3;
+border-bottom: 3px solid #fab6a3;
+border-left: 3px solid #fab6a3;}
+.text{
+margin: 20px 50px;
+padding: 19px;
+text-align: justify;
+font-size: 13px;
+font-family: 'Libre Baskerville', serif;
+color: #a55133;}
+a, a.external,
+.text span.user-symbol{
+text-decoration: none;
+font-weight: 100;
+color: #e2a878;}
+a:hover, a.external:hover,
+.text span.user-symbol:hover{
+color: #ef7092;}
+h1, h3{text-align: left;}
+.text h2, h4{text-align: center;}
+h5{text-align: right;}
+h1, .text h2, h5{
+padding: 12px;
+border-radius: 19px 5px 19px 5px;
+background: linear-gradient(to bottom, #ffedd6 30%, #fcdeee 100%);}
+h1, .text h2, h3, h4, h5{
+margin: 0;
+font-weight: 100;
+font-size: 25px;
+font-family: 'Emilys Candy', cursive;
+color: #fc8674;}
+h1 a, .text h2 a, h3 a, h4 a, h5 a,
+h1 a.external, .text h2 a.external,
+h3 a.external, h4 a.external, h5 a.external{
+font-weight: 100;
+color: #e2a878 !important;}
+h1 a:hover, .text h2 a:hover,
+h3 a:hover,h4 a:hover, h5 a:hover{
+color: #ef7092 !important;}
+hr{
+margin: 6px auto;
+padding: 0;
+width: 90%;
+background: #ef7092;
+border: 1px dashed #fab6a3;}
+blockquote, .sbox{
+margin: 5px auto 20px auto;
+padding: 26px 40px;
+box-shadow: inset 0 11px 15px -9px #a54d35, inset 0 -15px 19px -9px #ffdfd6, 0 11px 15px -9px #935b79;
+border-radius: 0 0 19px 19px;
+border: 1px solid #fab6a3;}
+.sbox{
+max-height: 400px;
+overflow: auto;}
+::-webkit-scrollbar{width: 15px;}
+::-webkit-scrollbar-thumb, ::-webkit-scrollbar-track{
+border-radius: 0 0 19px 19px;
+background: linear-gradient(to bottom, transparent 20%, #fab6a3 100%);}
+.source{
+margin-top: 15px;
+text-align: right;
+text-decoration: overline;
+font-size: 10px;}
+.source a, .source a.external{
+text-decoration: overline;}
+a.back{
+display: block;
+margin: 15px auto;
+padding: 6px;
+width: 120px;
+text-align: center;
+font-size: 13px;
+color: #e5bdb5;
+border-top: 1px dashed #e5bdb5;}
+ul{margin-left: -16px; list-style: square;}
+ol{margin-left: -16px; list-style: decimal;}
+ul ol{margin-left: -2px; list-style: decimal-leading-zero;}
+ol ul{list-style: disc;}
+ul ul{list-style: circle;}
+ol ol{list-style: lower-latin;}
+ul, ol, ul ol, ol ul, ul ul, ol ol{list-style-position: outside;}
+.tab{display: table; margin: 3px auto; width: 100%;}
+.tab .col2, .tab .col3, .tab .col4{display: table-cell; padding: 8px 1%;}
+.tab .col2{width: 48%;}
+.tab .col3{width: 31.3%;}
+.tab .col4{width: 23%;}
+.ntb{
+line-height: 0;
+text-align: center;}
+.lit{
+margin: 0 0 5px 0;
+padding: 0;
+height: 270px;
+width: 250px;
+box-shadow: inset 0 11px 15px -9px #a54d35, inset 0 -15px 19px -9px #ffdfd6, 0 11px 15px -9px #935b79;
+border-radius: 0 0 19px 19px;
+background: transparent;
+border: 1px solid #fab6a3;}
+.lit:hover{
+background: #fff9fc;}
+.lit q strong{
+margin: -19px -19px 15px -19px;
+padding: 12px 3px 15px 3px;
+box-shadow: inset 0 -15px 19px -9px #ffdfd6, 0 11px 15px -9px #935b79;
+text-align: center;
+font-weight: 100 !important;
+font-size: 16px;
+color: #cca3a3;}
+.lit q{
+right: 0;
+left: 0;
+padding: 20px 25px 5px 25px;
+line-height: 1.5;
+font-weight: 100;
+font-size: 13px;
+color: #cca3a3;
+background: transparent;}
+.embedded-deviation-overlay{
+background: rgba(255, 181, 213, .5);}
+.embedded-deviation-overlay:hover{
+background: rgba(255, 181, 213, 0);}
+.embedded-freeform-deviation{
+border: 2px solid #fab6a3;}
+.embedded-freeform-deviation:hover{
+border: 2px solid #ef7092;}
+.credit{
+position: absolute;
+z-index: 999;
+bottom: 0;
+left: 50%;
+margin-left: -25px;
+padding: 0;
+height: 110px;
+width: 50px;
+line-height: 110px;
+vertical-align: middle;
+text-align: center;}
+/*
+- - - - - - - - - - - - - - - - - - - -
+Navigation
+- - - - - - - - - - - - - - - - - - - -
+To customize the links in navigation menu; go to submit journal/edit journal/sta.sh writer and click "change skin"and then "edit skin". A conversation box will be opened; accept the terms and conditions. Once "Customize Skin" window is opened, at the "Skin Header" section, replace the content, URLs and corresponding labels in between "menu" div tags with yours.
+<div class="menu">
+<a href="URL">FACEBOOK</a> <a href="URL">GALLERY</a> <a href="http://www.deviantart.com/messages/notes/#to=DEVIANTNAME">NOTE ME</a>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Pink Buttons
+- - - - - - - - - - - - - - - - - - - -
+<div class="but1">
+<a href="URL" target="_blank">FACEBOOK</a> <a href="URL" target="_blank">TWITTER</div>
+- - - - - - - - - - - - - - - - - - - -
+Chocolate Buttons
+- - - - - - - - - - - - - - - - - - - -
+<div class="but2">
+<a href="URL" target="_blank">FACEBOOK</a> <a href="URL" target="_blank">TWITTER</div>
+- - - - - - - - - - - - - - - - - - - -
+Blockquote and Source
+- - - - - - - - - - - - - - - - - - - -
+<blockquote>QUOTE HERE<div class="source">SOURCE</div>
+</blockquote>
+- - - - - - - - - - - - - - - - - - - -
+Scrollbox
+- - - - - - - - - - - - - - - - - - - -
+<div class="sbox">SCROLL BOX CONTENT</div>
+- - - - - - - - - - - - - - - - - - - -
+"Back To" Link (Using Internal Linking In Journals)
+- - - - - - - - - - - - - - - - - - - -
+<a name="ICECREAM">
+<code>
+</code>
+</a>
+<a class="back" href="URLOFTHEJOURNAL#ICECREAM">BACK TO ICECREAM</a>
+- - - - - - - - - - - - - - - - - - - -
+Two Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col2">TEXT IN COLUMN 1</div>
+<div class="col2">TEXT IN COLUMN 2</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Three Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col3">TEXT IN COLUMN 1</div>
+<div class="col3">TEXT IN COLUMN 2</div>
+<div class="col3">TEXT IN COLUMN 3</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Four Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col4">TEXT IN COLUMN 1</div>
+<div class="col4">TEXT IN COLUMN 2</div>
+<div class="col4">TEXT IN COLUMN 3</div>
+<div class="col4">TEXT IN COLUMN 4</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Normal Thumb Box
+- - - - - - - - - - - - - - - - - - - -
+<div class="ntb">:thumb######:</div>
+
+--Header Code--
+<div class="menu">
+<a href="URL">Facebook</a> <a href="URL">Gallery</a> <a href="https://www.deviantart.com/messages/notes/?to=DEVIANTNAME#">Note Me</a>
+</div>
+<br>
+<br>
+--End Header Code--
+
+--Footer Code--
+<div class="credit">
+<a href="http://fav.me/d6y0vzv" title="Pink and Chocolate Journal Skin by MelikeBAt" target="_blank">&#10084;&nbsp;Pink&nbsp;and&nbsp;Chocolate&nbsp;Journal&nbsp;Skin</a>&nbsp;by&nbsp;<a href="https://www.deviantart.com/artbymba">MelikeBAt</a>
+</div>
+*/

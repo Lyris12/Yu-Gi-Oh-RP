@@ -1,0 +1,104 @@
+/***************************************************************
+Copyright &#169; ginkgografix.deviantart.com 
+Skin: White Deer
+
+Free to use for dA journals. 
+Do not redistribute - partly or fully - without my permission.
+****************************************************************/
+
+.gr{ border: none; padding: 0!important; background: transparent;}
+.gr1, .gr2, .gr3, .gr3, .tri, .gr-top img {display: none;}
+
+.gr-box{
+background: #f5f5f5 url(https://other00.deviantart.net/b072/o/2016/299/a/3/642080697_2974719_footer_by_ginkgografix-dam717u.jpg) no-repeat bottom center;
+max-width: 1000px;
+margin: auto;
+font-family: 'Josefin Sans', sans-serif;
+color: #32666b;
+font-size: 16px;}
+
+.gr-top{
+border: none;
+background: url(https://other00.deviantart.net/fbdb/o/2016/299/e/1/642080697_2974720_header_by_ginkgografix-dam9y7i.jpg) no-repeat center top;
+text-align: center;
+padding: 60px 0 250px 0;}
+
+.gr-top h2{
+color: #fff;}
+
+.gr-top h2 a{
+background: rgba(36, 154, 167, 0.4);
+padding: 8px 20px;
+border: 1px solid #ffffff;
+max-width: 550px;
+text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 25px;
+color: #fff;
+font-weight: normal;}
+
+.timestamp{
+color: #2a7e87;
+display: inline-block;
+padding: 10px 0 0;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+
+.text{
+background: #8ddce2;
+padding: 0 30px 20px 30px;
+margin: 0px auto;
+max-width: 412px;}
+
+.text a{
+color: #fff;}
+
+.f{background: transparent!important;}
+
+.bottom{
+padding: 40px 0 32px 0;}
+
+.bottom a{
+font-size: 20px;}
+
+
+/***************Features*****************/
+.bluebox{
+background: #52b0b9;
+margin: 20px -60px;
+padding: 20px 80px;
+color: #ffffff;
+border: 1px solid #aae7ec;}
+
+.bluebox a{
+color: #26686e;}
+
+.feature{
+text-align: center;}
+
+.feature img{
+padding: 5px;
+border: 2px solid #fff;}
+
+hr{
+border: none;
+background: url(https://other00.deviantart.net/6874/o/2016/299/6/4/642080697_2974721_divider_by_ginkgografix-dam9ybb.png) no-repeat center;
+height: 45px;
+margin: 20px;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Feature (Image with border)
+<div class="feature">...</div>
+- Dark Teal Box
+<div class="bluebox"> ... </div>
+- Divider
+<hr>
+
+--Footer Code--
+</div>
+*/

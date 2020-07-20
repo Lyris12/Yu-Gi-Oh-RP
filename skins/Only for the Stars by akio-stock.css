@@ -1,0 +1,71 @@
+* {
+    border: none;
+    margin: 0 auto;
+}
+
+.nav {
+    height: 75px;
+}
+
+.gr-box {
+    width: 664px;
+    margin: 0 auto;
+    border: solid 1px black;
+    background: #04080d;
+}
+
+.gr-top .gr {
+    background: #04080d;
+    background-image: url(https://fc01.deviantart.net/fs70/f/2013/141/a/c/stars_clouds_by_akio_stock-d662k1k.png);
+    background-repeat: no-repeat;
+    height: 488px;
+    margin: auto;
+    padding-bottom: 0;
+}
+
+h2 a{
+    background: transparent;
+    position: absolute;
+    top: 466px;
+    color: #3b5d83;
+    font-size: 1.5em;
+}
+
+.text {
+    color: #5e7bac;
+    padding: 0 50px;
+    text-align: justified;
+}
+
+.gr-body {
+    background: url(https://fc06.deviantart.net/fs70/f/2013/141/b/a/clouds_top_ns_by_akio_stock-d662k1x.png);
+    background-repeat: no-repeat;
+}
+
+.bottom {
+    background: url(https://fc04.deviantart.net/fs71/f/2013/137/d/a/clouds_bottom_by_akio_stock-d65m9lo.png);
+    height: 273px;
+}
+
+.ppb {
+    padding-bottom: 0
+}
+
+.commentslink {
+    position: relative;
+    top: 100px;
+}
+
+.gr1, .gr2, .gr3, .tri, .gr-top img {
+    display: none;
+}
+/*
+! Many images are broken
+
+Use the headers with h1, h2 and h3 tags, and use the hr tag for the line. To enable and change navigation, remove the .nav { display: none } line from the CSS. Links are located in the footer: to change, paste the wanted link where the href="stuff" is (remember the quotes!).
+
+--Header Code--
+<div class="nav"> </div>
+--End Header Code--
+--Footer Code--
+*/

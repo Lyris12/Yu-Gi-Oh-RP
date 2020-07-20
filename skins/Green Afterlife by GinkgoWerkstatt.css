@@ -1,0 +1,137 @@
+.gr-box{
+max-width: 1200px;
+height: 840px;
+color: #061717;
+background: no-repeat top right url(https://fc09.deviantart.net/fs71/o/2010/137/d/d/164383697_126163_bg.jpg);}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+background: transparent;
+text-align: right;
+padding: 70px 70px 25px 0;}
+
+.gr-top img{display: none;}
+.gr-top span{color: #084c4c;}
+
+h2{
+font-size: 26px;
+margin: 0 0 -5px 0;
+font-family: Times New Roman, serif;
+color: #ecffff;
+letter-spacing: 1px;
+text-shadow: 1px 1px #07252e;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+
+.text{
+margin: 0 115px 0 0;
+height: 621px;
+padding: 50px 30px 0 30px;
+background: transparent no-repeat top right url(https://fc08.deviantart.net/fs70/o/2010/137/2/c/164383697_126164_bg2.jpg);}
+
+a{color: #ecffff;}
+a:hover{color: #9beacd;}
+
+.sidebar{
+width: 105px;
+position: absolute;
+right: 5px;
+top: 150px;
+color: #ecffff;
+font-size: 10px;
+height: 400px;
+overflow: hidden;}
+
+ul{
+margin: 0 0 0 -30px;
+_margin: 0 0 0 10px;}
+
+ul li{
+margin: -3px 0 ;
+line-height: 12px;
+list-style: none;
+padding: 0 0 0 12px;
+background: url(https://fc02.deviantart.net/fs70/o/2010/137/0/b/164383697_126165_list.png) left center no-repeat;}
+
+.content{
+height: 290px;
+_height: 340px;
+padding: 20px;
+overflow: auto;
+border: 1px solid #30635a;
+background: url(https://fc09.deviantart.net/fs71/o/2010/137/5/c/164383697_126166_bg3.png);}
+
+em{
+font-size: 20px;
+letter-spacing: 1px;
+color: #9beacd;
+text-shadow: 1px 1px #13697e;}
+
+.feature{
+margin: 20px 0 0 0;
+padding: 35px 0 0 0;
+height: 165px;
+overflow: auto;
+text-align: center;
+background: url(https://fc07.deviantart.net/fs70/o/2010/137/1/a/164383697_126167_feature.png) no-repeat top center;}
+
+.thumbs{text-align: center;}
+
+.thumbs .shadow{ 
+padding: 5px 8px; 
+background: url(https://fc09.deviantart.net/fs70/o/2010/137/7/b/164383697_126168_thumb.png) center no-repeat!important}
+
+.thumbs a{
+display: inline-block;
+width: 70px!important;
+height: 70px!important;
+overflow: hidden;
+border: 1px solid transparent;}
+
+.thumbs a:hover{border: 1px solid #ecffff;}
+
+.f{display: none;}
+
+.bottom{
+font-size: 11px;
+position: absolute;
+bottom: 45px;
+left: 30px;
+color: #ecffff;
+text-shadow: 1px 1px #07252e;
+font-variant: small-caps;
+letter-spacing: 1px;}
+
+.bottom a {text-decoration: none;}
+/*
+- Headline
+<em>... </em>
+
+- Mini Thumbs
+<div class="thumbs">... </div>
+(The feature area can be found in Skin Footer.)
+
+--Header Code--
+<div class="sidebar">Lorem ipsum dolor sit amet, <a href="">consetetur</a> sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+
+
+<ul><li>dolore </li>
+<li>magna </li>
+<li>aliquyam </li>
+<li>erat</li></ul>
+
+:thumb135664400:</div><div class="content">
+--End Header Code--
+--Footer Code--
+</div><div class="feature"><div class="thumbs">:thumb85696872: :thumb120669044: :thumb125286009:</div></div>
+*/

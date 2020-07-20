@@ -1,0 +1,174 @@
+.gr-box {
+border:none;
+margin:0 auto 20px auto;
+padding:0;
+border: none;
+}
+
+.gr-top
+{
+background-image: url(https://fc03.deviantart.net/fs70/o/2010/361/e/d/191075335_166389_summertop.jpg);
+height: 256px;
+background-position: center;
+border: none;
+}
+
+.gr-body
+{
+background: #8AB1D1;
+border: none;
+}
+
+.gr {
+background: transparent; 
+border: none;
+text-align:center;
+padding:0 !important;
+}
+
+.tri{display:none;} 
+.gr1{display:none;}
+.gr2{display:none;}
+.gr3{display:none;}
+
+.gr-body .text
+{
+margin-top: 100px;
+padding: 30px 50px 0 55px;
+font-size:12px;
+text-align:center;
+max-width:70%;
+margin:0 auto;
+color: #630E2F;
+
+}
+
+.gr-body .text a
+{
+font-size:12px;
+color: #630E2F;
+text-decoration: none;
+}
+
+.gr-body .text a:hover
+{
+font-size:12px;
+color: #630E2F;
+text-decoration: none;
+
+}
+
+.gr-top .gr
+{
+text-align: center;
+width: 100%;
+float: center;
+top: 80px;
+height: 110px;
+left: 10px;
+}
+
+.gr-top h2 img
+{
+display: none;
+}
+
+.gr-top h2
+{
+font: 25px Helvetica, Arial, sans-serif;
+font-weight: bold;
+color:  #630E2F;
+text-shadow: 2px 2px 4px #ffffff;
+padding: 20px 20px 0 20px;
+max-width: 500px;
+margin: 0 auto;
+}
+
+.gr-top span
+{
+font-size:12px;
+font-weight: bold;
+color:#630E2F;
+text-align:center;
+text-shadow: 0 2px 4px #ffffff;
+
+
+}
+
+
+
+
+.subject
+{
+padding-bottom: 0px;
+margin-bottom: -10px;
+min-height: 20px;
+font: 15px Helvetica, Arial, sans-serif;
+color:  #630E2F;
+}
+
+.bottom
+{
+height: 246px;
+background: url(https://fc07.deviantart.net/fs70/o/2010/361/c/a/191075335_166390_summerbottom.jpg);
+background-position: center;
+border: none;
+
+}
+
+.foot
+{
+text-align: center;
+}
+
+.bottom a
+{
+float: left;
+margin-top: 215px;
+margin-left: 10px;
+font-size:12px;
+color: #630E2F;
+text-decoration: none;
+font-weight: bold;
+text-shadow: 0 2px 4px #ffffff;
+
+}
+
+.bottom a:hover
+{
+font-size:12px;
+color: #630E2F;
+text-decoration: none;
+
+font-weight: bold;
+}
+
+span.hsep
+{
+display: none;
+}
+
+.list {
+	background: no-repeat bottom center;
+	_background-position:top center;
+	height:125px;
+	_height:150px;
+	padding:5px 0 0 0px;
+	text-align:left;
+	font-size:11px;
+	color:#630E2F;
+        background:#8AB1D1
+}
+.list .a {
+	background:#8AB1D1 !important;
+}
+.list li {
+        font-size:11px;
+        text-align:left;
+        padding:2px;
+        color:#630E2F;
+
+}
+/*
+! Thick seam in background image (not sure if this is intentional)
+*/

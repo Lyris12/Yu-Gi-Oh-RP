@@ -1,0 +1,142 @@
+.gr{ border: none; padding: 0; background: transparent;}
+.gr1, .gr2, .gr3, .gr3, .tri, .gr-top img, .list {display: none;}
+
+.gr-box{
+background: url(https://fc01.deviantart.net/fs70/o/2014/008/2/c/425551053_1372851_bg_by_ginkgografix-d713brl.png) repeat-y scroll center top transparent;
+color: #695341;
+font-family: 'Karla',cursive;
+font-size: 15px;
+margin: 0 auto 10px;
+max-width: 700px;}
+
+.gr-top{
+border: none;
+background: transparent;}
+
+h2 a, h2{
+color: #835D41;
+font-family: 'Poiret One',cursive;
+font-size: 30px;}
+
+.gr-top h2 {
+left: 120px;
+position: absolute;
+top: 120px;}
+
+.timestamp {
+left: 120px;
+position: absolute;
+top: 110px;}
+
+.gr-body{
+background: url(https://fc05.deviantart.net/fs71/o/2014/008/b/6/425551053_1372852_footer_by_ginkgografix-d713brg.png) no-repeat scroll center bottom transparent;
+overflow: visible !important;
+position: static !important;
+padding: 0 0 77px;
+border: none;}
+
+.text {
+background: url(https://fc07.deviantart.net/fs71/o/2014/008/2/e/425551053_1372853_header_by_ginkgografix-d713bp9.png) no-repeat scroll center top transparent;
+line-height: 22px;
+padding: 180px 85px 210px;}
+
+.text a{
+color: #4e849f;
+font-weight: normal;}
+
+.text a:hover{
+border-bottom: 1px dashed;}
+
+.text li{
+list-style-image: url(https://fc04.deviantart.net/fs71/o/2014/008/c/5/425551053_1372854_bullet_by_ginkgografix-d713w0n.png); }
+
+
+/******Menu*/
+
+.menu {
+color: #C8D3D2;
+font-family: 'Poiret One',cursive;
+text-align: right;
+position: absolute;
+right: 7px;
+top: 3px;}
+
+.menu:hover{
+text-shadow: 3px 3px 2px #c98b57, -3px -3px 2px #c98b57 ;}
+
+.menu ul{display: none;}
+.menu:hover ul{display: block;}
+
+.menu ul{
+margin: 3px -6px 0 0px;
+padding: 10px 0;
+max-width: 180px;
+background: rgba(175, 189, 192, 0.6);
+color: #5d432a;
+text-shadow: none;}
+
+.menu ul li{
+padding: 5px 35px 5px 10px;
+list-style: none;}
+
+.menu ul li a:hover{
+color: #f1f4f4;}
+
+
+/******Thumbs*/
+
+a.thumb:hover , .embedded-deviation:hover{border: none!important;}
+
+a.lit:hover {border: 1px solid #fff!important; }
+a.lit q {left: 5px;}
+a.lit q strong{text-shadow: 4px 4px 2px #f0f8f8, -4px -4px 2px #f0f8f8 ;}
+.lit img{display: none;}
+.lit {background: transparent;}
+a.lit {box-shadow: 2px 2px 4px #f0f8f8, -2px -2px 4px #f0f8f8 ;}
+
+
+.feature{text-align: center;}
+.feature img{padding: 5px; border: 1px dashed;}
+.feature img:hover{color: #fff;}
+
+
+.embedded-deviation {overflow: visible;}
+.embedded-deviation img{
+padding: 5px;
+box-shadow: 2px 2px 4px #f0f8f8, -2px -2px 4px #f0f8f8;}
+
+.embedded-deviation img:hover{
+box-shadow: 2px 2px 4px #fff, -2px -2px 4px #fff;}
+
+
+/******Bottom*/
+
+.bottom{
+padding: 0 145px 0 0;
+text-align: right;}
+
+.bottom a{
+color: #543C21;
+font-family: 'Poiret One',cursive;
+font-size: 23px;
+font-weight: bold;
+text-decoration: none;
+text-transform: lowercase;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Glow Lists
+<li>... </li><li>... </li><li>... </li>
+- Thumbs with Borders
+<div class="feature"> ... </div>
+
+:note: Thumbs come without decoration, when resized via Sta.sh a glow border will be added. For those dashed borders use the code above.
+- Drop Down Menu
+<div class="menu">drop down menu<ul><li><a href="...">Some Link</a></li><li>Or additional info you want to add.</li></ul></div>
+:note: This is already there when you install the skin. To change the links, go to "Edit Skin" and "Skin Header". No matter if you use links or add other infos, it always needs to be wrapped by the li-tag.
+
+--Header Code--
+<div class="menu">drop down menu<ul><li><a href="">Some Link</a></li><li>Or additional info you want to add.</li></ul></div>
+--End Header Code--
+--Footer Code--
+*/

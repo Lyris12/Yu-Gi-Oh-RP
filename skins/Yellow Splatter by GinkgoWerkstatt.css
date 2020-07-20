@@ -1,0 +1,105 @@
+.gr-box{
+max-width: 900px;
+color: #262e2e;
+margin: 0 auto 10px auto;
+font-family: Verdana, sans-serif;
+background: url(https://fc09.deviantart.net/fs71/o/2010/261/4/f/179651405_149973_bg.jpg) #b9cbcd left repeat-y;}
+
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr{border: none; background: transparent;}
+
+.gr-top{
+border: none;
+padding: 80px 0 190px 20px;
+text-align: center;
+background: url(https://fc06.deviantart.net/fs70/o/2010/261/d/f/179651405_149974_header.jpg) transparent left top no-repeat;}
+
+h2{
+letter-spacing: 1px;
+font-size: 24px;
+color: #e8e63b;}
+
+.gr-top img{display: none;}
+
+.gr-top span{color: #e8e63b;}
+
+.gr-body{
+border: none;
+padding-bottom: 200px;
+background: url(https://fc03.deviantart.net/fs71/o/2010/261/e/f/179651405_149975_footer.jpg) transparent left bottom no-repeat;}
+
+.text{
+padding: 20px 40px 60px 105px;
+background: url(https://fc05.deviantart.net/fs71/o/2010/261/7/c/179651405_149976_header2.jpg) transparent left top no-repeat;}
+
+
+a{color: #2c3842;}
+a:hover{color: #e8e63b;}
+
+.text ul{margin-left: 65px;}
+
+
+p{margin: 0 20px;}
+p:first-letter{font-size:18px;}
+
+.arrow{
+background: url(https://fc05.deviantart.net/fs70/o/2010/261/3/2/179651405_149977_arrow.png) left top no-repeat;
+padding: 24px 0 58px 102px;
+margin: 0 0 -65px -105px;
+_margin: 0 0 -45px -105px;
+font-size: 18px;}
+
+.clip{
+background: url(https://fc01.deviantart.net/fs71/o/2010/261/3/a/179651405_149978_clip.png) left bottom no-repeat;
+font-size: 18px; 
+letter-spacing: 1px;
+padding: 0 0 78px 102px;
+margin: 0 0 -78px -105px;}
+
+
+.mini {text-align:center;}
+
+.mini .shadow { 
+border:1px solid #080808;
+padding: 6px; background-image:none!important;}
+
+.mini .shadow:hover {border-color:#e8e63b!important;}
+
+.mini a {
+display:inline-block;
+width:70px!important;
+height:70px!important;
+overflow:hidden;}
+
+.mini br{margin: 15px;}
+
+.list{
+color: #2c3842;
+position: absolute;
+left: 110px;
+bottom: 22px;}
+
+.f{
+background: transparent;
+color: #e8e63b;
+letter-spacing: 1px;}
+
+.bottom a{ text-decoration: none;}
+/*
+! There is a gap between the body and the top
+- Arrow Headline
+<div class="arrow">... </div>
+
+- Clip Headline
+<div class="clip">... </div>
+
+- Mini Thumbs
+<div class="mini">... </div>
+
+- First Letter Paragraph
+<p>... </p>
+*/

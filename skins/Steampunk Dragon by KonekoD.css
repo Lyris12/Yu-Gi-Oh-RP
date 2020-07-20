@@ -1,0 +1,87 @@
+.journalbox {
+max-width:500px;
+height:800px;
+background-image:url(https://fc03.deviantart.net/fs71/o/2011/293/a/6/264473673_318617_steampunkdragon7.jpg);
+background-repeat:no-repeat;
+background-position:top left;
+border: none;
+}
+.journaltop img {
+display:none;
+}
+.journaltop {
+font-size:10px;
+padding-top:145px;
+background-color:transparent;
+color:#1b0902;
+text-align:center;
+}
+.journaltop h2 {
+color:#1b0902;
+font-size:20px;
+font-family: "Book Antiqua", Palatino, serif;
+background-color:transparent;
+text-align:center;
+}
+.list {
+color:  #f0d9a8;
+font-size: 12px;
+text-align:center;
+padding:10px 0 20px 0px;
+}
+.a{
+background:transparent!important;
+}
+.list li {
+padding:2px;
+font-family: 'Trebuchet MS', Arial, Verdana, Helvetica,  sans-serif;
+}
+.journalbox a {
+color: #004c52 !important;
+text-decoration: underline!important;
+}
+.journalbox a:hover {
+text-decoration: none!important;
+color: #b2fffb !important;
+}
+.journaltext {
+color: #1b0902;
+margin-left:12px;
+height:386px;
+width: 459px;
+overflow:auto;
+font-family: "Palatino Linotype", Palatino, serif;
+font-size: 14px;
+text-align:left;
+margin-bottom:5px;
+}
+.journalbox .commentslink {
+color: #fefbd4!important;
+font-size:12px; 
+text-decoration:none!important;
+padding: 8px;	
+}
+.journalbottom {
+background-color:transparent!important;
+color: #fefbd4;
+font-size: 0px;
+}
+.credit{
+font-size:9px;
+}
+/*
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/konekod/art/Steampunk-Dragon-264473673">Steampunk Dragon</a> journal skin by <a href="https://www.deviantart.com/konekod">KonekoD</a>
+</sub>
+<br>
+<br>
+<div align="center">
+<div class="credit">
+<a href="http://fav.me/du51a9">Paper texture</a> by <a href="https://www.deviantart.com/darkrose42-stock">darkrose42-stock</a> | <a href="http://fav.me/d17ts5p">Steampunk Necklace Stock</a> by <a href="https://www.deviantart.com/Angelus-Knight">Angelus-Knight</a> | <a href="http://fav.me/d4bvpl8">1887- Golden Book 2</a> by <a href="https://www.deviantart.com/HelenaRothStock">HelenaRothStock</a> | <a href="http://fav.me/d28yysn">Tribal Dragon</a> by <a href="https://www.deviantart.com/stovall">stovall</a> | <a href="https://ro-stock.deviantart.com/art/Corner-brushes-2-53481797">Corner brushes 2</a> by <a href="https://www.deviantart.com/ro-stock">ro-stock</a> | <a href="http://www.sxc.hu/photo/1365696">Rusted Gears</a> by <a href="http://www.sxc.hu/profile/foxbit">foxbit</a> on <a href="http://www.sxc.hu/">stock.xchng</a> | Quote from <i>
+<a href="http://www.amazon.com/Steelhands-Jaida-Jones/dp/0553807706">Steelhands</a>
+</i> is copyright © to owner(s).</div>
+</div>
+*/

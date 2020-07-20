@@ -1,0 +1,136 @@
+.journalbox 
+{
+max-width: 595px;
+_width: 595px;
+color: #E97191;
+font-size: 15px;
+font-family:  arial;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: justify;
+border: none;
+}
+.journaltop 
+{
+height: 220px;
+color: #F68290;
+background: url(https://fc04.deviantart.net/fs70/o/2013/283/0/9/406343669_1210546_rosesjournalhead_by_acidkitty3-d6px8bc.png) no-repeat top center;  
+font-family: arial; 
+font-size: 12px;
+padding: 180px 25px 0px 0px;
+text-align: center;
+}
+.journaltop h2 
+{
+color: #ffffff;
+background-color: transparent; 
+font-family: arial;
+font-size: 22px; 
+font-weight: normal; 
+letter-spacing: 2px;
+text-align: center;
+padding: 215px 0px 0px 0px;
+}
+.text strong {
+color: #E15E91;
+font-family: arial; 
+display: block;
+font-size: 20px;
+text-align: center;
+text-shadow: #ffffff 1px 1px 2px;
+padding-bottom: 1px;
+}
+.journaltop img 
+{
+display: none;
+}
+.thumbs{text-align: center;}
+.thumbs img{
+padding: 10px;
+border: 1px solid #b514b0;}
+.thumbs img:hover{
+background: #9DD577;
+border: 1px dashed #fff;}
+.topmenu a{
+margin: 0 5px;
+letter-spacing: 1px;
+color: #db67db; 
+text-decoration: none;}
+.topmenu a:hover{text-shadow: #c26fc2 0 1px;}
+.list 
+{
+background-color: transparent;
+color: #ffffff;
+text-align: left;
+text-decoration: bold;
+margin: -150px 30px 30px 30px;
+padding: 0px 60px 60px 60px; 
+font-family: arial;
+font-size: 15px;
+}
+.list .a 
+{
+background: none;
+}
+.list strong 
+{
+color: #ffffff; 
+font-weight: bolder;
+}
+.list li 
+{
+padding:2px;
+}
+.journaltext 
+{
+background-image: url(https://fc02.deviantart.net/fs71/o/2013/283/0/9/406343669_1210547_rosesjournalbg_by_acidkitty3-d6px9l1.png);
+padding: 0px 55px 0px 55px;
+text-align: justify;
+}
+.journaltext a
+{
+color: #1EAEE8;
+font-family: arial;
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #db67db;
+text-decoration: underline;
+}
+.boxtitle{
+font-family: Trebuchet MS;
+font-size: 15px;
+font-weight: bold;
+color: #F63084;
+margin: 10px 0 -10px 0;}
+.journalbottom 
+{
+background: url(https://fc05.deviantart.net/fs70/o/2013/283/c/4/406343669_1210548_rosesjournalfoot_by_acidkitty3-d6px8bq.png) no-repeat; 
+height: 217px;
+padding: 0px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: arial;
+font-size: 10px;
+color: #db67db;
+text-decoration: bold;
+font-weight: normal;
+}
+.journalbottom a:hover 
+{
+color: #FFA031;
+text-decoration: underline;
+}
+/*
+--Header Code--
+<br /><br />
+--End Header Code--
+
+--Footer Code--
+<sub><div align="center"><img src="https://fc00.deviantart.net/fs71/o/2013/283/1/e/406343669_1210549_roses_by_acidkitty3-d6px8c2.gif" width=141 height=16 border=0>
+<br><small><a href="https://www.deviantart.com/citriclily/art/Roses-Journal-Skin-406343669">Roses Journal Skin</a> design by: <a href="https://www.deviantart.com/CitricLily">acidkitty3</a>
+</div>
+*/

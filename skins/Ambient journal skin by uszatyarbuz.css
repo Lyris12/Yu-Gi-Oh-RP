@@ -1,0 +1,230 @@
+.journaltop {
+background: url(https://cdn.discordapp.com/attachments/570994943108055060/610812106899587072/Ambient_Background.jpg)no-repeat;
+background-position: top center;
+font-family: "Oregano";
+text-shadow: 0px 0px 10px #fff;
+color: transparent;
+text-align: center;
+letter-spacing: 5px;
+}
+.journaltop span{
+color: #563e4b; 
+text-align: center;
+transition: color 1.3s; 
+}
+.journaltop img{ display: none; } 
+.journaltop a{ 
+color: #634e5d;
+transition: all 1.3s;    }
+.journaltop h2{ 
+font-family: "Oregano";
+color: #563e4b; 
+text-shadow: 0px 0px 15px #ffffff;
+font-size: 30px; 
+letter-spacing: 7px;
+text-align: center;
+height: 50px;
+margin: 50px 0px 0px 0px;
+transition: all 1.3s; 
+}
+.journaltop h2 a:hover{ 
+color: #dc8686;  
+text-shadow: 0px 0px 15px #ffffff;
+text-decoration: none; 
+}
+.journalbox{ 
+background: url(https://cdn.discordapp.com/attachments/570994943108055060/610812106899587072/Ambient_Background.jpg)repeat;
+font-family: "Oregano";
+background-position: top center;
+text-align: center;
+font-size: 14px;
+margin: auto;
+border: none; 
+max-width: 700px;
+} 
+.journaltext{ 
+background: url(https://fc06.deviantart.net/fs70/o/2014/265/6/1/483271113_1919218_428054664_1393280_377161897_961596_359858230_759935_transparent_by_simplysilent-d5y89re.png)repeat;
+font-family: "Oregano";
+color: #634e5d; 
+font-size: 18px;
+text-align: center;
+padding: 10px;
+margin: 25px;
+}
+.journaltext h1{
+font-family: "Oregano";
+color: #dc8686;
+text-shadow: 0px 0px 5px #fff;
+font-size: 24px;  
+margin: 0px;
+padding: 10px 0 10px 0;
+}
+.journaltext h2{
+font-family: "Oregano";
+color: #f7c974;
+text-shadow: 0px 0px 5px #fff;
+font-size: 24px;  
+margin: 0px;
+padding: 10px 0 10px 0;
+}
+.journaltext h3{
+font-family: "Oregano";
+color: #634e5d;
+text-shadow: 0px 0px 5px #fff;
+font-size: 24px;  
+margin: 0px;
+padding: 10px 0 10px 0;
+}
+.journaltext h4{
+font-family: "Oregano";
+color: #000;
+text-shadow: 0px 0px 5px #fff;
+font-size: 24px;  
+margin: 0px;
+padding: 10px 0 10px 0;
+}
+.journaltext h5{
+font-family: "Oregano";
+color: #fff;
+text-shadow: 0px 0px 5px #fff;
+font-size: 24px;  
+margin: 0px;
+padding: 10px 0 10px 0;
+}
+.journaltext blockquote{
+font-family: "Oregano";
+color: #c75b5b;
+font-size: 17px;
+text-shadow: 0px 0px 6px #ffffff; 
+margin: 10px 0px 10px 0px;
+}
+.journaltext hr{
+color: #c75b5b; }
+.journaltext a{ 
+font-family: "Oregano";
+color: #c75b5b; 
+font-size: 18px;
+text-decoration: none;
+transition: color 1s; 
+} 
+.journaltext a:hover{ 
+color: #dc8686; 
+}
+a img{
+border: 2px solid #634e5d;
+vertical-align: middle;
+transition: border 1.3s; 
+}
+a img:hover{
+border: 2px solid #c75b5b;
+}
+.lit{
+margin: 0px;
+padding: 0px;
+width: 170px;
+height: 150px;
+border: 2px solid #634e5d;
+background: url(https://fc06.deviantart.net/fs70/o/2014/265/6/1/483271113_1919218_428054664_1393280_377161897_961596_359858230_759935_transparent_by_simplysilent-d5y89re.png)repeat;
+box-shadow: none !important;
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+font-family: "Oregano"!important;
+transition: border 1.3s;
+vertical-align: middle;
+text-align: center;}
+.lit:hover{
+border: 2px solid #c75b5b;
+transition: border 1.3s;
+}
+.lit q strong{
+margin: 5px;
+padding: 2px;
+padding-bottom: 10px;
+padding-top: 5px;
+font-family: "Oregano";  
+color: #634e5d;
+font-size: 14px;
+}
+.lit q{
+margin-left: -20px;
+margin-bottom:5px;
+margin-right:5px;
+font-family: "Arial";  
+color: #fff;
+font-size: 10px;
+}
+.lit strong:not(:first-child){
+border: none;
+}
+a.lit q{
+text-shadow: none;
+}
+.lit img {display: none;
+}
+.lit q img{border:none!important; 
+outline:none!important;
+}
+ul{
+color: #c75b5b;
+list-style-type: disc;
+list-style-image: none;
+margin: 0;
+}
+ol{
+color: #c75b5b;
+list-style-type: upper-romanian;
+list-style-image: none;
+list-style-position: inside;
+margin: 0;
+}
+.list{ 
+background: url(https://fc05.deviantart.net/fs70/o/2014/265/e/8/483271113_1919219_dol_by_uszatyarbuz-d7jiteo.png)no-repeat bottom;
+font-family: "Oregano";
+color: #c75b5b;
+font-size: 15px;
+text-align: center;
+padding-bottom: 160px;
+} 
+.list li{
+font-family: "Oregano";
+font-size: 14px; 
+padding: 2px; 
+} 
+.list .a{ background: transparent; }
+.list .f strong{
+background: transparent; 
+font-weight: normal;
+}
+.commentslink {
+font-family: "Oregano";
+color: #634e5d;
+font-size: 16px;
+text-decoration: none; 
+text-shadow: 0px 0px 15px #ffffff;
+transition: color 0.7s; 
+}
+.commentslink:hover{ 
+color: #c75b5b; }
+.credit {
+font-size: 12px;
+margin-bottom: -40px;
+text-align: right;
+}
+.credit a {
+font-family: "Oregano";
+font-size: 12px;
+transition: color 0.7s;
+}
+.credit a:hover { 
+color: #dc8686; }
+/*
+--Header Code--
+<div align=left>*</div>
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/uszatyarbuz/art/Ambient-journal-skin-483271113">Ambient journal skin</a> by <a href="https://www.deviantart.com/UszatyArbuz">UszatyArbuz</a>
+</sub>
+</div>
+&nbsp;</div>
+*/

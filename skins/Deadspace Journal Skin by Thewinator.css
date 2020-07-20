@@ -1,0 +1,132 @@
+.center{
+	text-align:center;
+}
+.sepperator{
+	background:url('https://fc04.deviantart.com/fs42/o/2009/157/f/5/124974337_71463_contentline.png') no-repeat top center;
+	font-size:0px;
+	line-height:0px;
+	height:2px;
+	border:none;
+}
+.thumbfloat{
+	background:url('https://fc01.deviantart.com/fs42/o/2009/157/c/7/124974337_71464_horline.png') no-repeat left center;
+	float:right;
+	margin:2px;
+	margin-left:7px;
+	padding-left:9px;
+}
+.icon{
+	background:url('https://fc04.deviantart.com/fs45/o/2009/157/9/d/124974337_71465_icon.png') no-repeat;
+	font-size:0px;
+	line-height:0px;
+	height:110px;
+	width:100px;
+	position:absolute;
+	left:72px;
+	top:57px;
+}
+.footer{
+	position:relative;
+	top:45px;
+	width:100%;
+	text-align:center;
+	z-index:1;
+	font-size:11px;
+}
+.journaltop{
+	background:#000000 url('https://fc07.deviantart.com/fs48/o/2009/157/7/3/124974337_71466_header.jpg') repeat-x top left;
+	padding:72px;
+	padding-left:172px;
+	height:44px;
+	_height:188px;
+	color:#7adefa;
+}
+.journaltop h2{
+	font-family:Tahoma, Oklahoma;
+	font-size:25px;
+	font-weight:normal;
+	color:#7adefa;
+}
+.journaltop h2 img{
+	display:none;
+}
+.journaltext{
+	background:url('https://fc09.deviantart.com/fs48/o/2009/157/a/7/124974337_71467_bg.png');
+	margin:55px;
+	margin-top:20px;
+	padding:65px;
+	padding-top:0px;
+}
+.journaltext strong{
+	display:block;
+	font-size:18px;
+}
+.journalbottom{
+	background:url('https://fc09.deviantart.com/fs48/o/2009/157/a/7/124974337_71467_bg.png');
+	position:relative;
+	top:-60px;
+	margin:72px;
+	margin-top:-55px;
+	margin-bottom:0px;
+	height:34px;
+	padding:8px;
+	_height:50px;
+	font-size:12px;
+}
+.list{
+	position:absolute;
+	top:127px;
+	left:172px;
+	right:132px;
+	text-align:center;
+	color:#6aa3b6;
+}
+.list li{
+	float:left;
+	height:15px;
+	line-height:20px;
+	padding-right:15px;
+	background:none !important;
+}
+.journalbox{
+	border:2px solid #000000;
+	background:#000000 url('https://fc02.deviantart.com/fs45/o/2009/157/a/7/124974337_71468_footer.jpg') no-repeat bottom left;
+	min-height:600px;
+	color:#71d3f0;
+	font-family:Tahoma, Oklahoma;
+	font-size:11px;
+}
+a{
+	color:#51ffa7;
+	text-decoration:none;
+}
+a:hover{
+	color:#aaffcc;
+	text-decoration:underline;
+}
+/*
+- Headers
+      My header text
+- Sepperators
+      <div class="sepperator">
+</div>
+- Right floating thumb
+      <div class="thumbfloat">:thumb###:</div>
+- Centering block
+      <div class="center">Centered text/thumbs</div>
+
+--Header Code--
+<div class="icon">
+</div>
+<div class="sepperator">
+</div>
+--End Header Code--
+
+--Footer Code--
+<div class="footer">
+<a href="https://www.deviantart.com/thewinator/art/Deadspace-Journal-Skin-124974337">
+</a> Journal Skin by <a href="https://www.deviantart.com/Thewinator">Thewinator</a> and <a href="https://www.deviantart.com/keepwalking07">keepwalking07</a>
+</div>
+</div>
+</div>
+*/

@@ -1,0 +1,122 @@
+.center
+{
+text-align:center;
+}
+.journaltop
+{
+background:transparent;
+padding-bottom:0px;
+padding-top:410px;
+padding-right: 50px;
+padding-left: 50px;
+margin-left: 30px;
+max-width: 740px;
+}
+.filter: chroma{
+opacity: .5;
+}
+.journaltop h2{
+font-family: Tangerine, 'fonty', tahoma;
+font-size:60px;
+font-weight:normal;
+position: center;
+color:#ffffff;
+text-decoration: none;
+text-shadow:0 0 10px #fff,0 0 15px #9000ff, 0 0 20px #9000ff, 0 0 25px #9000ff,0 0 35px #900fff;
+}
+.footer hr img {
+display:journal skin by .devheatherschoff.;
+}
+.journaltop h2 img{
+display:none;
+}
+.journaltext{
+background: url('http://fc03.deviantart.net/fs71/f/2013/346/b/5/blue_by_heatherschoff-d6xnnd6.png' ) repeat transparent;
+margin-top: 5px;
+margin-right:20px;
+margin-left: 20px;
+max-width: 720px;
+overflow: hidden;
+border-radius: 50px;
+padding-left:30px;
+padding-right: 30px;
+padding-bottom: 20px;
+padding-top: 35px;
+font-size: 13px;
+text-align: left;
+font-family: arial;
+text-shadow: 0 0 15px #000, 0 0 30px #900fff;
+color:#fff;
+border-top: 2px solid #4f5087;
+}
+.journaltext img:hover {
+border: 1px solid;;
+}
+.journalbox
+{
+background: url('http://fc02.deviantart.net/fs71/f/2014/082/d/c/revampsmall_short_sign_by_heatherschoff-d7bagsr.jpg' ) no-repeat transparent;
+min-height:500px;
+border-radius: 90px;
+color:#999ad0;
+font-weight: bold;      
+font-family: arial;
+font-size:12px;
+text-align:right;
+max-width: 800px;
+margin: auto;
+}
+.list
+{
+position:absolute;
+top: 100px;
+left:500px;
+right: 50px;
+text-align:right;
+color:#4f5087;
+max-width: 460px;
+}
+.list{
+background: none;
+padding:10px;
+}
+.a{
+background: transparent;
+padding:10px;
+}
+.hsep {
+display:none;
+}
+a{
+color:#fff;
+text-decoration:none;
+}
+a:hover{
+text-shadow:0 0 20px #900fff, 0 0 20px #900fff,0 0 30px #fff,0 0 20px #fff;
+}
+.footer
+{
+position:relative;
+right: 675px;
+padding:10px;
+width:100%;
+text-align:center;
+color:00fe36;
+font-size:16px;
+}
+--End Header Code--
+--Footer Code--
+{
+border:none;
+background: transparent;
+padding:0;
+margin:0;
+}
+/*
+--Header Code--
+<sub>Skin Art: <a href="https://www.deviantart.com/heatherschoff">heatherschoff</a>
+<br>
+<a href="https://www.deviantart.com/zaellrin/journal/Moonbow-Starscape-Journal-Skin-442773244">Moonbow Starscape Journal Skin.</a> by <a href="https://www.deviantart.com/Zaellrin">Zaellrin</a>
+</sub>
+</div>
+</div>
+*/

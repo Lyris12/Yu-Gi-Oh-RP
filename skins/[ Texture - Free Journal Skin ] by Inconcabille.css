@@ -1,0 +1,155 @@
+.journalbox .journaltop {
+    color:transparent !important;
+    background-image: url(https://fc00.deviantart.net/fs71/o/2014/213/3/0/472392553_1819393_8qmbibmo.png);
+    background-position: center !important;
+    background-repeat: repeat;
+    background-color:transparent;
+    height:400px;
+    max-width: 800px;
+}
+h2{
+  color: #000000;
+  font-family: Tahoma;
+  font-size: 28px;
+  letter-spacing: 2px;
+  left: 1px;
+  position: relative;
+  padding-left: 70px;
+  padding-right: 100px;
+  text-align: center !important;
+  text-shadow: 1px 1px #FFFFFF;
+  top: 350px;
+}
+h2 a{
+  color:#000000!important;
+  text-shadow: 1px 1px #FFFFFF;
+  text-decoration: none;
+}
+a:hover{
+  border: none!important;
+  color:#000000!important;
+  text-shadow: 1px 1px #F6CEEC;
+}
+.journalbox {
+    background-color:transparent;
+    border: 0px solid #FFFFFF;
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    background-position: center;
+    background-repeat: repeat;
+}
+.timestamp {display: none;}
+.list {display: none;}
+.journalbox .journaltext {
+    font-family: Tahoma;
+    text-shadow:#F6CEEC 3px 2px 4px; font-size:14px; color:#000000;
+    text-align: center;
+    background-image: url(https://fc06.deviantart.net/fs71/o/2014/213/1/7/472392553_1819394_3r4hlile.png);
+    background-position: center;
+    padding-left: 70px;
+    padding-right: 100px;
+    background-repeat: repeat;
+}
+.journalbox .journaltext .content {
+    padding-top: 8px;
+background-position: center;
+    background-repeat: repeat;
+}
+.journalbox .journaltop img {
+    display: none !important;
+background-position: center;
+    background-repeat: repeat;
+}
+.journalbox .boxtop {
+    padding: 0 !important;
+background-position: center;
+    background-repeat: repeat;
+}
+.journalbox .journalbottom {
+    background-image: url(https://fc06.deviantart.net/fs70/o/2014/213/7/b/472392553_1819395_nzt8oo7e.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 160px;}
+.commentslink {
+  color: #000000;
+  font-family: Tahoma;
+  text-decoration: none;
+  font-size: 28px;
+  letter-spacing: 2px;
+  left: 1px;
+  position: relative;
+  text-align: center !important;
+  text-shadow: 1px 1px #FFFFFF;
+  top: 80px;
+}
+.text blockquote {
+background: #F6CEEC; 
+color: #000000;
+margin:10px 10px 10px 10px;
+padding: 10px;
+font-family: Tahoma; font-size: 14px;
+text-shadow: #64835c 1px 1px 1px;
+box-shadow: #64835c 1px 1px 1px;
+border-radius: 0px;
+}
+hr {
+background-image:url(https://fc00.deviantart.net/fs71/o/2014/213/3/0/472392553_1819393_8qmbibmo.png);
+background-repeat: repeat-x;
+background-position: center;
+border-radius: 15px 15px 15px 15px;
+margin:10px 10px 10px 10px;
+height: 10px;
+border: none;
+}
+.thumb{text-align: center;}
+.thumb .shadow{
+background:#FFFFFF!important;
+-moz-border-radius: 5px;
+display: inline-block;
+max-height: 160px; min-width: 100px;
+text-align: center !important;
+}
+.thumb .shadow img{
+vertical-align: middle;
+border:5px solid #F6CEEC;
+background:#FFFFFF;
+-moz-border-radius: 5px;
+padding:0px;
+box-shadow: #F6CEEC 1px 1px 1px;
+}
+.thumb .shadow img:hover{border-color: #DF01A5;}
+.lit 
+         {box-shadow: none; background: #FFF0FC; border: #DF01A5 2px solid;
+         border-radius: 10px;}
+.lit q {left: 0; right: 0; padding: 16px;
+        text-align: center;
+         font-family: Tahoma;
+         font-size: 14px;
+         color: #000000;}
+.lit img 
+         {display: none;}
+.Footer{
+  bottom: 150px;
+  font-size: 14px;
+  color: #000000;
+  position: absolute!important;
+  text-align: left;
+}
+.Footer a:hover{
+  color: #000000;
+  font-family: Tahoma;
+  text-decoration: none;
+}
+/*
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div class="thumb" >  T H U M B < / div > (without space)
+- < hr > flowers line (without space)
+
+--Footer Code--
+<div class="Footer">
+<sub>Journal Skin &#169; 
+Texture &#169; <a href="https://www.deviantart.com/thoxiic-editions">thoxiic-editions</a>
+</sub>
+</div>
+*/

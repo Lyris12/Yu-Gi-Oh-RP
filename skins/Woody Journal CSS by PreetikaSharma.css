@@ -1,0 +1,303 @@
+.journalbox
+{
+	color:#98916c;
+	background:url(https://fc08.deviantart.net/fs70/o/2010/295/9/2/183605302_154712_bodydf.png) repeat-y top center;
+	_background-position:center top;
+	margin:auto;
+	border:none;
+}
+
+.journaltop
+{
+	background:url(https://fc09.deviantart.net/fs71/o/2010/295/0/8/183605302_154713_headingr.png) no-repeat top center;
+	_background-position:center;
+	font-size:11px;
+	color:#98916c;
+	text-align:center;
+	_text-align:center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	height:205px;
+	padding:0px 0px 0px 0px;
+}
+
+.journaltop h2
+{
+	color:#995983;
+        text-shadow: #3e323d 2px 2px 2px;
+	font-size:18px;
+	padding:155px 0px 5px 0px;
+	text-align:center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	text-transform:uppercase;
+        letter-spacing:1px;
+	width:420px;
+	margin:auto;
+}
+
+.journaltop img
+{
+	display:none;
+}
+
+.list
+{
+	background:url(https://fc06.deviantart.net/fs70/o/2010/295/f/b/183605302_154714_bottomz.png) no-repeat bottom center;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	_background-position:top center;
+	height:322px;
+	_height:322px;
+	padding:10px 0 0 0;
+	text-align:center;
+	font-size:10px;
+	color:#98916c;
+
+}
+
+.list strong
+{
+	color:#995983;
+	font-variant: small-caps;
+}
+
+.list .a
+{
+	background:transparent!important;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.list li
+{
+	padding:4px;
+}
+
+.journaltext .link
+{
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	height:auto;
+	text-align:center;
+	color:#98916c;
+	margin:auto;
+	padding:10px;
+	border-bottom: 1px #9ec15c dotted;
+	width:385px;
+	_width:385px;
+}
+
+.journaltext .link a
+{
+	padding:0 0 0 20px;
+	margin:0 8 0 8px;
+        color:#c472a8;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext .link a:hover
+{
+	color:#55cfd8;
+        text-decoration:underline !important;
+}
+
+.journaltext
+{
+	overflow:auto;
+        letter-spacing:0px;
+	text-align:center;
+	background:transparent !important;
+	_background-position:top center;
+	padding:10px 0;
+	margin:0 auto;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext .content
+{
+	width:405px;
+	_width:405px;
+	padding:0px 5px 0px 5px;
+	color:#98916c;
+	text-align:justify;
+	font-size:11px;
+	margin:auto;
+        background-color:0e4400;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+
+.journaltext a
+{
+        color:#c472a8;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journaltext a:hover
+{
+	color:#55cfd8;
+        text-decoration:underline !important;
+}
+
+.news
+{
+	background:url(https://fc01.deviantart.net/fs70/o/2010/295/2/4/183605302_154715_newsv.png) no-repeat top center;
+	height:88px;
+}
+
+.feature
+{
+	background:url(https://fc00.deviantart.net/fs71/o/2010/295/b/6/183605302_154716_featurep.png) no-repeat top center;
+	height:88px;
+}
+
+.contest
+{
+	background:url(https://fc01.deviantart.net/fs71/o/2010/295/4/c/183605302_154717_conteste.png) no-repeat top center;
+	height:88px;
+}
+
+.announcement
+{
+	background:url(https://fc02.deviantart.net/fs70/o/2010/295/4/7/183605302_154718_announcementu.png) no-repeat top center;
+	height:88px;
+}
+
+.thoughts
+{
+	background:url(https://fc02.deviantart.net/fs71/o/2010/295/0/d/183605302_154719_thoughts.png) no-repeat top center;
+	height:88px;
+}
+
+.prizes
+{
+	background:url(https://fc09.deviantart.net/fs70/o/2010/295/f/7/183605302_154720_prizes.png) no-repeat top center;
+	height:88px;
+}
+
+.judges
+{
+	background:url(https://fc03.deviantart.net/fs71/o/2010/295/3/9/183605302_154721_judges.png) no-repeat top center;
+	height:88px;
+}
+
+.winners
+{
+	background:url(https://fc05.deviantart.net/fs70/o/2010/295/0/8/183605302_154722_winners.png) no-repeat top center;
+	height:88px;
+}
+
+.subheading
+{
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+	font-variant: small-caps; 
+	_background-position:center;
+	color:#995983;
+	font-size:12px;
+	font-weight:bold;
+        margin:auto;
+        padding: 1.5px 0 15px 0px;
+        text-align:center;
+        letter-spacing:1px;
+	width:405px;
+}
+
+.thumbs {
+	width:300px;
+	_width:300px;
+	float:center;
+	margin:auto;
+	text-align: center;
+}
+
+.thumbs .shadow {
+	background-image:none!important;
+}
+
+.thumbs a
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	display:inline-block;
+	width:75px!important;
+	height:75px!important;
+	overflow:hidden;
+	border:solid #20120d;
+	border-width:2px 2px 2px 2px;
+}
+
+.thumbs img
+{
+	margin:-10px -10px;
+}
+
+.thumbs a:hover
+{
+	border:solid #20120d;
+	border-width:2px 2px 2px 2px;
+        background: #transparent !important;
+}
+
+.thumbs a:hover img
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	position:absolute;
+	margin:50px 50px 50px -5px;
+	border: solid #995983;
+	border-width:2px 2px 2px 2px;
+}
+
+
+.journalbottom
+{
+	color:#98916c;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	padding:5px 5px 0 5px;
+}
+
+.journalbottom a
+{
+        color:#c472a8;
+	font-size:12px;
+	font-weight:bold;
+        text-decoration:none;
+	font-family:'Verdana', 'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif !important;
+}
+
+.journalbottom a:hover
+{
+	color:#55cfd8;
+	font-size:12px;
+	text-decoration:underline !important;
+}
+
+
+.skin_attribution
+{
+	display:none;
+}
+/*
+< div class = news > </ div>
+< div class = feature> </ div>
+< div class = announcement > </ div>
+< div class = thoughts > </ div>
+< div class = contest > </ div>
+< div class = prizes > </ div>
+< div class = judges > </ div>
+< div class = winner > </ div>
+
+- For a non customized header, use < div class = subheading > </ div>
+
+- For thumbs, use < div class = thumbs > :thumb########: :thumb#######: < /div>. Credit `thespook
+
+--Header Code--
+<div class=link><a href="https://walnut-cookie.deviantart.com/gallery/">Gallery</a><a href="https://walnut-cookie.deviantart.com/favourites/">Favourites</a><a href="https://walnut-cookie.deviantart.com/journal/">Journal</a><a href="https://my.deviantart.com/notes/?to=walnut-cookie">Note Me!</a></div><div class=content>
+--End Header Code--
+--Footer Code--
+</div>
+*/

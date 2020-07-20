@@ -1,0 +1,81 @@
+.gr{ border: none; padding: 0; background: transparent;}
+.gr1, .gr2, .gr3, .gr3, .tri, .gr-top img {display: none;}
+
+.gr-box{
+background: #fff url(https://fc00.deviantart.net/fs71/o/2014/001/8/1/423831098_1358699_bottom_by_ginkgografix-d70bwg2.png) no-repeat bottom right;
+color: #989797;
+font-family: 'maven pro', sans-serif;
+font-size: 14px;
+padding: 0 0 320px 0;
+max-width: 800px;
+border-radius: 30px;
+box-shadow: 5px 5px 10px #a4b0a0;
+margin: 0 auto 30px auto;}
+
+.gr-top{
+border: none;
+padding: 80px 0 70px 40px;
+background: transparent url(https://fc05.deviantart.net/fs70/o/2014/001/1/c/423831098_1358700_top_by_ginkgografix-d70bwfc.png) top left no-repeat;}
+
+
+.gr-top h2, .gr-top h2 a{
+font-size: 55px;
+font-family: 'Monsieur La Doulaise', cursive;
+color: #bcb647;}
+
+.timestamp{
+position: relative;
+top: 65px;
+left: 17px;
+color: #bcb647;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+
+.text{
+margin: auto;
+padding: 0 90px 80px 90px;}
+
+a{color: #bcb647;}
+
+.text h1{
+font-size: 45px;
+margin: 10px 0 -25px -20px;
+font-family: 'Monsieur La Doulaise', cursive;
+color: #bcb647;}
+
+p{text-align: center;}
+
+p img, p .lit , p .embedded-deviation{
+border: 4px #fff solid;
+box-shadow: 3px 3px 4px #ebefee, -3px -3px 4px #ebefee;}
+
+p img:hover, p .lit:hover, p .embedded-deviation:hover {box-shadow: 3px 3px 4px #f3f6d8, -3px -3px 4px #f3f6d8;}
+
+p .lit img, p .lit img:hover, p .embedded-deviation img { 
+border: none; 
+box-shadow: none;}
+
+
+.list{margin: -30px 0 70px 55px;}
+.f{background: transparent!important;}
+
+.bottom a{
+font-size: 14px;
+text-transform: lowercase;
+position: absolute;
+bottom: 340px;
+right: 130px;}
+
+.bottom a:hover{text-decoration: none;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Headlines
+<h1>... </h1>
+- Thumbs with Borders
+<p> ... </p>
+*/

@@ -1,0 +1,246 @@
+.journalbox {
+font-family:  Tahoma, Verdana, Trebuchet MS,sans-serif;
+border:none;
+height: 1090px;
+font-size:12px;
+background:url(https://fc05.deviantart.net/fs50/o/2009/313/5/5/143040778_95160_bg.jpg) top left no-repeat #3c2303;
+color: #3d2700;
+padding: 30px 0 0 0;
+text-align: justify;
+position: relative;}
+
+.journalbox .shadow {
+_display:inline!important;
+_background:none!important;}
+
+.journaltop{
+text-align: right;
+color: #865200;
+font-size: 0;
+font-family: Verdana, sans-serif;
+background: transparent;
+padding: 45px 10px 0 0;}
+
+.journaltop span{font-size: 11px;color: #ffedd6;}
+.journaltop img{display: none;}
+h2{color: #ffedd6;}
+
+ul.f{
+position: absolute;
+top: 917px;
+left: 180px;
+width: 300px;}
+ul.f li{margin:0; padding:0;}
+
+.f img{display: none;}
+.f{background: transparent; font-size: 10px; color: #865200; padding-top: 1px;}
+.f strong{color: #2b1600; font-weight: normal;}
+
+.topmenu{
+color: #2b1600; 
+font-size: 15px; 
+font-weight: bold;
+position: absolute;
+top: 135px;
+left: 260px;
+max-width: 950px;
+text-align: right;}
+
+.topmenu a{color: #2b1600; text-decoration: none;}
+.topmenu a:hover{color: #f7faf9;}
+
+.journaltextbox{
+position: relative;
+}
+
+.sidebar{
+position: relative;
+top: 80px;
+left: 10px;
+float:left;
+width: 125px;
+height: 800px;
+text-align: center;
+color: #3c2303;
+font-size: 11px;
+font-weight: bold;}
+
+.sidebar a{text-decoration: none; color: #3c2303;}
+.sidebar a:hover{text-decoration: underline; color: #6c4412;}
+
+p{
+color: #2b1600;
+font-size: 15px;
+font-weight: bold;
+margin-bottom:-10px;
+text-align: left;}
+
+em{
+color: #2b1600;
+font-size: 12px;
+font-style:normal;
+text-decoration: underline;}
+
+a{color: #865200;text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+.center{
+text-align:center;
+}
+.left{
+text-align:left;
+}
+.right{
+text-align:right;
+}
+
+.colr{
+display:block;
+width:45%;
+float: right;
+}
+.coll{
+display:block;
+width:45%;
+float:left;
+}
+.colclear{
+clear:both;
+}
+
+.content{
+position: relative;
+top: 45px;
+_top: 55px;
+overflow: auto;
+height: 472px;
+padding-left: 35px;
+padding-right: 10px;
+margin-right: 10px;
+_padding-right: 30px;
+max-width: 950px;}
+
+.feature{
+position: relative;
+top: 50px;
+height: 210px;
+overflow: auto;
+text-align: center;
+padding-left: 35px;
+padding-right: 10px;
+margin-right: 10px;
+_padding-right: 30px;
+max-width: 950px;}
+
+ul{list-style: none; margin-top: 5px;}
+ul li{background: url(https://fc09.deviantart.net/fs50/o/2009/313/1/7/143040778_95161_list.png) no-repeat left center; 
+padding: 3px 0px 2px 25px;
+margin: 0 0 -12px -25px;
+_margin: 0 0 4px -25px;}
+ol{margin-top: 0px;}
+ol li{margin: 0 0 -12px 0;
+_margin: 0 0 3px 0;}
+
+.journalbottom{
+position: relative;
+top: 156px;
+color: #3c2303;
+width: 300px
+margin: 0 auto;
+font-weight: bold;}
+
+.journalbottom a{color: #3c2303; text-decoration: none;}
+
+.thumb br {display:none;}
+.thumb {text-align:center;}
+.thumb a img {
+padding:10px;
+background:transparent;
+border:3px solid transparent;}
+.thumb a:hover img {
+background:#ffedd6;
+border-color:#2b1600;}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Title and body text are invisible
+
+*Empty Skin header:
+<div class="topmenu">
+</div>
+<div class="sidebar">
+</div>
+<div class="content">
+*Empty Skin footer:
+</div>
+<div class="feature">
+</div>
+_______________________________________________
+
+BASIC HTML:
+(should work for any journal)
+
+*For Links:
+<a href="ΗΤΤΡ://…">LINK NAME</a>
+*For Bold Text:
+<b>TEXT</b>
+*For Italic Text:
+<i>TEXT</i>
+*For Underlined Text:
+<u>TEXT</u>
+*For Unordered lists:
+<ul>
+<li>ITEM1</li>
+<li>ITEM2</li>
+...
+</ul>
+*For Ordered lists:
+<ol>
+<li>ITEM1</li>
+<li>ITEM2</li>
+...
+</ol>
+_______________________________________________
+
+SKIN EXTRA FEATURES:
+(skin specific codes)
+
+*For Headlines:
+<p>TITLE</p>
+*To center text:
+<div class="center">TEXT</div>
+*To flush text righ:
+<div class="right">TEXT</div>
+*To flush text left:
+<div class="left">TEXT</div>
+*To make two columns:
+<div class="coll">TEXT LEFT</div>
+<div class="colr">TEXT RIGHT</div>
+<div class="colclear"></div>
+*For Thumbs:
+<div class="thumb">THUMB1 THUMB2 THUMB3...</div>
+
+--Header Code--
+<div class="topmenu">
+<a href="http://...">Link1</a> | <a href="http://...">Link2</a> | <a href="http://...">Link3</a> | <a href="http://...">Link4</a>
+</div>
+<div class="sidebar">
+<a href="https://my.deviantart.com/notes/?tk=YhAERggAGixQTg==&subject=Coffee+CSS+Template">CSS support</a>
+:iconstarke-haz:
+
+Stamps
+:thumb105894782:
+:thumb39964357:
+:thumb86344266:
+:thumb45894384:
+</div>
+<div class="content">
+--End Header Code--
+--Footer Code--
+</div>
+<div class="feature">
+<p>Features</p>
+<div class="thumb">
+:thumb126620680::thumb126771886::thumb124394041::thumb128717990::thumb141788796:
+</div>
+</div>
+*/

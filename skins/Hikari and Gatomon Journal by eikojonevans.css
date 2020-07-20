@@ -1,0 +1,175 @@
+.journalbox 
+{
+max-width: 600px;
+_width: 80px;
+color: #ffffff;
+font-size: 13px;
+font-family: tahoma;
+background-color: transparent;
+background-repeat: no-repeat;
+text-align: center;
+border: none;
+}
+
+.journaltop 
+{
+height:370px;
+color: #ffffff;
+background: url(https://fc07.deviantart.net/fs70/o/2011/204/9/7/244246898_286303_cabeceracopiacn.png) no-repeat top center;
+font-family: century gothic; 
+font-size: 12px;
+padding: 130px 20px 0px 30px;
+text-align: right;
+}
+
+.journaltop h2 
+{
+color: #ffffff;
+background-color: transparent; 
+font-family: Century gothic;
+font-size: 22px; 
+font-weight: bold; 
+letter-spacing: 5px;
+text-align: center;
+padding: 200px 0px 5px 0px;
+}
+
+
+.journaltop img 
+{
+display: none;
+}
+
+.list 
+{
+background-color: transparent;
+color: #000000;
+text-align: right;
+margin: -240px 20px 20px 20px;
+padding: 0px 30px 30px 30px; 
+font-family: tahoma;
+font-size: 10px;
+}
+.list .a 
+{
+background: none;
+}
+.list strong 
+{
+color: #ffffff; 
+font-weight: bolder;
+}
+.list li 
+{
+padding:2px;
+}
+
+.journaltext 
+{
+background-image: url(https://fc07.deviantart.net/fs71/o/2011/204/8/e/244246898_286304_backround1e.png);
+padding: 5px 65px 0px 65px;
+text-align: center;
+}
+.journaltext a
+{
+color: #000000;
+font-weight:bold;
+text-decoration: bold;
+}
+.journaltext a:hover
+{
+color: #ffffff;
+text-decoration: bold;
+}
+
+.title 
+{
+text-align: right;
+font-family: tahoma;
+font-size: 12px;
+font-weight: lighter;
+color: #F21A2E;
+letter-spacing: 1px; 
+height: 61px; 
+padding: 0px 0px 0px 80px;
+line-height: 61px;
+margin: 10px 0;
+}
+
+.bonus
+{
+text-align: right;
+background-color:#02bcd7;
+border: 21px solid #ffffff;
+padding: 10px 10px 10px 10px;
+}
+
+.journalbottom 
+{
+background: url(https://fc03.deviantart.net/fs71/o/2011/204/b/8/244246898_286305_abajor.png) no-repeat; 
+height: 240px;
+padding: 1px 0px 0px 0px;
+}
+.journalbottom a 
+{
+font-family: century gothic;
+font-size: 12px;
+color: #ffffff;
+text-decoration: none;
+font-weight: bold;
+}
+.journalbottom a:hover 
+{
+color: #ffffff;
+text-decoration: none;
+}
+
+.footer
+{
+font-size: 11px;
+padding: -60px 0px 0px 0px;
+}
+
+.footer a
+{
+color: #ffffff;
+text-decoration: none;
+}
+.textbox {
+	font-size:13px;
+	font-family:Tahoma, Verdana, Arial, SunSans-Regular, sans-serif;
+	background-color:#7c7c7c;
+        min-height:280px;
+       	background-position:left top;
+	text-align:left;
+	margin:25px 20px 0px 20px;
+	border:1px solid #ffffff;
+}
+
+.textbox .title {
+        color:#7c7c7c;
+	font-size:19px;
+	font-weight: bold;
+	height:38px;
+	background-repeat:repeat-x;
+	padding-left:15px;
+	padding-top:4px;
+}
+
+.scrollbox{
+overflow: auto;
+height: 200px;
+background-image: url(https://fc07.deviantart.net/fs71/o/2011/204/8/e/244246898_286304_backround1e.png);
+padding: 60px;
+border: 5px solid #ffffff;}
+
+.scrollbox a{color: #000;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Header Code--
+<a href="https://www.deviantart.com/marufuji--ryou/gallery/"><img src="https://fc02.deviantart.net/fs70/o/2011/204/d/2/244246898_286306_boton1x.png"><a href="https://www.deviantart.com/marufuji--ryou/gallery/"><a href="https://www.deviantart.com/marufuji--ryou/gallery/"><img src="https://fc08.deviantart.net/fs71/o/2011/204/a/6/244246898_286307_boton2vf.png"><a href="https://eikojonevans.deviantart.com/"></a>
+--End Header Code--
+--Footer Code--
+<div class="footer"><div align="center">Design by <a href="https://eikojonevans.deviantart.com/">Eiko</a></div>
+*/

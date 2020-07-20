@@ -1,0 +1,335 @@
+.gr
+{
+	background-color: transparent;
+	border: none;
+	margin:auto;
+	padding: 0px !important;
+	text-align:center;
+}
+
+.gr1
+{
+	display:none;
+	list-style-image:none;
+}
+
+.gr2, .gr3, .tri, .list, .hsep, ul br, ol br
+{
+	display:none;
+}
+
+.gr-box
+{
+	border:none;
+	background:#bfe1f3 url(https://fc08.deviantart.net/fs70/o/2012/349/b/d/342918792_606358_efsxo.png) repeat-x top center;
+	box-shadow:0px 1px 2px #5f5858;
+	-moz-box-shadow:0px 1px 2px #5f5858;
+	-webkit-box-shadow:0px 1px 2px #5f5858;
+	font-family:'Arial', 'Verdana', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+	margin:auto;
+	width:auto;
+	max-width:1000px;
+	text-align:justify;
+}
+
+a
+{
+	color:#ededed;
+	padding:0px 3px;
+	text-decoration: none;
+	text-shadow:#656565 1px 1px 0px;
+}
+
+a:hover
+{
+	background:#2c5d72;
+	color:#ededed;
+	text-decoration: none;
+	text-shadow:#525252 1px 1px 0px;
+}
+
+h3
+{
+	background:url(https://fc06.deviantart.net/fs70/o/2012/349/4/6/342918792_606359_subheading.png) no-repeat bottom left;
+	_background-position: bottom left;
+	border:none;
+	color:#ffffff;
+	display:inline-block;
+	font-size: 25px;
+	font-family:'Italianno', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+	font-weight:normal!important;
+	line-height: 40px; 
+	letter-spacing: 1px; 
+	margin: 15px 0px 15px 0px;
+	padding: 0px 45px 0px 50px;
+	text-align: left; 
+	text-decoration: none; 
+	text-shadow:#525252 1px 1px 0px;
+}
+
+hr
+{
+	color:#ffecec;
+	border:1px solid #a6d2eb;
+	margin:20px -30px;
+}
+
+.gr-top
+{
+	background:transparent!important;;
+	border:none;
+	color:#919191;
+	font-size:15px;
+	height:120px;
+	margin:auto;
+	text-align:center;
+}
+
+.gr-top h2, .gr-top h2 a
+{
+	background:url('https://fc01.deviantart.net/fs71/o/2012/349/6/1/342918792_606360_bv3yp.png') no-repeat top center;
+	color:#ededed;
+	font-family:'Italianno', 'Arial', 'Verdana', 'Trebuchet MS', Helvetica, sans-serif !important;
+	font-weight:normal;
+	font-size:48px;
+	margin:auto;
+	padding:90px 20px 0px 20px;
+	text-align:center;
+	text-transform:none;
+	text-shadow:#5d5d5d 1px 1px 0px;
+}
+
+.gr-top h2 a:hover
+{
+	background:transparent;
+	color:#ededed;
+	padding:none;
+	text-decoration: none;
+	text-shadow:#5d5d5d 1px 1px 0px;
+}
+
+.gr-top span
+{
+	background:transparent;
+	color:#4c4c4c;
+	font-size:12px;
+	margin:auto;
+	text-shadow:#d6d6d6 0px 1px 0px;
+	text-transform:none;
+}
+
+.gr-top img
+{
+	display:none;
+}
+
+.gr-body
+{
+	background:transparent;
+	border: none;
+	margin:0px;
+	padding:0px;
+	text-align: justify;
+}
+
+.gr-body .text
+{
+	background:transparent;
+	border:0px solid black;
+	box-shadow:none;
+	color: #0c4862;
+	font-size:13px;
+	letter-spacing: 0px;
+	line-height: 18px;
+	margin:70px 20px 50px 20px; 
+	padding:30px;
+	text-align: justify;
+	text-shadow:#edecec 1px 1px 0px;
+}
+
+.bottom
+{
+	background:url('https://fc01.deviantart.net/fs70/o/2012/349/0/f/342918792_606361_bottomjs.png') repeat-x bottom center;
+	border: none;
+	clear:both;
+	height: 140px;
+	margin:none;
+	padding: 10px 50px;
+	text-transform:none;
+}
+
+.bottom a
+{
+	color:#ededed;
+	font-family:serif, 'Times New Roman', 'Trebuchet MS', Helvetica, sans-serif !important;
+	font-size:12px;
+	padding:0px;
+	text-decoration: none;
+	text-shadow:#656565 1px 1px 0px;
+	text-transform:normal;
+}
+
+.bottom a:hover
+{
+	background:transparent!important;
+	color:#84e5ff;
+	text-shadow:#656565 1px 1px 0px;
+}
+
+.bottom .commentslink
+{
+	float: right;
+	margin-top:100px;
+}
+
+.bottom .prevlink
+{
+	float: left;
+	margin-top:100px;
+}
+
+ul
+{
+	margin: 10px 0px 0px 0px;
+}
+
+ul li
+{
+	background-repeat: no-repeat;
+	list-style-image: url('https://fc08.deviantart.net/fs71/o/2012/349/6/f/342918792_606362_bulletblue.gif');
+	margin-left:-5px;
+	padding: 0px;
+}
+
+ol
+{
+	margin: 10px 0px 0px 0px;
+}
+
+ol li
+{
+	list-style-type: decimal;
+	margin: 0px;
+	padding: 0px;
+}
+
+.link
+{
+	color:#919191;
+	height:auto;
+	margin:-40px 0px 0px 0px;
+	padding:10px 0px;
+	text-align:center;
+	width:auto;
+}
+
+.link a
+{
+	color:#ededed;
+	font-family:serif, 'Times New Roman', 'Arial', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+	font-size:13px;
+	margin:0px 15px 0px 15px;
+	padding:0px 0px 0px 20px;
+	text-shadow:#656565 1px 1px 0px;
+}
+
+.link a:hover
+{
+	background:transparent!important;
+	border-bottom:none;
+	color:#84e5ff;
+	text-shadow:#656565 1px 1px 0px;
+	background:url(https://fc07.deviantart.net/fs70/o/2012/349/7/9/342918792_606363_links0.png) no-repeat left center;
+}
+
+blockquote
+{
+	background:transparent!important;
+	border-top:1px solid #a6d2eb;
+	border-bottom:1px solid #a6d2eb;
+	box-shadow:inset 0px 1px 3px #b8ddf1;
+	-moz-box-shadow:inset 0px 1px 3px #a6d2eb;
+	-webkit-box-shadow:inset 0px 1px 3px #a6d2eb;
+	font-family: serif, 'Times New Roman', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+	font-size:13px;
+	font-style:italic;
+	letter-spacing: 0px;
+	line-height: 20px;
+	margin: 0px;
+	padding: 10px 10px;
+	text-align:justify;
+}
+
+.shadow-holder
+{
+	background:#ffffff;
+	box-shadow:0px 1px 3px #919191, inset 0px 1px 0px #fff;
+	-moz-box-shadow:0px 1px 3px #919191, inset 0px 1px 0px #fff;
+	-webkit-box-shadow:0px 1px 3px #919191, inset 0px 1px 0px #fff;
+	margin:15px 10px 10px 0px;
+	padding:0px;
+	text-align:center;
+}
+
+.shadow-holder:hover
+{
+	box-shadow:0px 1px 6px #919191, inset 0px 1px 0px #fff;
+	-moz-box-shadow:0px 1px 6px #919191, inset 0px 1px 0px #fff;
+	-webkit-box-shadow:0px 1px 6px #919191, inset 0px 1px 0px #fff;
+	padding:0px;
+}
+
+.shadow-holder .shadow
+{
+	padding:0px;
+	text-align:center;
+}
+
+.shadow-holder .shadow a
+{
+	display:block;
+	padding:0px;
+	text-align:center;
+}
+
+.shadow-holder .shadow a img
+{
+	background:#ffffff;
+	border:1px solid #d9d9d9;
+	border-bottom:1px solid #e5e5e5;
+	box-shadow:inset 0px 1px 3px #d9d9d9;
+	-moz-box-shadow:inset 0px 1px 3px #d9d9d9;
+	-webkit-box-shadow:inset 0px 1px 3px #d9d9d9;
+	padding:0px;
+	text-align:center;
+}
+
+.credits  
+{
+	color: #919191;
+	font-size: 10px; 
+	margin: 40px 0px -20px 0px;
+	text-align:center;
+	bottom:150px;
+} 
+
+::selection
+{
+	background:#f8f1f1;
+	color:#52b3d1;
+}
+
+::-moz-selection
+{
+	background:#f8f1f1;
+	color:#52b3d1;
+}
+/*
+Use h3 for subheadings, blockquote for the kinda-sorta highlighted italic block.
+
+--Header Code--
+<div class=link><a href="https://walnut-cookie.deviantart.com/gallery/">Gallery</a><a href="https://walnut-cookie.deviantart.com/favourites/">Favourites</a><a href="https://walnut-cookie.deviantart.com/journal/">Journal</a></div>
+--End Header Code--
+--Footer Code--
+<div class=credits>Journal CSS by :devwalnut-cookie: | <a href="https://lazycrazy.deviantart.com/art/Silent-Night-Christmas-icons-146501718">Silent Night Christmas Icons</a> by :devlazycrazy:</div>
+*/

@@ -1,0 +1,121 @@
+.journalbox {
+border:3px #666 solid!important;
+background:url(https://fc02.deviantart.net/fs71/o/2013/143/8/6/373318854_916226_bg_tiled_by_monicagilbey_bieber-d660olx.png) #060606;
+background-position:top center;
+background-repeat:repeat;
+}
+
+.journalbox .list li {
+background-color: transparent;
+color:#ccc!important;
+text-align: center!important;
+}
+
+.journalbox .list li.a {
+background-color: transparent;
+color:#ccc!important;
+text-align: center!important;
+}
+
+.journalbox .journaltop h2 {
+padding-top:230px;
+text-align: center !important;
+}
+
+.journaltop h2 a{
+color:#666;
+font:32px Metal Mania;
+}
+
+.journaltop h2 a:hover{
+color:#fff;
+font:32px Metal Mania;
+}
+
+.journalbox .journaltop {
+background-color:#060606;
+color:#fff!important;
+font-size:8pt!important;
+background:url(https://fc01.deviantart.net/fs70/o/2013/143/7/7/373318854_916227_header_by_monicagilbey_bieber-d660kop.png);
+background-position:top center;
+background-repeat:no-repeat;
+text-align: center !important;
+}
+
+.journalbox .journalbottom {
+background: url(https://fc09.deviantart.net/fs71/o/2013/143/d/3/373318854_916228_bloodsplat_by_monicagilbey_bieber-d660kjm.png)center no-repeat;
+padding-top:10px;
+height: 66px;
+}
+
+.journalbottom a{
+color: #666;
+font:32px Metal Mania;
+}
+
+.journalbottom a:hover{
+color: #fff;
+font:32px Metal Mania;
+}
+
+.journalbox .journaltext {
+color:#ccc!important;
+background-color:#000000!important;
+border:3px #666 solid!important;
+margin:20px;
+padding:10px;
+}
+
+.journalbox .journaltop img {
+display:none!important;
+}
+
+.journalbox .boxtop {
+padding-left:15px!important;
+}
+
+blockquote {
+border-left:3px solid #666;
+font-style:italic;
+color:#ccc;
+margin:1em 3em;
+padding:.5em 1em;
+background: #111;
+}
+
+blockquote p {
+margin:0;
+}
+
+.journaltext a {
+color:#ee0000;
+}
+
+.journaltext a:hover {
+color:#fff;
+}
+
+h1, h2, h3, h4 {
+    font: bold 18pt Metal Mania;
+    letter-spacing: -1px;
+    margin: 0;
+}
+
+a.lit q {
+color:#222222;
+}
+
+a.lit q > strong:first-child {
+color:#ee0000;
+}
+
+h1, h2 {
+    color: #ee0000;
+}
+
+h3, h4 {
+color: #cccccc;
+}
+/*
+! The title is barely visible
+*/

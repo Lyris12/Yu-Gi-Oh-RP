@@ -1,0 +1,144 @@
+.gr-box{
+color: #638a2e;
+width: 800px;
+margin: 10px auto;
+padding: 0 0 30px 0;
+font-family: 'Lato', sans-serif;
+background: #fff url(https://fc03.deviantart.net/fs70/o/2012/359/d/b/344493851_614460_footer_by_ginkgografix-d5oze6c.png) no-repeat bottom left;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1, .gr2, .gr3, .tri, .gr-top img, .list img{display: none;}
+
+.gr-top{
+border: none; 
+text-align: center;
+padding: 160px 0 128px 0;
+border: 1px solid;
+background: url(https://fc02.deviantart.net/fs70/o/2012/359/e/d/344493851_614461_header_by_ginkgografix-d5oze5a.png) no-repeat top;}
+
+.gr-top h2 a{
+color: #fff;
+font-family: 'Maven Pro', sans-serif;
+font-size: 35px;
+text-align: center;
+text-shadow: 1px 1px #31610a;
+margin: 0 0 0 -20px;}
+
+.gr-top span{
+text-align: right;
+color: #31610a;
+font-size: 14px;
+position: absolute!important;
+top: -150px;
+right: 15px;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent;
+border: none;}
+
+.text{ 
+font-size: 15px;
+padding: 40px 50px 140px 50px;
+word-spacing: 3px;}
+
+.text a{
+font-weight: bold;
+color: #4a680f;}
+
+h1{
+letter-spacing: 3px;
+margin: 0 0 -13px 0;
+color: #588923;
+text-shadow: 2px 2px 1px #bfc3c6;}
+
+h3{
+margin: 0 0 -10px 0;
+color: #bfc3c6;
+letter-spacing: 5px;
+font-size: 25px; 
+text-align: center;}
+
+hr{
+margin: 30px -50px 20px -50px;
+border-top: 1px solid #a2d22f;
+border-bottom: 1px solid #54872e;}
+
+.divider{
+border-top: 1px solid #d8d8d8;
+background: url(https://fc06.deviantart.net/fs71/o/2012/359/e/2/344493851_614462_divider_by_ginkgografix-d5oze6i.png);
+height: 67px;
+width: 800px;
+margin: 0 -50px -40px -50px;}
+
+p{
+text-align: center;}
+
+p .shadow{ 
+margin: 10px;
+padding: 8px; 
+border-radius: 10px 0 10px 0;
+-moz-border-radius: 10px 0 10px 0;
+border: 1px solid #d0d0d0;
+background: #e3e7ec!important;}
+
+p .shadow:hover{background: #a2d22f!important;}
+
+p .shadow img{max-width:none!important;}
+
+p a{
+display: inline-block;
+width: 90px!important;
+height: 90px!important;
+overflow: hidden;}
+
+blockquote{
+color: #bfc3c6;
+font-size: 15px;
+margin: 10px 50px 20px -50px;
+padding: 0 0 0 40px;
+font-family: 'Maven Pro';
+border-left: 20px solid;}
+
+blockquote:first-letter{
+float: left;
+padding: 0 5px 0 0;
+font-size: 45px;
+font-weight: bold;}
+
+.f{
+padding: 2px 0;
+background: transparent!important;}
+
+.list{
+position: absolute;
+bottom: 25px;
+left: 520px;
+font-family: 'Maven Pro', sans-serif;
+padding: 15px 0 0 0; }
+
+.bottom{
+font-family: 'Maven Pro', sans-serif;
+text-align: right;
+padding: 0 150px 70px 0;}
+
+.bottom a{
+color: #5e8d1d;
+font-size: 20px;}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+- Headline, right
+<h1>...</h1>
+- Headline, centered
+<h3>...</h3>
+- Feature
+<p>...</p>
+- Horizontal line
+<hr>
+- Shaded Divider
+<div class="divider"></div>
+- Blockqote
+<blockquote>...</blockquote>
+*/

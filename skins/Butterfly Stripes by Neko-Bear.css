@@ -1,0 +1,151 @@
+* {background: transparent; border: none; margin: 0; padding: 0;}
+.gr-top img{display:none;}
+.gr {padding: 0 !important;}
+li.a.f{background:transparent;} 
+.gr-top{ 
+background: url(https://fc04.deviantart.net/fs71/o/2013/313/6/3/412581055_1266650_header3_by_neko_bear-d6t9b0y.png) bottom center repeat-x;
+text-align: center;
+padding: 20px; 
+}
+.gr-body{ 
+background: url(https://fc00.deviantart.net/fs71/o/2013/313/8/9/412581055_1266651_body3_by_neko_bear-d6t9b1y.png) repeat;
+padding: 0 15px 0 15px;
+}
+.menu{ 
+background: #f0cede;
+font-size: 14px;
+font-family: "Fredericka the Great", sans-serif;
+letter-spacing: 1px;
+padding: 10px 0 10px 0;
+margin: -50px -22px 0 -22px;
+}
+.menu a{
+color: #736F73;
+font-weight: normal;
+}
+.menu a:hover{
+color: #BACCDE;
+font-weight:bold;
+text-decoration: none;
+}
+.text{ 
+background:url(https://fc05.deviantart.net/fs71/o/2013/313/2/f/412581055_1266652_css_journal_textbox_bg_by_neko_bear-d6t9b4j.png) repeat;
+color: #636163;
+font-family: Metamorphous, sans-serif;
+padding: 40px 10px 10px 10px;
+margin: 10px;
+border-style: solid;
+border-width: 10px;
+border-color: #FFF;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+.shadow-holder img, .embedded-deviation, a.lit, .daembed{
+background: transparent;
+border: 1px solid #fff;
+-moz-border-radius: 20px;
+border-radius: 20px;
+box-shadow:  0px 0px 10px #444;
+vertical-align:middle;
+padding:10px;
+margin:5px;
+}
+.shadow-holder img:hover, .embedded-deviation:hover, .daembed:hover{
+background: #fff;
+box-shadow: 0px 0px 10px #000;
+}
+img.lit{
+box-shadow:none!important;
+padding:1px!important;
+}
+a.lit{
+height:150px;
+width:180px;
+}
+a.lit:hover{background:#fff;}
+q{
+padding:10px;
+font-size:10px;
+}
+.gr-top h2 a{ 
+color: #736F73;
+font-family: "Fredericka the Great", sans-serif;
+font-size: 25px;
+font-weight: bold;
+letter-spacing: 1px;
+padding: 0 0 10px 0;
+}
+.gr-top span{ 
+display: block;
+color: #617375;
+font-family: sans-serif;
+text-align: center; 
+margin: 20px 10px -15px 0;
+}
+h1, h2, h3, h4, h5, h6{ 
+color: #736F73;
+font-family: "Fredericka the Great", sans-serif;
+letter-spacing: 1px;
+}
+.commentslink{
+color: #736F73;
+}
+ul, ol{
+list-style-position:inside;
+}
+ul{
+list-style-image: url(https://fc00.deviantart.net/fs71/f/2014/028/4/b/dreamy_lilac__o_l__by_neko_bear-d747414.png)
+}
+a{ 
+color: #BACCDE; 
+text-decoration: none;
+}
+a:hover{ 
+color: #A8E3E0;
+text-decoration: none;
+font-weight:bolder;
+}
+a.external:after{
+display:none!important;
+}
+blockquote{ 
+background: #f0cede;
+color: #F5EDF5;
+font-size: 14px;
+font-family: "Fredericka the Great", sans-serif;
+letter-spacing: 1px;
+padding: 15px;
+margin: 10px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
+.list{ 
+display: none;
+}
+.bottom{ 
+background: url(https://fc07.deviantart.net/fs70/o/2013/313/8/9/412581055_1266653_bottom_by_neko_bear-d6t9b10.png) repeat;
+font-size: 14px;
+font-family: "Fredericka the Great", sans-serif;
+color: #736F73;
+padding: 10px 30px 60px 30px;
+margin: 0px -20px -20px -20px;
+}
+a:link {
+cursor:url(https://fc04.deviantart.net/fs70/o/2013/313/a/4/412581055_1266654_cursor_by_neko_bear-d6tf4ki.png), pointer;
+}
+a:hover {
+cursor:url(https://fc04.deviantart.net/fs70/o/2013/313/a/4/412581055_1266654_cursor_by_neko_bear-d6tf4ki.png), pointer;
+}
+body {
+cursor:url(https://fc04.deviantart.net/fs70/o/2013/313/a/4/412581055_1266654_cursor_by_neko_bear-d6tf4ki.png) 11 1, pointer;
+}
+/*
+To use the links menu in journal header, replace URL with your own URL and USERNAME with your username ;)
+
+--Header Code--
+<div class="menu" align="center"><a href="URL">Gallery</a> ~ <a href="URL">Commissions</a> ~ <a href="https://my.deviantart.com/global/notes/form.php?to_user=USERNAME">Note Me</a></div>
+--End Header Code--
+
+--Footer Code--
+<div align="center"><small><a href="https://www.deviantart.com/neko-bear/art/Butterfly-Stripes-412581055">Butterfly Stripes</a> Journal Skin by <a href="https://www.deviantart.com/Neko-Bear">Neko-Bear</a></small></div>
+*/

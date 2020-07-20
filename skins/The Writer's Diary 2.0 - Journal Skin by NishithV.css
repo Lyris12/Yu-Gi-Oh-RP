@@ -1,0 +1,166 @@
+.boxtitle {
+font-family: Georgia, serif;
+font-style: bold;
+font-size: 16px;
+font-weight: regular;
+text-align: center;
+color: #61451F;
+text-shadow: -1px -1px 0px #FFFDDE;
+}
+.boxtitle2 {
+font-family: Georgia, serif;
+font-style:italic;
+font-size: 12px;
+margin-top: -17px;
+text-align: center;
+color: #61451F;
+}
+
+div.journalbox {
+      border: 0px; 
+      background: #000000 url(https://fc09.deviantart.net/fs70/o/2012/035/0/3/283178653_362399_bodyloop-1.png) repeat-y left top; 
+      text-align: center;
+      margin:auto; 
+      cursor: url(https://fc03.deviantart.net/fs70/o/2012/035/8/1/283178653_362400_pencursor.png), auto; 
+      width: 720px; 
+}
+
+.journaltop {
+      border: 0px; 
+      background: transparent url(https://fc03.deviantart.net/fs71/o/2012/035/e/8/283178653_362401_headernew.png) no-repeat left top; 
+      color: #FF6900; 
+      font-size: 8px; 
+      text-align: left; 
+      height: 233px; 
+      width: 720px; 
+      margin: 0px 0px 0px 0px;
+}
+
+.journalbox .journaltop img {
+      display: none;
+ }
+
+.journalbox .boxtop {
+      color: #FFB347;
+      text-align: center;
+}
+
+.journalbox .journaltop span {
+      color: #C7C7C7;
+      font-family: Georgia, serif;
+      font-size: 10px;
+      font-weight: thin;
+      text-align: center;
+      margin-right: 380px;
+      
+}
+
+.journalbox .journaltop h2 {
+      color: #FAF9F7;
+      font-family: Georgia, serif;
+      font-size: 18px;
+      font-weight: bold;
+      text-align: left;
+      padding-top: 76px;
+      margin-left: 80px;
+      text-shadow: -1px -1px 1px #000;
+}
+
+body.gruze div.bubbleview a {
+color: white !important;
+}
+:link, *:visited {
+color: #FF720D !important;
+}
+
+.journalbox .journalbottom {
+      border: 0px;
+      background: transparent url(https://fc09.deviantart.net/fs71/o/2012/035/1/e/283178653_362402_footernew2.png) no-repeat left bottom;
+      color: black !important;
+      font-family: Georgia, serif;
+      font-size: 12px;
+      font-weight: regular;
+      text-align: left;
+      vertical-align: top;
+      height: 246px;
+      width: 720px;
+      margin: 0px 0px 0px 0px;
+}
+
+.commentslink {
+      background-color: #---;
+      font-family: Palatino Linotype, serif;
+      font-size: 14px;
+      position: relative;
+      bottom: -40px;
+      padding: 0px 5px 0px 5px;
+}
+
+.prevlink {
+      background-color: #---;
+      font-family: Palatino Linotype, serif;
+      font-size: 14px;
+      position: relative;
+      bottom: -40px;
+      padding: 0px 5px 0px 5px;
+}
+
+.journalbox .journalbottom {
+      height: 246px;
+      width: 720px;
+      color: black !important;
+      font-family: Palatino Linotype, serif;
+      font-size: 0px;
+      font-weight: bold;
+      text-align: center;
+      font-variant: small-caps;
+      margin-top: 25px;
+      text-shadow: 0px 0px 0px #---;
+}
+
+.journalbox .journaltext {
+      border: 0px;
+      color: #242424;
+      font-family: Georgia, serif;
+      font-style: ---;
+      font-size: 14px;
+      text-align: justify;
+      width: 480px;
+      padding: 20px 0px 0px 116px;
+}
+
+.journalbox li {
+background: transparent no-repeat left top;
+color: #7A3A25;
+font-family: Trebuchet MS, Verdana, Arial, Serif;
+font-size: 12px;
+text-align: left;
+margin-left: 105px;
+text-shadow: 1px 1px 0px #FFF;
+}
+
+.gr-top h2 a{ 
+color:inherit;
+}
+
+.footer {
+font-size: 10px;
+text-align: center;
+color: #FFE7C4;
+position: relative;
+bottom: -240px;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+First click 'Edit skin' on the left hand side of the screen where you're typing your journal entry.
+then a window appears, which has 3 main sections 'Skin header' , 'Sin CSS' and 'Skin Footer'.
+Under the 'Skin Header' you can edit the subtitle.
+
+--Header Code--
+<div class="boxtitle">Your Title - version 2.0</div>
+<div class="boxtitle2">sub-title</div>
+--End Header Code--
+--Footer Code--
+<div class="footer">Skin by; :devnishithv:</div>
+*/

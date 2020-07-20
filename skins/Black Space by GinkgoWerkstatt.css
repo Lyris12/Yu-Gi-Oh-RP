@@ -1,0 +1,150 @@
+/***************************************************************
+Copyright © ginkgografix.deviantart.com 
+Skin: Black Space
+Free to use for dA journals. 
+Do not redistribute - partly or fully - without my permission.
+****************************************************************/
+.gr{ border: none; padding: 0!important; background: transparent;}
+.gr1, .gr2, .gr3, .gr3, .tri, .gr-top img, .list {display: none;}
+.clear{clear: both;}
+.gr-box{
+max-width: 1000px;
+margin: 0 auto 10px auto;
+background: url(https://fc04.deviantart.net/fs71/o/2014/024/a/a/429119215_1401309_bg2_by_ginkgografix-d73hidw.jpg);
+font-size: 13px;
+color: #7a7d80;
+font-family: 'Exo', sans-serif; }
+.gr-top{
+border: none;
+text-align: center;
+padding: 188px 0 40px 0;
+background: url(https://fc05.deviantart.net/fs71/o/2014/024/5/5/429119215_1401310_header_by_ginkgografix-d73e1pu.jpg) no-repeat top center;}
+.gr-top h2 a, .gr-top h2{
+color: #ededed;
+font-family: 'Exo', sans-serif; 
+font-size: 26px;
+letter-spacing: 1px;}
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc04.deviantart.net/fs71/o/2014/024/a/d/429119215_1401311_footer_by_ginkgografix-d73dubf.jpg) bottom no-repeat;
+border: none;}
+.grf-indent{
+background: url(https://fc09.deviantart.net/fs70/o/2014/024/7/d/429119215_1401312_text_by_ginkgografix-d73e1op.jpg) no-repeat top center;
+margin: -12px 0 0 0;}
+.text{
+color: #F4F9FF;
+position: relative;
+padding: 20px 0 350px 0;
+max-width: 600px;
+margin: auto;}
+a{
+color: #4198b9;
+font-weight: normal;}
+h1{
+color: #497d49;
+letter-spacing: 1px;
+font-size: 18px;
+margin: 0 0 -10px 0;}
+blockquote{
+border-left: 3px solid #4198b9;
+padding: 10px;
+margin: 20px 30px;}
+.feature{vertical-align: middle;
+text-align: center;}
+.feature img, .feature .lit{
+border: 2px solid #4198b9 ;}
+.feature img:hover, .feature .lit:hover{
+border: 2px solid #3b6c3b ;}
+.feature .lit img{
+border: none;}
+.footer, .p{
+background: rgba(47,46,47,0.5);
+border-top: 1px solid;
+border-radius: 10px;
+color: #b5bbbf;}
+.p{
+padding: 20px;
+margin: 20px 0;
+line-height: 18px;}
+.footer{
+position: absolute;
+text-align: center;
+width: 100%;
+height: 90px;
+bottom: 20px;
+margin: 0 0 0 -20px;
+padding: 10px;
+overflow: hidden;
+color: #cdd1d3;}
+.footer .col2{
+width: 46%;
+float: left;
+margin: 0 2%;
+text-align: left;}
+.footer .col3{
+width: 27%;
+float: left;
+margin: 0 3%;
+text-align: left;}
+.footer .col2 b, .footer .col3 b{
+color: #497d49;
+letter-spacing: 1px;
+text-shadow: 1px 1px #000;}
+.bottom{
+position: absolute;
+bottom: 140px;
+width: 100%;
+text-align: center;}
+.bottom a{
+letter-spacing: 1px;
+text-decoration: none;
+text-transform: lowercase;
+color: #dfe8dd;
+font-family: 'Exo', sans-serif; 
+font-size: 15px;}
+.bottom a:hover{
+color: #497d49;}
+/*
+:bulletgreen: Content Box
+<div class="p">...</div>
+:note: These are optional, use as many as you want.
+:bulletgreen: Blockquote
+<blockquote>...</blockquote>
+:bulletgreen: Headline
+<h1>...</h1>
+:bulletgreen: Feature Thumbs
+<div class="feature"> ... </div>
+:note: Regular thumbs are unstyled. Thumbs added with this will just get some border effect.
+:bulletgreen: Footer Area - Simple
+<div class="footer">... </div>
+:bulletgreen: Footer Area - Two Columns
+<div class="footer">
+<div class="col2">..left..</div>
+<div class="col2">.. right ..</div>
+<div class="clear">
+</div>
+</div>
+:bulletgreen: Footer Area - Three Columns
+<div class="footer">
+<div class="col3">..left..</div>
+<div class="col3">.. middle ..</div>
+<div class="col3">.. right ..</div>
+<div class="clear">
+</div>
+</div>
+:note: Can be found at "Skin Footer" after installing the skin. You can choose between regular text, two columns or three columns. Or mix them. If there is too much content it will get cut off - no scrollbars! To get the colored title use the bold tag.
+
+--Footer Code--
+<div class="footer">Black Space journal skin by GinkgoWerkstatt
+<br>
+<br>
+<div class="col3">
+<b>Column title</b>
+You can also add columns if you want. All optional.</div>
+<div class="col3">I am a simple middle column. Yay.</div>
+<div class="col3">I am a column without a headline and at the right side. Yay.</div>
+<div class="clear">
+</div>
+</div>
+*/

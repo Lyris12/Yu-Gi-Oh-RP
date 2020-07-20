@@ -1,0 +1,217 @@
+.journalbox {
+  background-color:transparent;
+  background-repeat:no-repeat no-repeat;
+  border-bottom-style:none;
+  border-color:initial;
+  border-left-style:none;
+  border-right-style:none;
+  border-top-style:none;
+  border-width:initial;
+  max-width:590px;
+  text-align:justify;
+}
+
+.journaltop  {
+    background: url(https://fc00.deviantart.net/fs70/o/2012/017/e/e/279983608_355276_pachirisutop.png) no-repeat scroll center top transparent;
+    height: 500px;
+    padding-top: 15px;
+    padding-bottom: 45px;
+    padding-left:0px;
+    padding-right:180px;
+    color:#fff;
+    font-size: 13px;
+    text-align: right;
+    letter-spacing:0.01em!important;
+    text-shadow:0 0 20px #c6e6f4,0 0 10px #c6e6f4,0 0 5px #c6e6f4;
+    font-family: Trebuchet MS;
+    text-shadow:1px 0 3px #000;
+}
+
+.journaltop span{
+  background: transparent;
+  color: #fff;
+  font-size: 13px;
+  text-align: right;
+  position: absolute;
+  letter-spacing:0.01em!important;
+  text-shadow:1px 0 3px #000;
+  font-family: Trebuchet MS;
+}
+
+.journaltop img{
+	display:none;
+}
+
+.journaltop h2 {
+    background-color: transparent;
+    color: #fff;
+    font-family:brush script std;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 280px 10px;
+    text-align:left; 
+    text-shadow: 1px 0 3px #8ecde9;
+    position: absolute;
+    text-shadow:1px 0 3px #000;
+}
+
+.journaltext  {
+    background-image: url(https://fc02.deviantart.net/fs71/o/2012/017/2/0/279983608_355277_pachirisumiddle.png);
+    color: #000;
+    padding: 40px;
+    padding-left:50px;
+    text-align: justify;
+}
+
+.journaltext a {
+  color:#088cc6;
+  font-weight:bold;
+  text-decoration:none;
+  font-family:"Forum", "Georgia";
+}
+
+.footer  {
+    margin-top:10px;
+    font-size:11px;
+    color:#000;
+}
+
+.footer a  {
+    margin-top:10px;
+    font-size:11px;
+    color:#000;
+}
+
+.footer a:hover  {
+    text-decoration: underline;
+    font-size:11px;
+    color:#000;
+}
+
+.journalbottom  {
+    background: url(https://fc09.deviantart.net/fs71/o/2012/017/3/b/279983608_355278_pachirisubottom.png) no-repeat scroll 0 0 transparent;
+    height: 414px;
+    padding: 10px 0 0;
+    margin-top: -86px;
+}
+
+.journalbottom a {
+    color: #000;
+    font-family:brush script std;
+    font-size: 11px;
+    font-weight: normal;
+    text-decoration: none;
+    position:absolute;
+    top:20px;
+    _top:20px;
+    left:40px;
+    _left:40px;
+    text-align: left;
+    font-variant: small-caps;
+    letter-spacing:0.06em!important;
+    text-shadow:0px 0px 3px #000;
+}
+
+.journalbottom .prevlink {
+    color: #000;
+    font-family:brush script std;
+    font-size: 11px;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: left;
+    position:absolute;
+    top:20px;
+    _top:20px;
+    left:140px;
+    _left:140px;
+}
+
+
+.journalbottom a:hover{
+    color: #000;
+   text-decoration: underline;
+   text-shadow:0px 0px 3px #000;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.list {
+    background-color: transparent;
+    color: #000;
+    font-family: century gothic;
+    font-size: 13px;
+    margin: -180px 0 30px 20px;
+    padding: 0 30px 30px;
+    text-align: left;
+}
+
+.list .a {
+    background: none repeat scroll 0 0 transparent;
+}
+
+.list li {
+    padding: 2px;
+    font-family: Trebuchet MS;
+}
+
+.list strong {
+    color: #fff;
+    font-weight: bolder;
+    text-shadow:1px 0 3px #9cdbf7;
+    font-family: Trebuchet MS;
+    font-size:13px;
+    text-shadow:1px 0 3px #000;
+}
+
+.list .f {
+  color:#fff;
+  font-size:13px;
+  text-shadow:1px 0 3px #000;
+}
+
+.scrollbox {
+        margin-top: -100px;
+        margin-left:-20px;
+	position:relative;
+	overflow:auto;
+	text-align:justify;
+        width:500px;
+	height:530px;
+        padding: 0px 20px 20px 10px;
+}
+.menu {
+        font-family:"Forum", "Georgia";
+	float:left;
+        margin-top:-153px;
+        margin-left: -15px;
+        position: absolute;
+        color:#fff;
+        text-shadow: 0 0 0;
+}
+.menu a {
+        color:#dff5ff;
+        font-family: Trebuchet MS;
+}
+.menu a:hover {
+        text-decoration: underline;
+        color:#03468f;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Header Code--
+<!--You can modify the links here with your own URLs-->
+<div class="menu">
+| <a href="https://www.deviantart.com/marufuji--ryou/gallery">Gallery</a>  | <a href="https://my.deviantart.com/deviants/add/DBluver">+Watch ME</a>  |  <a href="https://my.deviantart.com/notes/#new-note">Note ME</a> |
+</div>
+<div class="scrollbox">
+--End Header Code--
+--Footer Code--
+</div></div>
+<div class="footer"><div align="center">Design by <a href="https://dbluver.deviantart.com/">Dbluver</a> 
+Pictures by <a href="https://TheIronForce.deviantart.com/">TheIronForce</a> | <a href="https://Thunderwest.deviantart.com/">Thunderwest</a> </div>
+*/

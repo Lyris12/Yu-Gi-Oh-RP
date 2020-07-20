@@ -1,0 +1,186 @@
+a:link{
+	color:#FF0;
+	text-decoration:none;
+}
+a:visited {
+	color:#FF0;
+	text-decoration:none;
+}
+a:hover {
+	color:#F00;
+	text-decoration:none;
+}
+a:active {
+	color:#F00;
+	text-decoration:none;
+}
+.journalbox {
+	padding-top:476px;
+	width:436px;
+	border:0px;
+	background-color:transparent;
+	background-image:url(https://fc08.deviantart.net/fs71/o/2010/224/4/8/175072303_143406_image_01.png);
+	background-repeat:no-repeat;
+	color:#FFF;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.journaltop {
+	position:absolute;
+	top:350px;
+	padding:5px;
+	padding-top:20px;
+	padding-bottom:20px;
+	width:426px;
+	background-color:transparent;
+	background-image:url(https://fc04.deviantart.net/fs70/o/2010/224/3/9/175072303_143407_bianco.png);
+	color:#600;
+}
+.journaltop h2 img {
+	display:none;
+}
+.journaltop h2 {
+	letter-spacing:3px;
+	color:#600;
+}
+.journaltop span{
+	letter-spacing:-1px;
+}
+.journaltext {
+	padding:0px;
+	padding-left:120px;
+	padding-bottom:20px;
+	background-image:url(https://fc02.deviantart.net/fs71/o/2010/224/c/6/175072303_143408_image_02.jpg);
+}
+.journalbottom {
+	padding:25px;
+	background-color:#e6e29e;
+	background-image:url(https://fc04.deviantart.net/fs71/o/2010/224/e/b/175072303_143409_fiocco.gif);
+	background-position:center;
+	background-repeat:no-repeat;
+	font-size:10px;
+}
+.commentslink {
+	display:inline-block;
+	margin-right:33px;
+	margin-top:5px;
+	_margin-top:6px;
+	height:30px;
+	line-height:23px;
+	width:150px;
+	background-image:url(https://fc05.deviantart.net/fs70/o/2010/224/4/4/175072303_143410_leftband.gif);
+	background-repeat:no-repeat;
+	background-position:right;
+	text-align:right;
+}
+.hsep { 
+display:none;
+}
+.prevlink {
+	display:inline-block; 
+	margin-left:33px;
+	margin-top:5px;
+	_margin-top:6px;
+	height:30px;
+	line-height:23px;
+	width:150px;
+	background-image:url(https://fc02.deviantart.net/fs71/o/2010/224/2/3/175072303_143411_rightband.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+	text-align:left;
+}
+li.f {
+	padding:5px;
+	background-color:#e6e29e;
+	color:#c35340;
+	font-style:italic;
+	font-size:10px;
+}
+li.a {
+	padding:5px;
+	background-color:#c35340;
+	color:#e6e29e;
+	font-style:italic;
+	font-size:10px;
+}
+li strong{
+	font-style:normal;
+}
+
+div.title {
+	right:0px;
+	padding-right:10px;
+	height:73px;
+	line-height:73px;
+	overflow:hidden;
+	background-image:url(https://fc02.deviantart.net/fs70/o/2010/224/a/b/175072303_143412_titolo.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	text-align:right;
+}
+div.header{
+	position:absolute;
+	top:476px;
+	left:0px;
+	width:105px;
+	overflow:hidden;
+	color:#600;
+}
+div.header ul{
+	list-style:none;
+	padding:0px;
+}
+div.header li a{
+	display:block;
+	margin-top:2px;
+	padding:5px;
+	height:10px;
+	line-height:10px;
+	font-weight:bold;
+	font-size:10px;
+}
+div.header li a:link{
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/224/b/2/175072303_143413_headerlink1.gif);
+	color:#F00;
+}
+div.header li a:visited{
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/224/b/2/175072303_143413_headerlink1.gif);
+	color:#F00;
+}
+div.header li a:hover{
+	background-image:url(https://fc00.deviantart.net/fs70/o/2010/224/3/7/175072303_143414_headerlink2.gif);
+	color:#FF0;
+}
+div.header li a:active{
+	background-image:url(https://fc00.deviantart.net/fs70/o/2010/224/3/7/175072303_143414_headerlink2.gif);
+	color:#FF0;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Title is barely visible
+
+You have to customize the underlined parts.
+Link in the left column (work only there)
+Change the text in the option->header section.
+<li><a href="link>link text</a></li>
+Yellow bar with red ribbon on the left:
+<div class="title">text</div>
+
+--Header Code--
+<div class="header">
+<ul>
+<li><a href="http://www.vampyra.net" target="_blank">Mio Sito</a></li>
+<li><a href="http://www.rifici.it" target="_blank">WebDesign</a></li>
+<li><a href="https://www.deviantart.com/marufuji--ryou/journal/34056831/" target="_blank">Commission</a></li>
+</ul>
+Stamps
+
+:thumb142491793:
+</div>
+--End Header Code--
+--Footer Code--
+<div class="title">Credits</div>
+Design & coding by <a href="https://hairac.deviantart.com/">Hairac</a>
+
+Big Gift Box: http://sweetsoulsister.deviantart.com/art/Christmas-Present-Gift-Box-Red-146277448
+Ribbon for title: http://lucieg-stock.deviantart.com/art/red-Christmas-bow-104995392
+*/

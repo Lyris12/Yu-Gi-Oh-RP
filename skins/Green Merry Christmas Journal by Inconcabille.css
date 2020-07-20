@@ -1,0 +1,190 @@
+/*---------------------STOP! DO NOT COPY THIS CODE!---------------------*/
+a.external:after {display:none!important;}
+a {font-weight:normal!important;}
+.journalbox .journaltop {
+    color:transparent !important;
+    background-image: url(https://fc04.deviantart.net/fs71/o/2014/349/b/5/500422845_2057041_tree_by_inconcabille-d89xcwl.png);
+    background-position: center !important;
+    background-repeat: repeat;
+    background-color:transparent;
+    height:620px;
+    max-width: 800px;}
+h2{
+    color: #000000;
+    text-align:center; 
+    font-family: "Lobster Two";  
+    font-size: 40px;
+    text-shadow:#648b09 3px 2px 4px; font-size:40px; color:#000000;
+    position: relative;
+    padding-left: 5px;
+    padding-right: 5px;
+    max-width: 800px;
+    background: #none;
+    top: 500px;}
+h2 a{
+    color:#000000!important;
+    text-decoration: none;}
+h2 a:hover{
+    border: none!important;
+    color:#00000!important;
+    text-decoration: none;}
+.journalbox {
+    background-color:transparent;
+    border: 0px solid #FFFFFF;
+    max-width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+    background-position: center;
+    background-repeat: repeat;}
+.journaltop span{
+    font-family: "Lobster Two";  
+    font-size: 30px;
+    text-shadow:#648b09 3px 2px 4px; font-size:30px; color:#FFFFFF;
+    text-align: center;}
+.list {display: none;}
+.journalbox .journaltop img {
+    display: none !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .boxtop {
+    padding: 0 !important;
+    background-position: center;
+    background-repeat: repeat;}
+.journalbox .journaltext {
+    text-align:justify; 
+    font-family: "Lobster Two";  
+    font-size:18px;
+    color:#000000;
+    background-color:#FFFFFF;
+    background-position: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-repeat: repeat;}
+.journalbox .journaltext .content {
+     padding-top: 0px;
+     background-position: center;
+     background-repeat: repeat;}
+.journalbox .journalbottom {
+    background: url(https://fc06.deviantart.net/fs70/o/2014/349/1/4/500422845_2057042_tree1_by_inconcabille-d89xd81.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;}
+.commentslink {
+    color: #000000;
+    text-decoration: none;
+    font-family: "Lobster Two";  
+    font-size: 40px;
+    text-shadow:#648b09 3px 2px 4px; font-size:40px; color:#000000;
+    letter-spacing: 2px;
+    position: relative;
+    top: 80px;}
+.text blockquote {
+     background: url(https://fc00.deviantart.net/fs71/o/2014/349/d/c/500422845_2057043_tree3_by_inconcabille-d89xh36.png) left repeat!important;     
+     box-shadow: 0px 5px 10px rgba(53, 94, 96, 0.5);
+     border-radius: 25px;
+     color: #000000;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size:14px;
+     background-position: center;
+     padding: 10px 10px 10px 40px;
+     background-repeat: repeat;}
+.thumb{text-align: center;}
+.thumb .shadow{
+     display: inline-block;
+     text-align: center !important;
+     border-radius: 55px;}
+.thumb .shadow img {
+     vertical-align: middle;
+     padding:0px;
+     box-shadow: 0px 5px 10px rgba(53, 94, 96, 0.5);
+     border-radius: 55px;}
+     
+.thumb .shadow img:hover{border-color: none;}
+.lit {
+     box-shadow: 0px 5px 10px rgba(53, 94, 96, 0.5); 
+     background: url(https://fc06.deviantart.net/fs71/o/2014/349/2/a/500422845_2057044_tree2_by_inconcabille-d89xdro.png); 
+     max-height: 180px; min-width: 100px;}
+.lit q {
+     left: 0; right: 0; padding: 16px;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size:14px;
+     color: #000000;}
+.lit img 
+     {display: none;}
+a:hover{text-decoration: none;}
+a{
+     color: #000000;
+     text-decoration: none;}
+.Footer{
+     font-size: 16px;
+     color: #000000;
+     font-family: "Lobster Two";  
+     text-shadow:#648b09 3px 2px 4px; font-size:16px; color:#000000;
+     text-align:center;
+     text-decoration: none;}
+.Footer a:hover{
+     color: #000000;
+     font-family: "Lobster Two";  
+     text-decoration: none;}
+b {color:#0d7309;}
+i {color:#648b09;}
+h1 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #0d7309;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 20px;
+     display:inline-block;}
+h3 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #648b09;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 20px;
+     display:inline-block;}
+h4 {
+     background: #none; 
+     background-repeat: repeat-x;
+     background-position: center;
+     padding-left: 20px;
+     padding-right: 20px;
+     border: none;
+     color: #0d4c09;
+     text-align:justify; 
+     font-family: "Lobster Two";  
+     font-size: 20px;
+     display:inline-block}
+hr {
+     background: #0d4c09;
+     background-repeat: repeat-x;
+     background-position: center;
+     margin:0px 0px 0px 0px;
+     height: 2px;
+     border-radius: 15px;
+     border: none;}
+/*
+! Artist requests permission before copying
+- < blockquote >  B L O C K Q U O T E < / blockquote > (without space)
+- < div class="thumb" >  T H U M B < / div > (without space)
+- < h1 > < /h1 > | < h3 > < /h3 > | < h4 > < /h4 > (without space)
+- b (bold) = 'Green' color
+- i (cursive) = 'Green' color
+- < hr > = 'Green' color
+
+--Footer Code--
+<div class="Footer">
+<sub>[ Journal CSS ] &#169; <a href="https://www.deviantart.com/inconcabille">inconcabille</a> &#8226; [ Image ] &#169; <a href="https://www.deviantart.com/vecree">vecree</a> - Designed by Vecree.com</sub>
+</div>
+*/

@@ -1,0 +1,111 @@
+.journalbox {
+	background-color:#001548!important;
+        max-width:600px;
+        height:900px;
+	border:3px #000000 solid !important;
+	background-image:url(https://fc03.deviantart.net/fs71/o/2012/185/e/b/312390716_426178_patrioticbg1.jpg);
+	background-position:top center;
+	background-repeat:no-repeat;
+}
+.journalbox h2 {
+	color:#f9f1df !important;
+	font-size:25px;
+	font-weight:bold;
+        font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+        font-variant: small-caps;
+}
+.journalbox h2 a {
+	color:#f9f1df !important;
+}
+.journalbox h2 a:hover {
+	color:#fffef9 !important;
+}
+.journalbox .journaltop {
+        height:75px;
+        overflow:auto;
+	background-color:transparent;
+	text-align:center !important;
+        font-variant: small-caps;
+        font-size:12px;
+	color:#f9f1df!important;
+        margin-top:5px;
+        font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+.journalbox .list {
+        margin-top:45px;
+	background-color:transparent;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#d9261f !important;
+        padding:2px;
+	text-align:center;
+        font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+        font-size:18px;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#1d64d0 !important;
+	text-align:center;
+}
+.journalbox a {
+	color:#133e82 !important;
+}
+.journalbox a:hover {
+	color:#d9261f !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#b9a572 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#b9a572 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#f6e3c5 !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#f6e3c5 !important;
+}
+.journalbox .journalbottom {
+        margin:-27px;
+        padding-top:20px;
+        height:50px;
+        font-variant: small-caps;
+        font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+        font-size:20px;
+        font-weight:normal;
+        color:#d1cba9;
+}
+.journalbox .journaltext {
+	color:#13130e !important;
+	font-size:14px;
+        font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.content{
+    padding:10px;
+    max-width:465px;
+    height:470px;
+    text-align:left;
+    overflow:auto;
+    margin-top:5px;
+    margin-right: 1px;
+    margin-bottom:20px;
+}
+/*
+--Header Code--
+<div align="center">
+<div class="content">
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<sub>
+<a href="https://www.deviantart.com/konekod/art/Patriotic-312390716">Patriotic</a> journal skin by <a href="https://www.deviantart.com/konekod">KonekoD</a>
+</sub>
+</div>
+</div>
+*/

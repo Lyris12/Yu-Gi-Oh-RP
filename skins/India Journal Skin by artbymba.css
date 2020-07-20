@@ -1,0 +1,270 @@
+.gr{padding: 0 !important; background: transparent; border: none;}
+.gr-box{margin-right: auto; margin-left: auto; max-width: 800px; border: none;}
+.gr-body{background: none; border: none;}
+.gr1, .gr2, .gr3, .tri, .gr3.gb, .gr2.gb, .gr1.gb.gb1, .gr-top img, a.external:after, .lit img{display: none;}
+.list, .hsep{display: none;}
+.gr-top, .gr-body{background: none; border: none;}
+.lit strong:not(:first-child){box-shadow: none; text-align: left; border: none;}
+.gr-top h2 a,
+a, span.user-symbol,
+.menu, .credit{
+transition: all ease .4s;}
+.lit{
+transition: border ease .6s;}
+.gr-top{
+margin: 10px auto 0 auto;
+padding: 50px 27px;
+width: 490px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .5), inset 0 0 40px rgba(0, 0, 0, .2);
+border-radius: 10px 10px 0 0;
+text-align: center;
+background: #cc2d65 url(https://fc00.deviantart.net/fs71/f/2014/217/d/c/topbottom_by_melikebat-d7ti80e.png);
+border: none;}
+.gr-top h2 a{
+text-shadow: -5px -5px 0 rgba(255, 219, 104, .3), -10px -10px 0 rgba(252, 223, 136, .2), -15px -15px 0 rgba(255, 233, 173, .1), 5px -5px 0 rgba(255, 219, 104, .3), 10px -10px 0 rgba(252, 223, 136, .2), 15px -15px 0 rgba(255, 233, 173, .1);
+font-weight: 400;
+font-size: 27pt;
+color: #fcd033;}
+.gr-top h2 a:hover{
+text-shadow: 0 0 4px #ffef96, 0 0 9px #ffe67a, 0 0 14px #ffe67a;
+color: #fff4bf;}
+.timestamp, .gr-top .author, .gr-top .author a{color: #edce14;}
+.menu{
+margin: 0 auto -30px auto;
+padding: 20px 0;
+height: 30px;
+width: 480px;
+text-align: center;
+font-size: 0;
+background: url(https://fc01.deviantart.net/fs71/f/2014/215/8/5/links_by_melikebat-d7ti813.png) no-repeat center center;}
+.menu:hover{
+font-weight: bold;
+font-size: 15px;
+background: transparent center center;}
+.text{
+margin: 0 auto;
+padding: 5px 27px;
+width: 486px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .5), inset 0 0 40px rgba(0, 0, 0, .2);
+font-size: 1.062em;
+color: #8c0f3f;
+background: #edce14 url(https://fc05.deviantart.net/fs70/f/2014/215/6/e/text_by_melikebat-d7ti80z.png);}
+a, a.external,
+span.user-symbol{
+text-decoration: none;
+text-shadow: 0 0 2px #ed0240, 0 0 3px #fc7194, 0 0 6px #fc7194;
+font-weight: 100;
+color: #8c0f3f;}
+a:hover, a.external:hover,
+span.user-symbol:hover{
+text-shadow: 0 0 4px #ffef96, 0 0 9px #ffe67a, 0 0 14px #ffe67a;
+color: #fff200;}
+h1, h3{text-align: left;}
+.text h2, h4{text-align: center;}
+h5{text-align: right;}
+h1, .text h2, h5{
+padding: 12px;
+font-size: 25px;}
+h3, h4{
+font-size: 19px;}
+h1, .text h2, h3, h4, h5{
+margin: 0;
+text-shadow: 0 -1px 0 #ff99bc, 0 1px 0 #720028, 0 2px 3px rgba(0, 0, 0, .4), 0 3px 4px rgba(0, 0, 0, .2), 0 4px 5px rgba(0, 0, 0, .1);
+font-weight: 100;
+color: #ea0032;}
+h1 a, .text h2 a, h3 a, h4 a, h5 a,
+h1 a.external, .text h2 a.external,
+h3 a.external, h4 a.external, h5 a.external{
+font-weight: 100;
+color: #8c0f3f !important;}
+h1 a:hover, .text h2 a:hover,
+h3 a:hover,h4 a:hover, h5 a:hover{
+color: #fff200 !important;}
+hr{
+margin: 4px auto;
+height: 40px;
+width: 390px;
+background: url(https://fc04.deviantart.net/fs70/f/2014/215/6/0/divider_by_melikebat-d7ti816.png) no-repeat center center;
+border: none;}
+blockquote, .sbox{
+margin: 0 auto;
+padding: 25px;
+width: 425px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .5), inset 0 0 40px rgba(0, 0, 0, .2);
+border-radius: 10px;
+text-align: justify;
+color: #cc2d65;
+background: rgba(255, 239, 150, .1);}
+blockquote{
+width: 425px;}
+.sbox{
+max-height: 400px;
+width: 420px;
+overflow: auto;
+border-top: 15px solid transparent;
+border-left: 15px solid transparent;
+border-bottom: 15px solid transparent;
+border-right: none;}
+::-webkit-scrollbar{width: 15px;}
+::-webkit-scrollbar-thumb{background: rgba(255, 223, 45, .7);}
+::-webkit-scrollbar-track{background: rgba(255, 223, 45, .3);}
+::-webkit-scrollbar-track-piece{background: rgba(255, 223, 45, .2);}
+.source{
+margin-top: 15px;
+text-align: right;
+text-decoration: overline;
+font-size: 12px;}
+.source a, .source a.external{
+text-decoration: overline;}
+a.back{
+display: block;
+margin: 15px auto;
+padding: 6px;
+width: 120px;
+text-align: center;
+font-size: 13px;
+font-family: 'Marvel', sans-serif;
+color: #7e897e;
+border-top: 1px solid #a6b2a6;}
+i{font-style: none; background: #edce14;}
+ul{margin-left: -16px; list-style-type: none; list-style-image: url(https://fc09.deviantart.net/fs71/f/2014/215/5/3/bullet_by_melikebat-d7ti81d.png);}
+ol{margin-left: -16px; list-style: decimal;}
+ul ol{margin-left: -2px; list-style: decimal-leading-zero;}
+ol ul{list-style: disc;}
+ul ul{list-style: circle;}
+ol ol{list-style: lower-latin;}
+ul, ol, ul ol, ol ul, ul ul, ol ol{list-style-position: outside;}
+.tab{display: table; margin: 3px auto; width: 100%;}
+.tab .col2, .tab .col3, .tab .col4{display: table-cell; padding: 8px 1%;}
+.tab .col2{width: 48%;}
+.tab .col3{width: 31.3%;}
+.tab .col4{width: 23%;}
+.ntb{
+line-height: 0;
+text-align: center;}
+.lit{
+margin: 0;
+padding: 0;
+height: 250px;
+width: 200px;
+box-shadow:0 1px 4px rgba(0, 0, 0, 0.5), inset 0 0 40px rgba(0, 0, 0, .2);
+border-radius: 11px;
+background: none;
+border: none;}
+.lit q strong{
+margin: -15px -19px 15px -19px;
+padding: 5px;
+min-height: 30px;
+text-align: center;
+text-decoration: none;
+font-weight: 900;
+font-size: 11px;
+color: #c92866;
+background: none;
+border-bottom: 1px solid #c92866;}
+.lit q{
+left: 0;
+right: 0;
+padding: 20px 25px 5px 25px;
+line-height: 1.5;
+text-align: justify;
+text-shadow: none;
+font-weight: 100;
+font-size: 10px;
+color: #cc2d65;
+background: transparent;}
+.bottom{
+margin: 0 auto 10px auto;
+padding: 10px 27px;
+width: 490px;
+box-shadow:0 -8px 6px -6px rgba(127, 80, 0, .5), 0 1px 4px rgba(0, 0, 0, .5), inset 0 0 40px rgba(0, 0, 0, .2);
+border-radius: 0 0 10px 10px;
+text-align:center;
+background: #cc2d65 url(https://fc00.deviantart.net/fs71/f/2014/217/d/c/topbottom_by_melikebat-d7ti80e.png);}
+.bottom a{color: #fcd033;}
+.bottom a:hover{text-shadow: 0 0 4px #ffef96, 0 0 9px #ffe67a;}
+.credit{
+margin: -20px auto 0 auto;
+padding: 10px 0;
+height: auto;
+width: 480px;
+text-align: center;
+font-size: 0;
+background: url(https://fc03.deviantart.net/fs71/f/2014/215/3/4/credit_by_melikebat-d7ti81b.png) no-repeat center center;}
+.credit:hover{
+font-size: 11px;
+border-radius: 10px;
+background: rgba(255, 239, 150, .3) center center;}
+::selection{color: #edce14; background: #cc2d65;}
+::-moz-selection{color: #edce14; background: #cc2d65;}
+/*
+- - - - - - - - - - - - - - - - - - - -
+Navigation
+- - - - - - - - - - - - - - - - - - - -
+To customize the links in navigation menu; go to submit journal/edit journal/sta.sh writer and click "change skin"and then "edit skin". A conversation box will be opened; accept the terms and conditions. Once "Customize Skin" window is opened, at the "Skin Header" section, replace the content, URLs and corresponding labels in between "menu" div tags with yours.
+<div class="menu">CONTENT</div>
+- - - - - - - - - - - - - - - - - - - -
+Blockquote and Source
+- - - - - - - - - - - - - - - - - - - -
+<blockquote>QUOTE HERE<div class="source">SOURCE</div>
+</blockquote>
+- - - - - - - - - - - - - - - - - - - -
+Scrollbox
+- - - - - - - - - - - - - - - - - - - -
+<div class="sbox">SCROLL BOX CONTENT</div>
+- - - - - - - - - - - - - - - - - - - -
+"Back To" Link (Using Internal Linking In Journals)
+- - - - - - - - - - - - - - - - - - - -
+<a name="ICECREAM">
+<code>
+</code>
+</a>
+<a class="back" href="URLOFTHEJOURNAL#ICECREAM">BACK TO ICECREAM</a>
+- - - - - - - - - - - - - - - - - - - -
+Two Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col2">TEXT IN COLUMN 1</div>
+<div class="col2">TEXT IN COLUMN 2</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Three Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col3">TEXT IN COLUMN 1</div>
+<div class="col3">TEXT IN COLUMN 2</div>
+<div class="col3">TEXT IN COLUMN 3</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Four Column Text:
+- - - - - - - - - - - - - - - - - - - -
+<div class="tab">
+<div class="col4">TEXT IN COLUMN 1</div>
+<div class="col4">TEXT IN COLUMN 2</div>
+<div class="col4">TEXT IN COLUMN 3</div>
+<div class="col4">TEXT IN COLUMN 4</div>
+</div>
+- - - - - - - - - - - - - - - - - - - -
+Normal Thumb Box (When you use this code there'll be no space between thumbs vertically.)
+- - - - - - - - - - - - - - - - - - - -
+<div class="ntb">:thumb######:</div>
+
+--Header Code--
+<div class="menu">
+<a href="LINK">Gallery</a> &#9679; <a href="LINK">Facebook</a> &#9679; <a href="LINK">Twitter</a>
+</div>
+--End Header Code--
+
+--Footer Code--
+<br>
+<br>
+<div class="credit">
+<a href="http://fav.me/d7ioysl">India Journal Skin</a> by <a href="https://www.deviantart.com/artbymba">MelikeBAt</a>
+<br>Art in Preview Image
+<br>
+<a href="http://fav.me/d1enhfv">Holy Man 1 India</a> by <a href="https://www.deviantart.com/CitizenFresh">CitizenFresh</a>
+<br>
+<a href="http://fav.me/d77sv9v">India</a> by <a href="https://www.deviantart.com/LoranDeSore">LoranDeSore</a>
+</div>
+<a href="https://jamesrandal.deviantart.com/art/India-331049091"> by jamesrandal</a>
+*/

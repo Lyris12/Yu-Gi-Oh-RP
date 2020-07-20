@@ -1,0 +1,273 @@
+.journalbox
+{
+	color:#6c8b98;
+	margin:auto;
+	border:none;
+	background:#bfe1f3 url(https://fc09.deviantart.net/fs70/o/2010/354/8/4/190337218_165080_bodyb.png) repeat-y top center;
+	_background-color:#092c00;
+	_background-position:center top;
+	_background-color:#bfe1f3;
+	font-family:'Arial', 'Verdana', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+	max-width:1000px;
+	_width:1000px;
+}
+
+.journaltop
+{
+	background:url(https://fc02.deviantart.net/fs70/o/2010/354/c/7/190337218_165081_topg0.png) no-repeat top center;
+	_background-position:top center;
+	font-size:11px;
+	color:#6c8b98;
+	text-align:center;
+	_text-align:center;
+	height:400px;
+	padding:0px 0px 0px 0px;
+}
+
+.journaltop h2
+{
+	color:#505b61;
+	font-size:19.5px;
+	padding:120px 0px 5px 0px;
+	_padding:110px 0px 0px 0px;
+	text-align:center;
+	letter-spacing:0px;
+	width:420px;
+	_width:420px;
+	margin:auto;
+}
+
+.journaltop img
+{
+	display:none;
+}
+
+.list
+{
+	background:url(https://fc02.deviantart.net/fs71/o/2010/354/b/4/190337218_165082_bottomjs.png) no-repeat bottom center;
+	_background-position:bottom center;
+	height:300px;
+	_height:300px;
+	margin:0 0 0 0;
+	padding:0px 0 0 0;
+	text-align:center;
+	font-size:10px;
+	color:#6c8b98;
+	letter-spacing:0.2px;
+	font-family:'Arial', 'Verdana', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+}
+
+.list strong
+{
+	color:#74828a;
+	font-variant: small-caps;
+	font-family:'Arial', 'Verdana', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+}
+
+.list .a
+{
+	background:transparent!important;
+}
+
+.list li
+{
+	padding:4px;
+	font-family:'Arial', 'Verdana', 'Myriad Pro', 'Trebuchet MS', Helvetica, sans-serif !important;
+}
+
+a
+{
+	font-weight:normal!important;
+	color:#2978a6;
+	text-decoration:none!important;
+}
+
+a:hover
+{
+	color:#0068a5;
+	text-decoration:underline!important;
+}
+
+.journaltext .link
+{
+
+	height:auto;
+	text-align:center;
+	color:#4e9fcf;
+	margin:0px -20px;
+	margin-bottom:-20px;
+	padding:10px 0px;
+	width:400px;
+	_width:400px;
+}
+
+.journaltext .link a
+{
+	font-size:12px;
+	_font-size:11px;
+	padding:0px 0px 0px 20px;
+	margin:0px 0px 0px 5px;
+	color:#2978a6;
+	text-decoration:none;
+}
+
+.journaltext .link a:hover
+{
+	background:url(https://fc09.deviantart.net/fs70/o/2010/354/2/9/190337218_165083_links0.png) no-repeat left center;
+	color:#0068a5;
+}
+
+.journaltext .subheading
+{
+	background:url(https://fc03.deviantart.net/fs70/o/2010/354/c/e/190337218_165084_subheading.png) no-repeat bottom left;
+	_background-position: bottom left;
+	color:#505b61;
+	font-size:15px;
+	_font-size:14px;
+	font-weight:bold;
+	height:35px;
+	_height:46px;
+	margin:auto;
+	margin-bottom:-10px;
+	padding:25px 10px 0px 50px;
+	_padding:15px 10px 0px 45px;
+	margin:0px px 0px 5px;
+	margin-top:-10px;
+	_margin-top:0px;
+	text-align:left;
+	letter-spacing:0.2px;
+}
+
+.journaltext
+{
+	overflow:auto;
+	letter-spacing:0px;
+	text-align:center;
+	background:transparent !important;
+	_background-position:top center;
+	padding:10px 0;
+	margin:0 auto;
+	margin-top:-245px;
+	_margin-top:-220px;
+	margin-bottom:10px;
+	color:#6c8b98;
+}
+
+.journaltext .content
+{
+	width:400px;
+	_width:400px;
+	padding:0px 0px 10px 10px;
+	_padding:0px 0px 10px 10px;
+	color:#445f6b;
+	text-align:justify;
+	font-size:12px;
+	margin:auto;
+	background-color:transparent;
+}
+
+
+.thumbs {
+	width:300px;
+	_width:300px;
+	float:center;
+	margin:auto;
+	text-align: center;
+}
+
+.thumbs .shadow {
+	background-image:none!important;
+}
+
+.thumbs a
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	display:inline-block;
+	width:75px!important;
+	height:75px!important;
+	overflow:hidden;
+	border:solid #4e9fcf;
+	border-width:1px;
+}
+
+.thumbs img
+{
+	margin:-10px -10px;
+}
+
+.thumbs a:hover
+{
+	border:solid #4e9fcf;
+	border-width:1px;
+        background: #transparent !important;
+}
+
+.thumbs a:hover img
+{
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-radius:5px 5px 5px 5px;
+	z-index:99;
+	position:absolute;
+	margin:50px 50px 50px -5px;
+	border: solid #4e9fcf;
+	border-width:2px 2px 2px 2px;
+}
+
+
+.journalbottom
+{
+        color:#bfe1f3;
+}
+
+.journalbottom .commentslink
+{
+        background:url(https://fc01.deviantart.net/fs70/o/2010/354/b/9/190337218_165085_buttonxx.png) top repeat-x #bfe1f3;
+        border:1px solid #b5cdee;
+        color:#4e9fcf;
+        padding:5px 10px 5px 10px;
+        border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+
+.journalbottom .prevlink
+{
+        display:none;
+}
+
+.credits
+{
+	color:#445f6b;
+	font-size:12px;
+        _font-size:11px;
+        text-align:center;
+        width:300px;
+        _width:310px;
+        padding:10px 0px;
+        margin:auto;
+}
+
+.credits a
+{
+        color:#2978a6;
+        font-size:12px;
+        _font-size:11px;
+        text-decoration:none;
+}
+/*
+-< div class="subheading">SUBHEADING HERE< / div> for the sub-heading.
+-< div class="thumbs">:thumbxxxxxxxx:< / div> for the minigal.
+
+--Header Code--
+<div class=content><div class=link><a href="https://walnut-cookie.deviantart.com/gallery/">Gallery</a><a href="https://walnut-cookie.deviantart.com/favourites/">Favourites</a><a href="https://walnut-cookie.deviantart.com/journal/">Journal</a><a href="https://my.deviantart.com/notes/?to=walnut-cookie">Note Me!</a></div>
+--End Header Code--
+--Footer Code--
+</div><div class=credits>Journal Design by :devdevilgreen:
+Journal CSS by :devwalnut-cookie:
+<a href="https://thespook.deviantart.com/journal/19031239/">Thumbs</a> courtesy :devthespook:
+<a href="https://lazycrazy.deviantart.com/art/Silent-Night-Christmas-icons-146501718">Silent Night Christmas Icons</a> by :devlazycrazy:</div>
+*/

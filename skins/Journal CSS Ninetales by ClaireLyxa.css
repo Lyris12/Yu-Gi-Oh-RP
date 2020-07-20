@@ -1,0 +1,172 @@
+.grosseBoite{
+position:relative;
+max-width: 700px;
+height: 100%;
+
+
+}
+
+.journalbox {
+max-width: 700px;
+background: url(https://fc09.deviantart.net/fs71/o/2011/120/3/c/206991690_248106_301746feunard.jpg) repeat-x 0% 0;
+background-color: #562a0F;
+color: #241208;
+border-width: 3px;
+border-style: solid; 
+border-color: #241208;
+border-radius: 5px 5px 5px 5px;
+font-size: 14px;
+font-family: Cambria, Skia, Comic sans MS;
+text-align: center;
+
+}
+
+.journaltop {
+color: #ca9e86;
+background: transparent;  
+font-family: Cambira, Skia, Comic sans MS;
+font-size: 12px;
+height: 170px;
+padding: 20px 20px 250px 30px;
+text-align: right;
+}
+
+.journaltop h2 {
+color: #ca9e86;
+background-color: transparent; 
+font-family:  Cambria, Skia, Comic sans MS;
+font-size: 18px; 
+font-weight: bold;
+font-style: Bold;
+letter-spacing: 1px;
+text-align: right;
+line-height:24px;
+}
+
+.journaltop img {
+display: none;
+}
+
+.journalbottom {
+background-color: #241208;
+color: #744226;
+font-family: Cambria, Skia, Comic sans MS;
+font-size: 14px; 
+font-style: italic;
+margin: -8px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+height: 40px; 
+line-height: 35px;
+}
+
+.journalbottom :hover {
+color:#ca9e86;}
+
+.journalbottom a {
+color:#744226;
+text-decoration:none;}
+
+.list 
+{
+background-color: #241208;
+color: #a7836f;
+text-align: center;
+font-family: Cambria, Skia, Comic sans MS;
+font-size: 12px;
+margin: 30px 0px 50px 0px; 
+padding: 1px 0px 4px 0px;
+}
+
+.list .a 
+{
+background: #241208;
+}
+
+.list li 
+{
+font-family: Cambria, Skia, Comic sans MS;
+font-size: 13px;
+}
+
+.list strong 
+{
+color: #ca9e86; 
+font-weight: bolder;
+font-family: Cambria, Skia, Comic sans MS;
+font-size: 14px;
+}
+
+.journaltext a
+{
+color: #bb926f;
+font-weight: bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #e0b590;
+font-weight: bold;
+text-decoration: underline;
+}
+
+.title 
+{
+text-align: left;
+font-family:   Cambria, Skia, Comic sans MS;
+font-size: 23px;
+font-weight: bold;
+font-style: italic;
+color: #241208;
+letter-spacing: 0px; 
+background: url(https://fc05.deviantart.net/fs71/o/2011/120/7/9/206991690_248107_394345titre.png) no-repeat left;
+margin: -80px 0px 0px 30px;
+padding: 50px 0px 0px 50px;
+height: 130px; 
+line-height: 35px;
+}
+
+.boite
+{
+text-align: center;
+background-color: #825f41; 
+border-style: hidden;
+border-width: 4px;
+border-color: #241208;
+padding: 10px 10px 10px 10px;
+border-radius: 10px 10px 10px 10px;
+margin: 0px 40px 50px 40px;
+}
+
+
+
+.left_border {
+background: url(https://fc03.deviantart.net/fs70/o/2011/120/3/a/206991690_248108_363657flamme.png);
+background-repeat: repeat-y;
+width:20px;
+height:100%;
+float: left;
+position: absolute;
+top: 0px;
+left: -15px;
+}
+
+.right_border {
+background: url(https://fc03.deviantart.net/fs70/o/2011/120/3/a/206991690_248108_363657flamme.png);
+background-repeat: repeat-y;
+width:20px;
+height:100%;
+position: absolute;
+top:0px;
+right:-14px;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+
+--Header Code--
+<div class="grosseBoite">
+<div class="left_border"></div>
+<div class="right_border"></div>
+--End Header Code--
+--Footer Code--
+</div>
+*/

@@ -1,0 +1,188 @@
+.icon {
+padding-bottom: 30px;
+padding-right: 155px;
+text-align: center;
+}
+
+.journalbox {
+    background-color: transparent !important;
+    border: 1px transparent solid !important;
+    background-position: top left;
+    background-image: url(https://fc04.deviantart.net/fs71/o/2011/282/4/e/262659999_314952_journaltemplate3.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    text-align: center !important;
+    font-family: Comic Sans;
+}
+
+.journalbox .list li {
+    background-color: transparent !important;
+    color: #314435 !important;
+    text-align: center !important;
+    font-family: Comic Sans;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: #314435 !important;
+    text-align: center !important;
+    font-family: Comic Sans;
+}
+
+.journalbox .journaltop {
+    background-color: transparent;
+    color: #314435 !important;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 100px;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox a {
+    color: #314435 !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+    padding: 25px;
+}
+
+.journalbox a:hover {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #314435 !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #314435 !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family:Comic Sans;
+}
+
+.journalbox .journaltext .content {
+    padding-top: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center !important;
+    font-family:Franklin Gothic Medium;
+}
+
+.journalbox .journalbottom {
+    background-color: transparent !important;
+    padding-top: 1px;
+    text-align: center !important;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    font-family:Franklin Gothic Medium;
+    color: #2E4948;
+}
+
+.journalbox .journaltext {
+    color: #2E4948 !important;
+    font-family:Georgia;
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+    text-align: center !important;
+    font-family:Franklin Gothic Medium;
+    padding: 185px;
+}
+
+.journalbox .boxtop {
+    padding-top: 155px !important;
+    text-align: center !important;
+    font-family:Franklin Gothic Medium;
+}
+
+.journalbox h1 {
+    font-family:Comic Sans;
+    color:#91C1C6;
+    font-size:200%;
+}
+
+.journalbox h2 {
+    font-family: Courier;
+    color:#314435;
+    font-size:200%;
+}
+
+.journalbox h3 {
+    font-family:Comic Sans;
+    color:#C3E2C9;
+    font-size:150%;
+}
+
+
+.scrollbox {
+	position:relative;
+	overflow:auto;
+	width:350px;
+	height:200px;
+	text-align:center;
+	background:transparent;
+	border:0px solid #000000;
+        font-family:Franklin Gothic Medium;
+        padding: 35px;
+}
+
+.topmenu{
+text-align: center;
+display: block;
+padding-right: 70px;
+}
+
+
+.topmenu a{
+margin: 0 5px;
+letter-spacing: 1px;
+color: #5a8d19; 
+text-decoration: none;
+}
+
+.topmenu a:hover{
+text-shadow: #91C1C6 0 1px;
+text-decoration: underline;
+color: #91C1C6;
+}
+
+.topmenu a:visited{
+text-decoration: underline;
+color: #A2B5EA;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Body text is barely visible
+
+In skin header, the first line of code will say
+:icon jaclynonacloud:
+To Change the Icon near the top of the Page, change :icon jaclynonacloud: to your username without the space.
+And as for the links:
+Change the links in the header like so:
+ex. <a href="#yourLinkHere">Commissions</a>
+
+
+--Header Code--
+<div class="icon">:iconjaclynonacloud:</div><div class="topmenu"><a href="https://deviantart.com/">You can</a> | <a href="https://deviantart.com/">Change these</a> | <a href="https://deviantart.com/">Links</a></div>
+<div align="center"><div class="scrollbox">
+--End Header Code--
+--Footer Code--
+</div></div>
+*/

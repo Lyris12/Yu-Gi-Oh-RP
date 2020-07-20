@@ -1,0 +1,118 @@
+.gr-box{
+background: #30393b url(https://fc08.deviantart.net/fs70/o/2010/110/2/4/161383277_122401_header.jpg) no-repeat top center;
+max-width: 850px;
+_text-align: center;
+margin: 0px auto 10px auto;
+color: #e9c591;}
+
+.gr{background: transparent; border: none; padding: 0;}
+.gr1{display: none;}
+.gr2{display: none;}
+.gr3{display: none;}
+.tri{display: none;}
+
+.gr-top{
+border: none; 
+background: transparent;
+padding: 141px 10px 100px 20px;
+width: 420px;
+margin: auto;}
+
+h2{
+_text-align: left;
+font-size: 25px;
+color: #454542;
+text-shadow: #d8dada 2px 0;
+margin: 0 0 -6px 0;}
+
+.gr-top span{display: block; text-align: right; color: #828b8d;}
+.gr-top img{display: none;}
+
+.gr-body{
+overflow:visible!important;
+position:static!important;
+background: transparent url(https://fc05.deviantart.net/fs71/o/2010/110/a/9/161383277_122402_footer.jpg) no-repeat bottom center;
+border: none;}
+
+.text{
+width: 430px;
+margin: 0 auto;
+padding: 0 20px 200px 20px;
+_text-align: left;}
+
+a{
+text-decoration: none;
+text-shadow: #1e9c591 1px 1px;
+color: #ecedee;}
+
+a:hover{color: #fff;}
+
+p{color: #ecedee;}
+
+p:first-letter{
+font-size: 18px; 
+padding: 0 3px 0 0;}
+
+em{
+display: block; 
+text-align: center;
+letter-spacing: 1px;
+font-size: 14px;
+text-shadow: #101413 1px 1px;}
+
+.table{display: table;width: 100%;}
+.tablerow{display: table-row; }
+.tablerow div{_display:inline!important;}
+
+.tablecell{
+vertical-align: middle;
+text-align: center;
+display: table-cell;
+padding: 0 5px;
+overflow: hidden;
+height: 100px;
+_height: auto;
+_width: 120px; }
+
+.table img{
+width: 60%; 
+height: 60%;
+_height: auto;
+padding: 2px; 
+border: 2px solid  #e9c591;}
+
+.table img:hover{border:2px solid #ecedee;}
+
+.table .shadow{background: none!important;}
+
+.list{display: none;}
+
+
+.bottom{
+position: absolute;
+bottom: 10px;
+width: 100%;
+_width: 80px;
+padding: 0 0 0 130px;
+_padding: 0 0 0 40px;
+text-align: right;}
+
+.hsep{display: none;}
+
+.bottom a{
+font-size: 11px;
+letter-spacing: 1px;
+color: #4a5557;
+width: 170px;
+margin: auto;
+text-decoration: none;
+display: block;}
+
+.bottom a:hover{color: #5f6e71;}
+/*
+! There is a grey box near the title
+
+--Footer Code--
+<em>Used Resources</em>
+<div class="table"><div class="tablerow"><div class="tablecell">:thumb120669044:</div> <div class="tablecell">:thumb101082273:</div> <div class="tablecell">:thumb120669044:</div></div></div>
+*/

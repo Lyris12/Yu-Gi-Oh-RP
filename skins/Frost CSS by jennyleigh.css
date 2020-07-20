@@ -1,0 +1,126 @@
+.journalbox {
+    background-color: #030526 !important;
+    background-image: url(https://fc02.deviantart.com/fs49/o/2009/212/e/6/131650506_80614_moonscopy.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    border: none;
+    padding: none;
+    font-family:tahoma;
+    font-size:12px;
+-moz-border-radius: 8px;
+-webkit-border-radius:8px;
+
+}
+
+.journalbox .list li {
+    background-color: transparent !important;
+    color: #537299 !important;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: #537299 !important;
+}
+
+.journalbox h2 {
+    color: white !important;
+    font-family:georgia,serif,tahoma;
+    font-variant:small-caps;
+    margin-top:20px;
+    background-image: url(https://fc08.deviantart.com/fs49/o/2009/212/e/3/131650506_80615_ltbluebackground.png);
+    background-repeat: repeat;
+    padding:5px;
+}
+
+.journalbox .journaltop {
+    background-color: transparent;
+    text-align: center !important;
+    color: darkblue !important;
+    font-size: 10px;
+    
+}
+
+.journalbox a {
+    color: #A7C4EA !important;
+}
+
+.journalbox a:hover {
+    color: #FFFFFF !important;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #537299 !important;
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #537299 !important;
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #537299 !important;
+}
+
+.journalbox .journalbottom a.prevlink:hover {
+    color: #537299 !important;
+}
+
+.journalbox .journaltext .content {
+
+}
+
+.journalbox .journalbottom {
+    background-color: transparent !important;
+    padding-top: 6px;
+}
+
+.journalbox .journaltext {
+    color: white !important;
+    background-image: url(https://fc03.deviantart.com/fs46/o/2009/212/9/a/131650506_80616_frost2copy.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+}
+
+.box1 {
+    background-image: url(https://fc08.deviantart.com/fs49/o/2009/212/e/3/131650506_80615_ltbluebackground.png);
+    background-repeat: repeat;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left:10px;
+    padding-right: 10px;
+    margin-top: 150px;
+    border: 0px white solid;
+    -moz-border-radius: 8px;
+-webkit-border-radius:8px;
+    font-weight: 150%;
+}
+
+.title1 {
+    color: #FFFFFF !important;
+    font-family:georgia,serif,tahoma;
+    font-variant:small-caps;
+    font-size: 20px;
+    border-bottom:2px white solid;
+    margin-right:20%;
+    margin-left:20%;
+    text-align:center;
+}
+
+.scrollbox1 {
+    overflow: auto;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left: 2px white solid;
+    padding: 10px;
+}
+/*
+--Header Code--
+<div class="box1">
+--End Header Code--
+--Footer Code--
+</div>
+*/

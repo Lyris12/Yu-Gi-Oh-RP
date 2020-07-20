@@ -1,0 +1,199 @@
+.journalbox {
+    border: 2px solid #000;
+    border-radius: 15px;
+    max-width: 599px;
+    height:737px;
+    background-color:transparent;
+    border: 0px transparent solid;
+    background-image: url(https://fc02.deviantart.net/fs71/o/2012/027/c/d/281809166_360296_rayquazaskin_by_hinachuu-d4nrz91.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family:  Trebuchet MS;
+}
+.journalbox .list li {
+text-align: center;
+font-family: century gothic;
+font-size: 11px;
+padding: 2px;
+
+
+    background-color: #ffffff !important;
+    color: #EA5C24 !important;
+}
+
+.journalbox .list li.a {
+    background-color: #F7FADB !important;
+    color: #A27140 !important;
+}
+
+.journaltop {
+    background-color: transparent;
+    color: #FFFFFF;
+    display:block;
+    text-shadow:0 0 20px #50AE78,0 0 10px #50AE78,0 0 5px #50AE78;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 105px;
+    padding: 0px 0px 0px 200px;
+    text-align: center !important;
+    font-family:Trebuchet MS;
+}
+.journalbox h2 {
+color: #FFFFFF;
+    text-shadow:0 0 20px #50AE78,0 0 10px #50AE78,0 0 5px #50AE78;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:normal;
+background-color: transparent; 
+font-family: Pacifico;
+font-weight: normal; 
+letter-spacing: 1px;
+text-align: center;
+padding: 10px 0px 0px 0px;
+font-size:200%;
+}
+.text strong {
+color:#FFFFFF;
+font-family: century gothic; 
+display: block;
+font: bold 200%/100%  
+overflow: auto none;
+font-weight:bold;
+text-shadow:0 0 20px #A6D851,0 0 10px #A6D851,0 0 5px #A6D851;
+background-color: transparent; 
+font-size: 15px;
+text-align: center;
+padding-bottom: 1px;
+
+}
+.text p{
+color: #4EAF36;
+font-size: 11px;
+font-family: century gothic;
+text-align: center; 
+text-shadow: #C0C0C0 1px 1px 1px;
+background-color:#ffffff;
+margin: 0px 21px 0px 21px;
+border:1px dashed #9CC164; 
+padding:10px;
+-moz-border-radius: 10px;
+}
+.journaltop img 
+{
+display: none;
+}
+
+.thumbs{text-align: center;}
+
+.thumbs img{
+width:75px;
+height:75px;
+opacity: 0.70;
+padding: 5px;
+border-radius: 7px;
+border: 1px dashed #D40560;}
+
+.thumbs img:hover{
+opacity: 100;
+background: #FCFD2B;
+border: 1px dashed #fff;}
+
+.journaltext 
+{
+    padding-top: 0px;
+    padding-left: 215px;
+    text-align: justify;
+    color:#943C2D;
+}
+.journalbox .journaltext b {
+	color:#521906;
+	font-family:century gothic;
+	font-size:13px;
+	font-weight:bold;
+        text-transform:none;
+	text-decoration:none;
+}
+.journalbox .journaltext u {
+	text-decoration: italic;
+	color:#2B9F69;
+	font-family: Trebuchet MS; 
+	font-size:12px;
+	font-weight: bold;
+}
+.journalbox .journaltext i {
+	color:#B87320;
+        text-shadow: -1px -1px ##D6CA46;
+	font-family:century gothic;
+	font-size:11px;
+	font-weight:italic;
+        text-transform:none;
+	text-decoration:none;
+}
+.journaltext a
+{
+color: #EB6927;
+font-family: century gothic; 
+font-weight:bold;
+text-decoration: none;
+}
+.journaltext a:hover
+{
+color: #AE0800;
+text-decoration: underline;
+
+}
+.mainbox {
+	position:relative;
+	overflow:auto;
+	width:350px;
+	height:450px;
+	text-align:left;
+	background:transparent;
+	border:0px solid #000000;
+        font-family:font-family:  Trebuchet MS;;
+        padding: 0px 25px 0px 5px;
+}
+.journalbox .journalbottom {
+    font-family: century gothic;
+    font-size: 11px;
+    color: #7BC03C;
+    text-decoration: bold;
+    font-weight: bold;
+    padding-left: 180px;
+    padding-bottom: 39px;
+}
+.journalbottom a 
+{
+font-family: century gothic;
+font-size: 11px;
+color: #F86C80;
+text-decoration: bold;
+font-weight: bold;
+}
+.journalbottom a:hover 
+{
+color: #CA2A37;
+text-decoration: underline;
+}
+/*
+! This skin was not checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  It may still need fixing.
+! Artist does not allow editing
+
+Bold:
+<b> Text here</b>
+<strong>Strong Text:</strong>
+Text here
+Underline/Re-Color:
+<u> Text here</u>
+Parragraph:
+<p> Text here</p>
+Italic:
+<i> Text here</i>
+Thumb Effect:
+<div class="thumbs"> Art here </div>
+
+--Header Code--
+<div class="mainbox">
+--End Header Code--
+--Footer Code--
+*/

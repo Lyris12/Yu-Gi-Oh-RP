@@ -1,0 +1,178 @@
+.icon{
+position: relative;
+top: 290px;
+left: 160px;
+}
+.icon a img{
+text-align: center;
+border: dashed 4px white;
+border-radius: 60px;
+background-color: #B2D8D5;
+}
+.icon a img:hover{
+background-color: #84BCB8;
+}
+
+.topmenu{
+border: none;
+position: relative;
+top: 300px;
+color: white;
+text-align: center;
+margin: 0px, auto, 0px, auto;
+}
+.topmenu a{
+color: white;
+}
+.topmenu a:hover{
+color: #ADC9C7;
+}
+
+.journalbox{
+background: url('https://fc08.deviantart.net/fs70/o/2014/098/8/7/446298826_1554515_journal_by_jaclynonacloud-d7dp0o0.png') center no-repeat;
+width: 526px;
+height: 980px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: none;
+}
+
+.journaltop{
+background: transparent;
+position: relative;
+top: 190px;
+color: white;
+font-size: 12pt;
+text-align: center;
+margin: 0px, auto, 0px, auto;
+}
+.journaltop:hover{
+color: #79AFAF;
+}
+.journaltop a{
+text-transform: capitalize;
+position: relative;
+top: -40px;
+font-size: 26pt;
+text-shadow: 0px 2px 1px #79AFAF;
+color: white;
+text-decoration: none;
+}
+.journaltop a:hover{
+color: #AED7DA;
+}
+.journaltop img{
+display: none;
+}
+
+.textbox {
+position: relative;
+display: block;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+text-align: left;
+font-size: 10pt;
+width: 400px;
+height: 280px;
+overflow: auto;
+color: white;
+top: 310px;
+padding-left: 80px;
+margin: 0px, auto, 0px, auto;
+border: none;
+}
+.textbox .thumb{
+display: block;
+text-align: center;
+background-color: #B2D8D5;
+border: dashed 3px white;
+border-radius: 6px;
+}
+.textbox .thumb:hover{
+background-color: #84BCB8;
+}
+
+.journalbottom{
+position: relative;
+top: 340px;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 10pt;
+background: transparent;
+border: none;
+}
+.journalbottom a{
+color: #324F4E;
+}
+.journalbottom a:hover{
+color: #467070;
+text-decoration: none;
+}
+
+.journalbox .list{
+position: relative;
+top: 350px;
+}
+.journalbox .list li {
+background-color: transparent;
+color: #467070;
+text-align: center;
+}
+.journalbox .list li.a {
+background-color: transparent;
+color: #324F4E;
+text-align: center;
+}
+
+
+.textbox blockquote{
+font-size: 16pt;
+font-weight: bold;
+}
+.textbox h1{
+display: block;
+color: #E8AF5B;
+text-decoration: underline;
+text-transform: capitalize;
+}
+.textbox h2{
+color: #F9DB8F;
+}
+.textbox h3{
+display: block;
+color: #EFEA35;
+text-decoration: underline;
+text-transform: capitalize;
+}
+.textbox h4{
+color: #DFF492;
+}
+.textbox h5{
+display: block;
+color: white;
+text-decoration: underline;
+text-transform: capitalize;
+}
+.textbox h6{
+color: white;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+! Body and title appear out of order
+
+In skin header, the first line of code will say
+:icon jaclynonacloud:
+To Change the Icon near the top of the Page, change :icon jaclynonacloud: to your username without the space.
+And as for the links:
+Change the links in the header like so:
+ex. <a href="#yourLinkHere">Commissions</a>
+
+--Header Code--
+<div class="topmenu"><a href="https://jaclynonacloud.deviantart.com/">Profile</a> | <a href="https://www.deviantart.com/marufuji--ryou/gallery">Gallery</a> | <a href="https://www.deviantart.com/marufuji--ryou/gallery/44779561">More Journal Skins</a></div>
+<div class="icon">:iconjaclynonacloud:</div>
+
+
+<div class="textbox">
+--End Header Code--
+--Footer Code--
+</div>
+*/

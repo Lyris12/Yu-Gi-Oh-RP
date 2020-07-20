@@ -1,0 +1,113 @@
+.links{
+background: #000000; border:2px solid #5AE25D; text-align:center;
+color:#FFFFFF; font-size: 14px;font-style: bold; letter-spacing: 1px; padding: 5px 30px 15px 30px;}
+.links a {color: #C6ECEC;font-size: 20px;}
+.links a:hover {color: #660033 !important;font-size:20px;
+}
+.journalbox {
+    background-color: #000000 !important;
+    border: 1px #000000 solid !important;
+ }
+
+body { font-family: Calibri; font-style: bold; font-size: 16px; color:#FFFFFF; }
+p {font-size: 20px;color:#5AE25D; font-style: bold !important;}
+b { color:#FFFFFF;  
+
+}
+.journaltext {padding: 10px 20px 40px 20px;text-align:center; 
+height: absolute; color: #FFFFFF; }
+.title {color:#FFFFFF background: #5AE25D no-repeat center; 
+	height: 32px; _height:77px; padding:45px 0 0 90px;font-size: 16px; letter-spacing:1px; 
+	margin: 10px 0;text-align:center;}
+.t2 {color:#FFFFFF; font-size:14px; letter-spacing: 1px;}
+.bg {background: #F359A1;border:1px solid #FFFFFF;padding:10px; margin:0;text-align:center;}
+
+
+.journalbox .list li {
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+}
+
+.journalbox .list li.a {
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+}
+
+.journalbox .journaltop {
+    border-bottom: 0px #000000 solid !important;
+    background-color: #000000 !important;
+    text-align: right !important;
+    color: #FFFFFF !important;
+    background-image: url(https://fc06.deviantart.net/fs48/o/2009/220/d/1/132659838_82169_vinesjournaltop.jpg)!important;
+    background-position: top left;
+    background-repeat: no-repeat;
+    height: 270px;
+
+}
+
+.journalbox h2 {
+    color: #FFFFFF !important;
+text-align: right !important;
+}
+
+.journalbox a {
+    color: #FFFFFF !important; text-decoration: none;
+}
+
+.journalbox a:hover {
+    color: #5AE25D !important; text-decoration: none;
+}
+
+.journalbox .journalbottom a.commentslink {
+    color: #FFFFFF !important;
+
+}
+
+.journalbox .journalbottom a.prevlink {
+    color: #FFFFFF !important;
+
+}
+
+.journalbox .journalbottom a.commentslink:hover {
+    color: #5AE25D !important;
+
+}
+.journalbox .journalbottom a.prevlink:hover {
+    color: #5AE25D !important;
+
+}
+
+.journalbox .journalbottom {
+    background-color: #000000 !important;
+    padding-top: 240px;
+background-image: url(https://fc00.deviantart.net/fs49/o/2009/220/5/7/132659838_82170_vinefooter2.jpg);
+background-position: bottom center;
+    background-repeat: no-repeat;
+
+}
+
+.journalbox .journaltext {
+    font-size: 13pt !important;
+    color: #FFFFFFF !important;
+}
+
+.journalbox .journaltop img {
+    display: none !important;
+}
+
+.journalbox .boxtop {
+    padding: 3px !important;
+}
+/*
+! This skin was not fully checked for watermarked Photobucket images, incorrectly uploaded images, broken images, text that is difficult to read, and other errors.  The header and/or footer may still need fixing.
+
+--Header Code--
+<div class="links">
+<a href="https://my.deviantart.com/notes/?to=caybeach">Note Me</a> | <a href="https://www.deviantart.com/marufuji--ryou/gallery/">Gallery</a> 
+</div>
+--End Header Code--
+--Footer Code--
+------------------------
+Journal CSS made by :devcaybeach:
+Brushes by :devgvalkyrie:
+*/
