@@ -1,0 +1,431 @@
+<style>
+* {
+background: transparent; 
+border: none; 
+box-shadow: none; 
+margin: 0; 
+padding: 0;
+}
+
+/* ------------------------------ GENERAL ------------------------------ */
+
+.gr1, .gr2, .gr3, .tri, .gr-top .gr h2 img {display: none;}
+
+.text, .gr-top .gr h2, .gr-top .gr h2 a {
+margin: 0 auto;
+max-width: 680px;
+}
+
+.text h1, .text h2, .text h3, .text h4, .text h5, .text h6, .gr-top, .bottom {
+font-family: Lato, Helvetica, Arial, Sans-serif;
+letter-spacing: 0.2px;
+text-align: center; 
+text-transform: uppercase;
+}
+
+a {
+color: #ff9580;
+font-weight: 400;
+}
+
+a:hover {
+color: #E65F45;
+}
+
+.user-symbol {
+color: #ff9580;
+font-size: 8px;
+padding: 2px;
+position: relative;
+top: -4px;
+}
+
+.username-with-symbol:hover .user-symbol {
+color: #E65F45;
+}
+
+/* ------------------------------ GR-BOX ------------------------------ */
+
+.gr-box {
+background: #F2E6CE;
+color: #1a110d;
+font-family: Lato, Helvetica, Arial, Sans-serif;
+}
+
+.gr-genericbox {
+
+}
+
+/* ------------------------------ GR-TOP ------------------------------ */
+
+.gr-top {
+background: #cca3c5 url(http://fc04.deviantart.net/fs71/o/2014/008/d/2/425528602_1372678_img_gr-top.png) bottom repeat-x;
+border-bottom: 50px solid #ffbfb2;
+padding: 90px 0 120px 0!important; 
+position: relative; 
+}
+
+.gr-top .gr {
+padding: 0!important;
+}
+
+.gr-top .gr h2, .gr-top .gr h2 a {
+color: #ffffff;
+font-size: 42px;
+font-weight: 900;
+padding: 0!important; 
+text-shadow: #995c8f 0px 3px 0px;
+}
+
+.gr-top .gr h2 a:hover {
+text-shadow: #995c8f 0px 6px 0px;
+}
+
+.gr-top .gr span {
+color: #ffffff;
+display: block; 
+font-size: 16px;
+font-style: italic;
+font-weight: 300;
+position: absolute;
+text-align: center;
+text-transform: none;
+top: -50px;
+width: 100%; 
+}
+
+/* ------------------------------ GR-BODY ------------------------------ */
+
+.gr-body {
+background: url(http://fc01.deviantart.net/fs71/o/2014/008/e/a/425528602_1372679_text_space.png) bottom repeat-x;
+}
+
+.gr-body .gr {}
+.gr-body .gr .grf-indent {}
+
+.gr-body .gr .grf-indent .text {
+font-size: 16px;
+font-weight: 300; 
+line-height: 21px;
+padding: 50px 0;
+}
+
+/* ------------------------------ BOTTOM ------------------------------ */
+
+.gr-body .gr .grf-indent .bottom {
+background: #ffcc99;
+padding: 20px 0 ;
+}
+
+.gr-body .gr .grf-indent .bottom  a  {
+color: #ffffff;
+font-size: 21px;
+font-weight: 700;
+text-shadow: #e59545  0px 3px 0px;
+}
+
+.gr-body .gr .grf-indent .bottom a:hover {
+text-decoration: none;
+text-shadow: #e59545  0px 6px 0px;
+}
+
+/* ------------------------------ CUSTOM ------------------------------ */
+
+.text blockquote {
+border: #ffcc99 solid;
+border-width: 0 0 10px 0;
+font-size: 21px;
+line-height: 30px;
+margin: 25px 0;
+padding: 0 0 10px 0;
+position: relative;
+}
+
+.text blockquote i {
+background: url(http://fc05.deviantart.net/fs71/o/2014/008/6/0/425528602_1372680_blockquote_i.png) no-repeat top right;
+font-size: 13px;
+font-style: normal;
+padding-right: 30px;
+position: absolute;
+bottom: -40px; right: 20px; 
+text-align: right;
+}
+
+.text p {
+background: #ffbfb2; 
+box-shadow: #ff9580 5px 5px 0px;
+margin: 25px 0;
+padding: 20px;
+}
+
+.text ul {
+list-style-image: url(http://fc03.deviantart.net/fs71/o/2014/008/3/5/425528602_1372681_ul.png);
+margin: 0 0 0 20px;
+}
+
+.text ul li {
+margin: 10px 0;
+}
+
+.text h1, .text h2, .text h3, .text h4, .text h5, .text h6 {
+color: #1a110d;
+font-weight: 700;
+margin: 15px 0;
+text-shadow: #f2d9aa 0px 3px 0px;
+}
+
+.text h1 {font-size: 32px;}
+.text h2 {font-size: 28px;}
+.text h3 {font-size: 24px;}
+.text h4 {font-size: 21px;}
+.text h5 {font-size: 18px;}
+.text h6 {font-size: 16px;}
+
+hr {
+background: url(http://fc00.deviantart.net/fs71/o/2014/008/b/b/425528602_1372682_hr.png);
+border: none;
+height: 15px;
+}
+
+/* ------------------------------ BUTTON ------------------------------ */
+
+.button {
+display: inline-block;
+margin: 25px 10px 25px 0;
+}
+
+.button a {
+background: #ffcc99;
+box-shadow: #e59545 5px 5px 0px;
+color: #1a110d;
+font-size: 18px;
+font-weight: 400;
+text-shadow: none;
+padding: 10px 15px;
+}
+
+.button a:hover {
+background: #ffffff;
+box-shadow: #f2d9aa 5px 5px 0px;
+}
+
+.button a.external {text-decoration: none;}
+.button a.external:after {display:none;}
+
+/* ------------------------------ COLUMNS ------------------------------ */
+
+.columns {
+display: block; 
+overflow: hidden;
+}
+
+.columns span {
+display: inline-block;
+float: left;
+margin-right: 1%;
+padding: 0 0 10px 0;
+width: 48%;
+}
+
+/* ------------------------------ LINKS ------------------------------ */
+
+.links {
+background: #ffbfb2;
+padding: 0;
+position: absolute;
+top: 0px; left: 0px;
+text-align: center;
+width: 100%;
+}
+
+.links a {
+border: #ff9580 solid;
+border-width: 0 0 5px 0;
+color: #ffffff;
+display: inline-block;
+font-weight: 700;
+letter-spacing: 2px;
+margin: 0 10px;
+padding: 0 10px 5px 10px;
+text-shadow: none;
+text-transform: uppercase;
+}
+
+.links a:hover {
+color: #ff9580;
+}
+
+.links a.external {text-decoration: none;}
+.links a.external:after {display:none;}
+
+
+/* ------------------------------ THUMBS, EMBD DEVIATIONS AND FEAT CLASS ------------------------------ */
+
+.shadow-holder, .embedded-deviation {
+background: #ffffff;
+margin: 5px;
+padding: 5px 5px 1px 5px;
+vertical-align: middle;
+}
+
+.shadow-holder:hover,  .embedded-deviation:hover {
+background: transparent;
+}
+
+.embedded-deviation {
+margin: 15px 5px;
+}
+
+.shadow-holder img {
+
+}
+
+.shadow-holder .mild { }
+.shadow-holder .mild a { }
+.shadow-holder .mild a.thumb { }
+.shadow-holder .mild a.thumb img {}
+
+.shadow-holder a.lit {
+background: #F2E6CE;
+text-shadow: none;
+}
+
+.shadow-holder a.lit img {
+display: none;
+}
+
+.shadow-holder .wrap q {
+font-size: 10px; 
+left: 0px; 
+margin: 0px;
+padding: 4px!important;
+}
+
+.shadow-holder .wrap q strong {
+background: #cca3c5;
+border-bottom: 5px solid #ffbfb2;
+color: #ffffff;
+font-family: Lato, Helvetica, Arial, Sans-serif;
+font-size: 16px;
+letter-spacing: 0.2px;
+line-height: 15px;
+margin: -4px -8px 4px -4px;
+padding: 4px;
+text-align: center; 
+text-shadow: #995c8f 0px 1px 0px;
+text-transform: uppercase; 
+}
+
+.shadow-holder .wrap p {
+
+}
+
+.shadow-holder .wrap:hover {
+
+}
+
+.shadow-holder a:hover {
+
+}
+
+.feat {
+text-align: center;
+background: transparent;
+padding: 0;
+margin: 0; 
+}
+
+
+/* ------------------------------ FULL WIDTH IMAGE LINK WITH HOVER TEXT ------------------------------ */
+
+.full-width-image {
+position: relative;
+overflow: hidden;
+}
+
+.full-width-image i {
+display: none;
+}
+
+.full-width-image:hover i {
+background: #fff6e5;
+display: block; 
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.75px;
+opacity: 0.8;
+padding: 10px; 
+position: absolute;
+bottom: 4px;
+left: 0px;
+width: 100%;
+}
+
+.full-width-image:hover i a {
+font-weight: 400;
+}
+
+.full-width-image:hover i a:hover {
+text-shadow: none;
+}
+
+/* ------------------------------ HALF WIDTH IMAGE LINK WITH HOVER TEXT ------------------------------ */
+
+.half-width-image {
+display: block; 
+overflow: hidden;
+}
+
+.half-width-image .hwi {
+float: left;
+position: relative;
+overflow: hidden;
+width: 50%;
+height: 340px;
+}
+
+.half-width-image .hwi a img {
+min-height: 510px;
+max-width: none;
+position: absolute;
+top: 50%;
+margin-top: -170px;
+}
+
+.half-width-image .hwi i {
+display: none;
+}
+
+.half-width-image .hwi:hover i {
+background: #fff6e5;
+display: block; 
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.75px;
+opacity: 0.8;
+padding: 10px; 
+position: absolute;
+bottom: 0px;
+left: 0px;
+width: 100%;
+}
+
+.half-width-image .hwi:hover i a {
+font-weight: 400;
+}
+
+.half-width-image .hwi:hover i a:hover {
+text-shadow: none;
+}
+
+/* ------------------------------ MOBILE LAYOUT ------------------------------ */
+
+.da-media[mobile] .gr-body .gr .grf-indent .text {padding: 20px;}
+.da-media[mobile] .gr-top, .gr-body {background-image: none;}
+.da-media[mobile] .gr-top {padding: 60px 0 30px 0!important; border-width: 20px;}
+.da-media[mobile] .gr-top .gr span {top: -30px;}
+.da-media[mobile] .links {font-size: 12px;}
+</style><div class="links"><a href="#">[LINK]</a><a href="#">[LINK]</a><a href="#">[LINK]</a></div>
+<journaltext/>
