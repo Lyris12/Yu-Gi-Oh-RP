@@ -1,0 +1,51 @@
+.journalbox {
+	background:#b8a9f3;
+	font-family:Terminal, 'Lucida Console', 'Courier New', monospace;
+	color:#2c3635;
+}
+.journaltop {
+	background:#b8a9f3;
+	padding-left:30px;
+	padding-top:50px;
+}
+h2 {
+	color:#333333;
+}
+a {
+	color:#337287;
+}
+.journaltop img {
+	display:none;
+	margin-left:0px;
+}
+.list img {
+	display:none;
+}
+.a {
+	background:transparent;
+}
+.list img {
+	display:none;
+}
+.list {
+	padding-left:30px;
+}
+.list .a {
+	background:transparent;
+}
+.journaltext {
+	font-size:12pt;
+	padding:15px 30px 30px 30px;
+}
+.journalbottom {
+	text-align:center;
+	color:#333333;
+	padding-bottom:43px;
+}
+.journalbottom a {
+	color:#337287;
+}
+.commentslink {
+	color:#337287;
+	margin-right:30px;
+}

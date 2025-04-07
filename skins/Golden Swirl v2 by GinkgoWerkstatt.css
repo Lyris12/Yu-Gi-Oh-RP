@@ -1,0 +1,194 @@
+a:link {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, pointer;
+}
+{
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, pointer;
+}
+.journal-edit-mode h2 {
+	display:block;
+}
+.gr {
+	border:none;
+	padding:0;
+	background:transparent;
+}
+.gr1, body div#devskin13726915  .gr2, body div#devskin13726915  .gr3, body div#devskin13726915  .gr3, body div#devskin13726915  .tri, body div#devskin13726915  .gr-top img {
+	display:none;
+}
+.gr-box {
+	background-color:#2d231c;
+	color:#dda844;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	text-align:center;
+	border:1px solid #d1b444;
+	max-width:700px;
+	margin:auto;
+	padding:20px 0;
+}
+.gr-top {
+	background:url(https://fc00.deviantart.net/fs70/o/2013/291/b/2/408003299_1225894_bg_by_ginkgografix-d6pbjwu.jpg) repeat-y center transparent;
+	text-align:center;
+	border-bottom:solid #f8d75a;
+	border-top:solid #f8d75a;
+	border-width:1px 0;
+	color:#2d231c;
+	font-size:10px;
+	padding:20px 0 10px 0;
+	margin:20px 0 0 -35px;
+	box-shadow:1px 1px 10px #937132;
+	-moz-box-shadow:1px 1px 10px #937132;
+	-webkit-box-shadow:1px 1px 10px #937132;
+}
+.gr-top h2 a, body div#devskin13726915  .gr-top h2 {
+	font-size:18px;
+	letter-spacing:1px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	color:#4a3822;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	_zoom:1;
+}
+.gr-top span {
+	color:#4a3822;
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	_zoom:1;
+}
+.gr-body {
+	overflow:visible!important;
+	position:static!important;
+	background:transparent;
+	border:none;
+}
+.text {
+	text-align:left;
+	padding:10px 30px 40px 30px;
+}
+a {
+	color:#bf8b4d;
+	text-decoration:none !important;
+}
+.menuwrap {
+	margin:0-30px 0 -30px;
+	background:url(https://fc08.deviantart.net/fs71/o/2013/291/e/d/408003299_1225895_links_head_by_ginkgografix-d6pb2ge.jpg) no-repeat top center;
+	border:1px solid transparent;
+}
+.menu {
+	margin:64px 0 0 0;
+	background:url(https://fc05.deviantart.net/fs70/o/2013/291/e/7/408003299_1225896_links_bg_by_ginkgografix-d6pb2gs.jpg) repeat-y center;
+}
+.clear {
+	clear:both;
+	background:url(https://fc00.deviantart.net/fs71/o/2013/291/9/7/408003299_1225897_links_bottom_by_ginkgografix-d6pb2gl.jpg) center top no-repeat;
+	height:55px;
+}
+.menu ul {
+	padding:0;
+	margin:0 0 -1px 0;
+}
+.menu ul li {
+	width:46%;
+	list-style:none;
+	padding:2px 10px;
+	display:inline-block;
+}
+.left {
+	text-align:right;
+}
+.right {
+	padding:0 0 0 17px !important;
+}
+blockquote {
+	color:#f4e098;
+	padding:20px;
+	background:#624a26;
+	border:1px solid #fec250;
+	box-shadow:1px 1px 10px #937132;
+	-moz-box-shadow:1px 1px 10px #937132;
+	-webkit-box-shadow:1px 1px 10px #937132;
+}
+hr {
+	background:url(https://fc00.deviantart.net/fs71/o/2013/291/7/a/408003299_1225898_divider_by_ginkgografix-d6pb2gz.jpg) no-repeat center;
+	height:58px;
+	border:none;
+	margin:auto;
+}
+h1, body div#devskin13726915  h2, body div#devskin13726915  h3, body div#devskin13726915  h4, body div#devskin13726915  h5 {
+	color:#f4e098;
+	letter-spacing:1px;
+}
+h5 {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size:15px;
+	text-align:center;
+	margin:0 0 -33px 0;
+}
+h4 {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size:15px;
+	text-align:center;
+	margin:0 0 -2px 0;
+}
+.scrollbox {
+	background:url(https://fc00.deviantart.net/fs71/o/2013/291/a/1/408003299_1225899_box_by_ginkgografix-d6pbsss.jpg) no-repeat center;
+	text-align:center;
+	padding:60px 80px 50px 80px;
+	width:350px;
+	margin:auto;
+}
+.scrollbox p {
+	padding:0 3px;
+	height:150px;
+	text-align:center;
+	color:#2d231c;
+	overflow:auto;
+}
+.contentbox {
+	width:430px;
+	margin:auto;
+}
+.contentbox p {
+	margin:-5px 0 0 0;
+	padding:20px 40px;
+	color:#2d231c;
+	width:350px;
+	background:url(https://fc06.deviantart.net/fs70/o/2013/291/3/e/408003299_1225900_box_bg_by_ginkgografix-d6pb2hv.jpg) repeat-y center;
+}
+.contentbox:before {
+	content:url(https://fc00.deviantart.net/fs70/o/2013/291/2/3/408003299_1225901_box_head_by_ginkgografix-d6pb2hb.jpg);
+}
+.contentbox:after {
+	content:url(https://fc06.deviantart.net/fs70/o/2013/291/e/0/408003299_1225902_box_bottom_by_ginkgografix-d6pb2hk.jpg);
+}
+.scrollbox p a, body div#devskin13726915  .contentbox p a, body div#devskin13726915  blockquote a {
+	font-weight:normal;
+	color:#fec250;
+}
+.f {
+	margin:0 0 0 -15px;
+	background:transparent!important;
+}
+.f strong {
+	color:#f8d75a;
+	border-bottom:dashed 1px #f8d75a;
+}
+.bottom {
+	box-shadow:1px 1px 10px #937132;
+	-moz-box-shadow:1px 1px 10px #937132;
+	-webkit-box-shadow:1px 1px 10px #937132;
+	background:url(https://fc00.deviantart.net/fs70/o/2013/291/b/2/408003299_1225894_bg_by_ginkgografix-d6pbjwu.jpg) repeat-y center;
+	padding:10px 0;
+	font-size:0px;
+	border-bottom:1px solid #d4b43b;
+	border-top:1px solid #bf8b4d;
+	margin-bottom:20px;
+}
+.bottom a {
+	font-size:14px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#2d231c;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	_zoom:1;
+}

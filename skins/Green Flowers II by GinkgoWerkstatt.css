@@ -1,0 +1,130 @@
+.gr-box {
+	background:url(https://fc06.deviantart.com/fs47/o/2009/199/e/4/129940263_78049_bg.jpg);
+	max-width:1200px;
+	color:#a3ae9e;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	padding-top:122px;
+	border:none;
+	height:377px;
+	_height:499px;
+	background:transparent url(https://fc05.deviantart.com/fs46/o/2009/199/5/f/129940263_78050_header.jpg) no-repeat;
+}
+.gr-top span {
+	color:#aaae9b;
+	margin-left:277px;
+	font-size:9px;
+}
+.gr-top img {
+	display:none;
+}
+h2 {
+	font-family:Trajan Pro;
+	letter-spacing:1px;
+	position:absolute;
+	top:155px;
+	left:120px;
+	color:#a1c73e;
+}
+.gr {
+	background:transparent;
+	border:none;
+}
+.gr-body {
+	background:transparent url(https://fc07.deviantart.com/fs49/o/2009/199/8/e/129940263_78051_gr-body.jpg) top left no-repeat;
+	margin:0;
+	border:none;
+}
+.text {
+	padding:30px 20px 40px 30px;
+	background:url(https://fc00.deviantart.com/fs46/o/2009/199/8/a/129940263_78052_text.png);
+}
+.feature {
+	margin-top:15px;
+	text-align:center;
+}
+.feature .shadow {
+	padding:5px;
+	background:url(https://fc04.deviantart.com/fs48/o/2009/199/5/f/129940263_78053_thumb.png)!important;
+}
+.feature a {
+	display:inline-block;
+	width:70px!important;
+	height:70px!important;
+	overflow:hidden;
+}
+a {
+	color:#91b355;
+	text-decoration:none;
+}
+a:hover {
+	color:#a1c73e;
+}
+b {
+	font-family:Trajan Pro;
+	border-bottom:1px solid;
+	font-weight:normal;
+	font-size:16px;
+	display:block;
+	color:#91b355;
+	margin:0 10px -5px 0;
+	_display:inline;
+	_padding-right:20px;
+}
+b:first-letter {
+	font-size:20px;
+}
+.text li {
+	list-style:none;
+	background:url(https://fc07.deviantart.com/fs48/o/2009/199/8/7/129940263_78054_list.png) left center no-repeat;
+	padding:4px 0 6px 30px;
+}
+.list {
+	font-family:Trajan Pro;
+	margin-top:40px;
+	text-align:center;
+	color:#9fa294;
+}
+.list img {
+	display:none;
+}
+.list .a {
+	height:20px;
+	background:url(https://fc09.deviantart.com/fs48/o/2009/199/c/1/129940263_78055_mood.png) repeat-x;
+}
+.list .f {
+	height:20px;
+	background:url(https://fc09.deviantart.com/fs48/o/2009/199/c/1/129940263_78055_mood.png) repeat-x;
+}
+strong {
+	color:#baad93;
+	letter-spacing:1px;
+	font-weight:normal;
+}
+.branch {
+	position:absolute;
+	bottom:44px;
+	right:0px;
+}
+.bottom {
+	font-family:Trajan Pro;
+	padding:20px 0 30px 0;
+	color:#91b355;
+	background:url(https://fc07.deviantart.com/fs46/o/2009/199/6/e/129940263_78056_shadow.png) top repeat-x;
+}
+.bottom a {
+	color:#91b355;
+	text-decoration:none;
+}

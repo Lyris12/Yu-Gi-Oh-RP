@@ -1,0 +1,160 @@
+.gr-box {
+	background:url(https://fc04.deviantart.net/fs70/o/2013/058/9/6/356781242_721725_ff_by_soulfighty-d5weozb.jpg) top center repeat;
+	border:none;
+	border-radius:20px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	color:#f0d9c5;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403712959184906/millennium_rod.png), auto;
+	font-family:'Palatino Linotype', cursive;
+	margin:5px auto 5px auto!important;
+	max-width:700px;
+	overflow:hidden;
+	padding:0px;
+}
+.gr-box a {
+	color:#bf958a;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403712959184906/millennium_rod.png), pointer;
+	font-family:'Palatino Linotype', cursive;
+	font-weight:normal!important;
+	text-decoration:none;
+}
+.gr-box a:hover {
+	color:#e4b371!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403722715136100/millennium_rod_hover.png), pointer;
+	text-decoration:none;
+	text-shadow:none;
+}
+.gr {
+	background:transparent;
+	border:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top img {
+	display:none;
+}
+.gr-top {
+	background:transparent url(https://fc04.deviantart.net/fs71/o/2013/058/4/3/356781242_721727_avv_02_by_soulfighty-d5wet1j.png) top right no-repeat!important;
+	border:none;
+	height:128px;
+	margin:0px;
+	right:100px;
+	text-align:left;
+	top:90px;
+	z-index:1;
+}
+h2 {
+	border:none;
+	color:#f0d9c5!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403712959184906/millennium_rod.png), pointer;
+	font-size:27px;
+	font-weight:lighter!important;
+	left:140px;
+	position:absolute;
+	top:40px;
+	z-index:2;
+}
+h2 a {
+	color:#f0d9c5!important;
+	font-family:'Palatino Linotype', cursive;
+	font-weight:lighter!important;
+	text-shadow:2px 0px 2px #7c4435;
+}
+h2 a:hover {
+	color:#e4b371!important;
+	text-shadow:none;
+}
+.gr-top span {
+	display:none;
+}
+.gr-body {
+	background:transparent;
+	border:none;
+	margin:0px;
+	padding:0px;
+}
+.gr-body .text {
+	background:transparent url(https://fc04.deviantart.net/fs70/o/2013/058/3/0/356781242_721728_avv_08_by_soulfighty-d5wet0r.png) repeat;
+	border:none;
+	color:#f0d9c5;
+	font-size:16px;
+	font-weight:lighter!important;
+	line-height:22px;
+	margin:200px 70px 150px 70px;
+	overflow:hidden;
+	padding:40px;
+	z-index:2;
+}
+.up {
+	background:transparent url(https://fc03.deviantart.net/fs71/o/2013/058/0/8/356781242_721729_avv_05_by_soulfighty-d5wet10.png) top center;
+	border:none!important;
+	height:24px;
+	left:70px!important;
+	position:absolute;
+	right:70px!important;
+	top:176px;
+	z-index:2;
+}
+.down {
+	background:transparent url(https://fc01.deviantart.net/fs71/o/2013/058/3/e/356781242_721730_avv_05___copy_by_soulfighty-d5wev00.png) top center;
+	border:none!important;
+	bottom:126px;
+	height:24px;
+	left:70px!important;
+	position:absolute;
+	right:70px!important;
+	z-index:2;
+}
+.c {
+	border:none!important;
+	bottom:150px;
+	font-size:16px;
+	position:absolute;
+	right:90px;
+	text-align:left;
+	z-index:3;
+}
+.prevlink {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.list {
+	display:none;
+}
+.Footer {
+	border:none!important;
+	bottom:157px;
+	font-size:14px;
+	left:90px;
+	position:absolute;
+	text-align:left;
+	z-index:3;
+}
+.shadow-holder img {
+	background:transparent;
+	border:none;
+	box-shadow:0px 1px 6px 2px #75545f;
+	-moz-box-shadow:0px 1px 6px 2px #75545f;
+	-webkit-box-shadow:0px 1px 6px 2px #75545f;
+	margin:auto 5px auto 5px;
+	padding:0px;
+	z-index:1;
+}
+.shadow-holder img:hover {
+	box-shadow:0px 1px 6px 2px #45141e;
+	-moz-box-shadow:0px 1px 6px 2px #45141e;
+	-webkit-box-shadow:0px 1px 6px 2px #45141e;
+}

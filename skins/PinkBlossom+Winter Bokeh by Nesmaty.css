@@ -1,0 +1,199 @@
+.gr-box {
+	background:url(https://orig00.deviantart.net/47c4/f/2018/270/b/7/metallic_background_by_brotherlyfluff-dcnxu6e.jpg) top center repeat-y;
+	border:none;
+	color:#1e2a74;
+	cursor:url(https://orig00.deviantart.net/63d2/f/2018/271/b/2/cyber_dragon_cursor_by_brotherlyfluff-dcnzg2u.png) 1 2, auto;
+	font-family:'Palatino Linotype', cursive;
+	margin:5px auto 5px auto!important;
+	overflow:hidden;
+	padding:0px;
+	width:700px!important;
+}
+.gr-box a {
+	color:#3e94d3;
+	cursor:url(https://orig00.deviantart.net/63d2/f/2018/271/b/2/cyber_dragon_cursor_by_brotherlyfluff-dcnzg2u.png) 1 2, pointer;
+	font-family:'Palatino Linotype', sans-serif;
+	text-decoration:none;
+}
+.gr-box a:hover {
+	color:#2976ad;
+	cursor:url(https://orig00.deviantart.net/fccb/f/2018/271/b/b/cyber_dragon_cursor_hover_by_brotherlyfluff-dcnzg6t.png) 1 2, pointer;
+	text-decoration:none;
+	text-shadow:none;
+}
+.gr1,  .gr2,  .gr3,  .tri,  .gr-top h2 img,  .indent,  .list,  .prevlink,  .hsep {
+	display:none;
+}
+.gr-top div.gr {
+	background:transparent;
+	border:none;
+}
+.gr-top {
+	background:transparent url(https://orig00.deviantart.net/ff93/f/2018/271/5/2/marufuji_ryou_cyber_end_dragon_with_frame_header_by_brotherlyfluff-dcnzw48.png) top center no-repeat;
+	border:none;
+	height:800px;
+	margin:0px;
+	text-align:center;
+	top:40px;
+}
+h2 {
+	border:none;
+	color:#1e2a74!important;
+	cursor:url(https://orig00.deviantart.net/63d2/f/2018/271/b/2/cyber_dragon_cursor_by_brotherlyfluff-dcnzg2u.png) 1 2, pointer;
+	font-size:35px;
+	position:relative;
+	right:0px!important;
+	text-align:center;
+	top:825px!important;
+	width:100%;
+}
+h2 a {
+	color:#1e2a74!important;
+	font-family:'Palatino Linotype', cursive;
+	font-weight:bold;
+}
+h2 a:hover {
+	color:#2976ad!important;
+	font-weight:bold;
+}
+.gr-top span {
+	color:#222e7c;
+	font-size:12px;
+	font-weight:bold;
+	right:0px!important;
+	text-align:center;
+	margin-top:820px!important;
+	width:100%;
+	z-index:3;
+}
+h1,  h3,  h4,  h5,  h6 {
+	color:#2976ad!important;
+	font-family:'Palatino Linotype', sans-serif;
+	font-size:120% important;
+	font-weight:bold;
+}
+.gr-body {
+	background:transparent url(https://orig00.deviantart.net/a477/f/2018/270/7/a/cyber_dragon_footer_2_by_brotherlyfluff-dcnxyr7.png) bottom center no-repeat;
+	border:none;
+	margin:0px;
+	padding:0px;
+}
+.gr-body .gr {
+	border:none;
+}
+.gr-body .text {
+	background:#ccd5f5;
+	border:none;
+	box-shadow:0px 1px 5px 2px #2a46a1;
+	-moz-box-shadow:0px 1px 5px 2px #2a46a1;
+	-webkit-box-shadow:0px 1px 5px 2px #2a46a1;
+	color:#21469a;
+	font-size:16px;
+	line-height:23px;
+	margin:70px 80px 105px 80px!important;
+	overflow:hidden;
+	padding:20px 20px 140px 20px;
+}
+.c {
+	border:none!important;
+	bottom:20px;
+	font-size:20px;
+	left:40px;
+	position:absolute;
+	text-align:left;
+	z-index:3;
+}
+.c a {
+	color:#cde1f0!important;
+	font-family:'Palatino Linotype', sans-serif;
+	font-weight:bold;
+}
+.c a:hover {
+	color:#5f8eb2!important;
+	font-family:'Palatino Linotype', sans-serif;
+	font-weight:bold;
+}
+.down {
+	background:transparent url(https://orig00.deviantart.net/66fa/f/2018/270/f/9/cyber_dragon_footer_by_brotherlyfluff-dcny4ko.png) top center no-repeat!important;
+	border:none!important;
+	bottom:96px!important;
+	height:223px;
+	position:absolute;
+	right:0px;
+	width:450px;
+	z-index:2;
+}
+.Footer {
+	border:none!important;
+	bottom:110px;
+	font-size:12px;
+	left:90px;
+	position:absolute;
+	text-align:left;
+	z-index:2;
+	line-height:0.5;
+}
+.shadow-holder img {
+	border:none;
+	box-shadow:0px 1px 5px 2px #d37d3e;
+	-moz-box-shadow:0px 1px 5px 2px #d37d3e;
+	-webkit-box-shadow:0px 1px 5px 2px #d37d3e;
+	margin:auto 5px auto 5px;
+	z-index:1;
+}
+.shadow-holder img:hover {
+	box-shadow:0px 1px 5px 2px #864132;
+	-moz-box-shadow:0px 1px 5px 2px #864132;
+	-webkit-box-shadow:0px 1px 5px 2px #864132;
+}
+.menu {
+	background:transparent url(https://fc02.deviantart.net/fs71/o/2014/343/2/1/499241911_2048153_p_06_by_nesmaty-d85y4i8.png) repeat;
+	border:none;
+	box-shadow:-1px 1px 5px 1px #000000;
+	-moz-box-shadow:-1px 1px 5px 1px #000000;
+	-webkit-box-shadow:-1px 1px 5px 1px #000000;
+	color:#26304b;
+	font-size:15px;
+	height:100px;
+	line-height:50px;
+	margin:0px 0px 0px 0px;
+	overflow:hidden;
+	position:absolute;
+	right:0px;
+	text-align:left;
+	top:250px;
+	transition:all 0.5s;
+	-moz-transition:all 0.5s;
+	-webkit-transition:all 0.5s;
+	-ms-transition:all 0.5s;
+	-o-transition:all 0.5s;
+	width:30px;
+	z-index:7;
+}
+.menu:hover {
+	color:#ffffff;
+	font-size:18px;
+	height:auto;
+	min-height:300px;
+	padding:20px!important;
+	width:auto;
+	z-index:7;
+}
+.menu a {
+	color:#26304b;
+	font-family:'Palatino Linotype', cursive;
+	font-weight:normal!important;
+	transition:all 0.5s;
+	-moz-transition:all 0.5s;
+	-webkit-transition:all 0.5s;
+	-ms-transition:all 0.5s;
+	-o-transition:all 0.5s;
+	z-index:7;
+}
+.menu a:hover {
+	color:#abacb3!important;
+	z-index:7;
+}
+.menu:hover a {
+	color:#c2c6e1;
+}

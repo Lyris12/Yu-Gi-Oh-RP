@@ -1,0 +1,142 @@
+* {
+	margin:0px;
+	padding:0px;
+	border:none;
+	background:transparent;
+}
+.navbar {
+	position:absolute;
+	top:230px;
+	z-index:1;
+	margin:auto;
+	text-align:center;
+}
+.navbar a {
+	display:block inline;
+	padding:0 10px 0 10px;
+	font-family:arial;
+	text-decoration:none;
+	margin:5px;
+	line-height:19px;
+	background:url(https://fc01.deviantart.net/fs70/o/2012/217/4/f/319067717_451967_separator.gif) no-repeat center left;
+}
+.navbar a:hover {
+	color:#a6de3a;
+}
+.gr-box {
+	background:url(https://fc05.deviantart.net/fs70/o/2012/217/c/2/319067717_451968_bg.jpg) repeat-x #fffde4 top left;
+}
+.gr-genericbox {
+	position:relative;
+	margin-bottom:15px;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	position:static;
+}
+.gr-top .gr {
+	position:static;
+	text-align:center;
+	background:url(https://fc08.deviantart.net/fs70/o/2012/217/d/1/319067717_451969_header-bg.jpg) no-repeat top left;
+	height:302px;
+}
+h2 {
+	position:static;
+	font-family:garamond;
+	color:#ab8e4e;
+	font-size:2.5em;
+	font-weight:bold;
+	padding-top:150px;
+}
+h2 img {
+	display:none;
+}
+.gr-top span {
+	position:static;
+	font-family:georgia;
+	color:#5d5e5c;
+	font-size:1em;
+}
+.gr-body {
+	overflow:visible!important;
+	position:static!important;
+	background:url(https://fc05.deviantart.net/fs70/o/2012/217/7/4/319067717_451970_body.jpg) no-repeat top left;
+}
+.gr-body .gr {
+	position:static;
+}
+.text {
+	position:static;
+	display:block;
+	width:80%;
+	margin:auto;
+	font-size:1.2em;
+	font-family:georgia;
+	color:#ab8e4e;
+}
+.text strong {
+}
+.text em {
+	display:block;
+	height:16px;
+	background:url(https://fc07.deviantart.net/fs70/o/2012/217/6/3/319067717_451971_headlines.png) no-repeat left;
+	padding:10px 0 0 30px;
+	color:#943415;
+	font-family:georgia;
+	font-weight:bold;
+	font-size:1.3em;
+}
+.list img {
+}
+.list {
+	position:static;
+	background:url(https://fc07.deviantart.net/fs70/o/2012/217/f/a/319067717_451972_moodsbg.jpg) no-repeat top left;
+	height:98px;
+	padding:100px 0 20px 205px;
+}
+.list li {
+	font-family:georgia;
+	color:#6a3f02;
+}
+.list li:hover {
+}
+.list .a {
+}
+.f {
+	position:static;
+}
+.f strong {
+}
+.bottom {
+	position:static;
+}
+.bottom .prevlink {
+}
+.bottom .commentslink {
+}
+.bottom a {
+}
+a {
+}
+a:hover {
+}
+.shadow {
+	background-image:none!important;
+}
+.shadow a {
+	overflow:hidden;
+	display:inline-block;
+	width:151px!important;
+	margin-top:35px;
+}

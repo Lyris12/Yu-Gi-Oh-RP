@@ -1,0 +1,239 @@
+div.Nesmaty_Spring-journal .gr-box {
+	background:#FFF6F6 url(https://fc08.deviantart.net/fs70/o/2010/143/c/c/165009737_127531_spring-b.png) bottom right no-repeat;
+	border:none;
+	color:#CA3333;
+	margin:auto!important;
+	overflow:hidden;
+	padding:0px;
+}
+div.Nesmaty_Spring-journal .gr-box a {
+	color:#ff69b4;
+	text-decoration:none;
+}
+div.Nesmaty_Spring-journal .gr-box a:hover {
+	color:#CA3333;
+	text-decoration:none;
+}
+div.Nesmaty_Spring-journal .gr {
+	background:transparent;
+	border:0;
+}
+div.Nesmaty_Spring-journal .gr1, body div#devskin13726392  .gr2, body div#devskin13726392  .gr3, body div#devskin13726392  .tri, body div#devskin13726392  .gr-top h2 img, body div#devskin13726392  .indent, body div#devskin13726392  .prevlink, body div#devskin13726392  .hsep {
+	display:none;
+}
+div.Nesmaty_Spring-journal .gr-top {
+	background:transparent url(https://fc03.deviantart.net/fs71/o/2010/143/e/f/165009737_127532_spring-t.png) top left no-repeat;
+	border:none;
+	font-weight:bold;
+	height:190px;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+	z-index:2;
+}
+div.Nesmaty_Spring-journal .gr-top h2 {
+	background:transparent!important;
+}
+div.Nesmaty_Spring-journal .gr-top h2 a {
+	background:transparent;
+	color:#FFF8DC;
+	font-size:25px;
+	font-weight:bold!important;
+	left:20px;
+	position:relative;
+	text-align:left;
+	text-shadow:0px 2px 2px #CA3333;
+	top:40px;
+	width:100%!important;
+}
+div.Nesmaty_Spring-journal h2 a:hover {
+	color:#ffffff!important;
+	font-weight:bold;
+	text-shadow:none!important;
+}
+div.Nesmaty_Spring-journal .gr-top span {
+	color:#FFF8DC;
+	font-size:12px;
+	font-weight:bold;
+	left:20px;
+	position:relative;
+	text-align:left;
+	top:0px;
+}
+div.Nesmaty_Spring-journal h1, body div#devskin13726392  h2, body div#devskin13726392  h3, body div#devskin13726392  h4, body div#devskin13726392  h5, body div#devskin13726392  h6 {
+	color:#d03a82;
+	font-weight:bold;
+	margin:0px 0px -10px 0px;
+	text-align:left;
+	text-shadow:1px 0px 0px #d03a82;
+}
+div.Nesmaty_Spring-journal .gr-body {
+	background:transparent;
+	border:none;
+	margin:30px 20px 0px 20px;
+	padding:0px;
+}
+div.Nesmaty_Spring-journal .gr-body .text {
+	background:transparent;
+	border:none;
+	color:#CA3333;
+	font-size:15px;
+	line-height:20px;
+	margin:0 auto;
+	margin:0px auto 250px auto;
+	overflow:hidden;
+	padding:10px 30px 0px 30px;
+}
+div.Nesmaty_Spring-journal .c a {
+	background:#FCE1E1;
+	border:1px solid #ffffff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	bottom:20px;
+	box-shadow:0px 1px 3px 1px #db5d5d;
+	-moz-box-shadow:0px 1px 3px 1px #db5d5d;
+	-webkit-box-shadow:0px 1px 3px 1px #db5d5d;
+	color:#eb58a4;
+	font-size:13px;
+	font-weight:normal;
+	padding:7px 10px;
+	position:absolute;
+	right:130px;
+	text-align:center;
+	text-decoration:none;
+	text-shadow:0px 1px 1px #eb58a4, 0px 0px 1px #eb58a4;
+}
+div.Nesmaty_Spring-journal .c a:hover {
+	color:#DE7777;
+	text-decoration:none;
+	text-shadow:0px 1px 1px #FCE1E1, 0px 0px 1px #FCE1E1;
+}
+div.Nesmaty_Spring-journal .user-symbol {
+	color:#CA3333!important;
+}
+div.Nesmaty_Spring-journal .list {
+	background:transparent;
+	bottom:-50px;
+	font-size:13px;
+	padding:40px 0px 150px 0px;
+	position:absolute;
+	text-align:left;
+}
+div.Nesmaty_Spring-journal .a {
+	background:transparent;
+	color:#DB6D6D;
+}
+div.Nesmaty_Spring-journal .f {
+	background:transparent;
+	color:#DB6D6D;
+}
+div.Nesmaty_Spring-journal .shadow > a {
+	border:none!important;
+}
+div.Nesmaty_Spring-journal .shadow > a.thumb > img {
+	background:transparent;
+	border:none;
+}
+div.Nesmaty_Spring-journal .shadow > a.thumb > img:hover {
+	background:transparent;
+	border:none;
+}
+div.Nesmaty_Spring-journal a.lit {
+	background:#f177b2;
+	border:none;
+	border-radius:none;
+	-moz-border-radius:none;
+	-webkit-border-radius:none;
+	box-shadow:none;
+	-moz-box-shadow:none;
+	-webkit-box-shadow:none;
+	color:#ffffd1!important;
+	text-shadow:none!important;
+}
+div.Nesmaty_Spring-journal a.lit:hover {
+	border:none;
+	border-radius:none;
+	-moz-border-radius:none;
+	-webkit-border-radius:none;
+	text-shadow:none!important;
+}
+div.Nesmaty_Spring-journal a.lit img {
+	display:none;
+}
+div.Nesmaty_Spring-journal a.lit q {
+	color:#ffffd1!important;
+	font-size:70%!important;
+	left:13px!important;
+	padding:2px;
+	right:10px!important;
+	top:10px;
+}
+div.Nesmaty_Spring-journal a.lit q > strong:first-child {
+	background:#FFF6F6;
+	border:none;
+	color:#CA3333;
+	display:block;
+	margin:-10px -10px 20px -13px;
+	padding:10px;
+	text-align:center;
+}
+div.Nesmaty_Spring-journal blockquote {
+	background:#abe875;
+	border-radius:none;
+	-moz-border-radius:none;
+	-webkit-border-radius:none;
+	color:#ffffd1!important;
+	margin:10 20px;
+	padding:30px;
+}
+div.Nesmaty_Spring-journal blockquote a {
+	color:#eb58a4!important;
+}
+div.Nesmaty_Spring-journal blockquote a:hover {
+	color:#ffffd1!important;
+}
+div.Nesmaty_Spring-journal .menu {
+	display:block;
+	overflow:hidden;
+	position:static;
+}
+div.Nesmaty_Spring-journal .menu-block {
+	background:#FCE1E1;
+	border:1px solid #ffffff;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	box-shadow:0px 1px 3px 1px #db5d5d;
+	-moz-box-shadow:0px 1px 3px 1px #db5d5d;
+	-webkit-box-shadow:0px 1px 3px 1px #db5d5d;
+	clear:right;
+	color:#ffffff;
+	float:left;
+	font-size:13px;
+	font-weight:normal!important;
+	margin:5px 8px;
+	overflow:hidden;
+	padding:7px 10px;
+	text-align:center;
+	text-decoration:none;
+}
+div.Nesmaty_Spring-journal .menu-block a {
+	color:#eb58a4;
+	font-size:15px;
+	font-weight:normal;
+	text-shadow:0px 1px 1px #eb58a4, 0px 0px 1px #eb58a4;
+}
+div.Nesmaty_Spring-journal .menu-block a:hover {
+	color:#DE7777;
+	text-decoration:none;
+	text-shadow:0px 1px 1px #FCE1E1, 0px 0px 1px #FCE1E1;
+}
+div.Nesmaty_Spring-journal .flower {
+	background:transparent url(https://fc04.deviantart.net/fs70/o/2010/143/0/1/165009737_127533_spring.png) no-repeat;
+	bottom:0px;
+	height:281px;
+	position:absolute;
+	right:30px;
+	width:153px;
+}

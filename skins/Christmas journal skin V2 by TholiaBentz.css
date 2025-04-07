@@ -1,0 +1,128 @@
+.journalbox {
+	background-color:transparent;
+	max-width:577px;
+	_width:577px;
+	color:#c45230;
+	border:none;
+}
+.journaltop {
+	color:#ff8967;
+	background:url(https://fc00.deviantart.net/fs70/o/2009/349/5/4/146869294_99829_header.png) no-repeat top center;
+	font-family:Arial,Verdana, Tahoma;
+	font-size:12px;
+	height:36px;
+	padding:195px 60px 0px 0px;
+	text-align:right;
+}
+.journaltop h2 {
+	color:#ff8967;
+	background-color:transparent;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	letter-spacing:1px;
+	text-align:right;
+	line-height:18px;
+	padding:0px 0px 0px 0px;
+}
+.journaltop img {
+	display:none;
+}
+.list {
+	background:url(https://fc05.deviantart.net/fs71/o/2009/349/0/9/146869294_99830_footer.png) no-repeat;
+	height:227px;
+	color:#7d3316;
+	text-align:left;
+	padding:20px 0px 0px 185px;
+	margin:0px 0px 0px 0px;
+	font-family:Tahoma, Arial;
+	font-size:11px;
+}
+.list .a {
+	color:#7d3316;
+	background:none;
+}
+.list strong {
+	color:#bd4e30;
+	font-weight:bolder;
+}
+.list li {
+	padding:2px;
+}
+.journalbottom {
+	background:transparent;
+	text-align:left;
+	padding:0px 0px 0px 240px;
+	margin:-15px 0px 0px 0px;
+}
+.journalbottom a {
+	font-family:Arial;
+	font-size:12px;
+	color:#9e4128;
+	text-decoration:none;
+	font-weight:normal;
+}
+.journalbottom a:hover {
+	color:#69050d;
+	text-decoration:none;
+}
+.journaltext {
+	background-image:url(https://fc02.deviantart.net/fs70/o/2009/349/7/5/146869294_99831_content.png);
+	padding:50px 65px 20px 185px;
+	margin:0px 0px 0px 0px;
+	text-align:left;
+}
+.journaltext a {
+	color:#e66844;
+	text-decoration:none;
+}
+.journaltext a:hover {
+	color:#cd010e;
+	text-decoration:none;
+}
+.sidebar {
+	text-align:left;
+	position:absolute;
+	left:45px;
+	top:225px;
+	width:120px;
+	background:transparent;
+}
+.icons {
+	margin:20px 0px 25px -18px;
+}
+.links {
+	font-family:Arial;
+	line-height:24px;
+	font-size:12px;
+}
+.links a {
+	color:#3f1a10;
+	font-variant:small-caps;
+	text-decoration:none;
+}
+.links a:hover {
+	font-weight:bold;
+	color:#cd010e;
+	text-decoration:none;
+}
+.stamps {
+	text-align:left;
+	position:absolute;
+	left:35px;
+	top:555px;
+	width:0px;
+}
+.features {
+	text-align:center;
+	padding:21px 30px 21px 30px;
+	background-color:#592516;
+}
+.friends {
+	text-align:center;
+	padding:21px 30px 21px 30px;
+	background-color:#592516;
+}
+.title {
+	margin:15px 0px 0px 0px;
+}

@@ -1,0 +1,222 @@
+.journalbox {
+	text-decoration:none;
+	background-color:#a57894;
+	background-image:url(https://fc00.deviantart.net/fs70/o/2010/032/3/c/152557210_107696_303jl9j.png);
+	background-repeat:no-repeat;
+	background-position:top center;
+	border:none;
+	max-width:600px;
+	text-align:left;
+}
+.HeaderLeft {
+	color:#340522;
+	font-weight:none;
+	font-size:17pt;
+	margin-left:-10px;
+	padding-left:10px;
+	width:100%;
+	line-height:33px;
+	background:url('https://fc05.deviantart.net/fs70/o/2010/032/b/e/152557210_107697_2s12b0j.png') repeat-y center left;
+	text-align:left;
+}
+.HeaderCenter {
+	color:#340522;
+	font-weight:bold;
+	font-size:12pt;
+	margin-left:-20px;
+	margin-right:-20px;
+	padding-left:20px;
+	padding-right:20px;
+	width:100%;
+	line-height:30px;
+	background:url('https://fc05.deviantart.net/fs70/o/2010/032/b/e/152557210_107697_2s12b0j.png') repeat-y center center;
+	text-align:center;
+}
+.HeaderRight {
+	color:#340522;
+	font-weight:bold;
+	font-size:12pt;
+	margin-right:-35px;
+	padding-right:35px;
+	width:100%;
+	line-height:40px;
+	background:url('https://fc05.deviantart.net/fs70/o/2010/032/b/e/152557210_107697_2s12b0j.png') repeat-y center right;
+	text-align:right;
+}
+.Block {
+	margin:6px auto;
+	background-color:#ffffff;
+	background:url('https://fc01.deviantart.net/fs71/o/2010/032/d/6/152557210_107698_x2mb79.png') bottom center;
+	padding:5px;
+	padding-top:10px;
+	width:100%;
+	border:1px solid #ffc9ec;
+	text-align:left;
+}
+.LinkBar {
+	margin:0px auto;
+	margin-top:9px;
+	padding-top:13px;
+	_padding-top:0px;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:transparent;
+	background:url bottom center;
+	height:10px;
+	overflow:hidden;
+	_height:39px;
+	width:80%;
+	border:1px solid #000000;
+	text-align:center;
+}
+.LinkBar a:hover {
+	background:url('https://fc02.deviantart.net/fs70/o/2010/032/a/0/152557210_107699_122293270_67535_buttonhover.png') repeat-x center center;
+}
+.antirip {
+	font-family:'This Journal Skin is designed by Arya-Susy';
+}
+.Footer {
+	font-size:8,2pt;
+	text-align:center;
+	margin-bottom:30px;
+}
+.Center {
+	text-align:center;
+}
+a {
+	color:#000000;
+}
+a:hover {
+	color:#000000;
+	background-color:transparent;
+	background:transparent;
+	background-repeat:no-repeat;
+	background-position:top center;
+	border:none;
+	max-width:200px;
+}
+.journalbox .journaltop img {
+	display:none;
+}
+.journaltop {
+	font-size:10px;
+	color:#340522;
+	text-align:center;
+	background-color:transparent;
+	padding:40px 30px 30px 30px;
+}
+.journaltext {
+	padding:10px 20px 40px 20px;
+	text-align:center;
+	height:absolute;
+	color:#2c1022;
+}
+.title {
+	color:#000000 background: #340522 no-repeat center;
+	height:32px;
+	_height:77px;
+	padding:45px 0 0 90px;
+	font-size:16px;
+	letter-spacing:1px;
+	margin:10px 0;
+	text-align:center;
+}
+.t2 {
+	color:#000000;
+	font-size:12px;
+	letter-spacing:2px;
+}
+.bg {
+	background:#340522;
+	border:1px solid #000000;
+	padding:10px;
+	margin:0;
+	text-align:center;
+}
+.journalbox .journaltop h2 {
+	color:#000000;
+	font-size:16px;
+	font-family:Arial, Verdana, Helvetica, Rockwell, sans-serif;
+	font-weight:center;
+	background-color:transpanent;
+	text-align:center;
+	letter-spacing:10px;
+	padding:200px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+}
+.list {
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/032/6/2/152557210_107700_1z52dyw.png);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	font-size:11px;
+	padding:15px 0 50px 15px;
+}
+.a {
+	background:transparent!important;
+}
+.list li {
+	padding:2px;
+}
+.journalbox a {
+	color:#000000 !important;
+	text-decoration:underline !important;
+}
+.journalbox a:hover {
+	color:#000000!important;
+	text-decoration:none!important;
+}
+.journalbottom {
+	font-family:Verdana, Arial, Helvetica, Rockwell, sans-serif;
+	color:#6e3859;
+	font-size:13px;
+	_padding-top:1px;
+	padding-bottom:1px;
+}
+.journalbox .journalbottom {
+	background-color:#ffffff!important;
+	padding-top:2px;
+}
+.title {
+	font-size:5px;
+	text-align:center;
+	padding:0px 0px 0px 0px;
+	border-bottom:0px solid #340522;
+	width:90%;
+	letter-spacing:5px;
+	color:#340522;
+	font-weight:bold;
+}
+.journalbox h2 {
+	color:#340522 !important;
+	text-align:center !important;
+}
+.journalbox a {
+	color:#340522 !important;
+	text-decoration:none;
+}
+.journalbox a:hover {
+	color:#340522 !important;
+	text-decoration:none;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#340522 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#340522 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#340522 !important;
+	background-image:url;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	background-color:#340522!important;
+	padding-top:2px;
+	background-image:transparent url;
+}
+.journalbox .journalbottom {
+	background-color:#a57894 !important;
+	padding-top:3px;
+	background-image:url;
+	background-position:bottom center;
+	background-repeat:no-repeat;
+}

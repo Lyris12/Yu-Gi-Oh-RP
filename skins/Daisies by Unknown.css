@@ -1,0 +1,284 @@
+.journalbox {
+	background:#ffffff;
+	border-width:0px;
+	color:#c1e9a3;
+	font-size:0.95em;
+	border:1px solid #5aa125;
+	max-width:900px;
+}
+.boxtop {
+	background:#ffffff url(https://fc03.deviantart.com/fs50/o/2009/261/a/6/137414983_88496_headerhh.png) no-repeat;
+	color:#c1e9a3;
+	font-family:Georgia, Times New Roman;
+	letter-spacing:0.1em;
+	font-size:0.98em;
+	text-align:left;
+	padding:210px 10px 170px 50px;
+}
+.boxtop span {
+	color:#fff;
+	text-align:left;
+	letter-spacing:0.1em;
+	font-family:Trebuchet MS;
+	padding:210px 10px 10px 50px;
+	position:absolute;
+	left:5px;
+	top:34px;
+}
+.boxtop img {
+	display:none;
+}
+.boxtop h2:first-letter {
+	color:#afa009;
+	font-family:Georgia;
+}
+.boxtop h2 {
+	color:#325815;
+	text-align:left;
+	font-family:Trebuchet MS;
+	letter-spacing:0.1em;
+	font-size:2.40em;
+}
+.journalbox .list {
+	display:none;
+}
+.journalbox .journaltext .title {
+	background:#ffffff;
+	border-bottom:#3e6e1b 1px solid;
+	text-align:justify;
+	padding:10px 12px 8px 0px;
+	color:#3e6e1b;
+	font-family:Trebuchet MS;
+	font-size:11px;
+	font-weight:bold;
+	text-align:left;
+}
+.journalbox .journaltext .title:first-letter {
+	color:#afa009;
+	font-family:Georgia;
+}
+.journalbox .journaltext {
+	color:#325815;
+	margin:50px 0px 50px 50px;
+	display:block;
+	max-width:800px;
+}
+.journalbox .journaltext a {
+	color:#5aa125;
+	text-decoration:none;
+	border-bottom:#fdd9df;
+}
+.journalbox .journaltext a:hover {
+	color:#3e6e1b;
+	text-decoration:none;
+}
+.table br {
+	display:none;
+}
+.table {
+	display:table;
+	margin:0 auto;
+	_margin:0 auto;
+	border-collapse:separate;
+	border-spacing:5px;
+}
+.table i {
+	display:table-row;
+}
+.table img {
+	height:90%;
+	width:90%;
+	_width:auto;
+	_height:auto;
+}
+.table .shadow-holder {
+	background:#c3eba5;
+	border:1px solid #89c65b;
+	display:table-cell!important;
+	max-width:160px;
+	max-height:160px;
+	vertical-align:middle!important;
+	text-align:center;
+	margin:0;
+	padding:1px;
+}
+.table .shadow-holder:hover {
+	border:1px solid #3e6e1b;
+	background:#89c65b;
+}
+table .shadow {
+	display:inline!important;
+	background:none!important;
+	padding:0!important;
+	margin:0!important;
+}
+.table a {
+	display:table-cell!important;
+	text-align:center;
+	vertical-align:middle;
+	padding:0!important;
+	margin:0!important;
+}
+.journalbottom {
+	font-family:Trebuchet MS;
+	font-size:14px;
+	background:#dbf4ff url(https://fc05.deviantart.com/fs51/o/2009/261/4/6/137414983_88497_footerw.png);
+	padding:190px 0px 0px 0px;
+}
+.journalbottom a {
+	padding:1px;
+	color:#5aa125;
+	text-decoration:none;
+}
+.journalbottom a:hover {
+	color:#3e6e1b;
+	text-decoration:none;
+}
+.journalbox.ul {
+	display:none;
+}
+.journalbox ul li {
+	display:none;
+}
+.journalbox {
+	background:#ffffff;
+	border-width:0px;
+	color:#c1e9a3;
+	font-size:0.95em;
+	border:1px solid #5aa125;
+	max-width:900px;
+}
+.boxtop {
+	background:#ffffff url(https://fc03.deviantart.com/fs50/o/2009/261/a/6/137414983_88496_headerhh.png) no-repeat;
+	color:#c1e9a3;
+	font-family:Georgia, Times New Roman;
+	letter-spacing:0.1em;
+	font-size:0.98em;
+	text-align:left;
+	padding:210px 10px 170px 50px;
+}
+.boxtop span {
+	color:#fff;
+	text-align:left;
+	letter-spacing:0.1em;
+	font-family:Trebuchet MS;
+	padding:210px 10px 10px 50px;
+	position:absolute;
+	left:5px;
+	top:34px;
+}
+.boxtop img {
+	display:none;
+}
+.boxtop h2:first-letter {
+	color:#afa009;
+	font-family:Georgia;
+}
+.boxtop h2 {
+	color:#325815;
+	text-align:left;
+	font-family:Trebuchet MS;
+	letter-spacing:0.1em;
+	font-size:2.40em;
+}
+.journalbox .list {
+	display:none;
+}
+.journalbox .journaltext .title {
+	background:#ffffff;
+	border-bottom:#3e6e1b 1px solid;
+	text-align:justify;
+	padding:10px 12px 8px 0px;
+	color:#3e6e1b;
+	font-family:Trebuchet MS;
+	font-size:11px;
+	font-weight:bold;
+	text-align:left;
+}
+.journalbox .journaltext .title:first-letter {
+	color:#afa009;
+	font-family:Georgia;
+}
+.journalbox .journaltext {
+	color:#325815;
+	margin:50px 0px 50px 50px;
+	display:block;
+	max-width:800px;
+}
+.journalbox .journaltext a {
+	color:#5aa125;
+	text-decoration:none;
+	border-bottom:#fdd9df;
+}
+.journalbox .journaltext a:hover {
+	color:#3e6e1b;
+	text-decoration:none;
+}
+.table br {
+	display:none;
+}
+.table {
+	display:table;
+	margin:0 auto;
+	_margin:0 auto;
+	border-collapse:separate;
+	border-spacing:5px;
+}
+.table i {
+	display:table-row;
+}
+.table img {
+	height:90%;
+	width:90%;
+	_width:auto;
+	_height:auto;
+}
+.table .shadow-holder {
+	background:#c3eba5;
+	border:1px solid #89c65b;
+	display:table-cell!important;
+	max-width:160px;
+	max-height:160px;
+	vertical-align:middle!important;
+	text-align:center;
+	margin:0;
+	padding:1px;
+}
+.table .shadow-holder:hover {
+	border:1px solid #3e6e1b;
+	background:#89c65b;
+}
+table .shadow {
+	display:inline!important;
+	background:none!important;
+	padding:0!important;
+	margin:0!important;
+}
+.table a {
+	display:table-cell!important;
+	text-align:center;
+	vertical-align:middle;
+	padding:0!important;
+	margin:0!important;
+}
+.journalbottom {
+	font-family:Trebuchet MS;
+	font-size:14px;
+	background:#dbf4ff url(https://fc05.deviantart.com/fs51/o/2009/261/4/6/137414983_88497_footerw.png);
+	padding:190px 0px 0px 0px;
+}
+.journalbottom a {
+	padding:1px;
+	color:#5aa125;
+	text-decoration:none;
+}
+.journalbottom a:hover {
+	color:#3e6e1b;
+	text-decoration:none;
+}
+.journalbox.ul {
+	display:none;
+}
+.journalbox ul li {
+	display:none;
+}

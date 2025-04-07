@@ -1,0 +1,173 @@
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox {
+	text-align:left;
+	border:none;
+	color:#e7a75d;
+	padding-bottom:15px;
+	background:#000000;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journaltop {
+	color:#ffcd91;
+	position:relative;
+	text-align:left;
+	letter-spacing:5px;
+	height:300px;
+	font-size:11px;
+	padding-top:165px;
+	padding-left:20px;
+	_padding-bottom:45px;
+	background:#000000;
+	background-image:url(https://fc08.deviantart.net/fs70/o/2010/279/3/6/181734165_152444_halloweenjsheader_by_bloodpromiser-d3071hb.png);
+	background-position:bottom right;
+	background-repeat:no-repeat;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journaltop img {
+	display:none;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin h2 {
+	color:#ffcd91;
+	font-size:30px;
+	letter-spacing:5px;
+	margin-top:80px;
+	text-align:left;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .jcustom {
+	overflow:auto;
+	text-align:left;
+	background-color:transparent;
+	color:#ffb763;
+	font-size:11px;
+	display:block;
+	margin-bottom:5px;
+	margin-top:20px;
+	padding:5px;
+	width:auto;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .jcustomscroll {
+	overflow:auto;
+	text-align:left;
+	background-color:transparent;
+	color:#f9c16c;
+	font-size:13px;
+	display:block;
+	margin-bottom:5px;
+	margin-top:20px;
+	padding:5px;
+	width:auto;
+	height:150px;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .feature {
+	overflow:auto;
+	text-align:center;
+	background-color:transparent;
+	color:#f9c16c;
+	font-size:11px;
+	display:block;
+	margin-bottom:5px;
+	margin-top:20px;
+	padding:5px;
+	width:auto;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .feature .shadow-holder {
+	width:200px;
+	height:200px;
+	_line-height:225px;
+	padding-top:15px;
+	margin:3px;
+	vertical-align:middle!important;
+	border-spacing:15px;
+	border-width:1px;
+	border-style:solid;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-color:#552c00;
+	background:#transparent;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .feature .shadow-holder:hover {
+	width:200px;
+	height:200px;
+	_line-height:225px;
+	_padding-top:38px;
+	margin:3px;
+	vertical-align:middle!important;
+	border-spacing:15px;
+	border-width:1px;
+	border-style:solid;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-color:#dc7200;
+	background-color:transparent;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .titles {
+	font-size:17px;
+	color:#dc7200;
+	text-indent:3px;
+	text-align:left;
+	letter-spacing:5px;
+	background-color:#transparent;
+	border-bottom:1px #371700 solid;
+	width:auto;
+	margin-top:10px;
+	padding-bottom:3px;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .list {
+	color:#b74f0c;
+	text-align:right;
+	padding-right:5px;
+	background:#00000;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .list .a {
+	color:#ffa462;
+	text-align:right;
+	padding-right:5px;
+	background:#000000;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .journaltext {
+	color:#e7a75d;
+	font-size:14px;
+	padding-top:0px;
+	padding-left:15px;
+	padding-right:15px;
+	background:#000000;
+	text-align:justify;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .journaltext a {
+	color:#ffa462;
+	text-decoration:none;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .journaltext a:hover {
+	color:#b74f0c;
+	text-decoration:none;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .journalbottom {
+	background:#000000;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .commentslink {
+	background:#000000;
+	color:#ffa462;
+	font-size:12px;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .commentslink:hover {
+	background:#000000;
+	color:#b74f0c;
+	font-size:12px;
+	text-decoration:none;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .prevlink {
+	background:#000000;
+	color:#ffa462;
+	font-size:12px;
+}
+div.TwiggyTeeluck_Halloween-Journal-Skin .journalbox .prevlink:hover {
+	background:#000000;
+	color:#b74f0c;
+	font-size:12px;
+	text-decoration:none;
+}

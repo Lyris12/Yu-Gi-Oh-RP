@@ -1,0 +1,160 @@
+.gr {
+	background:transparent;
+	border:none;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	background:transparent;
+	border:none;
+}
+.gr-top img {
+	display:none;
+}
+.gr-body {
+	background:transparent;
+	border:none;
+}
+.gr-box {
+	max-width:700px;
+	border:0;
+	padding:0;
+	margin:0 auto 10px auto;
+	background:#04061a url(https://fc05.deviantart.net/fs71/o/2012/346/d/9/342337187_602349_background_by_kuschelirmel_stock-d5mssw9.jpg) no-repeat bottom center;
+	font:12px Verdana;
+	color:#9bbbd3;
+}
+.gr-top {
+	background:url(https://fc02.deviantart.net/fs70/o/2012/346/4/6/342337187_602350_header_by_kuschelirmel_stock-d5msswb.jpg) no-repeat top center;
+	text-align:center;
+	margin:0;
+	padding:30px 5px;
+	border-top:#04061a 30px solid;
+	border-bottom:#04061a 30px solid;
+}
+.gr-top h2 {
+	color:#efddbf;
+	font:26px Charlemagne Std, Century, Verdana;
+	letter-spacing:4px;
+}
+.gr-top h2 a {
+	color:#efddbf;
+	text-shadow:#000 2px 2px 2px;
+}
+.gr-top span {
+	color:#ddc192;
+	font:10px Charlemagne Std, Century, Verdana;
+	text-shadow:#163446 2px 2px 2px;
+	letter-spacing:4px;
+}
+.gr-body {
+	margin:0;
+	padding:0;
+}
+.gr-body a {
+	color:#24bddd;
+	text-decoration:none;
+}
+.gr-body a:hover {
+	color:#f6b840;
+	text-decoration:none;
+}
+.text {
+	margin:0;
+	padding:0px 30px 10px 30px;
+	line-height:16px;
+}
+.text ul {
+	list-style-type:circle;
+}
+.text ol {
+	list-style-type:lower-roman;
+}
+blockquote {
+	margin:0 10px;
+	padding:5px;
+	border-left:#9bbbd3 1px dashed;
+}
+.gr-body h1 {
+	color:#efddbf;
+	font:18px Charlemagne Std, Century, Verdana;
+	letter-spacing:2px;
+	text-shadow:#000 2px 2px 2px;
+}
+.gr-body h2 {
+	color:#efddbf;
+	font:14px Charlemagne Std, Century, Verdana;
+	letter-spacing:2px;
+	text-shadow:#000 2px 2px 2px;
+}
+.navi {
+	text-align:center;
+	font:10px Charlemagne Std, Century, Verdana;
+	letter-spacing:2px;
+	color:#dbbfef;
+}
+.navi a {
+	color:#dbbfef;
+}
+.navi a:hover {
+	color:#ce80ef;
+	text-decoration:underline;
+}
+.list {
+	display:none;
+}
+.bottom {
+	margin:400px 0px 10px 0;
+	padding:5px 10px 100px 10px;
+	font:14px Charlemagne Std, Century, Verdana;
+	letter-spacing:4px;
+	color:#9bbbd3;
+	letter-spacing:2px;
+}
+.bottom a {
+	color:#9bbbd3;
+	text-shadow:#000 2px 2px 2px;
+}
+.credit {
+	position:absolute;
+	bottom:10px;
+	text-align:right;
+	color:#9bbbd3;
+	font:10px Verdana;
+	letter-spacing:1px;
+	margin:0;
+	padding:0;
+	width:92%;
+}
+.credit sup {
+	display:none;
+	overflow:hidden;
+	font:10px Verdana;
+	letter-spacing:1px;
+	text-align:center;
+}
+.credit:hover {
+	background-position:bottom;
+}
+.credit:hover sup {
+	display:block;
+	margin:0 0 -10px 0;
+	padding:0;
+	font:11px Verdana;
+}
+.credit a {
+	color:#9bbbd3;
+}
+.credit a:hover {
+	color:#8bcdff;
+}

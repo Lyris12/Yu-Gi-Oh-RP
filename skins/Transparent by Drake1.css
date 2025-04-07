@@ -1,0 +1,264 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif;
+}
+.gr1 {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr2 {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr3 {
+	z-index:-200;
+	visibility:hidden;
+}
+.tri {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr-top h2 img {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.gr-box {
+	background:url('https://fc05.deviantart.net/fs70/o/2012/348/4/8/342716220_604790_bg-1.png') top left no-repeat #228FA2;
+	overflow:hidden;
+	margin:0 auto 5px;
+	padding:0;
+	border-top:8px solid #8D5B5D;
+	border-bottom:8px solid #53A8B6;
+}
+.gr {
+	background-color:transparent;
+	border:none;
+	padding:0 !important;
+}
+.gr-top {
+	background:none transparent;
+	margin:50px auto 0;
+	padding:0px 65px;
+	text-align:left;
+}
+.gr-top h2 {
+	background:none transparent;
+	font-size:40px;
+	color:#DEDEDE;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.25), 0px 0px 15px rgba(0,0,0,0.4);
+	margin:0 auto;
+	font-family:Raleway, 'Segoe UI', 'Trebuchet MS', Arial, sans-serif;
+	padding:0;
+	font-weight:200;
+	position:relative;
+	top:32px;
+}
+.gr-top h2 a {
+	color:inherit;
+	text-decoration:none;
+	font:inherit;
+}
+.gr-top h2 a:hover {
+	color:#FFF;
+	text-shadow:0px 0px 15px rgba(255,255,255,0.6);
+}
+.gr-top span {
+	font-family:Raleway, 'Segoe UI', 'Trebuchet MS', Arial, sans-serif;
+	font-weight:400;
+	font-size:20px;
+	color:#DDD;
+	display:block;
+	position:relative;
+	top:37px;
+	margin-left:5px;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.25), 0px 0px 15px rgba(0,0,0,0.4);
+}
+.gr-body {
+	background:none transparent;
+	margin:0 auto -4px;
+	overflow:visible;
+}
+.text {
+	padding:55px 25px 15px;
+	background:url('https://fc06.deviantart.net/fs71/o/2012/348/e/c/342716220_604791_transp.png') repeat transparent;
+	color:#FFF;
+	line-height:1.6em;
+	overflow:visible;
+	margin:0 40px;
+	font-size:15px;
+	box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-moz-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-moz-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-moz-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px 0px 15px rgba(0,0,0,0.15);
+	border:1px solid rgba(255,255,255,0.4);
+	border-radius:25px;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.5);
+}
+.gr-body .text a {
+	color:#d8eafc;
+	text-decoration:none;
+}
+.gr-body .text a:hover {
+	color:#bdd6ee;
+}
+blockquote {
+	padding:5px 5px 5px 25px;
+	margin:10px auto 5px;
+	background:url('https://fc06.deviantart.net/fs71/o/2012/348/e/c/342716220_604791_transp.png') top left repeat-y transparent;
+	color:inherit;
+	font-family:Georgia, 'Times New Roman', serif;
+	font-style:italic;
+	font-size:18px;
+	overflow:hidden;
+	text-shadow:none;
+	line-height:1.4em;
+	border-left:1px solid rgba(255,255,255,0.35);
+}
+blockquote span {
+	font-family:inherit;
+	font-size:13px;
+	color:#DDD;
+	display:block;
+	text-align:right;
+}
+.text h2 {
+	color:#FFF;
+	font-family:Raleway, 'Segoe UI', 'Trebuchet MS', Arial, sans-serif;
+	font-weight:300;
+	font-size:25px;
+	margin:0 auto -5px;
+	line-height:1em;
+}
+ul,  ol {
+	margin-top:7px;
+}
+ul ul,  ol ol,  ul ol,  ol ul {
+	margin:2px 0 4px 0px;
+}
+ol ol,  ul ol {
+	margin-left:0;
+}
+ul br,  ol br {
+	display:none;
+}
+ul li {
+	margin-left:5px;
+	list-style:none;
+	background:url('https://fc06.deviantart.net/fs71/o/2012/348/9/6/342716220_604792_ulicon.png') 0px 3px no-repeat;
+	padding-left:15px;
+}
+ol li {
+	margin-left:25px;
+}
+div.halfCol {
+	float:left;
+	width:45%;
+	margin-right:5%;
+}
+div.thirdCol {
+	float:left;
+	width:30%;
+	margin-right:3%;
+}
+div.fourthCol {
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+div.clear {
+	clear:both;
+}
+hr {
+	margin:20px auto 0;
+	height:2px;
+	background:url('https://fc05.deviantart.net/fs70/o/2012/348/1/8/342716220_604793_hr.png') top center repeat-x transparent;
+}
+.text a.thumb,  .text a img {
+	background:none transparent !important;
+	margin:3px;
+}
+.text a.thumb img,  .text a img {
+	display:inline-block;
+	border:5px solid white;
+	box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.3);
+}
+.text a.thumb:hover img,  .text a:hover img {
+	box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-moz-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	-webkit-box-shadow:0px 0px 10px rgba(0,0,0,0.6);
+	border-color:#DEDEDE;
+}
+.text a[target] img,  .text a[target]:hover img {
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	border:none !important;
+	margin:0 !important;
+	padding:0 !important;
+}
+div.center {
+	text-align:center;
+}
+.list {
+	display:none;
+}
+.bottom {
+	background:none transparent;
+	padding:15px 0 0;
+	height:70px;
+	margin:0 auto;
+}
+.commentslink {
+	color:#DEDEDE;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.15);
+	margin:0 auto;
+	font-family:Raleway, 'Segoe UI', 'Trebuchet MS', Arial, sans-serif;
+	font-weight:200;
+	text-decoration:none;
+	font-size:40px;
+}
+.commentslink:hover {
+	color:#FFF;
+	text-shadow:0px 0px 25px rgba(255,255,255,0.3), 0px 0px 10px rgba(255,255,255,0.3), 1px 1px 1px rgba(0,0,0,0.15);
+}
+.prevlink {
+	display:none;
+}

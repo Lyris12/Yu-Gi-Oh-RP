@@ -1,0 +1,121 @@
+a:link {
+	cursor:url(https://orig00.deviantart.net/e072/f/2018/268/0/8/blue_eyes_white_dragon_cursor_hover_by_brotherlyfluff-dcnrlsa.png) 1 11, pointer;
+}
+* {
+	cursor:url(https://orig00.deviantart.net/5189/f/2018/268/3/6/blue_eyes_white_dragon_cursor_by_brotherlyfluff-dcnrlm5.png) 1 11, pointer;
+}
+.journalbox {
+	text-align:left;
+	color:#9ebbc1;
+	background:#22353b;
+}
+.journaltop {
+	border-bottom:10px solid #375357;
+	color:#61a4d4;
+	position:relative;
+	text-align:right;
+	letter-spacing:4px;
+	height:139px;
+	font-size:11px;
+	margin-bottom:20px;
+	padding-right:30px;
+	padding-bottom:75px;
+	background:#0e171f center left no-repeat url(https://fc08.deviantart.net/fs71/o/2012/134/0/9/301829036_404818_darkbewd.png);
+}
+.journaltop img {
+	display:none;
+}
+h2 {
+	color:#9ebbc1;
+	font-size:30px;
+	letter-spacing:5px;
+	margin-top:30px;
+	padding-right:0px;
+	text-align:right;
+}
+.journalbox .list {
+	background-color:#2c4449;
+	color:#9ebbc1;
+	text-align:left;
+	padding-right:5px;
+	border-bottom:10px solid #375357;
+}
+.journalbox .list .a {
+	background-color:#2c4449;
+	color:#9ebbc1;
+	text-align:left padding-right:5px;
+}
+.journalbox .journaltext {
+	color:#9ebbc1;
+	font-size:13px;
+	padding-left:15px;
+	padding-right:15px;
+	background:#18262d;
+	text-align:left;
+}
+.journalbox .journaltext a {
+	color:#9ebbc1;
+	text-decoration:none;
+	font-size:13px;
+}
+.journalbox .journaltext a:hover {
+	color:#61a4d4;
+	text-decoration:none;
+}
+.journalbox .journalbottom {
+	background-color:#22353b;
+}
+.journalbox .commentslink {
+	background-color:#transparent;
+	color:#9ebbc1;
+	font-size:12px;
+}
+.journalbox .commentslink:hover {
+	background-color:#transparent;
+	color:#61a4d4;
+	font-size:12px;
+	text-decoration:none;
+}
+.journalbox .prevlink {
+	background-color:#transparent;
+	color:#9ebbc1;
+	font-size:12px;
+}
+.journalbox .prevlink:hover {
+	background-color:#transparent;
+	color:#61a4d4;
+	font-size:12px;
+	text-decoration:none;
+}
+.note {
+	padding-bottom:3px;
+	padding-right:3px;
+	padding-left:3px;
+	width:475px;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	background-color:#5c0000;
+	border-width:0px 10px 0px 10px;
+	border-color:#FFFFFF;
+	border-style:solid;
+	color:#FFFFFF;
+	font-size:11px;
+}
+.note:hover {
+	padding-bottom:3px;
+	padding-right:3px;
+	padding-left:3px;
+	width:475px;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	background-color:#5c0000;
+	border-width:0px 10px 0px 10px;
+	border-color:#000000;
+	border-style:solid;
+	color:#FFFFFF;
+	font-size:11px;
+}

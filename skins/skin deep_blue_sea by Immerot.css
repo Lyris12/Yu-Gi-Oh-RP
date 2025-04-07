@@ -1,0 +1,229 @@
+.all {
+	position:absolute;
+	top:0px;
+	left:10px;
+	text-shadow:none !important;
+}
+.all2 {
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	text-shadow:none !important;
+}
+.black_square {
+	background:url('https://fc04.deviantart.net/fs71/f/2013/170/b/1/dbs_02_by_immerot-d69q7ih.png') top left repeat-y;
+	width:678px;
+	min-height:30px;
+	border:1px #d2f2ff solid;
+	text-align:center;
+	padding-top:20px;
+	font-family:Bookman Old Style, Times New Roman;
+	font-size:11pt;
+}
+.black_square a {
+	padding-left:30px;
+	padding-right:30px;
+	background:url('https://fc07.deviantart.net/fs70/f/2013/211/0/1/dbs_09_by_immerot-d6ftssi.png') top left no-repeat;
+	padding-top:10px;
+	text-decoration:none;
+	color:#d9f1ff !important;
+}
+.black_square a:hover {
+	padding-left:30px;
+	padding-right:30px;
+	background:url('https://fc03.deviantart.net/fs71/f/2013/174/5/a/dbs_11_by_immerot-d6ab900.png') top left no-repeat;
+	padding-top:10px;
+	text-decoration:none;
+	color:#fff8a5 !important;
+	text-shadow:3px 2px 4px black;
+}
+.white_square {
+	background:transparent;
+	width:100%;
+	min-height:30px;
+	text-align:center;
+	font-family:Euphemia, Arial;
+	font-size:9pt !important;
+	padding-top:10px;
+}
+.white_square a {
+	padding-left:10px;
+	padding-right:10px;
+	text-decoration:none;
+	color:#1A689E !important;
+}
+.red_square {
+	background:url('https://fc05.deviantart.net/fs70/f/2013/211/8/7/dbs_31_by_immerot-d6ftvze.png') top left no-repeat;
+	width:680px;
+	min-height:142px;
+	margin-left:10px;
+}
+.green_square {
+	background:url('https://fc08.deviantart.net/fs71/f/2013/211/3/7/dbs_32_by_immerot-d6ftnwz.gif') top left no-repeat;
+	min-height:200px;
+	width:700px;
+}
+.gr1,  .gr2,  .gr3,  .tri,  .gr-top h2>img,  .mavatar,  .category,  .name,  .author {
+	display:none;
+}
+.gr-box {
+	background:#031833 url('https://fc09.deviantart.net/fs70/f/2013/211/8/c/dbs3_by_immerot-d6ftweq.jpg') top left no-repeat !important;
+	max-width:700px !important;
+}
+.gr-body {
+	border:none;
+	background:transparent;
+}
+.gr-body .gr {
+	border:none;
+	margin-left:10px;
+}
+.gr-top {
+	border:none;
+	min-height:180px;
+	max-width:680px;
+	margin-left:10px;
+	background:url('https://fc01.deviantart.net/fs71/f/2013/174/5/3/dbs_15_by_immerot-d6ab90a.png') top left no-repeat;
+	font-family:Book Antiqua;
+}
+.gr-top a {
+	font-family:Book Antiqua !important;
+	font-size:22pt;
+	color:#29859C !important;
+}
+.gr-top .gr {
+	border:none;
+	background:transparent;
+	padding-top:80px;
+	text-align:center;
+}
+.timestamp {
+	color:#16889E !important;
+}
+.grf-indent {
+	background:url('https://fc06.deviantart.net/fs71/f/2013/174/8/9/dbs_03_by_immerot-d6ab8zm.png') top left repeat-y;
+	margin-top:-1px;
+}
+.grf-indent > .f.list {
+	margin-top:60px;
+	padding-top:40px;
+}
+.text {
+	padding-left:20px;
+	padding-right:30px;
+	max-width:680px;
+	padding-top:50px;
+	padding-bottom:200px;
+	margin-bottom:90px;
+	max-width:680px !important;
+	background:transparent;
+	font-family:Euphemia, Arial;
+	font-size:14px;
+	color:#ceefff;
+	text-shadow:3px 2px 4px black;
+	min-height:600px;
+}
+.f.list {
+	margin-top:93px;
+	color:#0b2132 !important;
+	font-family:Euphemia, Arial;
+}
+.grf-indent>.text[.c.ppb.alink.bottom+.f.list] {
+	padding-top:30px;
+}
+.f.list+.text {
+	padding-top:0px !important;
+}
+.c.ppb.alink.bottom+.f.list {
+	margin-top:0px;
+	position:absolute;
+	bottom:220px;
+	text-align:center;
+	width:450px;
+	left:50%;
+	margin-left:-240px;
+}
+.c.ppb.alink.bottom+.f.list>.f>img {
+	display:none;
+}
+.c.ppb.alink.bottom+.f.list>.f {
+	padding:25px 15px 15px 5px;
+	display:inline;
+	width:10%;
+}
+.f {
+	background:transparent;
+}
+.c.ppb.alink.bottom {
+	position:absolute;
+	width:100%;
+	bottom:30px;
+	margin-left:-10px;
+}
+.commentslink {
+	font-family:Bookman Old Style, Times New Roman;
+	color:#e1f0ff !important;
+	font-size:10pt;
+}
+a.commentslink:hover {
+	text-decoration:none;
+}
+.text h1,  .text h2 {
+	font-family:Constantia, Arial;
+	font-weight:normal;
+	text-shadow:none;
+	color:#afdeff !important;
+	background:url('https://fc01.deviantart.net/fs70/f/2013/202/9/8/dbs_22_by_immerot-d6egt8y.png') top left no-repeat;
+	padding-bottom:9px;
+	padding-left:45px;
+	padding-top:5px;
+	margin-bottom:-20px;
+}
+.text h3,  .text h4 {
+	font-family:Constantia, Arial;
+	font-weight:normal;
+	text-shadow:none;
+	color:#afdeff !important;
+	background:url('https://fc03.deviantart.net/fs70/f/2013/202/0/d/dbs_25_by_immerot-d6egu4o.png') top left no-repeat;
+	padding-bottom:7px;
+	padding-left:45px;
+	padding-top:5px;
+	margin-bottom:-20px;
+}
+.text h5,  .text h6 {
+	font-family:Constantia, Arial;
+	font-weight:normal;
+	text-shadow:none;
+	color:#afdeff !important;
+	background:url('https://fc03.deviantart.net/fs70/f/2013/202/0/d/dbs_25_by_immerot-d6egu4o.png') top left no-repeat;
+	padding-bottom:13px;
+	padding-left:45px;
+	padding-top:9px;
+	margin-bottom:-20px;
+}
+.text ul {
+	list-style-image:url('https://fc03.deviantart.net/fs71/f/2013/202/0/3/dbs_28_by_immerot-d6ehwoa.png');
+}
+.text ol {
+	list-style-type:lower-greek;
+}
+.text blockquote {
+	background:url('https://fc09.deviantart.net/fs71/f/2013/211/1/d/dbs_18_by_immerot-d6ftvcm.png') top left repeat;
+	padding:10px 20px 10px 20px;
+	margin:5px;
+	text-shadow:none;
+	font-style:italic;
+}
+.text blockquote>h1,  .text blockquote>h2,  .text blockquote>h3,  .text blockquote>h4,  .text blockquote>h5,  .text blockquote>h6 {
+	font-family:Segoe Print;
+	background:transparent;
+	padding-left:10px;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+.text a:not(.external) {
+	font-weight:normal !important;
+}
+a.external:after {
+	display:none!important;
+}

@@ -1,0 +1,251 @@
+.gr-box {
+	background:transparent;
+	border:none;
+	color:#FEB588;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708456632283299850/Love_Heart_Cursor.png) 7 5, auto;
+	margin-bottom:20px!important;
+}
+.gr a {
+	color:#FEB588;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708456632283299850/Love_Heart_Cursor.png) 7 5, pointer;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #000000;
+}
+.gr a:hover {
+	color:#fbe3e3!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708456632283299850/Love_Heart_Cursor.png) 7 5, pointer;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #000000!important;
+}
+.gr {
+	background:transparent;
+	border:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top img {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	background:transparent url(https://fc00.deviantart.net/fs70/o/2012/036/5/8/283442207_362863_283440440_362857_valen_snip_03_by_soulfight_a_devianty-d4opmp1.png) center no-repeat;
+	border:none;
+	color:#FEB588;
+	height:214px;
+	margin:0px;
+	margin-bottom:-214px;
+	text-align:center;
+}
+h2 {
+	color:#FEB588;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708456632283299850/Love_Heart_Cursor.png) 7 5, pointer;
+	font-size:20px;
+	font-weight:bold;
+	left:20px;
+	padding:0px;
+	position:relative;
+	text-align:center;
+	text-shadow:2px 2px #000000;
+	top:250px;
+}
+h2 a {
+	color:#FEB588;
+	text-decoration:none;
+	text-shadow:2px 2px #000000;
+}
+h2 a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:2px 2px #000000;
+}
+.gr-top span {
+	color:#FEB588;
+	font-size:11px;
+	left:20px;
+	padding:0px;
+	position:relative;
+	text-align:center;
+	top:250px;
+}
+.gr-body {
+	background:transparent;
+	border:none;
+	color:#FEB588;
+	margin:0px;
+	margin-top:0px;
+	padding:0px;
+}
+.text {
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	background:transparent url(https://fc00.deviantart.net/fs70/o/2012/036/8/c/283442207_362864_283440440_362858_valen_snip_18_by_soulfight_a_devianty-d4opmpa.jpg) repeat;
+	border:#000000 1px solid;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	line-height:18px;
+	margin:100px 30px 70px 30px;
+	padding:40px;
+	text-align:justify;
+}
+.mytext {
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	background:transparent url(https://fc07.deviantart.net/fs70/o/2012/036/9/8/283442207_362865_283440440_362859_valen_snip_10_by_soulfight_a_devianty-d4opmp6.png) repeat;
+	border:#000000 1px solid;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	line-height:18px;
+	margin:20px 20px 20px 20px;
+	padding:120px 40px 100px 40px;
+	text-align:justify;
+}
+.mytext a {
+	color:#e77a7a;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #000000;
+}
+.box {
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	background:transparent url(https://fc07.deviantart.net/fs70/o/2012/036/9/8/283442207_362865_283440440_362859_valen_snip_10_by_soulfight_a_devianty-d4opmp6.png) repeat;
+	border:#000000 1px solid;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	line-height:18px;
+	margin:10px 10px;
+	padding:20px;
+	text-align:justify;
+}
+.commentslink {
+	background:transparent;
+	bottom:95px;
+	left:45px;
+	position:absolute;
+	text-decoration:none;
+}
+.c a {
+	color:#FEB588;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #000000;
+}
+.c a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:1px 1px #000000;
+}
+.prevlink {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.list {
+	display:none;
+}
+.credit {
+	bottom:93px;
+	font-size:11px;
+	position:absolute;
+	right:45px;
+	text-align:right;
+}
+.credit a {
+	color:#FEB588;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #000000!important;
+}
+.credit a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:1px 1px #000000!important;
+}
+.shade {
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	background:transparent url(https://fc02.deviantart.net/fs71/o/2012/036/2/4/283442207_362866_ww_03_by_soulfight_a_devianty-d4or0a5.png) repeat-x;
+	border:none;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	height:242px;
+	left:30px;
+	position:absolute;
+	right:30px;
+	top:100px;
+}
+.Menu {
+	background:transparent;
+	border:none;
+	bottom:200px;
+	display:block;
+	height:40px!important;
+	left:100px;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	text-align:center;
+}
+.button {
+	background:transparent url(https://fc09.deviantart.net/fs70/o/2012/036/e/c/283442207_362867_283440440_362861_bh_03_by_soulfight_a_devianty-d4oqw2v.png) no-repeat;
+	display:block;
+	float:left!important;
+	font-size:14px;
+	font-weight:bold;
+	height:74px;
+	margin:0px 5px;
+	padding:20px 0px 0px 0px;
+	text-align:center;
+	width:87px;
+	z-index:1;
+}
+.button a {
+	color:#FEB588;
+	text-decoration:none;
+	text-shadow:2px 2px #000000;
+}
+.button a:hover {
+	color:#fbe3e3;
+	text-decoration:none;
+	text-shadow:2px 2px #000000!important;
+}
+.shadow-holder img {
+	border:2px #330000 solid;
+	display:block;
+	margin:5px;
+}

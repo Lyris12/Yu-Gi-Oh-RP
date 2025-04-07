@@ -1,0 +1,114 @@
+.journalbox {
+	max-width:950px;
+	background-color:#ddf5fb;
+	border:1px #154e5b solid;
+	font:12px Verdana, Arial;
+}
+.journalbox .list li {
+	background-color:#e6f6fa;
+	color:#14c1e9;
+	text-align:center;
+	font:10px Trebuchet, Verdana;
+}
+.journalbox .list li.a {
+	background-color:#e6f6fa;
+	color:#14c1e9;
+	text-align:center;
+	font:10px Trebuchet, Verdana;
+}
+.journalbox h2 {
+	color:#1e5971;
+	font:24px Trebuchet, Verdana;
+	padding:210px 0 10px 0;
+	text-align:center;
+	line-height:22px;
+}
+.journalbox .journaltop {
+	background-color:#56ceea;
+	color:#14c1e9;
+	font:10px Trebuchet, Verdana;
+	text-align:center;
+	background-image:url(https://fc04.deviantart.net/fs71/o/2010/163/c/8/167429120_131714_fleurs3.jpg);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:273px;
+	padding:0 0 200px 0px;
+}
+.journalbox a {
+	color:#3994c7;
+}
+.journalbox a:hover {
+	color:#50c0ff;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#3994c7 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#3994c7 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#50c0ff !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#50c0ff !important;
+}
+.journalbox .journalbottom {
+	background:#e6f6fa;
+	color:#14c1e9;
+	border-top:10px solid #56ceea;
+	border-bottom:1px solid #FFFFFF;
+	font:10px Trebuchet, Verdana;
+	padding:7px 0px 0px 0px;
+}
+.journalbox .journaltext {
+	color:#1e5971;
+	font:12px Trebuchet, Verdana;
+	background:url(https://fc00.deviantart.net/fs71/o/2010/163/a/2/167429120_131715_fleurbas.png) no-repeat bottom left;
+	padding:20px 10px 40px 10px;
+}
+.journalbox .journaltop img {
+	display:none;
+}
+.journalbox .boxtop {
+	padding:0;
+}
+.scroll {
+	text-align:center;
+	height:250px;
+	width:90%;
+	padding:5px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:scroll;
+	border:1px #FFFFFF solid;
+	background-color:#e6f6fa;
+	color:#14c1e9;
+}
+.fbox {
+	text-align:center;
+	width:90%;
+	padding:5px;
+	margin-left:auto;
+	margin-right:auto;
+	border:1px #FFFFFF solid;
+	background-color:#e6f6fa;
+	color:#14c1e9;
+}
+.stitle {
+	color:#14c1e9;
+	font:14px Trebuchet, Verdana;
+	padding:10px 0px 0px 0px;
+	text-align:left;
+	border-bottom:1px solid #FFFFFF;
+	font-style:italic;
+}
+.title {
+	color:#14c1e9;
+	font:20px Trebuchet, Verdana;
+	padding:5px 0px 5px 73px;
+	text-align:left;
+	line-height:22px;
+	border-bottom:1px solid #FFFFFF;
+	font-style:italic;
+	background:url(https://fc08.deviantart.net/fs70/o/2010/163/2/a/167429120_131716_fleurtitre.png) no-repeat top left;
+}

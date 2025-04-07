@@ -1,0 +1,242 @@
+.journalbox {
+	text-align:center;
+	border:none;
+	color:#FFFFFF;
+	padding-bottom:15px;
+	background-color:#000000;
+	background-image:url(https://fc05.deviantart.net/fs70/o/2010/178/5/b/169199271_135072_blue_background_by_bloodpromiser.png);
+	background-repeat:yes-repeat;
+	background-position:top center;
+}
+.journaltop {
+	color:#FFFFFF;
+	text-align:center;
+	letter-spacing:5px;
+	height:100px;
+	font-size:11px;
+	padding-top:65px;
+	_padding-bottom:75px;
+	background-image:url(https://fc05.deviantart.net/fs70/o/2010/178/5/b/169199271_135072_blue_background_by_bloodpromiser.png);
+	background-repeat:yes-repeat;
+	background-position:top center;
+}
+.journaltop img {
+	display:none;
+}
+h2 {
+	color:#FFFFFF;
+	font-size:30px;
+	letter-spacing:5px;
+	padding-top:10px;
+	text-align:center;
+}
+.jcustom {
+	overflow:auto;
+	text-align:left;
+	color:#afcdff;
+	font-size:16px;
+	display:block;
+	background-color:#transp;
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/178/3/e/169199271_135073_30_by_bloodpromiser.png);
+	margin-top:25px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-bottom:5px;
+	padding:15px;
+	width:auto;
+}
+.jcustomscroll {
+	overflow:auto;
+	text-align:left;
+	color:#afcdff;
+	font-size:13px;
+	display:block;
+	background-color:#transp;
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/178/3/e/169199271_135073_30_by_bloodpromiser.png);
+	margin-top:25px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-bottom:5px;
+	padding:15px;
+	width:auto;
+	max-height:150px;
+}
+.feature {
+	overflow:auto;
+	text-align:center;
+	color:#afcdff;
+	font-size:13px;
+	display:block;
+	background-color:#transp;
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/178/3/e/169199271_135073_30_by_bloodpromiser.png);
+	margin-top:25px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-bottom:5px;
+	padding:15px;
+	width:auto;
+}
+.feature .shadow-holder {
+	width:200px;
+	height:200px;
+	_line-height:225px;
+	padding-top:15px;
+	margin:3px;
+	vertical-align:middle!important;
+	border-spacing:15px;
+	border-width:1px;
+	border-style:solid;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-color:#000000;
+	background:#transparent;
+}
+.feature .shadow-holder:hover {
+	width:200px;
+	height:200px;
+	_line-height:225px;
+	_padding-top:38px;
+	margin:3px;
+	vertical-align:middle!important;
+	border-spacing:15px;
+	border-width:1px;
+	border-style:solid;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-color:#000000;
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/178/3/e/169199271_135073_30_by_bloodpromiser.png);
+}
+.titles {
+	font-size:17px;
+	color:#FFFFFF;
+	text-align:center;
+	letter-spacing:5px;
+	background-color:#transparent;
+	padding:2px;
+	width:auto;
+}
+.titlesII {
+	font-size:14px;
+	color:#FFFFFF;
+	text-align:center;
+	background-color:#transparent;
+	padding-top:5px;
+	width:auto;
+}
+.journalbox .list {
+	background-color:transparent;
+	color:#9fc3ff!important;
+	text-align:left;
+	font-size:9px;
+	padding-right:20px;
+}
+.journalbox .list .a {
+	background-color:transparent;
+	color:#c1d8ff;
+	font-size:14px;
+	text-align:left;
+}
+.journalbox .journaltext {
+	color:#FFFFFF;
+	font-size:14px;
+	padding-top:30px;
+	padding-left:15px;
+	padding-right:15px;
+	margin-left:25px;
+	margin-right:25px;
+	background-color:#transp;
+	text-align:justify;
+}
+.journalbox .journaltext a {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.journalbox .journaltext a:hover {
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+.journalbox .journalbottom {
+	background-color:transparent;
+}
+.journalbox .commentslink {
+	font-size:13px !important;
+	color:#FFFFFF!important;
+	text-align:center;
+	padding-top:3px;
+	text-decoration:none;
+	display:inline-block;
+	width:200px!important;
+	height:25px!important;
+	background-image:url(https://fc07.deviantart.net/fs71/o/2010/178/5/3/169199271_135074_165076134_127644_5a636ee1dd561e7ec0b86b753e44e347.png);
+	background-repeat:no-repeat;
+}
+.journalbox .prevlink {
+	font-size:13px !important;
+	color:#FFFFFF!important;
+	text-decoration:none;
+	display:inline-block;
+	padding-top:3px;
+	width:200px!important;
+	height:25px!important;
+	background-image:url(https://fc07.deviantart.net/fs71/o/2010/178/5/3/169199271_135074_165076134_127644_5a636ee1dd561e7ec0b86b753e44e347.png);
+	background-repeat:no-repeat;
+}
+.journalbox .commentslink:hover {
+	font-size:13px !important;
+	color:#FFFFFF!important;
+	text-align:center;
+	padding-top:3px;
+	text-decoration:none;
+	display:inline-block;
+	width:200px!important;
+	height:25px!important;
+	background-image:url(https://fc04.deviantart.net/fs70/o/2010/178/b/2/169199271_135075_165076134_127645_4630532880_47405a7d56_o.png);
+	background-repeat:no-repeat;
+}
+.journalbox .prevlink:hover {
+	font-size:13px !important;
+	color:#FFFFFF!important;
+	text-align:center;
+	padding-top:3px;
+	text-decoration:none;
+	display:inline-block;
+	width:200px!important;
+	height:25px!important;
+	background-image:url(https://fc04.deviantart.net/fs70/o/2010/178/b/2/169199271_135075_165076134_127645_4630532880_47405a7d56_o.png);
+	background-repeat:no-repeat;
+}
+.note {
+	padding-bottom:3px;
+	padding-right:3px;
+	padding-left:3px;
+	width:475px;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	background-color:#000000;
+	color:#000000;
+	font-size:9px;
+}
+.note:hover {
+	padding-bottom:3px;
+	padding-right:3px;
+	padding-left:3px;
+	width:475px;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	background-color:transparent;
+	background-image:url(https://fc01.deviantart.net/fs71/o/2010/178/3/e/169199271_135073_30_by_bloodpromiser.png);
+	color:#FFFFFF;
+	font-size:9px;
+}

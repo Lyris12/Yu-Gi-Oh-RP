@@ -1,0 +1,114 @@
+* {
+	background:none;
+	border:none;
+	padding:0;
+	margin:0;
+}
+.gr {
+	padding:0 !important;
+}
+.gr-top img,  .gr1,  .gr2,  .gr3 {
+	display:none;
+}
+a.external:after {
+	display:none;
+}
+.gr-box {
+	background:#9FCE54 url('https://other00.deviantart.net/cb86/o/2015/255/a/6/559811328_2458227_office_normal.png') repeat center;
+	border-radius:34px;
+	-moz-border-radius:34px;
+	-webkit-border-radius:34px;
+	border-radius:34px;
+	-moz-border-radius:34px;
+	-webkit-border-radius:34px;
+	border-radius:34px;
+	-moz-border-radius:34px;
+	-webkit-border-radius:34px;
+	border:4px solid #222222;
+}
+.gr-top {
+	background:#5E4948 url('https://other00.deviantart.net/c4c4/o/2015/255/c/d/559811328_2458228_five_nights_at_freddy_s_new_thanks_you__scott___by_thesitcixd-d93xar3.jpg') center repeat;
+	padding:183px 5% 46px 5%;
+	text-align:left;
+}
+.gr-top h2,  .gr-top h2 a {
+	color:#cdd3ec!important;
+	font-family:'Special Elite';
+	font-size:42px;
+	text-align:left;
+	text-transform:none;
+}
+.gr-top .timestamp {
+	color:#F8FF2B;
+	font-family:'verdana';
+	font-size:14px;
+	text-transform:none;
+}
+.text {
+	background:#EEEEEE;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	color:#2440B3;
+	font-family:'Coda';
+	font-size:19px;
+	text-align:left;
+	line-height:20px;
+	padding:30px 5% 30px 5%;
+	margin:30px 5% 30px 5%;
+}
+.text a {
+	color:#3e94d3!important;
+	font-family:'times new roman';
+}
+blockquote {
+	background:#000D5E;
+	color:#FFFFFF!important;
+	font-family:'Scada';
+	font-size:22px;
+	text-align:left;
+	text-transform:none;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+	padding:20px;
+}
+.bottom {
+	background:#9C0216 url('https://other00.deviantart.net/c4c4/o/2015/255/c/d/559811328_2458228_five_nights_at_freddy_s_new_thanks_you__scott___by_thesitcixd-d93xar3.jpg') center top repeat;
+	padding:84px 5% 83px 5%;
+	text-align:left;
+}
+.commentslink {
+	color:#5E94FF!important;
+	font-family:'Scada';
+	font-size:23px;
+	text-transform:none;
+}
+.credit {
+	left:0;
+	width:100%;
+	text-align:center;
+	position:absolute;
+	bottom:10px;
+}
+.credit,  .credit a {
+	text-decoration:none;
+	color:#222!important;
+	font-size:10px;
+}
+hr {
+	border-bottom:1px solid #2C3888;
+	margin:15px 0 5px;
+}

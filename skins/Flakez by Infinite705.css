@@ -1,0 +1,203 @@
+.journalbox {
+	border:0px #ffffff solid;
+	color:#30393d;
+	background-color:#9fdddc;
+	background-image:url(https://fc07.deviantart.net/fs70/o/2011/309/1/2/267422855_326653_blueflakesda.jpg);
+	background-position:top left;
+	background-repeat:no-repeat;
+	cursor:default;
+	min-width:550px;
+	font-size:10pt;
+	font-family:'Amaranth', sans-serif;
+}
+.list {
+	display:none;
+}
+.list .a {
+	display:none;
+}
+li.f {
+	display:none;
+}
+.journalbox .list img {
+	display:none;
+}
+.journalbox h2 {
+	font-family:'Amaranth', sans-serif;
+	color:#ffffff;
+	font-size:30pt;
+	font-weight:900;
+	text-shadow:0 0 0.3em #d5fffe;
+	padding-top:100px;
+}
+.journalbox .journaltop {
+	background-color:transparent!important;
+	text-align:left;
+	color:#ffffff;
+	font-family:'Amaranth', sans-serif;
+	font-size:10pt;
+	text-shadow:1px 1px 0 #7bd2d1;
+	text-decoration:none!important;
+	letter-spacing:0px;
+	margin-left:30px;
+	margin-bottom:38px;
+}
+.journalbox .journaltext {
+	background:url(https://fc06.deviantart.net/fs71/o/2011/309/e/d/267422855_326654_bluetrans.png) top left repeat;
+	color:#ffffff;
+	text-shadow:1px 1px 0 #0dacaa;
+	font-size:12pt;
+	padding-top:10px;
+	padding-right:30px;
+	padding-left:30px;
+	padding-bottom:10px;
+	text-align:left;
+	text-decoration:none;
+}
+.journalbox .journaltext a {
+	color:#ffffff;
+	text-shadow:0 0 0.2em #d5fffe;
+	text-decoration:none;
+	letter-spacing:0px;
+}
+.journalbox .journaltext a:visited {
+	color:#ffffff;
+	text-shadow:0 0 0.2em #d5fffe;
+	text-decoration:none;
+	letter-spacing:0px;
+}
+.journalbox .journaltext a:hover {
+	color:#ffffff;
+	text-shadow:0 0 0.2em #d5fffe;
+	text-decoration:underline;
+	letter-spacing:0px;
+}
+.journalbox .journalbottom {
+	display:none;
+}
+.journalbox .journalbottom A:link {
+}
+.journalbox .journalbottom A:visited {
+}
+.journalbox .journalbottom A:hover {
+}
+.hsep {
+	display:none;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
+i {
+	font-family:'Amaranth', sans-serif;
+	text-decoration:none;
+	letter-spacing:0px;
+}
+blockquote {
+	background:url(https://fc06.deviantart.net/fs71/o/2011/309/e/d/267422855_326654_bluetrans.png) top left repeat;
+	background-color:transparent;
+	font-family:'Amaranth', sans-serif;
+	font-size:10pt;
+	color:#ffffff;
+	padding:6px;
+	padding-left:16px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+}
+.nav {
+	font-family:'Amaranth', sans-serif;
+	text-shadow:1px 1px 0px #ffffff;
+	color:#0dacaa;
+	font-size:9pt;
+	text-transform:lowercase;
+	margin-bottom:0px;
+	margin-top:-17px;
+}
+.nav a:link {
+	padding:8px;
+	padding-left:10px;
+	text-shadow:1px 1px 0px #ffffff!important;
+	padding-right:10px;
+	color:#0dacaa!important;
+	text-decoration:none!important;
+	background-color:#a3e1e0;
+	background:url(https://fc02.deviantart.net/fs70/o/2011/309/8/5/267422855_326655_bluegrad_bg.jpg) repeat-x;
+	background-position:0% 0px;
+	height:62px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.nav a:visited {
+	color:#0dacaa!important;
+	text-decoration:none!important;
+	background-color:#a3e1e0;
+	background:url(https://fc02.deviantart.net/fs70/o/2011/309/8/5/267422855_326655_bluegrad_bg.jpg) repeat-x;
+	background-position:0% 0px;
+	height:31px;
+	text-shadow:1px 1px 0px #ffffff!important;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.nav a:hover {
+	color:#ffffff!important;
+	text-decoration:none!important;
+	background-color:#a3e1e0;
+	background:url(https://fc02.deviantart.net/fs70/o/2011/309/8/5/267422855_326655_bluegrad_bg.jpg) repeat-x;
+	background-position:0% -31px;
+	height:31px;
+	text-shadow:1px 1px 0px #12cdcb!important;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+a img {
+	background-color:#18b0b0;
+	padding:1px;
+}
+a:hover img {
+	background-color:#1bcece;
+	padding:1px;
+}
+img.nohover {
+	background-color:transparent;
+	border:0px;
+	padding:0px;
+}
+A:hover img.nohover {
+	background-color:transparent;
+	border:0px;
+	padding:0px;
+}
+.header {
+	font-family:'Amaranth', sans-serif;
+	font-size:14pt;
+}

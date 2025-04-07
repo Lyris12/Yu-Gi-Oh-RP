@@ -1,0 +1,270 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-family:Tahoma, Verdana, Arial, sans-serif;
+}
+.gr1 {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr2 {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr3 {
+	z-index:-200;
+	visibility:hidden;
+}
+.tri {
+	z-index:-200;
+	visibility:hidden;
+}
+.gr-top h2 img {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.gr-box {
+	background:url('https://fc04.deviantart.net/fs71/o/2012/224/e/f/320594189_457329_bg.gif') repeat #000;
+	overflow:hidden;
+	margin:-5px auto 5px;
+	padding:0;
+}
+.gr {
+	background-color:transparent;
+	border:none;
+	padding:0 !important;
+}
+.gr-top {
+	background:url('https://fc08.deviantart.net/fs71/o/2012/224/e/8/320594189_457330_bgtop.jpg') transparent top center no-repeat;
+	margin:0 auto;
+	padding:200px 0 20px;
+	text-align:center;
+}
+.gr-top h2 {
+	background:url('https://fc00.deviantart.net/fs70/o/2012/224/8/4/320594189_457331_bgtitle-2.jpg') top center no-repeat transparent;
+	font-size:45px;
+	color:#B6BDC5;
+	text-shadow:2px 2px 2px rgba(0,0,0,0.45);
+	margin:0 auto;
+	font-family:'Great Vibes', Georgia, serif;
+	padding:50px 0 25px;
+}
+.gr-top h2 a {
+	color:inherit;
+	text-decoration:none;
+	font:inherit;
+}
+.gr-top h2 a:hover {
+	color:#D7DBE0;
+	text-shadow:0px 0px 10px rgba(255,255,255,0.3), 2px 2px 2px rgba(0,0,0,0.45);
+}
+.gr-top span {
+	font-family:Tahoma, Verdana, Arial, sans-serif;
+	font-size:9px;
+	letter-spacing:3px;
+	color:#52668E;
+	text-shadow:1px 1px 0px black;
+	display:block;
+}
+.gr-body {
+	background:none transparent;
+	margin:0 auto -4px;
+	overflow:visible;
+}
+.text {
+	padding:25px;
+	background-color:rgb(0, 0, 0);
+	background-color:rgba(0,0,0,0.2);
+	color:#CAD0D6;
+	line-height:1.6em;
+	overflow:visible;
+	margin:0 40px;
+	font-size:16px;
+	font-family:'Segoe UI', Tahoma, sans-serif;
+	box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 50px rgba(255,255,255,0.05);
+}
+.gr-body .text a {
+	color:#889abe;
+	text-decoration:none;
+}
+.gr-body .text a:hover {
+	color:#7189BA;
+	text-decoration:underline;
+}
+blockquote {
+	padding:10px;
+	margin:10px auto 5px;
+	background-color:rgb(255, 255, 255);
+	background-color:rgba(255,255,255,0.02);
+	color:#BBB;
+	text-shadow:none;
+	font-family:Georgia, 'Times new Roman', serif;
+	font-style:italic;
+	font-size:22px;
+	line-height:25px;
+	overflow:hidden;
+	box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.03);
+}
+blockquote span {
+	font-family:inherit;
+	font-size:15px;
+	color:#4E555D;
+	display:block;
+	text-align:right;
+}
+.text h2 {
+	color:#B6BDC5;
+	margin:0 auto;
+	font-family:'Great Vibes', Georgia, serif;
+	font-weight:normal;
+	font-size:35px;
+	text-shadow:0px 0px 10px rgba(255,255,255,0.3);
+	margin:0 0 -15px;
+	line-height:1em;
+}
+ul,  ol {
+	margin-top:7px;
+}
+ul ul,  ol ol,  ul ol,  ol ul {
+	margin:2px 0 4px 0px;
+}
+ol ol,  ul ol {
+	margin-left:0;
+}
+ul br,  ol br {
+	display:none;
+}
+ul li {
+	margin-left:5px;
+	list-style:none;
+	background:url('https://fc05.deviantart.net/fs71/o/2012/224/8/2/320594189_457332_ulicon.png') 0px 0px no-repeat;
+	padding-left:25px;
+}
+ol li {
+	margin-left:25px;
+}
+div.halfCol {
+	float:left;
+	width:45%;
+	margin-right:5%;
+}
+div.thirdCol {
+	float:left;
+	width:30%;
+	margin-right:3%;
+}
+div.fourthCol {
+	float:left;
+	width:23%;
+	margin-right:2%;
+}
+div.clear {
+	clear:both;
+}
+hr {
+	border-top:1px solid #0A0E19;
+	margin:20px auto 0;
+	height:0px;
+	background:none transparent;
+	width:95%;
+}
+.text a img {
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	_zoom:1;
+}
+.text a:hover img {
+	opacity:1;
+	filter:alpha(opacity=100);
+	_zoom:1;
+}
+.text a.thumb img {
+	border:1px solid #111728;
+	margin:4px;
+	padding:2px;
+	background-color:rgb(255, 255, 255);
+	background-color:rgba(255,255,255,0.02);
+	opacity:0.7;
+	filter:alpha(opacity=70);
+	_zoom:1;
+}
+.text a.thumb:hover img {
+	border-color:#1C2642;
+	box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-moz-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-webkit-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-moz-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-webkit-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-moz-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	-webkit-box-shadow:0px 0px 15px rgba(255,255,255,0.1);
+	opacity:1;
+	filter:alpha(opacity=100);
+	_zoom:1;
+	background-color:rgb(255, 255, 255);
+	background-color:rgba(255,255,255,0.06);
+}
+div.scroll {
+	background-color:rgb(255, 255, 255);
+	background-color:rgba(255,255,255,0.03);
+	padding:10px;
+	overflow:auto;
+	height:100px;
+	box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-moz-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+	-webkit-box-shadow:0px 0px 10px rgba(255,255,255,0.05);
+}
+div.center {
+	text-align:center;
+}
+.list {
+	display:none;
+}
+.bottom {
+	background:url('https://fc05.deviantart.net/fs71/o/2012/224/b/9/320594189_457333_bgbottom-2.jpg') top center no-repeat transparent;
+	padding:15px 0 0;
+	height:70px;
+	margin:0 auto;
+}
+.commentslink {
+	font-size:45px;
+	color:#B6BDC5;
+	text-shadow:2px 2px 2px rgba(0,0,0,0.45);
+	margin:0 auto;
+	font-family:'Great Vibes', Georgia, serif;
+	text-decoration:none;
+}
+.commentslink:hover {
+	color:#D7DBE0;
+	text-shadow:0px 0px 10px rgba(255,255,255,0.3), 2px 2px 2px rgba(0,0,0,0.45);
+}
+.prevlink {
+	display:none;
+}

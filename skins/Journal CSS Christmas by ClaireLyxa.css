@@ -1,0 +1,115 @@
+.journalbox {
+	max-width:600px;
+	_width:600px;
+	color:#FBDDDD;
+	font-size:13px;
+	font-family:Comic sans MS,Arial, Verdana, Helvetica;
+	background-color:transparent;
+	background-repeat:no-repeat;
+	text-align:justify;
+	border:none;
+}
+.journaltop {
+	color:#C9C1B8;
+	background:url(https://fc08.deviantart.net/fs71/o/2010/354/e/6/190224331_164956_385298haut.png) no-repeat top center;
+	font-family:Comic sans MS, Helvetica, Verdana, Tahoma, Arial;
+	font-size:12px;
+	padding:261px 100px 0px 0px;
+	text-align:right;
+	font-weight:bold;
+}
+.journaltop h2 {
+	color:#FBDDDD;
+	background-color:transparent;
+	font-family:Comic sans MS, Helvetica, Tahoma, Verdana;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:1px;
+	text-align:right;
+	padding:-500px 0px 0px 0px;
+	margin-right:-15px;
+	margin-bottom:5px;
+}
+.journaltop img {
+	display:none;
+}
+.list {
+	background-color:transparent;
+	color:#FBDDDD;
+	text-align:left;
+	margin:-250px 30px 70px 60px;
+	padding:0px 30px 30px 30px;
+	font-family:Comic sans MS,Arial, Tahoma, Verdana, Helvetica;
+	font-size:12px;
+}
+.list .a {
+	background:none;
+}
+.list strong {
+	color:#1A0504;
+	font-weight:bolder;
+}
+.list li {
+	padding:2px;
+}
+.journaltext {
+	background-image:url(https://fc07.deviantart.net/fs70/o/2010/354/1/9/190224331_164957_226608milieucopie.png);
+	padding:35px 45px 0px 100px;
+	text-align:justify;
+}
+.journaltext a {
+	color:#ed938a;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.journaltext a:hover {
+	color:#d4a1a1;
+	text-decoration:none;
+}
+.title {
+	text-align:left;
+	font-family:Comic sans MS, Arial, Helvetica, Trebuchet MS, Verdana;
+	font-size:25px;
+	font-weight:bold;
+	color:#F9B3B3;
+	letter-spacing:1px;
+	background:url(https://fc01.deviantart.net/fs71/o/2010/354/a/3/190224331_164958_130219banderole.png) no-repeat center left;
+	height:65px;
+	padding:0px 0px 0px 10px;
+	line-height:65px;
+	margin:10px 0;
+}
+.bonus {
+	text-align:center;
+	background:url(https://fc09.deviantart.net/fs70/o/2010/354/7/9/190224331_164959_999599carre.png);
+	border:2px solid #5A0800;
+	padding:10px 10px 10px 10px;
+	margin:0px 50px 0px 0px;
+}
+.journalbottom {
+	background:url(https://fc04.deviantart.net/fs70/o/2010/354/0/d/190224331_164960_569132bas.png) no-repeat;
+	height:422px;
+	padding:0px 0px 0px 0px;
+}
+.journalbottom a {
+	font-family:Comic sans MS, Arial, Helvetica, Trebuchet MS, Verdana;
+	font-size:13px;
+	color:#FBDDDD;
+	text-decoration:none;
+	font-weight:normal;
+}
+.journalbottom a:hover {
+	color:#FBDDDD;
+	text-decoration:none;
+}
+.footer {
+	font-size:12px;
+	padding:-60px 0px 0px 0px;
+}
+.footer a {
+	color:#c9a7a7;
+	text-decoration:none;
+}
+.footer a:hover {
+	color:#FBDDDD;
+}

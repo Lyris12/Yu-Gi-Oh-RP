@@ -1,0 +1,59 @@
+.journalbox {
+	background-color:#E8C140 !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#990000 !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#990000 !important;
+}
+.journalbox h2 {
+	color:#000000 !important;
+}
+.journalbox .journaltop {
+	text-align:right !important;
+	color:#990000 !important;
+	background-image:url(https://fc08.deviantart.net/fs70/o/2011/289/2/7/263731561_317303_sennedjem22.jpg);
+	background-position:top center;
+	background-repeat:no-repeat;
+	height:279px;
+}
+.journalbox a {
+	color:#009900 !important;
+}
+.journalbox a:hover {
+	color:#669900 !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#990000 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#990000 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#330000 !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#330000 !important;
+}
+.journalbox .journaltext .content {
+	padding-left:2px;
+	padding-right:2px;
+}
+.journalbox .journaltext {
+	color:#000000 !important;
+	background-image:url(https://fc09.deviantart.net/fs70/o/2011/289/8/9/263731561_317304_skin22.jpg);
+	background-repeat:repeat-y;
+	background-position:bottom center;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
+.journalbox .journalbottom {
+	background-image:url(https://fc08.deviantart.net/fs71/o/2011/289/d/d/263731561_317305_footage.jpg);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	height:236px;
+}

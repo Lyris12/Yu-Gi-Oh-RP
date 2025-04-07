@@ -1,0 +1,62 @@
+.journalbox {
+	background-color:#FFFFFF !important;
+	border:3px #203040 solid !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#A43F0B !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#A43F0B !important;
+}
+.journalbox h2 {
+	color:#9C2A05 !important;
+}
+.journalbox .journaltop {
+	background-color:#FFFFFF !important;
+	text-align:right !important;
+	color:#A43F0B !important;
+	background-image:url(https://fc04.deviantart.net/fs70/o/2011/290/0/7/263884203_317579_nakhtpeche.jpg);
+	background-position:top center;
+	background-repeat:no-repeat;
+	height:393px;
+}
+.journalbox a {
+	color:#f1b82a !important;
+}
+.journalbox a:hover {
+	color:#C3912E !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#000000 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#000000 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#FFFFFF !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#FFFFFF !important;
+}
+.journalbox .journaltext .content {
+	padding-top:5px;
+}
+.journalbox .journalbottom {
+	background-color:#244459 !important;
+	padding-top:6px;
+	background-image:url(https://fc03.deviantart.net/fs71/o/2011/290/f/0/263884203_317580_nakhtfootage2.jpg);
+	background-position:bottom center;
+	background-repeat:no-repeat;
+	height:268px;
+}
+.journalbox .journaltext {
+	color:#244459 !important;
+	background-image:url(https://fc08.deviantart.net/fs71/o/2011/290/2/5/263884203_317581_nakhtskin.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
