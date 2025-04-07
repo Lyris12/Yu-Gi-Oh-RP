@@ -1,0 +1,133 @@
+.gr-box {
+	color:#79445a;
+	text-shadow:1px 1px #111;
+	background:#000000 url(https://fc00.deviantart.net/fs71/o/2011/085/6/2/202417215_181700_bg_top.png) top repeat-x;
+}
+.gr {
+	background:transparent;
+	border:none;
+	padding:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	border:none;
+	background:transparent;
+}
+.gr-top img {
+	display:none;
+}
+.gr-top span {
+	top:255px;
+	left:210px;
+	color:#47562e;
+	position:absolute;
+}
+h2 {
+	color:#ce4b69;
+	text-shadow:-1px 0px 4px #724a5d;
+	letter-spacing:0.2em;
+	font-size:25px;
+	position:absolute;
+	top:218px;
+	left:210px;
+}
+.gr-body {
+	overflow:visible!important;
+	position:static!important;
+	background:transparent url(https://fc03.deviantart.net/fs71/o/2011/085/1/7/202417215_181701_header.png) no-repeat left top;
+	padding:236px 0 30px 0;
+	_padding:286px 0 30px 0;
+	border:none;
+}
+.text {
+	margin:60px 0 0 137px;
+	padding:0 30px 160px 20px;
+	background:#1e1e1e url(https://fc00.deviantart.net/fs71/o/2011/085/e/6/202417215_181702_bl.png) bottom left no-repeat;
+}
+a {
+	text-decoration:none;
+	color:#c53862;
+}
+a:hover {
+	color:#47562e;
+}
+em {
+	font-style:normal;
+	font-size:18px;
+	color:#c6b5b5;
+	padding:5px 0 4px 25px;
+	text-shadow:-1px 0px 4px #724a5d;
+	font-weight:bold;
+	letter-spacing:0.2em;
+	background:url(https://fc08.deviantart.net/fs71/o/2011/085/e/9/202417215_181703_subtitle.png) no-repeat left center;
+}
+.sidebar {
+	color:#101010;
+	width:137px;
+	position:absolute;
+	left:0;
+	top:294px;
+	text-shadow:none;
+	background:url(https://fc06.deviantart.net/fs70/o/2011/085/2/8/202417215_181704_side_bg.png) repeat-y left;
+}
+.sidebar_2 {
+	padding:45px 10px 20px 10px;
+	background:url(https://fc05.deviantart.net/fs70/o/2011/085/0/1/202417215_181705_side_top.png) no-repeat left top;
+}
+.sidebar a {
+	color:#c07098;
+}
+.sideb {
+	margin:0 0 -2px 0;
+}
+.feature {
+	margin-top:15px;
+	text-align:center;
+}
+.feature .shadow {
+	padding:26px 25px 10px 35px;
+	background:url(https://fc08.deviantart.net/fs71/o/2011/085/f/f/202417215_181706_thumb.png) no-repeat !important;
+}
+.shadow img {
+	max-width:none!important;
+}
+.feature a {
+	display:inline-block;
+	width:70px!important;
+	height:70px!important;
+	overflow:hidden;
+}
+.list {
+	position:absolute;
+	bottom:155px;
+	left:145px;
+}
+strong {
+	color:#923e60;
+	letter-spacing:0.2em;
+}
+.f {
+	color:#79445a;
+	text-shadow:1px 1px #111;
+	font-size:10px;
+	background:transparent;
+}
+.bottom {
+	margin:0 0 20px 177px;
+	background:url(https://fc09.deviantart.net/fs71/o/2011/085/4/e/202417215_181707_footer.png) no-repeat center top;
+	padding:20px 40px 50px 0;
+}
+.bottom a {
+	color:#fff;
+}

@@ -1,0 +1,144 @@
+.journalbox {
+	max-width:700px;
+	cursor:url(https://fc03.deviantart.net/fs71/o/2011/345/e/6/273503305_343239_oth713.ani), progress !important;
+	color:#CCCCFF;
+	background-color:#280139;
+	padding-top:0px;
+	border:8px double #CCCCFF;
+	margin-right:6px;
+}
+.journaltop {
+	height:150px;
+	_height:700px;
+	cursor:url(https://fc03.deviantart.net/fs71/o/2011/345/e/6/273503305_343239_oth713.ani), progress !important;
+	background:url(https://fc02.deviantart.net/fs71/o/2011/345/f/0/273503305_343240_senzatitolo-1.png);
+	color:#400080;
+	font-family:'trebuchet ms', helvetica, sans-serif;
+	font-size:13px;
+	text-align:justify;
+	letter-spacing:1px;
+	_margin-bottom:50px;
+	padding:65px 10px 10px 0px;
+}
+.journaltop h2 {
+	color:#400080;
+	cursor:url(https://fc03.deviantart.net/fs71/o/2011/345/e/6/273503305_343239_oth713.ani), progress !important;
+	font-family:'monotype corsiva', helvetica;
+	font-size:32px;
+	font-weight:strong;
+	text-align:justify;
+	letter-spacing:4px;
+	margin:20px 0px 0px 0px;
+}
+.journaltop img {
+	display:none;
+}
+.journaltext {
+	cursor:url(https://fc03.deviantart.net/fs71/o/2011/345/e/6/273503305_343239_oth713.ani), progress !important;
+	color:#bd8cbf;
+	font-size:14px;
+	text-align:justify;
+	letter-spacing:auto;
+	padding:20px 20px 20px 20px;
+}
+.titles {
+	text-align:left;
+	color:##bd8cbf;
+	font-family:scriptina, Arial, Trebuchet MS, Verdana;
+	font-size:18px;
+	font-weight:normal;
+	letter-spacing:2px;
+	background:url(https://fc06.deviantart.net/fs70/o/2011/345/5/9/273503305_343241_senzatitolo-1g.png) repeat center;
+	height:120px;
+	_height:90px;
+	padding:20px 0px 0px 0px;
+	line-height:80px;
+	margin:0px 0;
+}
+.journalbottom {
+	font-family:trebuchet ms, Arial, Trebuchet MS, Verdana;
+	font-size:13px;
+	text-align:justify;
+	padding:20px 0px 10px 0px;
+}
+.journalbottom a:link {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+.journalbottom a:hover {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+.journalbottom a:active {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+.journalbottom a:visited {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+.list {
+	color:#bd8cbf;
+	text-align:right;
+	margin:10px 0px 0px 0px;
+	padding:0px 8px 15px 0px;
+	font-family:Tahoma, Arial, Trebuchet MS, Verdana;
+	font-size:11px;
+}
+.list .a {
+	background:none;
+}
+.list strong {
+	color:#bd8cbf;
+	font-weight:bolder;
+}
+.list li {
+	padding:2px;
+}
+.credits {
+	position:absolute;
+	color:#bd8cbf;
+	text-align:left;
+	font-family:trebuchet ms, Tahoma, Trebuchet MS;
+	font-size:10px;
+	font-weight:normal;
+	bottom:15px;
+	left:40px;
+	width:160px;
+	padding-bottom:20px;
+}
+.credits a:link {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+.credits a:hover {
+	color:#bd8cbf;
+	text-decoration:none;
+}
+div.scrollbox1 {
+	border:3px double #442956;
+	text-align:justify;
+	min-height:100px;
+	max-height:400px;
+	_height:400px;
+	overflow:auto;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:10px;
+	margin-right:2px;
+	background:#280139;
+}
+div.scrollbox2 {
+	min-height:100px;
+	max-height:250px;
+	_height:250px;
+	overflow:auto;
+	padding-right:10px;
+	padding-top:5px;
+	padding-bottom:10px;
+	margin-right:2px;
+	background:#280139;
+	border:3px double #442956;
+	text-align:center;
+}

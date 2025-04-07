@@ -1,0 +1,150 @@
+.journalbox {
+	background-color:#ffffff !important;
+	border:4px #ffffff solid !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#f77099 !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#f77099 !important;
+}
+.journalbox h2 {
+	color:#e74f74 !important;
+}
+.journalbox .journaltop {
+	background-color:#ffffff !important;
+	text-align:center !important;
+	color:#e74f74 !important;
+	background-image:url(https://fc03.deviantart.net/fs71/o/2011/195/9/3/227302633_283306_cuteaspie-journalvalentine-2.gif);
+	background-position:top center;
+	background-repeat:repeat-x;
+	height:263px;
+}
+.journalbox a {
+	color:#e74f74 !important;
+}
+.journalbox a:hover {
+	color:#e74f74 !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#aa3366 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#aa3366 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#ffffff !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#ffffff !important;
+}
+.journalbox .journalbottom {
+	background-color:#ffcddc !important;
+	padding-top:6px;
+}
+.journalbox .journaltext {
+	color:#aa3366 !important;
+	background-image:url(https://fc05.deviantart.net/fs71/o/2011/195/9/9/227302633_283307_wild_by_miemie_chan3-d28mu5w.png);
+	background-repeat:repeat;
+	background-position:top left;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
+div.scrollbox {
+	background-attachment:scroll;
+	background-image:url;
+	background-position:top left;
+	background-repeat:right-repeat;
+	width:535px;
+	height:320px;
+	border-width:2px 2px 2px 2px;
+	border-color:#ff97b6;
+	border-style:solid;
+	background-repeat:no-repeat;
+	background-position:scroll;
+	padding:1px 1px 1px 1px;
+	margin-top:1px;
+	background-color:#ffe9f0;
+	overflow: auto;
+}
+.journalbox {
+	background-color:#ffffff !important;
+	border:4px #ffffff solid !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#f77099 !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#f77099 !important;
+}
+.journalbox h2 {
+	color:#e74f74 !important;
+}
+.journalbox .journaltop {
+	background-color:#ffffff !important;
+	text-align:center !important;
+	color:#e74f74 !important;
+	background-image:url(https://fc03.deviantart.net/fs71/o/2011/195/9/3/227302633_283306_cuteaspie-journalvalentine-2.gif);
+	background-position:top center;
+	background-repeat:repeat-x;
+	height:263px;
+}
+.journalbox a {
+	color:#e74f74 !important;
+}
+.journalbox a:hover {
+	color:#e74f74 !important;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#aa3366 !important;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#aa3366 !important;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#ffffff !important;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#ffffff !important;
+}
+.journalbox .journalbottom {
+	background-color:#ffcddc !important;
+	padding-top:6px;
+}
+.journalbox .journaltext {
+	color:#aa3366 !important;
+	background-image:url(https://fc05.deviantart.net/fs71/o/2011/195/9/9/227302633_283307_wild_by_miemie_chan3-d28mu5w.png);
+	background-repeat:repeat;
+	background-position:top left;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
+div.scrollbox {
+	background-attachment:scroll;
+	background-image:url;
+	background-position:top left;
+	background-repeat:right-repeat;
+	width:535px;
+	height:320px;
+	border-width:2px 2px 2px 2px;
+	border-color:#ff97b6;
+	border-style:solid;
+	background-repeat:no-repeat;
+	background-position:scroll;
+	padding:1px 1px 1px 1px;
+	margin-top:1px;
+	background-color:#ffe9f0;
+	overflow:auto;
+}

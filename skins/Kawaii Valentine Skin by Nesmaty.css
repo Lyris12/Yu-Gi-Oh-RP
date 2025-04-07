@@ -1,0 +1,232 @@
+.gr-box {
+	background:transparent;
+	border:none;
+	color:#2C7EA1;
+	margin-bottom:20px!important;
+}
+.gr-box {
+	cursor:url(https://fc04.deviantart.net/fs70/o/2012/035/f/b/283242644_362543_kawaii_valen_06_by_soulfight_a_devianty-d4omjix.png) 4 3, auto;
+}
+.gr a {
+	color:#CC99CC;
+	cursor:url(https://fc04.deviantart.net/fs70/o/2012/035/f/b/283242644_362543_kawaii_valen_06_by_soulfight_a_devianty-d4omjix.png) 4 3, pointer;
+	text-decoration:none;
+}
+.gr a:hover {
+	color:#FF6699;
+	cursor:url(https://fc04.deviantart.net/fs70/o/2012/035/f/b/283242644_362543_kawaii_valen_06_by_soulfight_a_devianty-d4omjix.png) 4 3, pointer;
+	text-decoration:none;
+	text-decoration:none;
+}
+.gr {
+	background:transparent;
+	border:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top img {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	background:transparent;
+	border:none;
+	color:#534D41;
+	height:0px;
+	margin:0px;
+	text-align:center;
+}
+h2 {
+	color:#534D41;
+	cursor:url(https://fc04.deviantart.net/fs70/o/2012/035/f/b/283242644_362543_kawaii_valen_06_by_soulfight_a_devianty-d4omjix.png) 4 3, pointer;
+	font-size:20px;
+	font-weight:bold;
+	left:20px;
+	padding:0px;
+	position:relative;
+	text-align:center;
+	text-shadow:1px 1px #ffffff;
+	top:300px;
+}
+h2 a {
+	color:#534D41;
+	text-decoration:none;
+}
+h2 a:hover {
+	color:#FF6699;
+	text-decoration:none;
+}
+.gr-top span {
+	color:#534D41;
+	font-size:11px;
+	left:20px;
+	padding:0px;
+	position:relative;
+	text-align:center;
+	top:250px;
+}
+.gr-body {
+	background:transparent;
+	border:none;
+	color:#534D41;
+	margin:0px;
+	margin-top:0px;
+	padding:0px;
+}
+.text {
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	background:#FFFBE3 url(https://fc03.deviantart.net/fs70/o/2012/035/8/7/283242644_362544_s_03_by_soulfight_a_devianty-d4omjhv.png) top repeat-x;
+	border:#6D6659 2px solid;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	line-height:18px;
+	margin:70px 50px;
+	padding:270px 40px 150px 40px;
+	text-align:justify;
+}
+.clear {
+	clear:both;
+}
+.commentslink {
+	background:transparent;
+	bottom:55px;
+	left:45px;
+	position:absolute;
+	text-decoration:none;
+}
+.c a {
+	color:#5C574B;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff;
+}
+.c a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff;
+}
+.prevlink {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.list {
+	display:none;
+}
+.credit {
+	bottom:50px;
+	font-size:10px;
+	position:absolute;
+	right:35px;
+	text-align:right;
+	z-index:1;
+}
+.credit a {
+	color:#5C574B;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff!important;
+}
+.credit a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff;
+}
+.cupid {
+	background:transparent url(https://fc04.deviantart.net/fs71/o/2012/035/f/1/283242644_362545_kawaii_valen_03_by_soulfight_a_devianty-d4omjis.png) no-repeat;
+	border:none;
+	height:284px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	width:334px;
+	z-index:1;
+}
+.heartrain {
+	background:transparent url(https://fc07.deviantart.net/fs71/o/2012/035/e/f/283242644_362546_kawaii_valen_22_by_soulfight_a_devianty-d4omjks.png) no-repeat;
+	border:none;
+	height:327px;
+	position:absolute;
+	right:0px;
+	top:0px;
+	width:342px;
+}
+.cloud {
+	background:transparent url(https://fc09.deviantart.net/fs70/o/2012/035/c/5/283242644_362547_kawaii_valen_18_by_soulfight_a_devianty-d4omjju.png) no-repeat;
+	border:none;
+	bottom:0px;
+	height:121px;
+	position:absolute;
+	right:0px;
+	width:288px;
+}
+.heartcloud {
+	background:transparent url(https://fc08.deviantart.net/fs70/o/2012/035/3/5/283242644_362548_kawaii_valen_15_by_soulfight_a_devianty-d4omjji.png) no-repeat;
+	border:none;
+	bottom:5px;
+	height:242px;
+	left:0px;
+	position:absolute;
+	width:305px;
+}
+.Menu {
+	background:transparent;
+	border:none;
+	bottom:90px;
+	display:block;
+	float:right;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	right:0px;
+	text-align:center!important;
+}
+.button {
+	background:transparent url(https://fc00.deviantart.net/fs71/o/2012/035/d/f/283242644_362549_kawaii_valen_11_by_soulfight_a_devianty-d4omjj3.png) no-repeat;
+	display:block;
+	float:right;
+	font-size:14px;
+	font-weight:bold;
+	height:93px;
+	margin:-20px 0px!important;
+	padding:35px 0px 0px 0px;
+	position:relative;
+	text-align:center;
+	width:147px;
+	z-index:1;
+}
+.button a {
+	color:#5C574B;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff;
+}
+.button a:hover {
+	color:#FF6699;
+	text-decoration:none;
+	text-shadow:1px 1px #ffffff;
+}
+.shadow-holder img {
+	border:2px #6D6659 solid;
+	display:block;
+	margin:5px;
+}

@@ -1,0 +1,100 @@
+.journalbox {
+	max-width:650px;
+	_width:650px;
+	color:#BD5164;
+	font-size:14px;
+	font-family:Book Antiqua;
+	background-color:transparent;
+	text-align:justified;
+	border:none;
+}
+.journaltop {
+	color:#A3303C;
+	background:url(https://fc01.deviantart.net/fs71/o/2011/322/c/8/269704805_333711_lacytop_by_r0se_designs-d4gjvgu.png) no-repeat top center;
+	height:135px;
+	_height:47px;
+	width:650px;
+	font-family:Book Antiqua;
+	font-size:0px;
+	padding:127px 0px 0px 0px;
+	text-align:center;
+}
+.journaltop h2 {
+	color:#A3303C;
+	font-weight:normal;
+	font-family:Book Antiqua;
+	font-size:22px;
+	text-decoration:none;
+	height:0px;
+	width:480px;
+	text-align:center;
+	padding-top:58px;
+	padding-left:80px;
+}
+.journalbox .journaltop span {
+	font-family:Book Antiqua;
+	font-size:12px;
+	color:#A3303C;
+	text-align:center;
+	font-weight:lighter;
+	top:80px;
+	position:relative;
+}
+.journaltop img {
+	display:none;
+}
+.journaltext {
+	background-image:url(https://fc01.deviantart.net/fs70/o/2011/322/3/0/269704805_333712_lacymiddle_by_r0se_designs-d4gjvgk.png);
+	padding:0px 80px 0px 90px;
+	line-height:1.5em;
+	font-family:Book Antiqua;
+	font-size:14px;
+	color:#A3303C;
+	text-shadow:1px 2px 0px #fff;
+}
+.journaltext a {
+	color:#894891;
+	text-decoration:none;
+}
+.journaltext a:hover {
+	color:#378A9B;
+	text-decoration:none;
+}
+.featuresbox {
+	background-image:url(https://fc09.deviantart.net/fs70/o/2011/322/5/7/269704805_333713_hearts_by_r0se_designs-d4gkkyw.png);
+	position:relative;
+	margin-top:25px;
+	padding:0px;
+	border:1px solid #fff;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+.featurestitles {
+	top:-20px;
+	position:relative;
+	z-index:3;
+}
+.journalbottom {
+	background:url(https://fc09.deviantart.net/fs71/o/2011/322/4/6/269704805_333714_lacybottoom_by_r0se_designs-d4gjvge.png) no-repeat;
+	height:210px;
+	_height:210px;
+	padding:0px 0px 0px 0px;
+	text-align:center;
+}
+.journalbottom a {
+	font-family:Book Antiqua;
+	font-size:15px;
+	color:#894891;
+	text-decoration:none;
+}
+.journalbottom a:hover {
+	color:#378A9B;
+}
+.list {
+	font-family:Book Antiqua;
+	background-color:transparent;
+	font-size:10px;
+	color:#A3303C;
+	font-weight:bold;
+}

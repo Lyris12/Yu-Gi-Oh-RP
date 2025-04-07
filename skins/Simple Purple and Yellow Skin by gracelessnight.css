@@ -1,0 +1,137 @@
+body div#devskin13726369 .journalbox {
+	background-image:url(https://fc08.deviantart.net/fs71/o/2011/192/a/8/218387471_280798_daback.jpg) !important;
+}
+body div#devskin13726369 .journalbox .journaltop {
+	background-color:#FDD017!important;
+	letter-spacing:3px !important;
+	color:white !important;
+	text-align:right;
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+}
+body div#devskin13726369 .journalbox .journaltop h2 {
+	color:white !important;
+	letter-spacing:3px !important;
+	font-weight:bold !important;
+	font-size:200% !important;
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+}
+body div#devskin13726369 .journalbox .journaltop img {
+	display:none;
+}
+body div#devskin13726369 .journalbox .journaltext {
+	color:#6A287E!important;
+	margin:5px !important;
+	padding:10px !important;
+	padding-left:5px !important;
+	padding-right:5px !important;
+}
+body div#devskin13726369 .journalbox .journaltext a {
+	text-decoration:none !important;
+	color:#CC0033 !important;
+}
+body div#devskin13726369 .journalbox .journaltext a:hover {
+	text-decoration:none !important;
+	color:#ff0000 !important;
+}
+body div#devskin13726369 .journalbox .journaltext .title {
+	font-size:150% !important;
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+	text-shadow:2px 2px 5px #C38EC7;
+	letter-spacing:2px !important;
+	color:#6A287E!important;
+	text-align:center;
+	background-color:#FFF380!important;
+	width:225px;
+	border-radius:25px 10px / 10px 25px;
+	-moz-border-radius:25px 10px / 10px 25px;
+	-webkit-border-radius:25px 10px / 10px 25px;
+	border-radius:25px 10px / 10px 25px;
+	-moz-border-radius:25px 10px / 10px 25px;
+	-webkit-border-radius:25px 10px / 10px 25px;
+	padding:3px;
+	opacity:.8;
+	filter:alpha(opacity=80);
+	_zoom:1;
+}
+body div#devskin13726369 .journalbox .journaltext .code {
+	font-family:courier, monospace, fixed;
+	font-size:100%;
+	text-align:left;
+	padding:10px;
+	border:1px dashed white;
+	margin-left:15px;
+	margin-right:15px;
+	background-color:#505050;
+}
+body div#devskin13726369 .journalbox .journalbottom a.commentslink {
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+	color:white;
+	font-size:12px;
+	text-decoration:none!important;
+	background-color:#cc0033!important;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	padding:6px;
+}
+body div#devskin13726369 .journalbox .prevlink {
+	display:none;
+}
+body div#devskin13726369 .journalbox .journalbottom {
+	background-color:#B93B8F!important;
+}
+body div#devskin13726369 .journalbox .journalbottom a.commentslink:hover {
+	text-decoration:underline !important;
+}
+body div#devskin13726369 .journalbox .list {
+	color:#CC0033;
+	font-size:12px;
+	text-align:center;
+	padding:20px 0 20px 0px;
+	background-image:url(https://fc05.deviantart.net/fs71/o/2011/192/9/9/218387471_280799_bcbxq.jpg) !important;
+}
+body div#devskin13726369 .journalbox .list li {
+	opacity:0.75;
+	filter:alpha(opacity=75);
+	_zoom:1;
+	background-color:#e0e0e0!important;
+	padding:2px;
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+}
+body div#devskin13726369 .header {
+	font-family:'Trebuchet MS', Arial, Verdana, Helvetica, serif;
+	color:black !important;
+	opacity:0.75 !important;
+	filter:alpha(opacity=75);
+	_zoom:1;
+	text-align:center !important;
+	font-size:12px;
+	text-decoration:none!important;
+	background-image:url(https://fc04.deviantart.net/fs71/o/2011/192/a/1/218387471_280800_tumblr_lg3hjf8phz1qgllfpo1_250.png) !important;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	padding:8px;
+}
+body div#devskin13726369 div.transbox {
+	margin:10px 10px;
+	background-color:#ffffff;
+	opacity:0.6;
+	filter:alpha(opacity=60);
+	_zoom:1;
+}
+body div#devskin13726369 div.transbox p {
+	margin:25px 25px;
+}

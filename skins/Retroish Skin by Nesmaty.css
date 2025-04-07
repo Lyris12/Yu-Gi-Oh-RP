@@ -1,0 +1,325 @@
+.gr-box {
+	background:#46484d url(https://fc08.deviantart.net/fs71/f/2012/328/f/d/sdv_01_by_soulfighty-d5m08ml.jpg) top left no-repeat;
+	border:none;
+	color:#dddcc3;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, auto;
+	margin:5px auto 5px auto!important;
+	overflow:hidden;
+	padding:0px;
+}
+.gr-box a {
+	color:#cc3333!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, pointer;
+	text-decoration:none;
+	z-index:3;
+}
+.gr-box a:hover {
+	color:#e29404!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, pointer;
+	text-decoration:none;
+	z-index:3;
+}
+.gr {
+	background:transparent;
+	border:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top img {
+	display:none;
+}
+.gr-top {
+	background:transparent;
+	border:none;
+	margin:0px;
+	text-align:left;
+	z-index:1;
+}
+h2 {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#46484d;
+	border:none!important;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	color:#cc3333!important;
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403592909815930/Duel_Monsters_Cards.png) 2 2, pointer;
+	font-size:20px;
+	font-weight:bolder!important;
+	padding:20px 25px 15px 25px;
+	position:absolute;
+	right:82px;
+	top:56px;
+	z-index:2;
+}
+h2 a {
+	color:#cc3333!important;
+	text-shadow:2px 0px 2px #191a1c;
+}
+h2 a:hover {
+	color:#e29404!important;
+	text-shadow:2px 0px 2px #191a1c;
+}
+.cube1 {
+	background:url(https://fc01.deviantart.net/fs71/f/2012/328/2/b/sdvb_03_by_soulfighty-d5m0kpv.png) no-repeat;
+	border:none!important;
+	height:13px;
+	position:absolute;
+	right:82px!important;
+	top:119px;
+	width:13px;
+	z-index:1;
+}
+.gr-top span {
+	color:#dddcc3;
+	position:absolute;
+	right:110px;
+	top:130px;
+}
+.gr-body {
+	background:transparent;
+	border:none;
+	margin:0px;
+	top:-5px;
+	padding:0px;
+}
+.gr-body .text {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#2f3136 url(https://fc06.deviantart.net/fs71/f/2012/328/f/e/modern_03_by_soulfighty-d5m08n3.jpg) top left no-repeat;
+	border-bottom:20px solid #b7242b;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	color:#dddcc3;
+	font-size:13px;
+	line-height:17px;
+	margin:72px 97px 70px 47px;
+	overflow:hidden;
+	padding:100px 40px 100px 40px;
+	z-index:3;
+}
+.textleft {
+	float:left;
+	margin-top:20px;
+	width:60%;
+}
+.textright {
+	float:right;
+	margin-top:20px;
+	width:30%;
+}
+.clear {
+	clear:both;
+}
+.c {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#46484d;
+	border:none!important;
+	bottom:146px;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	color:#dddcc3!important;
+	font-size:15px;
+	font-weight:bolder!important;
+	left:34px;
+	padding:20px 25px 15px 25px;
+	position:absolute;
+	z-index:2;
+}
+.c a {
+	color:#cc3333!important;
+	text-shadow:2px 0px 2px #191a1c;
+}
+.c a:hover {
+	color:#e29404!important;
+	text-shadow:2px 0px 2px #191a1c;
+}
+.cube2 {
+	background:url(https://fc03.deviantart.net/fs70/f/2012/328/7/8/sdvb_03___copy_by_soulfighty-d5m0kpz.png) no-repeat;
+	border:none!important;
+	bottom:198px;
+	height:13px;
+	left:33px!important;
+	position:absolute;
+	width:13px;
+	z-index:1;
+}
+.prevlink {
+	display:none;
+}
+.hsep {
+	display:none;
+}
+.list {
+	display:none;
+}
+.row {
+	background:transparent url(https://fc08.deviantart.net/fs70/f/2012/328/3/b/modern_07_by_soulfighty-d5m08mp.jpg) repeat;
+	border:none!important;
+	bottom:90px;
+	height:20px;
+	left:47px;
+	position:absolute;
+	right:97px!important;
+	z-index:2;
+}
+.Footer {
+	border:none!important;
+	bottom:5px;
+	font-size:10px;
+	left:15px;
+	position:absolute;
+	text-align:left;
+	z-index:2;
+}
+.skin_attribution {
+	display:none;
+}
+.shadow-holder img {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:transparent;
+	border:none;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	margin:auto 5px auto 5px;
+	padding:0px;
+	z-index:1;
+}
+.shadow-holder img:hover {
+	box-shadow:0px 1px 6px 2px #e29404;
+	-moz-box-shadow:0px 1px 6px 2px #e29404;
+	-webkit-box-shadow:0px 1px 6px 2px #e29404;
+	box-shadow:0px 1px 6px 2px #e29404;
+	-moz-box-shadow:0px 1px 6px 2px #e29404;
+	-webkit-box-shadow:0px 1px 6px 2px #e29404;
+	box-shadow:0px 1px 6px 2px #e29404;
+	-moz-box-shadow:0px 1px 6px 2px #e29404;
+	-webkit-box-shadow:0px 1px 6px 2px #e29404;
+}
+.boxwrapper {
+	border:none!important;
+	font-size:15px;
+	position:absolute;
+	right:-10px;
+	top:200px;
+	z-index:3;
+}
+.boxwrapper a {
+	color:#46484d!important;
+	font-weight:bold;
+	text-shadow:1px 0px #191a1c;
+}
+.boxwrapper a:hover {
+	color:#dddcc3!important;
+	font-weight:bold;
+	text-shadow:2px 0px 2px #191a1c;
+}
+.pinkbox {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#b7242b;
+	border:none;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	display:block;
+	margin:5px;
+	margin-bottom:10px;
+	margin-right:-55px!important;
+	padding:20px 40px 20px 20px;
+}
+.pinkbox:hover {
+	margin-left:-30px!important;
+}
+.orangebox {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#e29404;
+	border:none;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	display:block;
+	margin:5px;
+	margin-bottom:10px;
+	margin-right:-55px!important;
+	padding:20px 40px 20px 20px;
+}
+.orangebox:hover {
+	margin-left:-30px!important;
+}
+.yellowbox {
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	background:#dbdb23;
+	border:none;
+	box-shadow:0px 1px 6px 2px #191a1c;
+	-moz-box-shadow:0px 1px 6px 2px #191a1c;
+	-webkit-box-shadow:0px 1px 6px 2px #191a1c;
+	display:block;
+	margin:5px;
+	margin-bottom:10px;
+	margin-right:-55px!important;
+	padding:20px 40px 20px 20px;
+}
+.yellowbox:hover {
+	margin-left:-30px!important;
+}
+hr {
+	box-shadow:0px 1px 2px 0px #191a1c;
+	-moz-box-shadow:0px 1px 2px 0px #191a1c;
+	-webkit-box-shadow:0px 1px 2px 0px #191a1c;
+	box-shadow:0px 1px 2px 0px #191a1c;
+	-moz-box-shadow:0px 1px 2px 0px #191a1c;
+	-webkit-box-shadow:0px 1px 2px 0px #191a1c;
+	border-style:inset;
+	border-width:1px;
+	box-shadow:0px 1px 2px 0px #191a1c;
+	-moz-box-shadow:0px 1px 2px 0px #191a1c;
+	-webkit-box-shadow:0px 1px 2px 0px #191a1c;
+	display:block;
+}
