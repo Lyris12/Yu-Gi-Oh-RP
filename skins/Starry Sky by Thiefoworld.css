@@ -1,0 +1,58 @@
+.journalbox {
+	background:transparent url(https://fc04.deviantart.com/fs45/o/2009/134/8/b/122534531_68087_bgstarry2.jpg) repeat-x 0 0;
+	background-position:center left;
+	background-repeat:repeat;
+	background-attachment:fixed;
+	padding-right:50px;
+	padding-left:50px;
+	padding-top:50px;
+	padding-bottom:50px;
+	border-color:transparent;
+}
+.journaltext {
+	font:15px 'Trebuchet MS';
+	color:#fff;
+	line-height:20px;
+	text-align:justify;
+}
+.journalbox .journaltop {
+	background:transparent;
+	color:transparent;
+}
+.journaltop img {
+	display:none;
+}
+.journaltop h2 {
+	font:50px/50px 'Vladimir Script', Mistral, Tagettes, Georgia, Trebuchet MS;
+	color:#fff;
+	background:transparent url(https://fc05.deviantart.com/fs44/o/2009/134/3/d/122534531_68088_starry.png) repeat-x 0 0;
+	background-position:top right;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+	margin-right:-30px;
+	padding-top:50px;
+}
+.journalbox a {
+	color:#fff !important;
+	font-weight:bold;
+	text-decoration:none!important;
+}
+.journalbox .journalbottom {
+	background:transparent;
+	position:absolute;
+	bottom:0px;
+	right:20px;
+	font-family:'Trebuchet MS';
+	font-size:15px!important;
+	font-weight:bold!important;
+}
+.journalbox .list {
+	display:none;
+}
+.credits {
+	position:absolute;
+	bottom:5px;
+	left:5px;
+	font-family:'Arial';
+	font-size:10px;
+}

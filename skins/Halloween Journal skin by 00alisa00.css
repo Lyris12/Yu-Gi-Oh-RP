@@ -1,0 +1,206 @@
+.journalbox {
+	background-color:#000000;
+	color:#ffffff;
+	padding:0px;
+	border:0px;
+}
+.journaltop {
+	font-size:0px;
+	background-color:#000000;
+	background-image:url('https://fc01.deviantart.com/fs50/o/2009/292/c/1/140825615_92648_halloweenheader2009.png');
+	background-repeat:no-repeat;
+	background-position:top center;
+	width:auto;
+	height:459px;
+}
+.journaltop span {
+	background-color:transparent;
+	color:#FF6000;
+	font:tahoma, verdana, helvetica, arial;
+	font-size:10px;
+	font-weight:lighter;
+	font-variant:small-caps;
+	letter-spacing:5px;
+	line-height:30px;
+	text-align:center !important;
+}
+.journaltop h2 {
+	background-color:transparent;
+	color:#FF6000;
+	font-family:helvetica;
+	font-size:20px;
+	font-weight:light;
+	font-variant:small-caps;
+	letter-spacing:6px;
+	text-align:center;
+	margin-top:430px;
+	margin-left:0px;
+	width:100%;
+	border-bottom:0px solid #F7FF17;
+}
+.journaltop img {
+	display:none;
+	font-size:0px;
+}
+.subheader {
+	background-color:transparent;
+	color:#FF6000;
+	position:absolute;
+	top:5px;
+	right:5px;
+	font:tahoma, verdana, helvetica, arial;
+	font-size:10px;
+	font-weight:lighter;
+	letter-spacing:5px;
+	line-height:10px;
+	text-align:right;
+	width:100%;
+}
+.journaltext {
+	background-color:#000000;
+	color:#FF6000;
+	font-family:tahoma, verdana, helvetica, arial;
+	font-size:12px;
+	font-weight:normal;
+	text-align:justify;
+	line-height:20px;
+	margin-top:50px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:20px;
+	border-radius:30px;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+}
+.journaltext .mainscrollheader2 {
+	font-family:tahoma, verdana, helvetica, arial;
+	font-size:10px;
+	font-variant:small-caps;
+	font-weight:lighter;
+	text-align:center;
+	letter-spacing:7px;
+}
+.journaltext .maintext {
+	color:#aec1f7;
+	font-family:tahoma, verdana, arial, helvetica;
+	font-size:12px;
+	font-weight:lighter;
+	line-height:20px;
+	text-align:justify;
+	margin-left:25px;
+	margin-right:20px;
+	padding:25px;
+	border:1px;
+}
+.leftimages {
+	text-align:center;
+	width:140px;
+}
+.journaltext .lefttext {
+	color:#ffffff;
+	font-family:tahoma, verdana, arial, helvetica;
+	font-size:11px;
+	font-weight:lighter;
+	line-height:25px;
+	text-align:center;
+	width:140px;
+}
+.journaltext .lefttext2 {
+	color:#000000;
+	font-family:tahoma, verdana, arial, helvetica;
+	font-size:11px;
+	font-weight:lighter;
+	line-height:25px;
+	text-align:left;
+	width:140px;
+}
+.columns {
+	width:auto;
+}
+.columnleft {
+	display:inline;
+	width:28%;
+	float:left;
+	text-align:left;
+}
+.columnright {
+	display:inline;
+	width:70%;
+	float:right;
+	text-align:justify;
+}
+.columnclear {
+	clear:both;
+}
+.journaltext .images {
+	text-align:center;
+	padding:1px;
+}
+.journaltext a {
+	color:#4591aa !important;
+	text-decoration:none !important;
+}
+.journaltext a:hover {
+	color:#337287 !important;
+	text-decoration:none !important;
+}
+.journalbottom {
+	background-color:#ccd9c8;
+	background-image:url('https://fc09.deviantart.com/fs51/o/2009/292/c/9/140825615_92649_halloweenfooter2009due.png');
+	background-repeat:no repeat;
+	background-position:center bottom;
+	text-align:center;
+	width:auto;
+	height:440px;
+}
+.journalbottom a {
+	color:#ffffff !important;
+	text-decoration:none !important;
+}
+.journalbottom a:hover {
+	color:#337287 !important;
+	text-decoration:none !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#ffffff !important;
+	text-align:center!important;
+	margin-top:10px;
+	font-size:10px;
+	line-height:10px;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#ffffff !important;
+	background:inherit;
+}
+.journalbox .commentslink {
+	background-color:transparent;
+	color:#ffffff;
+	font-family:tahoma, verdana, helvetica, arial;
+	font-size:12px;
+	font-weight:light;
+	line-height:10px;
+	letter-spacing:3px;
+	text-decoration:none !important;
+	text-align:center;
+}
+.journalbox .prevlink {
+	background-color:transparent;
+	color:#ffffff;
+	font-family:tahoma, verdana, helvetica, arial;
+	font-size:12px;
+	font-weight:light;
+	line-height:10px;
+	letter-spacing:3px;
+	text-decoration:none !important;
+	text-align:center;
+}
+.editjournal {
+	position:absolute;
+	top:10px;
+	right:10px;
+}
+* {
+	cursor:url('https://fc03.deviantart.com/fs51/o/2009/292/6/0/140825615_92650_handcursor5.png') 3 8, pointer;
+}

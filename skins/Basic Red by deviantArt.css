@@ -1,0 +1,60 @@
+.journalbox {
+	font-family:Mina, Roboto, sans-serif;
+	background:#e64768;
+	color:#ffffff;
+}
+.journaltop {
+	font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	background:#e64768;
+	padding-left:30px;
+	padding-top:50px;
+}
+h2 {
+	font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+a {
+	font-weight:bold;
+	text-decoration:none;
+	color:#337287;
+}
+.journaltop img {
+	display:none;
+	margin-left:0px;
+}
+.list img {
+	display:none;
+}
+.a {
+	background:transparent;
+}
+.list img {
+	display:none;
+}
+.list {
+	padding-left:30px;
+}
+.list .a {
+	background:transparent;
+}
+.journaltop a {
+	color:#ffffff;
+}
+.journaltext {
+	font-size:large;
+	padding:15px 30px 30px 30px;
+}
+.journaltext code {
+	font-size:x-large;
+}
+.journalbottom {
+	text-align:center;
+	padding-bottom:43px;
+}
+.journalbottom a {
+	color:#ffffff;
+}
+.commentslink {
+	font-family:'Lucida Console', Monaco, monospace;
+	font-size:12pt;
+	margin-right:30px;
+}

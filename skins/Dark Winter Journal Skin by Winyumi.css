@@ -1,0 +1,122 @@
+.gr {
+	background:transparent;
+	border:none 0;
+}
+.gr-top {
+	background:transparent;
+	border:none 0;
+}
+.gr-body {
+	background:transparent;
+	border:none 0;
+}
+ul.list li.f {
+	padding-top:4px;
+	padding-bottom:4px;
+}
+.shadow a i {
+	display:none;
+}
+i.gr1 {
+	display:none;
+}
+i.gr2 {
+	display:none;
+}
+i.gr3 {
+	display:none;
+}
+i.tri {
+	display:none;
+}
+ul.list {
+	margin:20px 15%;
+	padding:5px 15px 5px 10px;
+	background-color:black;
+	border-radius:9px;
+	-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	min-width:150px;
+}
+ul.list li {
+	background:transparent;
+	color:#204f7a;
+	font-size:8pt;
+	padding-left:0;
+}
+ul.list li strong {
+	text-transform:uppercase;
+	letter-spacing:1px;
+	font-size:6pt;
+}
+.gr-box {
+	background-color:#0d1225;
+	border-radius:15px 15px 0 0;
+	-moz-border-radius:15px 15px 0 0;
+	-webkit-border-radius:15px 15px 0 0;
+	border:1px solid #204f7a;
+}
+.gr-top {
+	height:215px;
+	background:url(https://fc07.deviantart.net/fs71/o/2011/217/a/c/251278366_291344_darkwinter_bg.jpg) repeat-x 50% 100%;
+	padding-top:5px;
+	border-radius:13px 13px 0 0;
+	-moz-border-radius:13px 13px 0 0;
+	-webkit-border-radius:13px 13px 0 0;
+	border-width:1px 1px 0;
+	border-style:solid;
+	border-color:#fff;
+}
+.gr-top h2 a {
+	color:#fff;
+	text-decoration:none;
+}
+.gr-top h2 a:hover {
+	text-decoration:underline;
+}
+.gr-top span {
+	color:#bacfdd;
+}
+.gr-top img {
+	display:none;
+}
+.gr-body {
+	border-width:0 1px 1px;
+	border-style:solid;
+	border-color:#fff;
+}
+.gr-body .text {
+	color:#92a1d3;
+	font-size:9pt;
+	line-height:14pt;
+	padding:15px 33px 37px;
+}
+.gr-body .text a {
+	color:#196ba7;
+}
+.gr-body .text a:hover {
+	color:#3c95d7;
+}
+.gr-body .bottom {
+	color:#196ba7;
+	cursor:default;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	font-size:6pt;
+}
+.gr-body .bottom a {
+	text-decoration:none;
+	color:#196ba7;
+}
+.gr-body .bottom a:hover {
+	text-decoration:underline;
+	color:#3c95d7;
+}
+.gr-body .bottom a.commentslink {
+	font-weight:bold;
+}
+hr {
+	border-width:1px 0 0 0;
+	border-style:solid;
+	border-color:#8190c2;
+}

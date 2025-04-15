@@ -1,0 +1,167 @@
+.journal-edit-mode h2 {
+	display:block;
+}
+.gr {
+	border:none;
+	padding:0;
+	background:transparent;
+}
+.gr1,  .gr2,  .gr3,  .gr3,  .tri,  .gr-top img {
+	display:none;
+}
+.negate-box-margin {
+	background:url(https://fc00.deviantart.net/fs70/o/2013/355/4/8/420961252_1337902_border_left_by_ginkgografix-d6up9ro.jpg) repeat-y left top;
+	max-width:1078px;
+	color:#62717d;
+	margin:auto;
+}
+.gr-box {
+	background:url(https://fc04.deviantart.net/fs71/o/2013/355/9/5/420961252_1337903_stars_by_ginkgografix-d6up9sh.jpg) no-repeat left top;
+}
+.gr-top {
+	border:none;
+	background:url(https://fc09.deviantart.net/fs70/o/2013/355/0/9/420961252_1337904_header_by_ginkgografix-d6utace.jpg) left top repeat-x #e7e9ec;
+	padding:80px 0 35px;
+	margin:0 27px 0 250px;
+}
+.gr-top h2,  .gr-top h2 a {
+	font-family:'Great Vibes', cursive;
+	font-size:37px;
+	color:#fff;
+}
+.timestamp {
+	padding:0 0 0 30px;
+}
+.gr-body {
+	overflow:visible!important;
+	position:static!important;
+	background:#e7e9ec;
+	margin:0 27px 0 250px;
+	border:none;
+	border-left:1px solid #f6f6f6;
+	border-right:1px solid #f6f6f6;
+}
+.text b {
+	font-weight:normal;
+}
+.text {
+	padding:50px 40px 100px 30px;
+	min-height:500px;
+	color:#106aaa !important;
+	font-family:'Trebuchet MS',sans-serif;
+	font-size:11pt;
+}
+a {
+	color:#72a7cc;
+}
+h1,  h2,  h3 {
+	color:#72a7cc;
+	font-weight:normal;
+	margin:0 0 -5px 0;
+	font-family:'Great Vibes', cursive;
+}
+h1 {
+	font-size:45px;
+	margin:0 0 -14px 0;
+}
+h2 {
+	font-size:35px;
+}
+h3 {
+	font-size:25px;
+}
+.feature_headline {
+	height:92px;
+	display:block;
+	background:url(https://fc00.deviantart.net/fs70/o/2013/355/f/8/420961252_1337905_feature_by_ginkgografix-d6ut9y5.jpg) no-repeat center;
+}
+.feature_border {
+	text-align:center;
+}
+.feature_border .shadow img {
+	border:1px solid #fff;
+	vertical-align:middle;
+	box-shadow:-4px 4px 10px #b6cfda;
+	-moz-box-shadow:-4px 4px 10px #b6cfda;
+	-webkit-box-shadow:-4px 4px 10px #b6cfda;
+	margin:0 10px;
+	padding:3px 2px;
+}
+.feature_border .shadow img:hover {
+	border:1px solid #72a7cc;
+}
+.feature_thumbs {
+	text-align:center;
+}
+.feature_thumbs .shadow {
+	padding:30px 25px 30px 50px;
+	background:url(https://fc05.deviantart.net/fs70/o/2013/355/d/c/420961252_1337906_thumb_by_ginkgografix-d6ut9h4.jpg)!important;
+}
+.feature_thumbs a {
+	display:inline-block;
+	width:90px!important;
+	height:90px!important;
+	overflow:hidden;
+}
+p {
+	text-align:center;
+	padding:20px;
+	margin:20px 30px 20px 40px;
+	background:#f1f4f7;
+	color:#a2b9cb;
+	box-shadow:-4px 5px 10px #b6cfda;
+	-moz-box-shadow:-4px 5px 10px #b6cfda;
+	-webkit-box-shadow:-4px 5px 10px #b6cfda;
+	border:1px solid #fff;
+}
+p a {
+	text-decoration:underline!important;
+	font-weight:normal;
+}
+.text li {
+	list-style:none;
+	line-height:27px;
+	background:url(https://fc04.deviantart.net/fs70/o/2013/355/3/4/420961252_1337907_list_by_ginkgografix-d6upf4q.jpg) no-repeat left center;
+	padding:0 0 2px 23px;
+}
+.list {
+	position:absolute;
+	bottom:100px;
+	width:250px;
+	left:0px;
+	color:#7fa0bc;
+	text-align:right;
+	font-size:10px;
+}
+.list img {
+	display:none;
+}
+.f {
+	background:transparent!important;
+	font-size:9px!important;
+}
+.border-right {
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:27px;
+	height:100%;
+	background:url(https://fc07.deviantart.net/fs70/o/2013/355/a/4/420961252_1337908_border_right_by_ginkgografix-d6up9rk.jpg) repeat-y top right;
+}
+.bottom {
+	position:absolute;
+	text-align:right;
+	width:230px;
+	left:0px;
+	bottom:20px;
+	padding:0 20px 0 0;
+}
+.bottom a {
+	color:#7fa0bc;
+	font-family:'Great Vibes', cursive;
+	font-size:15px;
+}
+.bottom a:hover {
+	color:#fff;
+	text-decoration:none;
+}

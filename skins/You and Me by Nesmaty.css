@@ -1,0 +1,180 @@
+.gr-box {
+	background:transparent url(https://fc03.deviantart.net/fs70/o/2010/350/3/6/189810363_164404_youme03.jpg) repeat;
+	border:1px solid #9C0707;
+	border-radius:30px 30px 30px 30px;
+	-moz-border-radius:30px 30px 30px 30px;
+	-webkit-border-radius:30px 30px 30px 30px;
+	border-radius:30px 30px 30px 30px;
+	-moz-border-radius:30px 30px 30px 30px;
+	-webkit-border-radius:30px 30px 30px 30px;
+	border-radius:30px 30px 30px 30px;
+	-moz-border-radius:30px 30px 30px 30px;
+	-webkit-border-radius:30px 30px 30px 30px;
+	line-height:16px;
+	overflow:hidden;
+	margin:30px;
+	color:#000000;
+}
+.gr-box a {
+	color:#80364f;
+	font-weight:bold;
+	text-shadow:0px 1px #9C0707;
+	text-decoration:none;
+}
+.gr-box a:hover {
+	color:#9e3357;
+	text-shadow:0px 1px #9C0707;
+	text-decoration:none;
+}
+.gr {
+	background:transparent;
+	border:0;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top img {
+	display:none;
+}
+.gr-top {
+	background:url(https://orig00.deviantart.net/ea67/f/2018/309/0/f/you_and_me_background_by_brotherlyfluff-dcrakxu.png) repeat;
+	text-align:center;
+	border:1px solid #000000;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	color:#9C0707;
+	padding:10px;
+	margin:60px;
+}
+h2 {
+	background:transparent;
+	color:#80364f;
+	font-weight:bold;
+	text-shadow:0px 1px #9C0707;
+}
+.gr-top span {
+	background:transparent;
+	color:#000000;
+	font-weight:bold;
+	font-size:9px;
+}
+.gr-body {
+	background:transparent url(https://orig00.deviantart.net/ea67/f/2018/309/0/f/you_and_me_background_by_brotherlyfluff-dcrakxu.png) repeat;
+	border:1px solid #000000;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	color:#000000;
+	display:block;
+	margin:60px;
+}
+.text {
+	text-align:justify;
+	padding:30px;
+	padding-top:40px;
+}
+.gr-bottom {
+	margin-top:50px;
+	margin-right:70px;
+	margin-left:70px;
+	padding:25px 0px;
+	background:transparent;
+}
+.gr-bottom a:hover {
+	text-decoration:none;
+}
+.list {
+	text-align:center;
+	color:#000000;
+	padding:25px 0px;
+}
+.a {
+	border:none;
+	font-size:110%;
+	color:#000000;
+	background:none;
+	background-color:none;
+}
+.f {
+	background-image:url(https://fc06.deviantart.net/fs71/o/2010/350/3/1/189810363_164405_youm0303.png) repeat;
+	border:none;
+	font-size:10px;
+	color:#000000;
+}
+.menu {
+	background:transparent;
+	margin-bottom:20px;
+	position:relative;
+	padding:10px;
+	overflow:hidden;
+}
+.button {
+	background:transparent url(https://fc03.deviantart.net/fs70/o/2010/350/3/6/189810363_164404_youme03.jpg) repeat;
+	border:1px solid #000000;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	box-shadow:0px 0px 8px 4px #8D1E4C;
+	-moz-box-shadow:0px 0px 8px 4px #8D1E4C;
+	-webkit-box-shadow:0px 0px 8px 4px #8D1E4C;
+	display:block;
+	text-align:center;
+	padding:10px;
+	float:left;
+	margin-left:-3px;
+	overflow:hidden;
+}
+.button a:hover {
+	color:#9e3357;
+	text-shadow:0px 1px #9C0707;
+	text-decoration:none;
+}
+.Footer {
+	margin-top:20px;
+	margin-bottom:30px;
+	font-size:11px;
+	text-align:center;
+}

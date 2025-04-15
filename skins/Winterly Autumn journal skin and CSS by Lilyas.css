@@ -1,0 +1,214 @@
+.journalbox {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/613294213903286272/Winterly_Autumn_Cursor.png) 1 1, auto;
+}
+.journalbox a {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/613294257578442752/Winterly_Autumn_Cursor_Hover.png) 1 1, pointer;
+}
+.journalbox a:hover {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/613294257578442752/Winterly_Autumn_Cursor_Hover.png) 1 1, pointer;
+}
+.journalbox {
+	color:#143237;
+	text-decoration:none;
+	background-color:#2A7D87;
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293357065830400/Winterly_Autumn_Background.jpg);
+	background-repeat:repeat-y;
+	background-position:top center;
+	text-align:left;
+	border-style:solid;
+	border-width:3px 3px 3px 3px;
+	border-color:#102D56;
+}
+.journalbox .journaltop img {
+	display:none;
+}
+.journalbox .journaltop {
+	color:#AEFAFF;
+	font-size:9px;
+	font-family:Verdana;
+	text-decoration:none;
+	background:url(https://cdn.discordapp.com/attachments/570994943108055060/613293451349590035/Winterly_Autumn_Header-templ-blue.png) no-repeat center top;
+	text-align:center;
+	width:auto;
+	height:200px;
+	margin-bottom:-56px;
+}
+.journalbox .journaltop h2 {
+	color:#143237;
+	font-size:26px;
+	font-family:Segoe Script, Bradley Hand ITC;
+	padding-top:50px;
+	line-height:3.2em;
+	background-color:transparent;
+	text-align:center;
+	letter-spacing:-1px;
+}
+.journalbox .textbox {
+	color:#143237;
+	font-size:12px;
+	font-family:Verdana;
+	background-color:#CEF8FF;
+	text-align:left;
+	padding:20px 30px 20px 30px;
+	margin-bottom:11px;
+	border-style:solid;
+	border-width:2px 2px 2px 2px;
+	border-color:# 21434D;
+}
+a:link {
+	color:#3592a0!important;
+	font-weight:bold!important;
+}
+a:active {
+	color:#006F7F!important;
+	font-weight:bold!important;
+}
+a:visited {
+	color:#032b31!important;
+	font-weight:bold!important;
+}
+a:hover {
+	color:#217480!important;
+	font-weight:bold!important;
+}
+.journalbox .textboxbg {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293503606423555/Winterly_Autumn_MoodboxBG.png);
+	margin-right:20px;
+	margin-left:20px;
+	margin-bottom:20px;
+}
+.journalbox .textboxbg .fix {
+	padding-right:20px;
+	padding-left:20px;
+	padding-bottom:-4px;
+}
+.journalbox .textboxbg .text-top-left {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293578965352458/Winterly_Autumn_1_runde_ecke.png) !important;
+	height:18px;
+	width:18px;
+}
+.journalbox .textboxbg .text-top-center {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293625404555264/Winterly_Autumn_2_oben_mitte.png) !important;
+	background-repeat:repeat-x;
+	height:18px;
+	margin:-18px 9px 0px 18px;
+}
+.journalbox .textboxbg .text-top-right {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293690206683156/Winterly_Autumn_3_oben_rechts.png) !important;
+	background-position:right !important;
+	height:18px;
+	background-repeat:no-repeat;
+	margin-right:0px;
+	margin-top:-18px;
+}
+.journalbox .textboxbg .text-left {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293740517490708/Winterly_Autumn_4_seite_links.png);
+	background-repeat:repeat-y;
+	margin-top:-14px;
+}
+.journalbox .textboxbg .textbox b {
+	letter-spacing:0px;
+}
+.journalbox .textboxbg .text-right {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293782661595156/Winterly_Autumn_5_seite_rechts.png);
+	background-repeat:repeat-y;
+	background-position:right !important;
+	padding-bottom:10px;
+}
+.journalbox .textboxbg .text-bottom {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293831189823488/Winterly_Autumn_7_unten_mitte.png) !important;
+	background-repeat:repeat-x;
+	height:9px;
+	margin-top:-9px;
+}
+.journalbox .titlebar img {
+	height:52px;
+	width:auto;
+	margin-right:0px;
+	padding-top:15px;
+}
+.journalbox .title {
+	color:#002D8A;
+	font-size:14px;
+	font-weight:bolder;
+	text-align:left;
+	margin-left:20px;
+	margin-top:20px;
+	text-decoration:none;
+}
+.journalbox .f {
+	background-image:url(https://cdn.discordapp.com/attachments/570994943108055060/613293503606423555/Winterly_Autumn_MoodboxBG.png);
+	background-position:left top;
+	background-color:transparent;
+	padding:5px;
+}
+.journalbox ul.list {
+	border-style:solid;
+	border-width:2px 2px 2px 2px;
+	border-color:#21434D;
+	padding:10px;
+}
+.journalbox .commentslink {
+	color:#143237!important;
+	text-decoration:none;
+	font-weight:bolder!important;
+	margin:0px 35px 0px 24px;
+}
+.journalbox .prevlink {
+	color:#143237!important;
+	text-decoration:none;
+	font-weight:bolder!important;
+	margin:0px -40px 0px 30px;
+}
+.journalbox .journalbottom {
+	color:#3ea4b9!important;
+	background:url(https://cdn.discordapp.com/attachments/570994943108055060/613293941751676928/Winterly_Autumn_Commentbox.png) no-repeat center bottom;
+	background-position:bottom center;
+	text-decoration:none;
+	text-align:center;
+	font-size:11px;
+	font-family:Verdana;
+	padding:60px 0px 27px 0px;
+}
+.journalbox .journalbottom a:hover {
+	color:#106a79!important;
+}
+.jewel {
+	position:absolute;
+	top:0;
+	left:0;
+	background:transparent url(https://cdn.discordapp.com/attachments/570994943108055060/613293981102505994/Winterly_Autumn_Jewel-trn.png) no-repeat top left;
+	height:195px;
+	width:194px;
+}
+.headline {
+	position:absolute;
+	top:3px;
+	right:3px;
+	background:transparent url(https://cdn.discordapp.com/attachments/570994943108055060/613294057913057291/Winterly_Autumn_Headline-templ-aniblue.gif) no-repeat top left;
+	height:82px;
+	width:158px;
+}
+.credit {
+	color:#689495;
+	font-weight:bold;
+	font-size:9px;
+	font-family:Verdana, Tahoma, SunSans-Regular, sans-serif;
+	text-decoration:none!important;
+	text-align:left;
+	margin:-10px 0px 15px 20px;
+}
+.credit a {
+	font-weight:bold;
+	font-size:9px;
+	color:#AEFAFF;
+	font-family:Verdana, Tahoma;
+	text-decoration:none!important;
+}
+.credit a:hover {
+	font-weight:bold;
+	font-size:9px;
+	color:#002D8A;
+	font-family:Verdana, Tahoma;
+	text-decoration:none!important;
+}

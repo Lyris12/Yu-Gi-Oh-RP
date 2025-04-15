@@ -1,0 +1,113 @@
+.journalbox {
+	max-width:700px;
+	color:white;
+	padding-top:0px;
+}
+.journaltop {
+	height:550px;
+	_height:700px;
+	background:url(https://fc08.deviantart.net/fs70/o/2012/078/d/a/291136211_378731_muestra_skin_entera_01_by_soratakenouchi1-d4tav68.png);
+	background-repeat:no-repeat;
+	color:white;
+	font-family:'Avant Garde';
+	font-size:15px;
+	text-align:left;
+	letter-spacing:1px;
+	_margin-bottom:50px;
+	padding:0px 0px 10px 390px;
+}
+.journaltop h2 {
+	color:white;
+	font-family:'Verdana';
+	font-size:25px;
+	font-weight:bold;
+	text-align:right;
+	letter-spacing:2px;
+	margin:90px 10px 0px 0px;
+	padding:440px 10px 0px 0px;
+}
+.journaltop img {
+	display:none;
+}
+.list li {
+	text-align:center;
+	font-family:century gothic;
+	font-size:11px;
+	padding:2px;
+	margin:2px;
+	background-color:#0c90ce;
+	color:white;
+}
+.list li.a {
+	background-color:white;
+	color:#0c90ce;
+}
+.topmenu {
+	text-align:center;
+	display:block;
+	padding:0 0 10px 0;
+	border-bottom:1px dashed #536a5d;
+}
+.topmenu a {
+	margin:0 5px;
+	letter-spacing:1px;
+	color:#5a8d19;
+	text-decoration:none;
+}
+.topmenu a:hover {
+	text-shadow:#9ec26f 0 1px;
+}
+.sidebar {
+	float:left;
+	padding:0 3px 20px 3px;
+	margin:30px 20px 10px 0;
+	width:130px;
+	border-right:1px dashed #536a5d;
+}
+.boxtitle {
+	font-size:14px;
+	font-weight:bold;
+	color:#ffffff;
+	margin:0px 20px -10px 10;
+}
+.scrollbox {
+	overflow:auto;
+	background:#7fd2f9;
+	height:500px;
+	padding:10px 0px 10px 10px;
+	border:1px dashed #ffffff;
+}
+.scrollbox a {
+	color:#0c90ce;
+}
+.journaltext {
+	color:white;
+	font-family:'Verdana';
+	font-size:12px;
+	background-image:url(https://fc08.deviantart.net/fs70/o/2012/078/1/e/291136211_378732_muestra_skin_entera_07_by_soratakenouchi1-d4tavjv.png);
+	text-align:left;
+	letter-spacing:auto;
+	padding:20px 20px 20px 30px;
+}
+.journalbottom {
+	background:url(https://fc08.deviantart.net/fs71/o/2012/078/6/3/291136211_378733_muestra_skin_entera_08_by_soratakenouchi1-d4tavl9.png) no-repeat;
+	height:400px;
+	padding:0px 0px 0px 0px;
+}
+.journalbottom a:link {
+	color:#7fd2f9;
+	text-decoration:none;
+	font-weight:bolder;
+}
+.journalbottom a:active {
+	color:white;
+	text-decoration:none;
+}
+.journalbottom a:visited {
+	color:white;
+	text-decoration:none;
+}
+.list strong {
+	color:#7fd2f9;
+	font-weight:bolder;
+}

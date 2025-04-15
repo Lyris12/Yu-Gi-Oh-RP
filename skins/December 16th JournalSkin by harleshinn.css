@@ -1,0 +1,140 @@
+* {
+	margin:0px;
+	padding:0px;
+	border:none;
+	background:transparent;
+}
+.navbar {
+	margin-left:50px;
+	z-index:21;
+	height:35px;
+	line-height:35px;
+	margin-top:-50px;
+	position:absolute;
+}
+.navbar a {
+	display:inline block;
+	height:35px;
+	margin:0 10px 0 10px;
+	padding-left:30px;
+	padding-top:10px;
+	color:#fff;
+	text-decoration:none;
+}
+.navbar a:hover {
+	background:transparent url(https://fc07.deviantart.net/fs70/o/2009/350/7/e/147010389_100025_gift.png) no-repeat top left;
+}
+.gr-box {
+	background:url(https://fc07.deviantart.net/fs71/o/2009/350/0/1/147010389_100026_bg.jpg);
+}
+.gr-genericbox {
+	position:relative;
+	margin-bottom:15px;
+}
+.gr1 {
+	display:none;
+}
+.gr2 {
+	display:none;
+}
+.gr3 {
+	display:none;
+}
+.tri {
+	display:none;
+}
+.gr-top {
+	position:static;
+	height:250px;
+	background:url(https://fc07.deviantart.net/fs70/o/2009/350/8/f/147010389_100027_bgheader.png) top center no-repeat;
+}
+.gr-top .gr {
+	position:static;
+}
+h2 a {
+	color:#bbd79e;
+}
+h2 {
+	position:static;
+	font-family:garamond;
+	color:#bbd79e;
+	font-size:36px;
+	text-align:center;
+	padding-top:135px;
+}
+h2 img {
+	display:none;
+}
+.gr-top span {
+	position:static;
+	display:block;
+	color:#fbc154;
+	text-align:center;
+}
+.gr-body {
+	position:static;
+}
+.gr-body .gr {
+	position:static;
+}
+.text {
+	position:static;
+}
+.text strong {
+}
+.text em {
+}
+.list img {
+}
+.list {
+	position:static;
+	height:150px;
+	padding-top:50px;
+	padding-left:250px;
+	background:url(https://fc05.deviantart.net/fs71/o/2009/350/4/0/147010389_100028_moodsbg.png) no-repeat;
+}
+.list li {
+	font-family:georgia;
+	color:#fff;
+}
+.list li:hover {
+}
+.list .a {
+}
+.f {
+	position:static;
+}
+.f strong {
+}
+.bottom {
+	position:static;
+	padding:10px;
+	font-family:georgia;
+}
+.bottom .prevlink {
+}
+.bottom .commentslink {
+}
+.bottom a {
+	color:#ffd800;
+}
+.bottom a:hover {
+	color:#fff;
+}
+a {
+}
+a:hover {
+}
+.box {
+	margin:auto;
+	padding:8px;
+	width:80%;
+	background:#ffffff;
+	color:#dff119;
+	border:solid 1px #3f940c;
+}
+.divider {
+	height:5px;
+	margin:10px 0 10px 0;
+	background:transparent url(https://fc03.deviantart.net/fs71/o/2009/350/d/b/147010389_100029_divider.png) repeat-x;
+}

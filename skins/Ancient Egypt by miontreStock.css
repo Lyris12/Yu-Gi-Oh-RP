@@ -1,0 +1,240 @@
+.gr-box {
+	background:url(https://orig00.deviantart.net/369b/f/2018/272/2/4/ancient_egyptian_hieroglyphics_background_by_brotherlyfluff-dco3znl.jpg);
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403657951019069/millennium_ring.png) 1 13, auto;
+	border-color:#BDC8BC;
+	border-style:solid;
+	border-width:1px;
+}
+.gr-box a {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403657951019069/millennium_ring.png) 1 13, pointer;
+}
+.gr-box a:hover {
+	cursor:url(https://cdn.discordapp.com/attachments/570994943108055060/708403693149487255/millennium_ring_hover.png) 1 13, pointer;
+}
+/* -- Text area and sidebar background and border -- */
+.article,  .sidebar {
+	background:url(https://orig00.deviantart.net/2642/f/2018/272/3/5/white_ancient_egyptian_hieroglyphics_background_by_brotherlyfluff-dco3zyt.jpg);
+	border-color:#BDC8BC;
+	border-style:solid;
+	border-width:1px;
+}
+/* -- Rounded corners on major elements and buttons -- */
+.article,  .sidebar,  .buttons a {
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
+}
+/* -- Journal title style -- */
+.gr-top h2 {
+	color:#2C3635;
+	text-align:justify;
+	text-decoration:none;
+	font-family:'Papyrus', sans-serif;
+	font-size:20pt;
+	font-weight:bold;
+}
+/* -- Journal title style on MOUSEOVER -- */
+.gr-top h2:hover {
+	color:#2C3635;
+	text-decoration:none;
+}
+/* -- Timestamp -- */
+.timestamp {
+	color:#979595;
+	text-align:left;
+	font-family:'Papyrus', sans-serif;
+	font-size:8pt;
+	font-weight:bold;
+}
+/* -- Journal body and siderbar text -- */
+.article,  .sidebar {
+	color:#aca252;
+	text-align:left;
+	font-family:'Papyrus', sans-serif;
+	font-size:14pt;
+	font-weight:bold;
+}
+/* -- Sidebar Buttons -- */
+.buttons a {
+	background:#778776;
+	border-color:#262E25;
+	border-style:solid;
+	border-width:1px;
+	color:#f2f2f2 !important;
+	text-align:center;
+	font-family:'Papyrus', sans-serif;
+	font-size:9pt;
+	font-weight:bold;
+}
+/* -- Sidebar Buttons on MOUSEOVER -- */
+.buttons a:hover {
+	background:#778776;
+	border-color:#262E25;
+	color:#f2f2f2 !important;
+}
+/* -- Links -- */
+.article a,  .sidebar a {
+	color:#706932;
+	text-decoration:underline;
+}
+/* -- Links on MOUSEOVER -- */
+.article a:hover,  .sidebar a:hover {
+	color:#706932;
+	text-decoration:underline;
+}
+/* -- Header 1 -- */
+.text h1,  .text h1 a {
+	color:#0A0A0A !important;
+	font-family:'Papyrus', sans-serif;
+	font-size:13.5pt;
+	font-weight:bold;
+}
+/* -- Header 2 -- */
+.text h2,  .text h2 a {
+	color:#0A0A0A !important;
+	font-family:'Papyrus', sans-serif;
+	font-size:13.5pt;
+	font-weight:bold;
+}
+/* -- Header 3 -- */
+.text h3,  .text h3 a {
+	color:#0A0A0A !important;
+	font-family:'Papyrus', sans-serif;
+	font-size:12pt;
+	font-weight:bold;
+}
+/* -- Header 4 -- */
+.text h4,  .text h4 a {
+	color:#0A0A0A !important;
+	font-family:'Papyrus', sans-serif;
+	font-size:12pt;
+	font-weight:bold;
+}
+/* -- Header 5 -- */
+.text h5,  .text h5 a {
+	color:#0A0A0A !important;
+	font-family:'Papyrus', sans-serif;
+	font-size:10.5pt;
+	font-weight:bold;
+}
+/* -- Comments Link -- */
+.commentslink {
+	color:#337788;
+	font-family:'Papyrus', sans-serif;
+	font-size:9pt;
+	font-weight:bold;
+}
+/* ------- END OF CUSTOMISATION ------ */
+/* --- DO NOT EDIT BELOW THIS LINE --- */
+/* ----------------------------------- */
+/* --------------------- */
+/* --- JOURNAL CODE ---- */
+/* --------------------- */
+* {
+	background:transparent;
+	border:none;
+	margin:0;
+	padding:0;
+}
+.gr-top img,  .gr1,  .gr2,  .gr3,  .tri,  .hsep,  .prevlink {
+	display:none;
+}
+.gr {
+	padding-left:0 !important;
+}
+.gr-box {
+	white-space:nowrap;
+}
+.put-art-here {
+	width:100% !important;
+}
+br {
+	display:none;
+}
+.article br {
+	display:inline;
+}
+.sidebar br {
+	display:inline;
+}
+/* -- LAYOUT -- */
+.article,  .sidebar {
+	display:inline-block;
+	vertical-align:top;
+}
+.gr-box {
+	padding-top:5%;
+}
+.article {
+	width:80%;
+	margin:7%;
+	margin-top:0;
+	padding:3%;
+	padding-top:10%;
+	white-space:normal !important;
+	line-height:1.5;
+}
+.sidebar {
+	width:17%;
+	margin-right:5%;
+	margin-top:0;
+	padding:3%;
+	white-space:normal !important;
+}
+.gr-top {
+	position:absolute;
+	left:7%;
+	padding:3%;
+	padding-bottom:0%;
+	width:56%;
+}
+.gr-top h2 {
+	white-space:normal;
+}
+.bottom {
+	margin:5%;
+}
+/* -- OTHER -- */
+.gr-top a {
+	color:inherit !important;
+}
+.buttons a {
+	display:block;
+	padding:12px;
+	text-decoration:none;
+	max-width:125px;
+	margin:0 auto;
+}
+.buttons a:hover {
+	text-decoration:none;
+}
+.shadow-holder {
+	display:block;
+	text-align:center;
+}
+.shadow-holder img {
+	width:auto;
+	height:auto;
+}
+ol,  ul {
+	margin-left:2.5em;
+}
+.list li {
+	margin:12px;
+}
+.sidebar em {
+	display:block;
+	font-size:6pt !important;
+	font-style:normal;
+	margin-top:18pt;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	_zoom:1;
+}
+.sidebar em a {
+	color:inherit !important;
+}
+.timestamp {
+	display:block;
+	margin-top:4px;
+}

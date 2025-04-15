@@ -1,0 +1,192 @@
+.journaltop {
+	background-position:right;
+	background-color:#000000;
+	text-align:center;
+	font-size:10px;
+	color:#454545;
+	padding:15px 0px 18px 0px;
+	border-bottom:1px solid #353535;
+	border-radius:10px 10px 0px 0px;
+	-moz-border-radius:10px 10px 0px 0px;
+	-webkit-border-radius:10px 10px 0px 0px;
+}
+.journaltop h2 {
+	font-family:Segoe Print;
+	color:#808080;
+	font-size:18px;
+	padding:0px 0px 7px 0px;
+}
+.journalbox {
+	background:#000000 url(https://fc07.deviantart.net/fs71/o/2011/056/6/1/198856957_177254_b9ba542aea46510de7ad7dfbad6b2e54.png) repeat;
+	border:1px solid #000000;
+	background-color:#000000;
+	padding:0px 0px 0px 0px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.bg {
+	float:center;
+	text-align:justify;
+	background:url(https://fc04.deviantart.net/fs71/o/2011/056/b/b/198856957_177255_bf14bb0794a6b63f7183c42bc5e13671.png);
+	background-position:center;
+	margin:10px 3% 0px 3%;
+	border:1px solid #000000;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.journaltop img {
+	display:none;
+}
+.journaltop span {
+	color:#555555;
+	font-size:10px;
+}
+.logo {
+	background:url(https://fc08.deviantart.net/fs71/o/2011/056/c/3/198856957_177256_4020b8ea0ebfd96b37e19b2b5740e51e.png) no-repeat;
+	background-position:center;
+	float:center;
+	text-align:center;
+}
+.links .button {
+	display:block;
+	width:16%!important;
+	font-family:Segoe Print;
+	font-size:12px;
+	color:#696969;
+	border:1px solid #353535;
+	background:url(https://fc04.deviantart.net/fs71/o/2011/056/b/b/198856957_177255_bf14bb0794a6b63f7183c42bc5e13671.png);
+	left:5%;
+	position:relative;
+	margin:0px 0px 0px 6px;
+	padding:5px 5px 5px 0px;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	margin-left:1%;
+	border-radius:0px 0px 0px 0px;
+	-moz-border-radius:0px 0px 0px 0px;
+	-webkit-border-radius:0px 0px 0px 0px;
+}
+.links .button:hover {
+	display:block;
+	width:16%!important;
+	font-family:Segoe Print;
+	font-size:12px;
+	color:#F8F8FF;
+	border:1px solid #808080;
+	background-color:#696969;
+	left:5%;
+	position:relative;
+	margin:0px 0px 0px 6px;
+	padding:5px 5px 5px 0px;
+	float:left;
+	text-align:center;
+	text-decoration:none margin-left: 1%;
+	border-radius:3px 3px 3px 3px;
+	-moz-border-radius:3px 3px 3px 3px;
+	-webkit-border-radius:3px 3px 3px 3px;
+}
+.navigation {
+	float:center;
+	text-align:center;
+	padding:0px 0px 20px 0px;
+}
+.journaltext {
+	padding:20px 30px 0px 30px;
+	font-family:Sylfaen;
+	font-size:16px;
+	color:#8e8e8e;
+	line-height:16px;
+	text-align:justify;
+}
+.journaltext img {
+	padding:1px;
+	background-color:#000000;
+	border:1px solid #353535;
+	margin:0px;
+}
+.journaltext img:hover {
+	padding:1px;
+	background-color:#000000;
+	border:1px solid #808080;
+	margin:0px;
+}
+.journalbottom {
+	background-color:#1A1A1A;
+	font-family:Segoe Print;
+	text-align:center;
+	font-size:12px;
+	color:#696969;
+	padding:12px 0px;
+	margin:0px 0px 12px 0px;
+	background:url(https://fc04.deviantart.net/fs71/o/2011/056/b/b/198856957_177255_bf14bb0794a6b63f7183c42bc5e13671.png);
+}
+.journalbottom a {
+	font-family:Segoe Print;
+	color:#696969;
+}
+.journalbottom a:hover {
+	font-family:Segoe Print;
+	text-decoration:none;
+	color:#F8F8FF;
+}
+.about {
+	text-align:center;
+	margin:0px 0px 10px 0px;
+	font-size:12px;
+	color:#454545;
+}
+.about a {
+	color:#555555;
+	text-decoration:none;
+}
+.about a:hover {
+	color:#D3D3D3;
+	text-decoration:none;
+}
+a {
+	font-family:Sylfaen;
+	color:#048902;
+	text-decoration:none;
+}
+a:hover {
+	color:#047601;
+	text-decoration:none;
+}
+.list {
+	border-top:1px solid #353535;
+	background-color:#000000;
+	font-family:Segoe Print;
+	color:#555555;
+	font-size:10px;
+	border-radius:0px 0px 10px 10px;
+	-moz-border-radius:0px 0px 10px 10px;
+	-webkit-border-radius:0px 0px 10px 10px;
+}
+ul li {
+	background-color:#000000;
+	font-family:Segoe Print;
+	font-size:10px;
+	color:#555555;
+	list-style:none;
+}
+ul.list {
+	padding:10px 0px 10px 26px;
+	font-size:10px;
+	color:#555555;
+}
+ul.list li {
+	padding:0px;
+}
+.list strong {
+	width:77px;
+	height:12px;
+	display:block;
+	float:left;
+	color:#696969;
+}
+* {
+	cursor:url('https://fc03.deviantart.net/fs71/o/2011/056/f/c/198856957_177257_cursor26.cur'), default;
+}

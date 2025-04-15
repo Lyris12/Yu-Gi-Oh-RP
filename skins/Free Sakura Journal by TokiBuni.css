@@ -1,0 +1,109 @@
+a:link {
+	cursor:url(https://fc09.deviantart.net/fs70/o/2011/204/9/a/244224904_286208_cursor.png) 1 0, pointer;
+}
+a:hover {
+	cursor:url(https://fc03.deviantart.net/fs71/o/2011/204/0/e/244224904_286209_cursor_clicked.png) 1 0, pointer;
+}
+* {
+	cursor:url(https://fc09.deviantart.net/fs70/o/2011/204/9/a/244224904_286208_cursor.png) 1 0, pointer;
+}
+.journalbox {
+	background-color:#FFFFFF !important;
+	border:0px #FFADCD solid !important;
+}
+.journalbox .list li {
+	background-color:transparent !important;
+	color:#FF7FAF !important;
+}
+.journalbox .list li.a {
+	background-color:transparent !important;
+	color:#FF7FAF !important;
+}
+.journalbox h2 {
+	color:#ff7faf !important;
+	font-family:Monotype Corsiva;
+	font-weight:bold;
+}
+.journalbox .journaltop {
+	background-color:#FFFFFF !important;
+	text-align:center !important;
+	color:#FFADCD !important;
+	font-family:Monotype Corsiva;
+	font-size:18px;
+	background-image:url(https://fc02.deviantart.net/fs70/o/2011/204/5/b/244224904_286210_header22.png);
+	background-position:top center;
+	background-repeat:no-repeat;
+	height:328px;
+}
+.journalbox a {
+	color:#ffadcd !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox a:hover {
+	color:#5a4145 !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox .journalbottom a.commentslink {
+	color:#ffadcd !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox .journalbottom a.prevlink {
+	color:#ffadcd !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox .journalbottom a.commentslink:hover {
+	color:#5a4145 !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox .journalbottom a.prevlink:hover {
+	color:#5a4145 !important;
+	font-family:Monotype Corsiva;
+}
+.journalbox .journalbottom {
+	background-color:#FFFFFF !important;
+	padding-top:10px;
+}
+.journalbox .journaltext {
+	color:#ff588e !important;
+	background-image:url(https://fc09.deviantart.net/fs71/o/2011/204/5/7/244224904_286211_bg1.png);
+	background-repeat:repeat;
+	background-position:top center;
+	font-family:Monotype Corsiva;
+	font-size:18px;
+}
+.journalbox .journaltop img {
+	display:none !important;
+}
+.journalbox .boxtop {
+	padding:0 !important;
+}
+.mainbox {
+	position:relative !important;
+	overflow:auto!important;
+	height:250px !important;
+	width:600px !important;
+	background-image:url(https://fc00.deviantart.net/fs70/o/2011/204/b/e/244224904_286212_bg2.png);
+	background-repeat:repeat;
+	border:1px #ff7faf solid !important;
+	padding:10px!important;
+}
+.mainbox2 {
+	position:relative !important;
+	overflow:auto!important;
+	height:250px !important;
+	width:600px !important;
+	background-image:url(https://fc00.deviantart.net/fs70/o/2011/204/b/e/244224904_286212_bg2.png);
+	background-repeat:repeat;
+	border:1px #ff7faf solid !important;
+	padding:10px!important;
+}
+.mainbox3 {
+	position:relative !important;
+	overflow:auto!important;
+	height:250px !important;
+	width:600px !important;
+	background-image:url(https://fc00.deviantart.net/fs70/o/2011/204/b/e/244224904_286212_bg2.png);
+	background-repeat:repeat;
+	border:1px #ff7faf solid !important;
+	padding:10px!important;
+}
